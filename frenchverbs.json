@@ -1,0 +1,2149 @@
+{
+  "Avoir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "j'ai",
+          "2e personne du singulier": "tu as",
+          "3e personne du singulier": [
+            {
+              "m": "il a",
+              "f": "elle a",
+              "neutral": "on a"
+            }
+          ],
+          "1e personne du pluriel": "nous avons",
+          "2e personne du pluriel": "vous avez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont",
+              "f": "elles ont"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai eu",
+          "2e personne du singulier": "tu as eu",
+          "3e personne du singulier": [
+            {
+              "m": "il a eu",
+              "f": "elle a eu",
+              "neutral": "on a eu"
+            }
+          ],
+          "1e personne du pluriel": "nous avons eu",
+          "2e personne du pluriel": "vous avez eu",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont eu",
+              "f": "elles ont eu"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'avais",
+          "2e personne du singulier": "tu avais",
+          "3e personne du singulier": [
+            {
+              "m": "il avait",
+              "f": "elle avait",
+              "neutral": "on avait"
+            }
+          ],
+          "1e personne du pluriel": "nous avions",
+          "2e personne du pluriel": "vous aviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils avaient",
+              "f": "elles avaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "j'aurai",
+          "2e personne du singulier": "tu auras",
+          "3e personne du singulier": [
+            {
+              "m": "il aura",
+              "f": "elle aura",
+              "neutral": "on aura"
+            }
+          ],
+          "1e personne du pluriel": "nous aurons",
+          "2e personne du pluriel": "vous aurez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils auront",
+              "f": "elles auront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Être": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je suis",
+          "2e personne du singulier": "tu es",
+          "3e personne du singulier": [
+            {
+              "m": "il est",
+              "f": "elle est",
+              "neutral": "on est"
+            }
+          ],
+          "1e personne du pluriel": "nous sommes",
+          "2e personne du pluriel": "vous êtes",
+          "3e personne du pluriel": [
+            {
+              "m": "ils sont",
+              "f": "elles sont"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai été",
+          "2e personne du singulier": "tu as été",
+          "3e personne du singulier": [
+            {
+              "m": "il a été",
+              "f": "elle a été",
+              "neutral": "on a été"
+            }
+          ],
+          "1e personne du pluriel": "nous avons été",
+          "2e personne du pluriel": "vous avez été",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont été",
+              "f": "elles ont été"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'étais",
+          "2e personne du singulier": "tu étais",
+          "3e personne du singulier": [
+            {
+              "m": "il était",
+              "f": "elle était",
+              "neutral": "on était"
+            }
+          ],
+          "1e personne du pluriel": "nous étions",
+          "2e personne du pluriel": "vous étiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils étaient",
+              "f": "elles étaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je serai",
+          "2e personne du singulier": "tu seras",
+          "3e personne du singulier": [
+            {
+              "m": "il sera",
+              "f": "elle sera",
+              "neutral": "on sera"
+            }
+          ],
+          "1e personne du pluriel": "nous serons",
+          "2e personne du pluriel": "vous serez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils seront",
+              "f": "elles seront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Aller": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je vais",
+          "2e personne du singulier": "tu vas",
+          "3e personne du singulier": [
+            {
+              "m": "il va",
+              "f": "elle va",
+              "neutral": "on va"
+            }
+          ],
+          "1e personne du pluriel": "nous allons",
+          "2e personne du pluriel": "vous allez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils vont",
+              "f": "elles vont"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "être",
+          "1e personne du singulier": [
+            {
+              "m": "je suis allé",
+              "f": "je suis allée"
+            }
+          ],
+          "2e personne du singulier": [
+            {
+              "m": "tu es allé",
+              "f": "tu es allée"
+            }
+          ],
+          "3e personne du singulier": [
+            {
+              "m": "il est allé",
+              "f": "elle est allée",
+              "neutral": [
+                {
+                  "m": "on est allé",
+                  "f": "on est allée"
+                }
+              ]
+            }
+          ],
+          "1e personne du pluriel": [
+            {
+              "m": "nous sommes allés",
+              "f": "nous sommes allées"
+            }
+          ],
+          "2e personne du pluriel": [
+            {
+              "m": "vous êtes allés",
+              "f": "vous êtes allées"
+            }
+          ],
+          "3e personne du pluriel": [
+            {
+              "m": "ils sont allés",
+              "f": "elles sont allées"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'allais",
+          "2e personne du singulier": "tu allais",
+          "3e personne du singulier": [
+            {
+              "m": "il allait",
+              "f": "elle allait",
+              "neutral": "on allait"
+            }
+          ],
+          "1e personne du pluriel": "nous allions",
+          "2e personne du pluriel": "vous alliez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils allaient",
+              "f": "elles allaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "j'irai",
+          "2e personne du singulier": "tu iras",
+          "3e personne du singulier": [
+            {
+              "m": "il ira",
+              "f": "elle ira",
+              "neutral": "on ira"
+            }
+          ],
+          "1e personne du pluriel": "nous irons",
+          "2e personne du pluriel": "vous irez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils iront",
+              "f": "elles iront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Manger": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je mange",
+          "2e personne du singulier": "tu manges",
+          "3e personne du singulier": [
+            {
+              "m": "il mange",
+              "f": "elle mange",
+              "neutral": "on mange"
+            }
+          ],
+          "1e personne du pluriel": "nous mangeons",
+          "2e personne du pluriel": "vous mangez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils mangent",
+              "f": "elles mangent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai mangé",
+          "2e personne du singulier": "tu as mangé",
+          "3e personne du singulier": [
+            {
+              "m": "il a mangé",
+              "f": "elle a mangé",
+              "neutral": "on a mangé"
+            }
+          ],
+          "1e personne du pluriel": "nous avons mangé",
+          "2e personne du pluriel": "vous avez mangé",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont mangé",
+              "f": "elles ont mangé"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je mangeais",
+          "2e personne du singulier": "tu mangeais",
+          "3e personne du singulier": [
+            {
+              "m": "il mangeait",
+              "f": "elle mangeait",
+              "neutral": "on mangeait"
+            }
+          ],
+          "1e personne du pluriel": "nous mangions",
+          "2e personne du pluriel": "vous mangiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils mangeaient",
+              "f": "elles mangeaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je mangerai",
+          "2e personne du singulier": "tu mangeras",
+          "3e personne du singulier": [
+            {
+              "m": "il mangera",
+              "f": "elle mangera",
+              "neutral": "on mangera"
+            }
+          ],
+          "1e personne du pluriel": "nous mangerons",
+          "2e personne du pluriel": "vous mangerez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils mangeront",
+              "f": "elles mangeront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Boire": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je bois",
+          "2e personne du singulier": "tu bois",
+          "3e personne du singulier": [
+            {
+              "m": "il boit",
+              "f": "elle boit",
+              "neutral": "on boit"
+            }
+          ],
+          "1e personne du pluriel": "nous buvons",
+          "2e personne du pluriel": "vous buvez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils boivent",
+              "f": "elles boivent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai bu",
+          "2e personne du singulier": "tu as bu",
+          "3e personne du singulier": [
+            {
+              "m": "il a bu",
+              "f": "elle a bu",
+              "neutral": "on a bu"
+            }
+          ],
+          "1e personne du pluriel": "nous avons bu",
+          "2e personne du pluriel": "vous avez bu",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont bu",
+              "f": "elles ont bu"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je buvais",
+          "2e personne du singulier": "tu buvais",
+          "3e personne du singulier": [
+            {
+              "m": "il buvait",
+              "f": "elle buvait",
+              "neutral": "on buvait"
+            }
+          ],
+          "1e personne du pluriel": "nous buvions",
+          "2e personne du pluriel": "vous buviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils buvaient",
+              "f": "elles buvaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je boirai",
+          "2e personne du singulier": "tu boiras",
+          "3e personne du singulier": [
+            {
+              "m": "il boira",
+              "f": "elle boira",
+              "neutral": "on boira"
+            }
+          ],
+          "1e personne du pluriel": "nous boirons",
+          "2e personne du pluriel": "vous boirez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils boiront",
+              "f": "elles boiront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Sortir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je sors",
+          "2e personne du singulier": "tu sors",
+          "3e personne du singulier": [
+            {
+              "m": "il sort",
+              "f": "elle sort",
+              "neutral": "on sort"
+            }
+          ],
+          "1e personne du pluriel": "nous sortons",
+          "2e personne du pluriel": "vous sortez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils sortent",
+              "f": "elles sortent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "être",
+          "1e personne du singulier": [
+            {
+              "m": "je suis sorti",
+              "f": "je suis sortie"
+            }
+          ],
+          "2e personne du singulier": [
+            {
+              "m": "tu es sorti",
+              "f": "tu es sortie"
+            }
+          ],
+          "3e personne du singulier": [
+            {
+              "m": "il est sorti",
+              "f": "elle est sortie",
+              "neutral": [
+                {
+                  "m": "on est sorti",
+                  "f": "on est sortie"
+                }
+              ]
+            }
+          ],
+          "1e personne du pluriel": [
+            {
+              "m": "nous sommes sortis",
+              "f": "nous sommes sorties"
+            }
+          ],
+          "2e personne du pluriel": [
+            {
+              "m": "vous êtes sortis",
+              "f": "vous êtes sorties"
+            }
+          ],
+          "3e personne du pluriel": [
+            {
+              "m": "ils sont sortis",
+              "f": "elles sont sorties"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je sortais",
+          "2e personne du singulier": "tu sortais",
+          "3e personne du singulier": [
+            {
+              "m": "il sortait",
+              "f": "elle sortait",
+              "neutral": "on sortait"
+            }
+          ],
+          "1e personne du pluriel": "nous sortions",
+          "2e personne du pluriel": "vous sortiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils sortaient",
+              "f": "elles sortaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je sortirai",
+          "2e personne du singulier": "tu sortiras",
+          "3e personne du singulier": [
+            {
+              "m": "il sortira",
+              "f": "elle sortira",
+              "neutral": "on sortira"
+            }
+          ],
+          "1e personne du pluriel": "nous sortirons",
+          "2e personne du pluriel": "vous sortirez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils sortiront",
+              "f": "elles sortiront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Venir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je viens",
+          "2e personne du singulier": "tu viens",
+          "3e personne du singulier": [
+            {
+              "m": "il vient",
+              "f": "elle vient",
+              "neutral": "on vient"
+            }
+          ],
+          "1e personne du pluriel": "nous venons",
+          "2e personne du pluriel": "vous venez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils viennent",
+              "f": "elles viennent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "être",
+          "1e personne du singulier": [
+            {
+              "m": "je suis venu",
+              "f": "je suis venue"
+            }
+          ],
+          "2e personne du singulier": [
+            {
+              "m": "tu es venu",
+              "f": "tu es venue"
+            }
+          ],
+          "3e personne du singulier": [
+            {
+              "m": "il est venu",
+              "f": "elle est venue",
+              "neutral": [
+                {
+                  "m": "on est venu",
+                  "f": "on est venue"
+                }
+              ]
+            }
+          ],
+          "1e personne du pluriel": [
+            {
+              "m": "nous sommes venus",
+              "f": "nous sommes venues"
+            }
+          ],
+          "2e personne du pluriel": [
+            {
+              "m": "vous êtes venus",
+              "f": "vous êtes venues"
+            }
+          ],
+          "3e personne du pluriel": [
+            {
+              "m": "ils sont venus",
+              "f": "elles sont venues"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je venais",
+          "2e personne du singulier": "tu venais",
+          "3e personne du singulier": [
+            {
+              "m": "il venait",
+              "f": "elle venait",
+              "neutral": "on venait"
+            }
+          ],
+          "1e personne du pluriel": "nous venions",
+          "2e personne du pluriel": "vous veniez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils venaient",
+              "f": "elles venaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je viendrai",
+          "2e personne du singulier": "tu viendras",
+          "3e personne du singulier": [
+            {
+              "m": "il viendra",
+              "f": "elle viendra",
+              "neutral": "on viendra"
+            }
+          ],
+          "1e personne du pluriel": "nous viendrons",
+          "2e personne du pluriel": "vous viendrez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils viendront",
+              "f": "elles viendront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Arriver": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "j'arrive",
+          "2e personne du singulier": "tu arrives",
+          "3e personne du singulier": [
+            {
+              "m": "il arrive",
+              "f": "elle arrive",
+              "neutral": "on arrive"
+            }
+          ],
+          "1e personne du pluriel": "nous arrivons",
+          "2e personne du pluriel": "vous arrivez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils arrivent",
+              "f": "elles arrivent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "être",
+          "1e personne du singulier": [
+            {
+              "m": "je suis arrivé",
+              "f": "je suis arrivée"
+            }
+          ],
+          "2e personne du singulier": [
+            {
+              "m": "tu es arrivé",
+              "f": "tu es arrivée"
+            }
+          ],
+          "3e personne du singulier": [
+            {
+              "m": "il est arrivé",
+              "f": "elle est arrivée",
+              "neutral": [
+                {
+                  "m": "on est arrivé",
+                  "f": "on est arrivée"
+                }
+              ]
+            }
+          ],
+          "1e personne du pluriel": [
+            {
+              "m": "nous sommes arrivés",
+              "f": "nous sommes arrivées"
+            }
+          ],
+          "2e personne du pluriel": [
+            {
+              "m": "vous êtes arrivés",
+              "f": "vous êtes arrivées"
+            }
+          ],
+          "3e personne du pluriel": [
+            {
+              "m": "ils sont arrivés",
+              "f": "elles sont arrivées"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'arrivais",
+          "2e personne du singulier": "tu arrivais",
+          "3e personne du singulier": [
+            {
+              "m": "il arrivait",
+              "f": "elle arrivait",
+              "neutral": "on arrivait"
+            }
+          ],
+          "1e personne du pluriel": "nous arrivions",
+          "2e personne du pluriel": "vous arriviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils arrivaient",
+              "f": "elles arrivaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "j'arriverai",
+          "2e personne du singulier": "tu arriveras",
+          "3e personne du singulier": [
+            {
+              "m": "il arrivera",
+              "f": "elle arrivera",
+              "neutral": "on arrivera"
+            }
+          ],
+          "1e personne du pluriel": "nous arriverons",
+          "2e personne du pluriel": "vous arriverez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils arriveront",
+              "f": "elles arriveront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Écrire": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "j'écris",
+          "2e personne du singulier": "tu écris",
+          "3e personne du singulier": [
+            {
+              "m": "il écrit",
+              "f": "elle écrit",
+              "neutral": "on écrit"
+            }
+          ],
+          "1e personne du pluriel": "nous écrivons",
+          "2e personne du pluriel": "vous écrivez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils écrivent",
+              "f": "elles écrivent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai écrit",
+          "2e personne du singulier": "tu as écrit",
+          "3e personne du singulier": [
+            {
+              "m": "il a écrit",
+              "f": "elle a écrit",
+              "neutral": "on a écrit"
+            }
+          ],
+          "1e personne du pluriel": "nous avons écrit",
+          "2e personne du pluriel": "vous avez écrit",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont écrit",
+              "f": "elles ont écrit"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'écrivais",
+          "2e personne du singulier": "tu écrivais",
+          "3e personne du singulier": [
+            {
+              "m": "il écrivait",
+              "f": "elle écrivait",
+              "neutral": "on écrivait"
+            }
+          ],
+          "1e personne du pluriel": "nous écrivions",
+          "2e personne du pluriel": "vous écriviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils écrivaient",
+              "f": "elles écrivaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "j'écrirai",
+          "2e personne du singulier": "tu écriras",
+          "3e personne du singulier": [
+            {
+              "m": "il écrira",
+              "f": "elle écrira",
+              "neutral": "on écrira"
+            }
+          ],
+          "1e personne du pluriel": "nous écrirons",
+          "2e personne du pluriel": "vous écrirez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils écriront",
+              "f": "elles écriront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Croire": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je crois",
+          "2e personne du singulier": "tu crois",
+          "3e personne du singulier": [
+            {
+              "m": "il croit",
+              "f": "elle croit",
+              "neutral": "on croit"
+            }
+          ],
+          "1e personne du pluriel": "nous croyons",
+          "2e personne du pluriel": "vous croyez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils croient",
+              "f": "elles croient"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai cru",
+          "2e personne du singulier": "tu as cru",
+          "3e personne du singulier": [
+            {
+              "m": "il a cru",
+              "f": "elle a cru",
+              "neutral": "on a cru"
+            }
+          ],
+          "1e personne du pluriel": "nous avons cru",
+          "2e personne du pluriel": "vous avez cru",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont cru",
+              "f": "elles ont cru"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je croyais",
+          "2e personne du singulier": "tu croyais",
+          "3e personne du singulier": [
+            {
+              "m": "il croyait",
+              "f": "elle croyait",
+              "neutral": "on croyait"
+            }
+          ],
+          "1e personne du pluriel": "nous croyions",
+          "2e personne du pluriel": "vous croyiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils croyaient",
+              "f": "elles croyaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je croirai",
+          "2e personne du singulier": "tu croiras",
+          "3e personne du singulier": [
+            {
+              "m": "il croira",
+              "f": "elle croira",
+              "neutral": "on croira"
+            }
+          ],
+          "1e personne du pluriel": "nous croirons",
+          "2e personne du pluriel": "vous croirez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils croiront",
+              "f": "elles croiront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Faire": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je fais",
+          "2e personne du singulier": "tu fais",
+          "3e personne du singulier": [
+            {
+              "m": "il fait",
+              "f": "elle fait",
+              "neutral": "on fait"
+            }
+          ],
+          "1e personne du pluriel": "nous faisons",
+          "2e personne du pluriel": "vous faites",
+          "3e personne du pluriel": [
+            {
+              "m": "ils font",
+              "f": "elles font"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai fait",
+          "2e personne du singulier": "tu as fait",
+          "3e personne du singulier": [
+            {
+              "m": "il a fait",
+              "f": "elle a fait",
+              "neutral": "on a fait"
+            }
+          ],
+          "1e personne du pluriel": "nous avons fait",
+          "2e personne du pluriel": "vous avez fait",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont fait",
+              "f": "elles ont fait"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je faisais",
+          "2e personne du singulier": "tu faisais",
+          "3e personne du singulier": [
+            {
+              "m": "il faisait",
+              "f": "elle faisait",
+              "neutral": "on faisait"
+            }
+          ],
+          "1e personne du pluriel": "nous faisions",
+          "2e personne du pluriel": "vous faisiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils faisaient",
+              "f": "elles faisaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je ferai",
+          "2e personne du singulier": "tu feras",
+          "3e personne du singulier": [
+            {
+              "m": "il fera",
+              "f": "elle fera",
+              "neutral": "on fera"
+            }
+          ],
+          "1e personne du pluriel": "nous ferons",
+          "2e personne du pluriel": "vous ferez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils feront",
+              "f": "elles feront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Savoir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je sais",
+          "2e personne du singulier": "tu sais",
+          "3e personne du singulier": [
+            {
+              "m": "il sait",
+              "f": "elle sait",
+              "neutral": "on sait"
+            }
+          ],
+          "1e personne du pluriel": "nous savons",
+          "2e personne du pluriel": "vous savez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils savent",
+              "f": "elles savent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai su",
+          "2e personne du singulier": "tu as su",
+          "3e personne du singulier": [
+            {
+              "m": "il a su",
+              "f": "elle a su",
+              "neutral": "on a su"
+            }
+          ],
+          "1e personne du pluriel": "nous avons su",
+          "2e personne du pluriel": "vous avez su",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont su",
+              "f": "elles ont su"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je savais",
+          "2e personne du singulier": "tu savais",
+          "3e personne du singulier": [
+            {
+              "m": "il savait",
+              "f": "elle savait",
+              "neutral": "on savait"
+            }
+          ],
+          "1e personne du pluriel": "nous savions",
+          "2e personne du pluriel": "vous saviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils savaient",
+              "f": "elles savaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je saurai",
+          "2e personne du singulier": "tu sauras",
+          "3e personne du singulier": [
+            {
+              "m": "il saura",
+              "f": "elle saura",
+              "neutral": "on saura"
+            }
+          ],
+          "1e personne du pluriel": "nous saurons",
+          "2e personne du pluriel": "vous saurez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils sauront",
+              "f": "elles sauront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Jouer": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je joue",
+          "2e personne du singulier": "tu joues",
+          "3e personne du singulier": [
+            {
+              "m": "il joue",
+              "f": "elle joue",
+              "neutral": "on joue"
+            }
+          ],
+          "1e personne du pluriel": "nous jouons",
+          "2e personne du pluriel": "vous jouez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils jouent",
+              "f": "elles jouent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai joué",
+          "2e personne du singulier": "tu as joué",
+          "3e personne du singulier": [
+            {
+              "m": "il a joué",
+              "f": "elle a joué",
+              "neutral": "on a joué"
+            }
+          ],
+          "1e personne du pluriel": "nous avons joué",
+          "2e personne du pluriel": "vous avez joué",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont joué",
+              "f": "elles ont joué"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je jouais",
+          "2e personne du singulier": "tu jouais",
+          "3e personne du singulier": [
+            {
+              "m": "il jouait",
+              "f": "elle jouait",
+              "neutral": "on jouait"
+            }
+          ],
+          "1e personne du pluriel": "nous jouions",
+          "2e personne du pluriel": "vous jouiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils jouaient",
+              "f": "elles jouaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je jouerai",
+          "2e personne du singulier": "tu joueras",
+          "3e personne du singulier": [
+            {
+              "m": "il jouera",
+              "f": "elle jouera",
+              "neutral": "on jouera"
+            }
+          ],
+          "1e personne du pluriel": "nous jouerons",
+          "2e personne du pluriel": "vous jouerez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils joueront",
+              "f": "elles joueront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Finir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je finis",
+          "2e personne du singulier": "tu finis",
+          "3e personne du singulier": [
+            {
+              "m": "il finit",
+              "f": "elle finit",
+              "neutral": "on finit"
+            }
+          ],
+          "1e personne du pluriel": "nous finissons",
+          "2e personne du pluriel": "vous finissez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils finissent",
+              "f": "elles finissent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai fini",
+          "2e personne du singulier": "tu as fini",
+          "3e personne du singulier": [
+            {
+              "m": "il a fini",
+              "f": "elle a fini",
+              "neutral": "on a fini"
+            }
+          ],
+          "1e personne du pluriel": "nous avons fini",
+          "2e personne du pluriel": "vous avez fini",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont fini",
+              "f": "elles ont fini"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je finissais",
+          "2e personne du singulier": "tu finissais",
+          "3e personne du singulier": [
+            {
+              "m": "il finissait",
+              "f": "elle finissait",
+              "neutral": "on finissait"
+            }
+          ],
+          "1e personne du pluriel": "nous finissions",
+          "2e personne du pluriel": "vous finissiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils finissaient",
+              "f": "elles finissaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je finirai",
+          "2e personne du singulier": "tu finiras",
+          "3e personne du singulier": [
+            {
+              "m": "il finira",
+              "f": "elle finira",
+              "neutral": "on finira"
+            }
+          ],
+          "1e personne du pluriel": "nous finirons",
+          "2e personne du pluriel": "vous finirez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils finiront",
+              "f": "elles finiront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Aimer": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "j'aime",
+          "2e personne du singulier": "tu aimes",
+          "3e personne du singulier": [
+            {
+              "m": "il aime",
+              "f": "elle aime",
+              "neutral": "on aime"
+            }
+          ],
+          "1e personne du pluriel": "nous aimons",
+          "2e personne du pluriel": "vous aimez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils aiment",
+              "f": "elles aiment"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai aimé",
+          "2e personne du singulier": "tu as aimé",
+          "3e personne du singulier": [
+            {
+              "m": "il a aimé",
+              "f": "elle a aimé",
+              "neutral": "on a aimé"
+            }
+          ],
+          "1e personne du pluriel": "nous avons aimé",
+          "2e personne du pluriel": "vous avez aimé",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont aimé",
+              "f": "elles ont aimé"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'aimais",
+          "2e personne du singulier": "tu aimais",
+          "3e personne du singulier": [
+            {
+              "m": "il aimait",
+              "f": "elle aimait",
+              "neutral": "on aimait"
+            }
+          ],
+          "1e personne du pluriel": "nous aimions",
+          "2e personne du pluriel": "vous aimiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils aimaient",
+              "f": "elles aimaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "j'aimerai",
+          "2e personne du singulier": "tu aimeras",
+          "3e personne du singulier": [
+            {
+              "m": "il aimera",
+              "f": "elle aimera",
+              "neutral": "on aimera"
+            }
+          ],
+          "1e personne du pluriel": "nous aimerons",
+          "2e personne du pluriel": "vous aimerez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils aimeront",
+              "f": "elles aimeront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Dormir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je dors",
+          "2e personne du singulier": "tu dors",
+          "3e personne du singulier": [
+            {
+              "m": "il dort",
+              "f": "elle dort",
+              "neutral": "on dort"
+            }
+          ],
+          "1e personne du pluriel": "nous dormons",
+          "2e personne du pluriel": "vous dormez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils dorment",
+              "f": "elles dorment"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai dormi",
+          "2e personne du singulier": "tu as dormi",
+          "3e personne du singulier": [
+            {
+              "m": "il a dormi",
+              "f": "elle a dormi",
+              "neutral": "on a dormi"
+            }
+          ],
+          "1e personne du pluriel": "nous avons dormi",
+          "2e personne du pluriel": "vous avez dormi",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont dormi",
+              "f": "elles ont dormi"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je dormais",
+          "2e personne du singulier": "tu dormais",
+          "3e personne du singulier": [
+            {
+              "m": "il dormait",
+              "f": "elle dormait",
+              "neutral": "on dormait"
+            }
+          ],
+          "1e personne du pluriel": "nous dormions",
+          "2e personne du pluriel": "vous dormiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils dormaient",
+              "f": "elles dormaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je dormirai",
+          "2e personne du singulier": "tu dormiras",
+          "3e personne du singulier": [
+            {
+              "m": "il dormira",
+              "f": "elle dormira",
+              "neutral": "on dormira"
+            }
+          ],
+          "1e personne du pluriel": "nous dormirons",
+          "2e personne du pluriel": "vous dormirez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils dormiront",
+              "f": "elles dormiront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Vouloir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je veux",
+          "2e personne du singulier": "tu veux",
+          "3e personne du singulier": [
+            {
+              "m": "il veut",
+              "f": "elle veut",
+              "neutral": "on veut"
+            }
+          ],
+          "1e personne du pluriel": "nous voulons",
+          "2e personne du pluriel": "vous voulez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils veulent",
+              "f": "elles veulent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai voulu",
+          "2e personne du singulier": "tu as voulu",
+          "3e personne du singulier": [
+            {
+              "m": "il a voulu",
+              "f": "elle a voulu",
+              "neutral": "on a voulu"
+            }
+          ],
+          "1e personne du pluriel": "nous avons voulu",
+          "2e personne du pluriel": "vous avez voulu",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont voulu",
+              "f": "elles ont voulu"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je voulais",
+          "2e personne du singulier": "tu voulais",
+          "3e personne du singulier": [
+            {
+              "m": "il voulait",
+              "f": "elle voulait",
+              "neutral": "on voulait"
+            }
+          ],
+          "1e personne du pluriel": "nous voulions",
+          "2e personne du pluriel": "vous vouliez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils voulaient",
+              "f": "elles voulaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je voudrai",
+          "2e personne du singulier": "tu voudras",
+          "3e personne du singulier": [
+            {
+              "m": "il voudra",
+              "f": "elle voudra",
+              "neutral": "on voudra"
+            }
+          ],
+          "1e personne du pluriel": "nous voudrons",
+          "2e personne du pluriel": "vous voudrez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils voudront",
+              "f": "elles voudront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Voir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je vois",
+          "2e personne du singulier": "tu vois",
+          "3e personne du singulier": [
+            {
+              "m": "il voit",
+              "f": "elle voit",
+              "neutral": "on voit"
+            }
+          ],
+          "1e personne du pluriel": "nous voyons",
+          "2e personne du pluriel": "vous voyez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils voient",
+              "f": "elles voient"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai vu",
+          "2e personne du singulier": "tu as vu",
+          "3e personne du singulier": [
+            {
+              "m": "il a vu",
+              "f": "elle a vu",
+              "neutral": "on a vu"
+            }
+          ],
+          "1e personne du pluriel": "nous avons vu",
+          "2e personne du pluriel": "vous avez vu",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont vu",
+              "f": "elles ont vu"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je voyais",
+          "2e personne du singulier": "tu voyais",
+          "3e personne du singulier": [
+            {
+              "m": "il voyait",
+              "f": "elle voyait",
+              "neutral": "on voyait"
+            }
+          ],
+          "1e personne du pluriel": "nous voyions",
+          "2e personne du pluriel": "vous voyiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils voyaient",
+              "f": "elles voyaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je verrai",
+          "2e personne du singulier": "tu verras",
+          "3e personne du singulier": [
+            {
+              "m": "il verra",
+              "f": "elle verra",
+              "neutral": "on verra"
+            }
+          ],
+          "1e personne du pluriel": "nous verrons",
+          "2e personne du pluriel": "vous verrez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils verront",
+              "f": "elles verront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Pouvoir": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je peux",
+          "2e personne du singulier": "tu peux",
+          "3e personne du singulier": [
+            {
+              "m": "il peut",
+              "f": "elle peut",
+              "neutral": "on peut"
+            }
+          ],
+          "1e personne du pluriel": "nous pouvons",
+          "2e personne du pluriel": "vous pouvez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils peuvent",
+              "f": "elles peuvent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai pu",
+          "2e personne du singulier": "tu as pu",
+          "3e personne du singulier": [
+            {
+              "m": "il a pu",
+              "f": "elle a pu",
+              "neutral": "on a pu"
+            }
+          ],
+          "1e personne du pluriel": "nous avons pu",
+          "2e personne du pluriel": "vous avez pu",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont pu",
+              "f": "elles ont pu"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je pouvais",
+          "2e personne du singulier": "tu pouvais",
+          "3e personne du singulier": [
+            {
+              "m": "il pouvait",
+              "f": "elle pouvait",
+              "neutral": "on pouvait"
+            }
+          ],
+          "1e personne du pluriel": "nous pouvions",
+          "2e personne du pluriel": "vous pouviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils pouvaient",
+              "f": "elles pouvaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je pourrai",
+          "2e personne du singulier": "tu pourras",
+          "3e personne du singulier": [
+            {
+              "m": "il pourra",
+              "f": "elle pourra",
+              "neutral": "on pourra"
+            }
+          ],
+          "1e personne du pluriel": "nous pourrons",
+          "2e personne du pluriel": "vous pourrez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils pourront",
+              "f": "elles pourront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Trouver": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je trouve",
+          "2e personne du singulier": "tu trouves",
+          "3e personne du singulier": [
+            {
+              "m": "il trouve",
+              "f": "elle trouve",
+              "neutral": "on trouve"
+            }
+          ],
+          "1e personne du pluriel": "nous trouvons",
+          "2e personne du pluriel": "vous trouvez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils trouvent",
+              "f": "elles trouvent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai trouvé",
+          "2e personne du singulier": "tu as trouvé",
+          "3e personne du singulier": [
+            {
+              "m": "il a trouvé",
+              "f": "elle a trouvé",
+              "neutral": "on a trouvé"
+            }
+          ],
+          "1e personne du pluriel": "nous avons trouvé",
+          "2e personne du pluriel": "vous avez trouvé",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont trouvé",
+              "f": "elles ont trouvé"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je trouvais",
+          "2e personne du singulier": "tu trouvais",
+          "3e personne du singulier": [
+            {
+              "m": "il trouvait",
+              "f": "elle trouvait",
+              "neutral": "on trouvait"
+            }
+          ],
+          "1e personne du pluriel": "nous trouvions",
+          "2e personne du pluriel": "vous trouviez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils trouvaient",
+              "f": "elles trouvaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je trouverai",
+          "2e personne du singulier": "tu trouveras",
+          "3e personne du singulier": [
+            {
+              "m": "il trouvera",
+              "f": "elle trouvera",
+              "neutral": "on trouvera"
+            }
+          ],
+          "1e personne du pluriel": "nous trouverons",
+          "2e personne du pluriel": "vous trouverez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils trouveront",
+              "f": "elles trouveront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Passer": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je passe",
+          "2e personne du singulier": "tu passes",
+          "3e personne du singulier": [
+            {
+              "m": "il passe",
+              "f": "elle passe",
+              "neutral": "on passe"
+            }
+          ],
+          "1e personne du pluriel": "nous passons",
+          "2e personne du pluriel": "vous passez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils passent",
+              "f": "elles passent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai passé",
+          "2e personne du singulier": "tu as passé",
+          "3e personne du singulier": [
+            {
+              "m": "il a passé",
+              "f": "elle a passé",
+              "neutral": "on a passé"
+            }
+          ],
+          "1e personne du pluriel": "nous avons passé",
+          "2e personne du pluriel": "vous avez passé",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont passé",
+              "f": "elles ont passé"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je passais",
+          "2e personne du singulier": "tu passais",
+          "3e personne du singulier": [
+            {
+              "m": "il passait",
+              "f": "elle passait",
+              "neutral": "on passait"
+            }
+          ],
+          "1e personne du pluriel": "nous passions",
+          "2e personne du pluriel": "vous passiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils passaient",
+              "f": "elles passaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je passerai",
+          "2e personne du singulier": "tu passeras",
+          "3e personne du singulier": [
+            {
+              "m": "il passera",
+              "f": "elle passera",
+              "neutral": "on passera"
+            }
+          ],
+          "1e personne du pluriel": "nous passerons",
+          "2e personne du pluriel": "vous passerez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils passeront",
+              "f": "elles passeront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Parler": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "je parle",
+          "2e personne du singulier": "tu parles",
+          "3e personne du singulier": [
+            {
+              "m": "il parle",
+              "f": "elle parle",
+              "neutral": "on parle"
+            }
+          ],
+          "1e personne du pluriel": "nous parlons",
+          "2e personne du pluriel": "vous parlez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils parlent",
+              "f": "elles parlent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai parlé",
+          "2e personne du singulier": "tu as parlé",
+          "3e personne du singulier": [
+            {
+              "m": "il a parlé",
+              "f": "elle a parlé",
+              "neutral": "on a parlé"
+            }
+          ],
+          "1e personne du pluriel": "nous avons parlé",
+          "2e personne du pluriel": "vous avez parlé",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont parlé",
+              "f": "elles ont parlé"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "je parlais",
+          "2e personne du singulier": "tu parlais",
+          "3e personne du singulier": [
+            {
+              "m": "il parlait",
+              "f": "elle parlait",
+              "neutral": "on parlait"
+            }
+          ],
+          "1e personne du pluriel": "nous parlions",
+          "2e personne du pluriel": "vous parliez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils parlaient",
+              "f": "elles parlaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "je parlerai",
+          "2e personne du singulier": "tu parleras",
+          "3e personne du singulier": [
+            {
+              "m": "il parlera",
+              "f": "elle parlera",
+              "neutral": "on parlera"
+            }
+          ],
+          "1e personne du pluriel": "nous parlerons",
+          "2e personne du pluriel": "vous parlerez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils parleront",
+              "f": "elles parleront"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Entendre": [
+    {
+      "Présent": [
+        {
+          "1e personne du singulier": "j'entends",
+          "2e personne du singulier": "tu entends",
+          "3e personne du singulier": [
+            {
+              "m": "il entend",
+              "f": "elle entend",
+              "neutral": "on entend"
+            }
+          ],
+          "1e personne du pluriel": "nous entendons",
+          "2e personne du pluriel": "vous entendez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils entendent",
+              "f": "elles entendent"
+            }
+          ]
+        }
+      ],
+      "Passé Composé": [
+        {
+          "Auxiliary": "avoir",
+          "1e personne du singulier": "j'ai entendu",
+          "2e personne du singulier": "tu as entendu",
+          "3e personne du singulier": [
+            {
+              "m": "il a entendu",
+              "f": "elle a entendu",
+              "neutral": "on a entendu"
+            }
+          ],
+          "1e personne du pluriel": "nous avons entendu",
+          "2e personne du pluriel": "vous avez entendu",
+          "3e personne du pluriel": [
+            {
+              "m": "ils ont entendu",
+              "f": "elles ont entendu"
+            }
+          ]
+        }
+      ],
+      "Imparfait": [
+        {
+          "1e personne du singulier": "j'entendais",
+          "2e personne du singulier": "tu entendais",
+          "3e personne du singulier": [
+            {
+              "m": "il entendait",
+              "f": "elle entendait",
+              "neutral": "on entendait"
+            }
+          ],
+          "1e personne du pluriel": "nous entendions",
+          "2e personne du pluriel": "vous entendiez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils entendaient",
+              "f": "elles entendaient"
+            }
+          ]
+        }
+      ],
+      "Futur Simple": [
+        {
+          "1e personne du singulier": "j'entendrai",
+          "2e personne du singulier": "tu entendras",
+          "3e personne du singulier": [
+            {
+              "m": "il entendra",
+              "f": "elle entendra",
+              "neutral": "on entendra"
+            }
+          ],
+          "1e personne du pluriel": "nous entendrons",
+          "2e personne du pluriel": "vous entendrez",
+          "3e personne du pluriel": [
+            {
+              "m": "ils entendront",
+              "f": "elles entendront"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
