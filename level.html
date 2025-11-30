@@ -10,10 +10,11 @@
     <script defer src="level.js"></script>
 </head>
 <body>
-    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
+    <a href="/index.html" class="home-toggle" aria-label="Go home">Home</a>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">Moon</button>
     <div class="container">
         <div id="level-screen" class="flex-column flex-center">
-            <h1 id="level-title">Choose Level</h1>
+            <h1 id="level-title">Choose Verbs</h1>
             <div class="progress-wrap">
                 <div class="progress-label">
                     <span id="progress-text">Progress</span>
@@ -23,9 +24,9 @@
                     <div id="progress-fill" style="width: 0%;"></div>
                 </div>
             </div>
-            <div class="button-grid">
-                <a href="/commonverbgame.html" class="btn">Review</a>
-                <a href="/commonverbgame.html" class="u-btn">Unlearned</a>
+            <div class="level-actions">
+                <a id="review-link" href="/commonverbgame.html" class="btn">Review</a>
+                <a id="unlearned-link" href="/commonverbgame.html" class="u-btn">Unlearned</a>
             </div>
             <a href="/index.html" class="btn" style="margin-top:1rem;">Back</a>
         </div>

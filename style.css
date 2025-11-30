@@ -10,7 +10,6 @@
     --primary-hover: #27926A;
     --accent: #2FB07F;
     --accent-hover: #27926A;
-    --accent-yellow: #D9C327;
     --muted: #7BA191;
     --border: #C8D9CE;
 }
@@ -55,7 +54,6 @@
     --primary-hover: #145C43;
     --accent: #1B7A58;
     --accent-hover: #145C43;
-    --accent-yellow: #C6B01F;
     --muted: #7BA191;
     --border: #234533;
 }
@@ -130,7 +128,7 @@ h2 {
 
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(217, 195, 39, 0.35);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(39, 146, 106, 0.35);
     transition: transform 150ms;
     transform: scale(1.08);
     background-color: var(--primary-hover);
@@ -149,18 +147,18 @@ h2 {
     text-align: center;
     margin-bottom: 0.4rem;
     text-decoration: none;
-    color: var(--text);
-    background-color: var(--accent-yellow);
+    color: var(--surface);
+    background-color: var(--primary);
     border-radius: 4px;
     border: 1px solid var(--border);
 }
 
 .u-btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(217, 195, 39, 0.35);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(39, 146, 106, 0.35);
     transition: transform 150ms;
     transform: scale(1.08);
-    background-color: var(--accent-yellow);
+    background-color: var(--primary-hover);
 }
 
 .u-btn[disabled]:hover{
@@ -246,6 +244,36 @@ input::placeholder {
 }
 
 .theme-toggle:hover {
+    background: var(--primary);
+    color: var(--surface);
+}
+
+.theme-toggle svg {
+    width: 1.8rem;
+    height: 1.8rem;
+    fill: currentColor;
+    stroke: currentColor;
+}
+
+.home-toggle {
+    position: fixed;
+    top: 1.6rem;
+    right: 8rem;
+    padding: 0.8rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 1.6rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 0.3rem 1rem rgba(0,0,0,0.08);
+}
+
+.home-toggle:hover {
     background: var(--primary);
     color: var(--surface);
 }

@@ -8,13 +8,25 @@ body {
     font-family: 'Lato', system-ui, -apple-system, sans-serif;
 }
 
+.choices-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1.6rem;
+    width: 100%;
+    margin: 2rem 0;
+}
+
 .choice-container {
     display: flex;
     width: 100%;
-    border-radius: 4px;
+    border-radius: 8px;
     background: var(--surface);
     border: 1px solid var(--border);
-    font-size: 3rem;
+    transition: transform 140ms ease, box-shadow 140ms ease;
+    min-height: 6.4rem;
+    align-items: center;
+    justify-content: center;
+    padding: 1.6rem;
 }
 
 .choice-container:hover {
@@ -25,25 +37,17 @@ body {
 
 }
 
-.choices-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
-    gap: 1.6rem;
-    width: 100%;
-    margin: 2rem 0;
-}
-
-.choice-prefix {
-    padding: 2rem 2.5rem;
-    color: var(--text);
-    background: var(--muted);
-    border-radius: 4px 0 0 4px;
-}
-
 .choice-text {
-    padding: 2rem;
     width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    color: var(--text);
+    line-height: 1.2;
+    word-break: break-word;
+}
 
+.choice-text.long {
+    font-size: 2.4rem;
 }
 
 
@@ -70,20 +74,29 @@ body {
 #hud {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    gap: 1.2rem;
 }
 
 .hud-prefix {
-    text-align: center;
+    text-align: left;
     font-size: 2rem;
-}
-
-.hud-main-text{
-    text-align: center;
-    color: #D9C327;
+    color: var(--text);
 }
 
 #question {
     font-size: 2.4rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.fade {
+    opacity: 0;
+    transition: opacity 140ms ease;
+}
+
+#game {
+    gap: 1.2rem;
 }
 
 #progress-container {
@@ -118,13 +131,31 @@ body {
     background: linear-gradient(90deg, var(--primary), var(--muted));
 }
 
+#game-over {
+    gap: 1.6rem;
+    text-align: center;
+}
+
+.final-stats p {
+    font-size: 1.8rem;
+    color: var(--text);
+}
+
+#game-over .button-grid {
+    margin-top: 0.6rem;
+}
+
+.hud-progress {
+    width: 18rem;
+}
+
 #progressBar{
-    width: 20rem;
-    height: 3rem;
+    width: 100%;
+    height: 1rem;
     border: 0.2rem solid var(--border);
-    margin-top: 2rem;
-    border-radius: 50px;
+    border-radius: 999px;
     overflow: hidden;
+    background: var(--surface);
 }
 
 
@@ -132,6 +163,7 @@ body {
     height: 100%;
     background: var(--primary);
     width: 0%;
+    transition: width 180ms ease, background-color 180ms ease;
 }
 
 @media screen and (max-width: 70) {

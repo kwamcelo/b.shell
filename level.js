@@ -12,7 +12,7 @@ function initLevelPage() {
   const level = getQueryParam('level') || 'easy';
   const levelTitle = document.getElementById('level-title');
   if (levelTitle) {
-    levelTitle.textContent = `${humanizeLevel(level)} Mode`;
+    levelTitle.textContent = `${humanizeLevel(level)} Verbs`;
   }
   const progressText = document.getElementById('progress-text');
   if (progressText) {
@@ -24,6 +24,15 @@ function initLevelPage() {
   if (progressValue && progressFill) {
     progressValue.textContent = '0%';
     progressFill.style.width = '0%';
+  }
+
+  const reviewLink = document.getElementById('review-link');
+  const unlearnedLink = document.getElementById('unlearned-link');
+  if (reviewLink) {
+    reviewLink.href = `/commonverbgame.html?level=${level}&mode=review`;
+  }
+  if (unlearnedLink) {
+    unlearnedLink.href = `/commonverbgame.html?level=${level}&mode=unlearned`;
   }
 }
 

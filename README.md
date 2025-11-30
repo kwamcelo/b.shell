@@ -3,9 +3,9 @@
 Lightweight conjugation practice app with Kahoot-like ease: fast multiple choice prompts that feel like flashcards. Starting with French, built to expand to Spanish.
 
 ## Feature Specification
-- Home screen: difficulty cards (Easy, Medium, Hard) with progress %, theme toggle (sun/moon, light/dark, respects system pref), mobile-first layout with large tap targets.
-- Level screen (per difficulty): shows progress bar for that difficulty and offers Review / Unlearned entry points.
-- Quiz flow: prompt “Conjugate VERB at PERSON in TENSE”, four answers (same verb, different tense/person distractors), progress bar, streak/score, per-question feedback, session size 10–20 with no repeats.
+- Home screen: difficulty cards (Easy, Medium, Hard) with progress %, theme toggle (text sun/moon, light/dark, respects system pref), mobile-first layout with large tap targets.
+- Level screen (per difficulty): shows progress bar for that difficulty and offers Review / Unlearned entry points before entering the quiz.
+- Quiz flow: prompt “Conjugate VERB at PERSON in TENSE”, four answers; difficulty tunes distractors (Easy: other tenses same person; Medium: mix tense swaps and nearby persons; Hard: adds cross-person, cross-verb distractors and harder verbs), progress bar, streak/score, smoother transitions, per-question feedback, session size 10–20 with no repeats; game-over screen shows score + correct count with Play Again and Home actions.
 - Learning states: unlearned/review/learned; promote after N consecutive correct, demote on miss; bias question selection toward unlearned.
 - Data: normalized verb dataset per language with difficulty tagging, tenses, persons, conjugations. French now; Spanish planned.
 - Progress: stored per user/language/difficulty/verb/tense/person with attempts, correct, streak, status, lastSeen; aggregates shown on home cards and per-level page.

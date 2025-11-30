@@ -9,46 +9,42 @@
     <script defer src="theme.js"></script>
 </head>
 <body>
-    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
+    <a href="/index.html" class="home-toggle" aria-label="Go home">Home</a>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">Moon</button>
     <div class="container">
         <div id="game" class="justify-center flex-column">
             <div id="hud">
-                <div class="hud-item">
-                    <p id="progressText" class="hud-prefix">Question</p>
+                <div class="hud-left">
+                    <p id="progressText" class="hud-prefix">Question 0/10</p>
+                </div>
+                <div class="hud-progress">
                     <div id="progressBar">
                         <div id="progressBarFull"></div>
                     </div>
-                </div>
-                <div class="hud-item">
-                    <p class="hud-prefix">Score</p>
-                    <h1 class="hud-main-text" id="score">0</h1>
                 </div>
             </div>
             <h1 id="question"></h1>
             <div class="choices-grid">
                 <div class="choice-container">
-                    <p class="choice-prefix">A</p>
                     <p class="choice-text" data-number="1"></p>
                 </div>
                 <div class="choice-container">
-                    <p class="choice-prefix">B</p>
                     <p class="choice-text" data-number="2"></p>
                 </div>
                 <div class="choice-container">
-                    <p class="choice-prefix">C</p>
                     <p class="choice-text" data-number="3"></p>
                 </div>
                 <div class="choice-container">
-                    <p class="choice-prefix">D</p>
                     <p class="choice-text" data-number="4"></p>
                 </div>
             </div>
         </div>
         <div id="game-over" class="justify-center flex-column" style="display: none;">
-            <h1>Game Over!</h1>
-            <p>Your final score: <span id="final-score">0</span></p>
-            <button id="restart-btn">Play Again</button>
-            <a href="index.html" class="btn">Back to Menu</a>
+            <h1>Correct: <span id="final-correct">0/10</span></h1>
+            <div class="button-grid">
+                <button id="restart-btn" class="btn">Play Again</button>
+                <a href="index.html" class="btn">Home</a>
+            </div>
         </div>
     </div>
     <script src="commonverbgame.js"></script>
