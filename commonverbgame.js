@@ -116,11 +116,26 @@ choices.forEach(choice => {
         const selectedAnswer = selectedChoice.innerText;
         const isCorrect = selectedAnswer === currentQuestion.answer;
 
-        selectedChoice.parentElement.classList.add(isCorrect ? 'correct' : 'incorrect');
+        const selectedContainer = selectedChoice.parentElement;
+        selectedContainer.classList.add(isCorrect ? 'correct' : 'incorrect');
+
+        if (!isCorrect) {
+            const correctChoice = choices.find(c => c.innerText === currentQuestion.answer);
+            if (correctChoice) {
+                correctChoice.parentElement.classList.add('correct');
+            }
+        }
+
         if (isCorrect) incrementScore(CORRECT_BONUS);
 
         setTimeout(() => {
-            selectedChoice.parentElement.classList.remove(isCorrect ? 'correct' : 'incorrect');
+            selectedContainer.classList.remove(isCorrect ? 'correct' : 'incorrect');
+            if (!isCorrect) {
+                const correctChoice = choices.find(c => c.innerText === currentQuestion.answer);
+                if (correctChoice) {
+                    correctChoice.parentElement.classList.remove('correct');
+                }
+            }
             getNewQuestion();
         }, 1000);
     });

@@ -1,7 +1,63 @@
-@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap');
 
 :root {
-    background-color: rgb(24, 21, 21)
+    color-scheme: light;
+    --bg: #F6F7F3;
+    --surface: #E6F1EA;
+    --text: #0E1612;
+    --text-muted: #3B5E51;
+    --primary: #2FB07F;
+    --primary-hover: #27926A;
+    --accent: #2FB07F;
+    --accent-hover: #27926A;
+    --accent-yellow: #D9C327;
+    --muted: #7BA191;
+    --border: #C8D9CE;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: dark;
+        --bg: #0E1612;
+        --surface: #14211A;
+        --text: #E6F1EA;
+        --text-muted: #B7D0C1;
+        --primary: #1B7A58;
+        --primary-hover: #145C43;
+        --accent: #1B7A58;
+        --accent-hover: #145C43;
+        --accent-yellow: #C6B01F;
+        --muted: #7BA191;
+        --border: #234533;
+    }
+}
+
+.theme-light {
+    --bg: #F6F7F3;
+    --surface: #E6F1EA;
+    --text: #0E1612;
+    --text-muted: #3B5E51;
+    --primary: #2FB07F;
+    --primary-hover: #27926A;
+    --accent: #2FB07F;
+    --accent-hover: #27926A;
+    --accent-yellow: #D9C327;
+    --muted: #7BA191;
+    --border: #C8D9CE;
+}
+
+.theme-dark {
+    --bg: #0E1612;
+    --surface: #14211A;
+    --text: #E6F1EA;
+    --text-muted: #B7D0C1;
+    --primary: #1B7A58;
+    --primary-hover: #145C43;
+    --accent: #1B7A58;
+    --accent-hover: #145C43;
+    --accent-yellow: #C6B01F;
+    --muted: #7BA191;
+    --border: #234533;
 }
 
 *{
@@ -9,12 +65,12 @@
     margin: 0;
     padding: 0;
     font-size: 62.5%;
-    font-family: 'Nova Square', cursive;
+    font-family: 'Lato', system-ui, -apple-system, sans-serif;
 }
 
 h1 {
     font-size: 5.4rem;
-    color: #FFF;
+    color: var(--text);
     margin-bottom: 5rem;
 
 }
@@ -22,6 +78,7 @@ h1 {
 h2 {
     font-size: 4.2rem;
     margin-bottom: 4rem;
+    color: var(--text);
 }
 
 .container {
@@ -33,6 +90,7 @@ h2 {
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
+    background: var(--bg);
 }
 
 .flex-column {
@@ -58,22 +116,24 @@ h2 {
 }
 
 .btn {
-    font-size: 2.4rem;
-    padding: 2rem 0;
-    width: 30rem;
+    font-size: 2rem;
+    padding: 1.6rem 0;
+    width: 100%;
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 0.4rem;
     text-decoration: none;
-    color: rgb(236, 255, 210);
-    background-color: rgb(135, 224, 124);
+    color: var(--surface);
+    background-color: var(--primary);
     border-radius: 4px;
+    border: 1px solid var(--border);
 }
 
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(22, 255, 65, 0.6);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(217, 195, 39, 0.35);
     transition: transform 150ms;
     transform: scale(1.08);
+    background-color: var(--primary-hover);
 }
 
 .btn[disabled]:hover{
@@ -83,22 +143,24 @@ h2 {
 }
 
 .u-btn {
-    font-size: 2.4rem;
-    padding: 2rem 0;
-    width: 30rem;
+    font-size: 2rem;
+    padding: 1.6rem 0;
+    width: 100%;
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 0.4rem;
     text-decoration: none;
-    color: rgb(45, 37, 37);
-    background-color: rgb(255, 61, 61);
+    color: var(--text);
+    background-color: var(--accent-yellow);
     border-radius: 4px;
+    border: 1px solid var(--border);
 }
 
 .u-btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(254, 37, 37, 0.845);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(217, 195, 39, 0.35);
     transition: transform 150ms;
     transform: scale(1.08);
+    background-color: var(--accent-yellow);
 }
 
 .u-btn[disabled]:hover{
@@ -147,13 +209,43 @@ input::placeholder {
 
 #end-text {
     font-size: 2.4rem;
-    color: #FFF;
+    color: var(--text);
     text-align: center;
 }
 
 .fa-home{
     margin-left: lrem;
     font-size: 2rem;
-    color: rgb(28, 26, 26);
+    color: var(--text-muted);
     
+}
+
+.button-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: 1.6rem;
+    align-items: stretch;
+}
+
+.theme-toggle {
+    position: fixed;
+    top: 1.6rem;
+    right: 1.6rem;
+    padding: 0.8rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 1.6rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    cursor: pointer;
+    box-shadow: 0 0.3rem 1rem rgba(0,0,0,0.08);
+}
+
+.theme-toggle:hover {
+    background: var(--primary);
+    color: var(--surface);
 }

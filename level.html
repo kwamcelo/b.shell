@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>b.shell — Level</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="level.css">
+    <script defer src="theme.js"></script>
+    <script defer src="level.js"></script>
+</head>
+<body>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
+    <div class="container">
+        <div id="level-screen" class="flex-column flex-center">
+            <h1 id="level-title">Choose Level</h1>
+            <div class="progress-wrap">
+                <div class="progress-label">
+                    <span id="progress-text">Progress</span>
+                    <span id="progress-value">0%</span>
+                </div>
+                <div class="progress-bar">
+                    <div id="progress-fill" style="width: 0%;"></div>
+                </div>
+            </div>
+            <div class="button-grid">
+                <a href="/commonverbgame.html" class="btn">Review</a>
+                <a href="/commonverbgame.html" class="u-btn">Unlearned</a>
+            </div>
+            <a href="/index.html" class="btn" style="margin-top:1rem;">Back</a>
+        </div>
+    </div>
+</body>
+</html>

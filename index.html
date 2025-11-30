@@ -5,15 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>b.shell</title>
     <link rel="stylesheet" href="style.css">
+    <script defer src="theme.js"></script>
   </head>
   <body>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
     <div class="container">
-        <div id="home" class="flex-column flex-center">
-            <h1>b.shell</h1>
-            <a href="/commonverbgame.html" class="btn">Common Verbs</a>
-            <a href="/uncommonverbs.html" id="u-btn"
-            class="u-btn">Uncommon Verbs</a>
+      <div id="home" class="flex-column flex-center">
+        <h1>b.shell</h1>
+        <div class="button-grid">
+          <a href="/level.html?level=easy" class="btn">Easy</a>
+          <a href="/level.html?level=medium" class="btn">Medium</a>
+          <a href="/level.html?level=hard" class="btn">Hard</a>
         </div>
+      </div>
     </div>
   </body>
 </html>

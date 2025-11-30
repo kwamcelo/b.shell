@@ -1,28 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;600;700&display=swap');
+
+/* theme tokens defined in style.css */
+
 body {
-    color: #fff;
+    color: var(--text);
+    background: var(--bg);
+    font-family: 'Lato', system-ui, -apple-system, sans-serif;
 }
 
 .choice-container {
     display: flex;
-    margin-bottom: 0.8rem;
     width: 100%;
     border-radius: 4px;
-    background: rgb(40, 46, 120);
+    background: var(--surface);
+    border: 1px solid var(--border);
     font-size: 3rem;
-    min-width: 80rem;
 }
 
 .choice-container:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(6, 103, 247, 0, 5);
-    transform: scale(1.02);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(39, 146, 106, 0.2);
+    transform: scale(1.01);
     transform: transform 100ms;
 
 }
 
+.choices-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+    gap: 1.6rem;
+    width: 100%;
+    margin: 2rem 0;
+}
+
 .choice-prefix {
     padding: 2rem 2.5rem;
-    color: white;
+    color: var(--text);
+    background: var(--muted);
+    border-radius: 4px 0 0 4px;
 }
 
 .choice-text {
@@ -34,11 +49,21 @@ body {
 
 
 .correct {
-    background: linear-gradient(32deg, rgba(11, 223, 36) 0%, rgb(41, 232, 111) 100%);
+    background: linear-gradient(32deg, rgba(47, 176, 127, 0.7) 0%, rgba(47, 176, 127, 1) 100%);
+    color: #0E1612;
+    animation: flash 0.3s ease-in-out;
 }
 
 .incorrect {
-    background: linear-gradient(32deg, rgba(230, 29, 29, 1) 0%, rgb(224, 11, 11, 1) 100%);
+    background: linear-gradient(32deg, rgba(216, 43, 45, 0.7) 0%, rgba(216, 43, 45, 1) 100%);
+    color: #0E1612;
+    animation: flash 0.3s ease-in-out;
+}
+
+@keyframes flash {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.03); }
+    100% { transform: scale(1); }
 }
 
 /* Heads Up Display */
@@ -54,12 +79,49 @@ body {
 
 .hud-main-text{
     text-align: center;
+    color: #D9C327;
+}
+
+#question {
+    font-size: 2.4rem;
+}
+
+#progress-container {
+    width: 100%;
+}
+
+.progress-wrap {
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.progress-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text-muted);
+    font-size: 1.6rem;
+    margin-bottom: 0.6rem;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 1.2rem;
+    border-radius: 999px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    overflow: hidden;
+}
+
+.progress-bar #progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--muted));
 }
 
 #progressBar{
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid rgb(255, 255, 255);
+    border: 0.2rem solid var(--border);
     margin-top: 2rem;
     border-radius: 50px;
     overflow: hidden;
@@ -68,7 +130,7 @@ body {
 
 #progressBarFull {
     height: 100%;
-    background: rgb(255, 255, 255);
+    background: var(--primary);
     width: 0%;
 }
 
