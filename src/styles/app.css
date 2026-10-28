@@ -177,6 +177,68 @@ h2 {
   font-size: 0.95rem;
 }
 
+.target {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.stepper {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--text);
+  font-weight: 700;
+}
+
+.stepper .icon-btn {
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 1.3rem;
+}
+
+.stepper .icon-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.tense-progress ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 14px;
+}
+
+.tense-progress-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.tense-name {
+  font-weight: 700;
+}
+
+.tier {
+  color: var(--primary);
+}
+
+.tense-count,
+.tense-sub {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tense-sub {
+  margin-top: 4px;
+}
+
 .chips {
   display: flex;
   flex-wrap: wrap;

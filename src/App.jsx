@@ -45,7 +45,8 @@ export default function App() {
       {screen.name === 'home' && (
         <Home
           state={appState}
-          onChangeTenses={tenses => update({ ...appState, settings: { ...appState.settings, tenses } })}
+          combos={combos}
+          onChangeSettings={changes => update({ ...appState, settings: { ...appState.settings, ...changes } })}
           onPlay={startRound}
         />
       )}

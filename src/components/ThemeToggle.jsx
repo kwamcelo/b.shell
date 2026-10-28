@@ -1,13 +1,21 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import t from '../i18n/strings.fr'
 
 const KEY = 'theme-preference'
-const prefersDark = () => window.matchMedia('(prefers-color-scheme: dark)').matches
+const darkQuery = () => window.matchMedia('(prefers-color-scheme: dark)')
 
-const currentTheme = () => document.documentElement.dataset.theme ?? (prefersDark() ? 'dark' : 'light')
+const currentTheme = () => document.documentElement.dataset.theme ?? (darkQuery().matches ? 'dark' : 'light')
 
 export default function ThemeToggle() {
   const [theme, setTheme] = useState(currentTheme)
+
+  // Follow the phone's light/dark switch until a theme is picked here.
+  useEffect(() => {
+    const query = darkQuery()
+    const follow = () => setTheme(currentTheme())
+    query.addEventListener('change', follow)
+    return () => query.removeEventListener('change', follow)
+  }, [])
 
   const toggle = () => {
     const next = theme === 'dark' ? 'light' : 'dark'
