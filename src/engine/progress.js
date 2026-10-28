@@ -1,3 +1,4 @@
+import { TENSES } from './combos'
 import { statusOf } from './scheduler'
 
 // Cumulative tiers: I = top 25 verbs, II = top 50, III = top 100, IV = every verb.
@@ -34,4 +35,14 @@ export function tenseProgress(combos, cards, tense) {
     inProgress: inTier.filter(v => v.started && !v.mastered).length,
     complete,
   }
+}
+
+// Tiers completed by a round: compares progress before and after it.
+export function tierUps(combos, cardsBefore, cardsAfter) {
+  return TENSES.flatMap(tense => {
+    const before = tenseProgress(combos, cardsBefore, tense)
+    const after = tenseProgress(combos, cardsAfter, tense)
+    if (after.tier === before.tier && after.complete === before.complete) return []
+    return [{ tense, completedTier: after.complete ? after.tier : after.tier - 1, next: after }]
+  })
 }

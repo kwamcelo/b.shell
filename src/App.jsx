@@ -3,9 +3,11 @@ import verbData from './data/verbs.fr.json'
 import { buildCombos, indexCombos } from './engine/combos'
 import { createStorage } from './engine/storage'
 import { finishRound } from './engine/round'
+import { tierUps } from './engine/progress'
 import { toDay } from './engine/day'
 import Home from './screens/Home'
 import Round from './screens/Round'
+import TierUp from './screens/TierUp'
 import RoundEnd from './screens/RoundEnd'
 import ThemeToggle from './components/ThemeToggle'
 import t from './i18n/strings.fr'
@@ -29,8 +31,9 @@ export default function App() {
   // Progress is only committed when a round is finished; quitting discards it.
   const handleFinish = (results, misses) => {
     const { state, summary } = finishRound(appState, results, toDay())
+    const ups = tierUps(combos, appState.cards, state.cards)
     update(state)
-    setScreen({ name: 'end', summary, misses })
+    setScreen({ name: ups.length ? 'tier-up' : 'end', summary, misses, tierUps: ups })
   }
 
   return (
@@ -52,6 +55,9 @@ export default function App() {
       )}
       {screen.name === 'round' && (
         <Round key={screen.id} state={appState} combos={combos} index={index} onFinish={handleFinish} onQuit={goHome} />
+      )}
+      {screen.name === 'tier-up' && (
+        <TierUp tierUps={screen.tierUps} onContinue={() => setScreen({ ...screen, name: 'end' })} />
       )}
       {screen.name === 'end' && (
         <RoundEnd state={appState} summary={screen.summary} misses={screen.misses} onAgain={startRound} onHome={goHome} />

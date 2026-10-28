@@ -15,6 +15,17 @@ export default {
   mastered: (count, target) => `${count} / ${target} verbes`,
   inProgress: count => `${count} en cours`,
   tierComplete: 'Tous les verbes maîtrisés',
+  tierUpTitle: 'Bravo !',
+  // "le Présent", "l'Imparfait"
+  tierUpMessage: (tense, done, next) => {
+    const named = /^[aeiouéi]/i.test(tense) ? `l'${tense}` : `le ${tense}`
+    const nextNamed = named.startsWith('le ') ? `au ${tense}` : `à l'${tense}`
+    return `Tu maîtrises ${named} ${done}. Continue comme ça et passe ${nextNamed} ${next} !`
+  },
+  tenseMastered: tense => {
+    const named = /^[aeiouéi]/i.test(tense) ? `à l'${tense}` : `au ${tense}`
+    return `Tu maîtrises tous les verbes ${named}. Chapeau !`
+  },
   pickTense: 'Choisis au moins un temps',
   quit: 'Quitter la manche',
   progress: (current, total) => `Question ${current} sur ${total}`,

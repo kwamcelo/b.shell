@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { tenseProgress } from './progress'
+import { tenseProgress, tierUps } from './progress'
 
 // 120 verbs × 2 persons in one tense, plus noise in another tense.
 const combos = Array.from({ length: 120 }, (_, v) => ['je', 'tu'].map(person => ({
@@ -28,6 +28,19 @@ describe('tenseProgress', () => {
   it('moves to the next tier once the current one is mastered', () => {
     expect(tenseProgress(combos, withVerbs(25), 'Présent')).toMatchObject({ tier: 2, target: 50, mastered: 25 })
     expect(tenseProgress(combos, withVerbs(50), 'Présent')).toMatchObject({ tier: 3, target: 100, mastered: 50 })
+  })
+
+  it('reports a tier completed by a round, with the next tier', () => {
+    const before = withVerbs(24)
+    const after = withVerbs(25)
+    expect(tierUps(combos, before, before)).toEqual([])
+    expect(tierUps(combos, before, after)).toEqual([
+      { tense: 'Présent', completedTier: 1, next: { tier: 2, target: 50, mastered: 25, inProgress: 0, complete: false } },
+    ])
+  })
+
+  it('reports completing the final tier', () => {
+    expect(tierUps(combos, withVerbs(119), withVerbs(120))).toMatchObject([{ tense: 'Présent', completedTier: 4, next: { complete: true } }])
   })
 
   it('caps the last tier at the number of verbs and reports completion', () => {
