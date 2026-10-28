@@ -36,6 +36,8 @@ A phone-first French conjugation trainer. Short multiple-choice rounds, spaced r
 - Lato, light/dark themes. Brand colour is deep blue/ink so green only ever means "correct".
 
 ### Data
+- `src/data/verbs.fr.json` is generated, never hand-edited: `npm run verbs` rebuilds it from `scripts/verb-frequency.fr.tsv` (top verbs by spoken frequency) and Lefff conjugations. Overrides (excluded artifacts, pronominal verbs, être verbs) live at the top of `scripts/generate-verbs.js`.
+- To refresh the frequency list, download [Lexique 3.83](http://www.lexique.org/) and run `node scripts/rank-verbs.js path/to/Lexique383.tsv`.
 - ~6,900 example sentences, one per combination, written once in Claude Code and stored with the verb data. A check script verifies each sentence contains the exact form from the verb data.
 - Progress protection in v1: `navigator.storage.persist()`, Export/Import of a backup file, install-to-home-screen prompt.
 
@@ -54,5 +56,10 @@ Typing mode (may be dropped), Supabase sync, Spanish, English UI.
 ```sh
 npm install
 npm run dev     # local dev server
-npm test        # engine tests
+npm test        # engine + data tests
+npm run verbs   # regenerate src/data/verbs.fr.json
 ```
+
+## Credits
+- Verb frequencies: Lexique 3.83 — New, B., Pallier, C. et al., [lexique.org](http://www.lexique.org/) (CC BY-SA 4.0). `scripts/verb-frequency.fr.tsv` is derived from it under the same licence.
+- Conjugations: [Lefff](http://pauillac.inria.fr/~sagot/index.html#lefff) (LGPL-LR) via `french-verbs-lefff`.

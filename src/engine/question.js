@@ -13,13 +13,20 @@ export function shuffle(list, rng = Math.random) {
   return copy
 }
 
+// The Impératif has no subject, so the prompt names the person instead.
+const IMPERATIVE_HINT = {
+  '2e personne du singulier': '(tu)',
+  '1e personne du pluriel': '(nous)',
+  '2e personne du pluriel': '(vous)',
+}
+
 // Picks il/elle/on (or ils/elles) at random and returns the prompt pieces:
 // `pronoun ___` is shown, `answer` is the pronoun-less form.
 export function makeQuestion(combo, rng = Math.random) {
   const variants = Object.keys(combo.forms)
   const variant = variants[Math.floor(rng() * variants.length)]
   const { pronoun, form } = splitSubject(combo.forms[variant])
-  return { combo, variant, pronoun, answer: form }
+  return { combo, variant, pronoun: pronoun || IMPERATIVE_HINT[combo.person] || '', answer: form }
 }
 
 const formOf = (index, verb, tense, person, variant) => {

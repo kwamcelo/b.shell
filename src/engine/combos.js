@@ -33,33 +33,21 @@ export const COMPOUND_TENSES = new Set([
 
 const SUBJECT = /^(je |j'|tu |il |elle |on |nous |vous |ils |elles )/
 
-// The generator sometimes leaves a space after an apostrophe ("s' est").
-const clean = phrase => phrase.replace(/'\s+/g, "'").trim()
+// A person's value is a string, or { m, f, neutral } for il/elle/on and ils/elles.
+const toForms = value => (typeof value === 'string' ? { m: value } : { ...value })
 
-const toForms = value => {
-  if (typeof value === 'string') return { m: clean(value) }
-  const entry = value?.[0] ?? {}
-  const forms = {}
-  for (const key of ['m', 'f', 'neutral']) {
-    if (entry[key]) forms[key] = clean(entry[key])
-  }
-  return forms
-}
-
-// Flattens the verb JSON into one combo per verb × tense × person.
-// Verb order in the JSON is frequency order, so combos come out most-common first.
-export function buildCombos(verbData, { lang = 'fr' } = {}) {
+// Flattens verbs.<lang>.json into one combo per verb × tense × person.
+// Verbs are stored in frequency order, so combos come out most-common first.
+export function buildCombos(verbData) {
+  const { lang } = verbData
   const combos = []
-  Object.keys(verbData).forEach((verb, rank) => {
-    const tables = verbData[verb][0]
+  verbData.verbs.forEach(({ infinitive: verb, group, tenses: tables }, rank) => {
     for (const tense of TENSES) {
-      const table = tables[tense]?.[0]
+      const table = tables[tense]
       if (!table) continue
       for (const person of PERSONS) {
         if (!table[person]) continue
-        const forms = toForms(table[person])
-        if (!Object.keys(forms).length) continue
-        combos.push({ id: `${lang}:${verb}:${tense}:${person}`, lang, verb, rank, tense, person, forms })
+        combos.push({ id: `${lang}:${verb}:${tense}:${person}`, lang, verb, group, rank, tense, person, forms: toForms(table[person]) })
       }
     }
   })

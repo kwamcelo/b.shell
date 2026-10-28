@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import verbData from '../../new_frenchverbs.json'
+import verbData from '../data/verbs.fr.json'
 import { buildCombos, indexCombos, splitSubject } from './combos'
 import { buildChoices, makeQuestion, CHOICES } from './question'
 import { makeFakes, regularForm } from './fakes'
@@ -7,6 +7,8 @@ import { makeFakes, regularForm } from './fakes'
 const combos = buildCombos(verbData)
 const index = indexCombos(combos)
 const find = (verb, tense, person) => index.get(verb, tense, person)
+const JE = '1e personne du singulier'
+const TU = '2e personne du singulier'
 const NOUS = '1e personne du pluriel'
 
 // Deterministic rng so failures are reproducible.
@@ -24,14 +26,15 @@ describe('combos', () => {
     expect(splitSubject('va')).toEqual({ pronoun: '', form: 'va' })
   })
 
-  it('cleans stray spaces after apostrophes', () => {
-    expect(find('Se lever', 'Passé Composé', '3e personne du singulier').forms.f).toBe("elle s'est levée")
+  it('come out in frequency order with the verb group attached', () => {
+    expect(combos[0]).toMatchObject({ verb: 'être', rank: 0, group: 'irregular', tense: 'Présent', person: JE })
+    expect(find('parler', 'Présent', JE).group).toBe('er')
   })
 })
 
 describe('makeQuestion', () => {
   it('picks a gender variant and keeps agreement in the answer', () => {
-    const combo = find('Aller', 'Passé Composé', '3e personne du pluriel')
+    const combo = find('aller', 'Passé Composé', '3e personne du pluriel')
     const answers = new Set()
     const rng = seeded(7)
     for (let i = 0; i < 20; i++) {
@@ -39,6 +42,10 @@ describe('makeQuestion', () => {
       answers.add(`${q.pronoun} ${q.answer}`)
     }
     expect(answers).toEqual(new Set(['ils sont allés', 'elles sont allées']))
+  })
+
+  it('names the person for the Impératif', () => {
+    expect(makeQuestion(find('se lever', 'Impératif', TU))).toMatchObject({ pronoun: '(tu)', answer: 'lève-toi' })
   })
 })
 
@@ -48,33 +55,39 @@ describe('buildChoices', () => {
   )
 
   it('stage 1 uses other tenses of the same person', () => {
-    const q = buildChoices(makeQuestion(find('Aller', 'Futur Simple', NOUS)), null, index, seeded())
-    const samePerson = formsWhere(c => c.verb === 'Aller' && c.person === NOUS)
+    const q = buildChoices(makeQuestion(find('aller', 'Futur Simple', NOUS)), null, index, seeded())
+    const samePerson = formsWhere(c => c.verb === 'aller' && c.person === NOUS)
     expect(q.choices.every(c => samePerson.has(c))).toBe(true)
   })
 
   it('stage 2 uses other persons of the same tense', () => {
-    const q = buildChoices(makeQuestion(find('Aller', 'Futur Simple', NOUS)), { step: 1 }, index, seeded())
-    const sameTense = formsWhere(c => c.verb === 'Aller' && c.tense === 'Futur Simple')
+    const q = buildChoices(makeQuestion(find('aller', 'Futur Simple', NOUS)), { step: 1 }, index, seeded())
+    const sameTense = formsWhere(c => c.verb === 'aller' && c.tense === 'Futur Simple')
     expect(q.choices.every(c => sameTense.has(c))).toBe(true)
   })
 
   it('keeps the answer\'s reflexive pronoun on other-person options', () => {
-    const combo = find('Se lever', 'Présent', '1e personne du singulier')
+    const combo = find('se lever', 'Présent', JE)
     const q = buildChoices(makeQuestion(combo), { step: 1 }, index, seeded())
     expect(q.choices.every(c => c.startsWith('me '))).toBe(true)
   })
 
   it('only regularises verbs with a real regular pattern', () => {
-    expect(regularForm('Faire', 'Présent', 0)).toBeNull()
-    expect(regularForm('Être', 'Présent', 5)).toBeNull()
-    expect(regularForm('Attendre', 'Présent', 2)).toBe('attend')
+    expect(regularForm('faire', 'Présent', 0)).toBeNull()
+    expect(regularForm('être', 'Présent', 5)).toBeNull()
+    expect(regularForm('attendre', 'Présent', 2)).toBe('attend')
   })
 
   it('stage 3 leads with the regularised form', () => {
-    expect(regularForm('Aller', 'Futur Simple', 3)).toBe('allerons')
-    const q = buildChoices(makeQuestion(find('Aller', 'Futur Simple', NOUS)), { step: 3 }, index, seeded())
+    expect(regularForm('aller', 'Futur Simple', 3)).toBe('allerons')
+    const q = buildChoices(makeQuestion(find('aller', 'Futur Simple', NOUS)), { step: 3 }, index, seeded())
     expect(q.choices).toContain('allerons')
+  })
+
+  it('keeps the imperative reflexive on made-up forms', () => {
+    const fakes = makeFakes(makeQuestion(find('se lever', 'Impératif', TU)), index)
+    expect(fakes.length).toBeGreaterThan(0)
+    expect(fakes.every(f => f.endsWith('-toi'))).toBe(true)
   })
 
   it.each([1, 2, 3])('stage %i always gives 4 distinct choices including the answer, across the dataset', stage => {

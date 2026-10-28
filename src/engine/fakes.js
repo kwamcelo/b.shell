@@ -91,9 +91,10 @@ export function makeFakes(question, index) {
   const words = answer.split(' ')
   const prefix = words.slice(0, -1)
   let last = words.at(-1)
-  // Keep an elided reflexive ("m'appelle") attached but out of the way.
+  // Keep an elided reflexive ("m'appelle") or imperative one ("lève-toi") out of the way.
   const elided = last.match(/^[mts]'/)?.[0] ?? ''
-  last = last.slice(elided.length)
+  const hyphenated = last.match(/-(toi|nous|vous)$/)?.[0] ?? ''
+  last = last.slice(elided.length, last.length - hyphenated.length)
 
   const candidates = []
   if (COMPOUND_TENSES.has(combo.tense)) {
@@ -111,7 +112,7 @@ export function makeFakes(question, index) {
   const real = index.realForms(combo.verb)
   const seen = new Set()
   return candidates
-    .map(word => [...prefix, elided + word].join(' '))
+    .map(word => [...prefix, elided + word + hyphenated].join(' '))
     .filter(fake => {
       if (fake === answer || real.has(fake) || seen.has(fake)) return false
       seen.add(fake)
