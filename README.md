@@ -29,7 +29,8 @@ A phone-first French conjugation trainer. Short multiple-choice rounds, spaced r
 ### Screens
 - **Question card:** verb large, tense label, prompt like `ils ___`, four verb-form choices without pronouns. *il/elle/on* and *ils/elles* are picked at random; compound tenses use the agreeing participle.
 - **After answering:** correct → short flash, auto-advance. Wrong → correct form shown in an example sentence, a WordReference button, and *Continuer*.
-- **Home:** streak + today's progress, big Practice button within thumb reach, tense toggles, per-tense progress bars.
+- **Home:** streak + today's progress, daily target stepper, big Practice button within thumb reach, tense toggles, per-tense progress bars.
+- **Tiers:** each tense's progress counts verbs mastered (every person learned) in cumulative tiers — I = top 25 verbs, II = top 50, III = top 100, IV = all. Only the current tier is shown; completing one shows a *Bravo !* screen and the bar moves on to the next tier.
 - **End of round:** score, streak, daily progress, list of misses (with WordReference links), "+N new · M strengthened", *Encore une manche* / *Accueil*.
 - **Streak:** one round a day keeps it alive; daily target is adjustable (default 3 rounds); one freeze per week.
 - UI is in French, with every string in one file so English can be added later.
