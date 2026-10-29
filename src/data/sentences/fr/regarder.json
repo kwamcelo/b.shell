@@ -1,0 +1,106 @@
+{
+  "verb": "regarder",
+  "tenses": {
+    "Présent": {
+      "je": "Je regarde les nouvelles tous les soirs.",
+      "tu": "Tu regardes quoi à la télé ?",
+      "il": "Il regarde le match avec ses amis.",
+      "nous": "Nous regardons le coucher du soleil.",
+      "vous": "Vous regardez des séries en français ?",
+      "ils": "Ils regardent les étoiles depuis le toit."
+    },
+    "Imparfait": {
+      "je": "Je regardais des dessins animés le samedi matin.",
+      "tu": "Tu regardais par la fenêtre pendant le cours.",
+      "il": "Il regardait la mer pendant des heures.",
+      "nous": "Nous regardions les bateaux dans le port.",
+      "vous": "Vous regardiez quoi quand je suis entré ?",
+      "ils": "Ils regardaient un film d'horreur."
+    },
+    "Futur Simple": {
+      "je": "Je regarderai ce documentaire ce soir.",
+      "tu": "Tu regarderas la météo avant de partir.",
+      "il": "Il regardera le match chez son frère.",
+      "nous": "Nous regarderons les feux d'artifice depuis le pont.",
+      "vous": "Vous regarderez bien avant de traverser.",
+      "ils": "Ils regarderont la finale ensemble."
+    },
+    "Conditionnel Présent": {
+      "je": "Je regarderais bien un film ce soir.",
+      "tu": "Tu regarderais mon devoir de maths ?",
+      "il": "Il regarderait la télé toute la journée.",
+      "nous": "Nous regarderions le match avec un grand écran.",
+      "vous": "Vous regarderiez ce dossier pour moi ?",
+      "ils": "Ils regarderaient moins de séries avec plus de devoirs."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je regarde ton ordinateur ?",
+      "tu": "Il faut que tu regardes ce film.",
+      "il": "Sa mère veut qu'il regarde moins la télé.",
+      "nous": "Il est temps que nous regardions les choses en face.",
+      "vous": "J'aimerais que vous regardiez ce document.",
+      "ils": "Je préfère qu'ils regardent un film en français."
+    },
+    "Passé Simple": {
+      "je": "Je regardai la lettre sans comprendre.",
+      "tu": "Tu regardas le ciel en silence.",
+      "il": "Il regarda par la fenêtre.",
+      "nous": "Nous regardâmes le bateau s'éloigner.",
+      "vous": "Vous regardâtes le roi droit dans les yeux.",
+      "ils": "Ils regardèrent le soleil se coucher."
+    },
+    "Passé Composé": {
+      "je": "J'ai regardé trois épisodes hier soir.",
+      "tu": "Tu as regardé le match ?",
+      "il": "Il a regardé partout, mais sans succès.",
+      "nous": "Nous avons regardé les photos de vacances.",
+      "vous": "Vous avez regardé la carte avant de partir ?",
+      "ils": "Ils ont regardé le défilé depuis le balcon."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais regardé ce film trois fois.",
+      "tu": "Tu avais regardé l'horaire du train ?",
+      "il": "Il avait regardé le plan avant de partir.",
+      "nous": "Nous avions regardé les prix en ligne.",
+      "vous": "Vous aviez regardé dans le tiroir ?",
+      "ils": "Ils avaient regardé la météo, heureusement."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai regardé toute la série avant la fin du mois.",
+      "tu": "Tu auras regardé tous les films de Truffaut.",
+      "il": "Il aura regardé le match jusqu'au bout.",
+      "nous": "Nous aurons regardé toutes les maisons du quartier.",
+      "vous": "Vous aurez regardé partout, sans succès.",
+      "ils": "Ils auront regardé la cérémonie à la télé."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais regardé le film avec toi.",
+      "tu": "Tu aurais regardé ça jusqu'à la fin ?",
+      "il": "Il aurait regardé des deux côtés avant de traverser.",
+      "nous": "Nous aurions regardé la carte plus attentivement.",
+      "vous": "Vous auriez regardé ce match avec nous ?",
+      "ils": "Ils auraient regardé le spectacle depuis les premiers rangs."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère est surpris que j'aie regardé ce film.",
+      "tu": "Je suis content que tu aies regardé ce documentaire.",
+      "il": "C'est bien qu'il ait regardé la carte avant de partir.",
+      "nous": "Bien que nous ayons regardé partout, la bague a disparu.",
+      "vous": "Je suis ravi que vous ayez regardé mon film.",
+      "ils": "Je doute qu'ils aient regardé le contrat en entier."
+    },
+    "Futur Proche": {
+      "je": "Je vais regarder un film ce soir.",
+      "tu": "Tu vas regarder le match avec nous ?",
+      "il": "Il va regarder ce problème demain.",
+      "nous": "Nous allons regarder le défilé du 14 juillet.",
+      "vous": "Vous allez regarder les feux d'artifice ?",
+      "ils": "Ils vont regarder un film d'animation."
+    },
+    "Impératif": {
+      "tu": "Regarde, il neige !",
+      "nous": "Regardons les choses en face.",
+      "vous": "Regardez bien avant de traverser."
+    }
+  }
+}

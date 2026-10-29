@@ -1,0 +1,106 @@
+{
+  "verb": "arriver",
+  "tenses": {
+    "Présent": {
+      "je": "J'arrive dans cinq minutes.",
+      "tu": "Tu arrives à quelle heure ?",
+      "il": "Il arrive toujours en retard.",
+      "nous": "Nous arrivons à Paris demain matin.",
+      "vous": "Vous arrivez à lire sans lunettes ?",
+      "ils": "Ils arrivent par le train de midi."
+    },
+    "Imparfait": {
+      "je": "J'arrivais toujours en avance au bureau.",
+      "tu": "Tu arrivais à dormir avec ce bruit ?",
+      "il": "Il arrivait à l'école à vélo.",
+      "nous": "Nous arrivions au chalet juste avant la nuit.",
+      "vous": "Vous arriviez souvent en retard au travail ?",
+      "ils": "Ils arrivaient toujours avec des fleurs."
+    },
+    "Futur Simple": {
+      "je": "J'arriverai vers vingt heures.",
+      "tu": "Tu arriveras à temps pour le dîner.",
+      "il": "Il arrivera par le vol de Montréal.",
+      "nous": "Nous arriverons à la gare à midi.",
+      "vous": "Vous arriverez au sommet en deux heures.",
+      "ils": "Ils arriveront lundi prochain."
+    },
+    "Conditionnel Présent": {
+      "je": "J'arriverais plus tôt avec une voiture.",
+      "tu": "Tu arriverais à finir pour demain ?",
+      "il": "Il arriverait à l'heure sans les bouchons.",
+      "nous": "Nous arriverions avant la nuit avec un peu de chance.",
+      "vous": "Vous arriveriez à porter ce carton ?",
+      "ils": "Ils arriveraient plus vite en métro."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'arrive avant neuf heures.",
+      "tu": "J'aimerais que tu arrives un peu plus tôt.",
+      "il": "Je doute qu'il arrive à l'heure.",
+      "nous": "Il est important que nous arrivions avant la cérémonie.",
+      "vous": "Je souhaite que vous arriviez sans problème.",
+      "ils": "Il faut qu'ils arrivent avant la fermeture."
+    },
+    "Passé Simple": {
+      "je": "J'arrivai au village à la tombée de la nuit.",
+      "tu": "Tu arrivas juste à temps.",
+      "il": "Il arriva au château à minuit.",
+      "nous": "Nous arrivâmes au port au lever du jour.",
+      "vous": "Vous arrivâtes trop tard pour la bataille.",
+      "ils": "Ils arrivèrent en ville après trois jours de marche."
+    },
+    "Passé Composé": {
+      "je": "Je suis arrivé en retard à cause du métro.",
+      "tu": "Tu es arrivé à quelle heure hier soir ?",
+      "il": "Il est arrivé au Canada en 2015.",
+      "nous": "Nous sommes arrivés juste avant la pluie.",
+      "vous": "Vous êtes arrivés à l'aéroport ?",
+      "ils": "Ils sont arrivés au milieu du film."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais arrivé avant l'ouverture des portes.",
+      "tu": "Tu étais arrivé à la gare à l'heure ?",
+      "il": "Il était arrivé la veille de la fête.",
+      "nous": "Nous étions arrivés au moment du dessert.",
+      "vous": "Vous étiez arrivés avant l'orage ?",
+      "ils": "Ils étaient arrivés de Lyon le matin même."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai arrivé avant ton départ.",
+      "tu": "Tu seras arrivé avant la nuit.",
+      "il": "Il sera arrivé à Rome avant nous.",
+      "nous": "Nous serons arrivés à l'hôtel vers minuit.",
+      "vous": "Vous serez arrivés au bout du voyage.",
+      "ils": "Ils seront arrivés à la maison avant le dîner."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais arrivé plus tôt sans la neige.",
+      "tu": "Tu serais arrivé à temps en taxi.",
+      "il": "Il serait arrivé premier sans cette chute.",
+      "nous": "Nous serions arrivés avant midi par l'autoroute.",
+      "vous": "Vous seriez arrivés plus vite en train.",
+      "ils": "Ils seraient arrivés à l'heure sans la panne."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont soulagés que je sois arrivé.",
+      "tu": "Je suis content que tu sois arrivé sans problème.",
+      "il": "C'est étonnant qu'il soit arrivé si tôt.",
+      "nous": "Bien que nous soyons arrivés en avance, la salle était pleine.",
+      "vous": "Je suis heureux que vous soyez arrivés à bon port.",
+      "ils": "C'est dommage qu'ils soient arrivés après le discours."
+    },
+    "Futur Proche": {
+      "je": "Je vais arriver un peu en retard.",
+      "tu": "Tu vas arriver à quelle heure ?",
+      "il": "Il va arriver d'une minute à l'autre.",
+      "nous": "Nous allons arriver juste à temps.",
+      "vous": "Vous allez arriver au rond-point, puis tournez à droite.",
+      "ils": "Ils vont arriver par le dernier train."
+    },
+    "Impératif": {
+      "tu": "Arrive à l'heure, pour une fois !",
+      "nous": "Arrivons tôt pour avoir de bonnes places.",
+      "vous": "Arrivez dix minutes avant le début."
+    }
+  }
+}

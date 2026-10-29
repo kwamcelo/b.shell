@@ -1,0 +1,106 @@
+{
+  "verb": "passer",
+  "tenses": {
+    "Présent": {
+      "je": "Je passe mes vacances en Bretagne.",
+      "tu": "Tu passes le sel, s'il te plaît ?",
+      "il": "Il passe son permis de conduire demain.",
+      "nous": "Nous passons nos soirées à jouer aux cartes.",
+      "vous": "Vous passez une bonne soirée ?",
+      "ils": "Ils passent beaucoup de temps sur leur téléphone."
+    },
+    "Imparfait": {
+      "je": "Je passais tous mes étés chez ma tante.",
+      "tu": "Tu passais des heures devant la télé.",
+      "il": "Il passait ses week-ends à pêcher.",
+      "nous": "Nous passions nos dimanches au parc.",
+      "vous": "Vous passiez vos vacances à la montagne ?",
+      "ils": "Ils passaient leurs journées à la plage."
+    },
+    "Futur Simple": {
+      "je": "Je passerai l'examen en décembre.",
+      "tu": "Tu passeras le bonjour à ta famille.",
+      "il": "Il passera Noël avec ses parents.",
+      "nous": "Nous passerons une semaine à Rome.",
+      "vous": "Vous passerez un bon moment, c'est sûr.",
+      "ils": "Ils passeront la nuit à l'hôtel."
+    },
+    "Conditionnel Présent": {
+      "je": "Je passerais bien l'après-midi à la plage.",
+      "tu": "Tu passerais l'aspirateur pendant que je cuisine ?",
+      "il": "Il passerait sa vie à voyager avec assez d'argent.",
+      "nous": "Nous passerions volontiers un mois en Italie.",
+      "vous": "Vous passeriez nous voir ce week-end ?",
+      "ils": "Ils passeraient leurs vacances ici chaque année."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je passe un coup de fil.",
+      "tu": "J'aimerais que tu passes Noël avec nous.",
+      "il": "Ses parents veulent qu'il passe moins de temps devant les écrans.",
+      "nous": "Il est temps que nous passions à autre chose.",
+      "vous": "Je souhaite que vous passiez de bonnes fêtes.",
+      "ils": "Il faut qu'ils passent leur examen en juin."
+    },
+    "Passé Simple": {
+      "je": "Je passai la nuit dans une vieille auberge.",
+      "tu": "Tu passas trois ans loin de chez toi.",
+      "il": "Il passa sa jeunesse en Afrique.",
+      "nous": "Nous passâmes l'hiver au bord de la mer.",
+      "vous": "Vous passâtes des années à chercher ce trésor.",
+      "ils": "Ils passèrent la soirée à chanter."
+    },
+    "Passé Composé": {
+      "je": "J'ai passé un excellent week-end.",
+      "tu": "Tu as passé une bonne nuit ?",
+      "il": "Il a passé trois heures à faire ses devoirs.",
+      "nous": "Nous avons passé la journée au musée.",
+      "vous": "Vous avez passé de bonnes vacances ?",
+      "ils": "Ils ont passé leur examen avec succès."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais passé la soirée à t'attendre.",
+      "tu": "Tu avais passé la nuit à étudier.",
+      "il": "Il avait passé dix ans à l'étranger.",
+      "nous": "Nous avions passé un été magnifique en Grèce.",
+      "vous": "Vous aviez passé la frontière sans problème ?",
+      "ils": "Ils avaient passé des mois à préparer ce voyage."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai passé tous mes examens avant juillet.",
+      "tu": "Tu auras passé une année difficile.",
+      "il": "Il aura passé sa vie entière dans ce village.",
+      "nous": "Nous aurons passé vingt ans ensemble en mai.",
+      "vous": "Vous aurez passé une belle journée.",
+      "ils": "Ils auront passé toute la soirée à danser."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais passé plus de temps avec mes grands-parents.",
+      "tu": "Tu aurais passé une meilleure soirée avec nous.",
+      "il": "Il aurait passé son examen avec plus de travail.",
+      "nous": "Nous aurions passé la nuit dehors sans ton aide.",
+      "vous": "Vous auriez passé un bon moment à ce concert.",
+      "ils": "Ils auraient passé l'été à la plage sans la pluie."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie passé mon permis.",
+      "tu": "Je suis content que tu aies passé une bonne journée.",
+      "il": "C'est super qu'il ait passé son concours.",
+      "nous": "Bien que nous ayons passé une semaine à Paris, nous n'avons pas vu le Louvre.",
+      "vous": "Je suis ravi que vous ayez passé un bon séjour.",
+      "ils": "Je suis fier qu'ils aient passé leur bac."
+    },
+    "Futur Proche": {
+      "je": "Je vais passer la journée à la bibliothèque.",
+      "tu": "Tu vas passer le week-end chez tes parents ?",
+      "il": "Il va passer un entretien d'embauche.",
+      "nous": "Nous allons passer une semaine en Espagne.",
+      "vous": "Vous allez passer un bon moment.",
+      "ils": "Ils vont passer la nuit chez nous."
+    },
+    "Impératif": {
+      "tu": "Passe une bonne journée !",
+      "nous": "Passons à table, le dîner est prêt.",
+      "vous": "Passez le bonjour à votre femme."
+    }
+  }
+}

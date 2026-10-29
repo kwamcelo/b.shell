@@ -398,6 +398,20 @@ h2 {
   font-size: 1.4rem;
 }
 
+.feedback-sentence {
+  padding: 10px 12px;
+  border-left: 3px solid var(--primary);
+  border-radius: 4px;
+  background: var(--surface-2);
+  font-style: italic;
+  line-height: 1.45;
+}
+
+.feedback-sentence strong {
+  font-style: normal;
+  color: var(--primary);
+}
+
 @keyframes rise {
   from { transform: translateY(20px); opacity: 0; }
 }

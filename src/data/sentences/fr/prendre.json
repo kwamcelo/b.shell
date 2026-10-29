@@ -1,0 +1,106 @@
+{
+  "verb": "prendre",
+  "tenses": {
+    "Présent": {
+      "je": "Je prends le métro tous les matins.",
+      "tu": "Tu prends du sucre dans ton café ?",
+      "il": "Il prend une douche après le sport.",
+      "nous": "Nous prenons le petit-déjeuner à sept heures.",
+      "vous": "Vous prenez la carte bancaire ?",
+      "ils": "Ils prennent l'avion pour Rome demain."
+    },
+    "Imparfait": {
+      "je": "Je prenais le bus pour aller à l'école.",
+      "tu": "Tu prenais des cours de piano à l'époque ?",
+      "il": "Il prenait toujours le même sandwich.",
+      "nous": "Nous prenions nos vacances en août.",
+      "vous": "Vous preniez le train tous les jours ?",
+      "ils": "Ils prenaient des photos de tout."
+    },
+    "Futur Simple": {
+      "je": "Je prendrai un taxi pour rentrer.",
+      "tu": "Tu prendras ton parapluie, il va pleuvoir.",
+      "il": "Il prendra sa retraite l'année prochaine.",
+      "nous": "Nous prendrons une décision demain.",
+      "vous": "Vous prendrez un dessert ?",
+      "ils": "Ils prendront le bateau pour la Corse."
+    },
+    "Conditionnel Présent": {
+      "je": "Je prendrais bien un verre de vin.",
+      "tu": "Tu prendrais une photo de nous ?",
+      "il": "Il prendrait des vacances avec plus d'argent.",
+      "nous": "Nous prendrions la grande chambre, si possible.",
+      "vous": "Vous prendriez un thé ou un café ?",
+      "ils": "Ils prendraient le train plutôt que la voiture."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je prenne mes médicaments.",
+      "tu": "Je veux que tu prennes soin de toi.",
+      "il": "Le médecin veut qu'il prenne du repos.",
+      "nous": "Il faut que nous prenions une décision.",
+      "vous": "Il vaut mieux que vous preniez la route de la côte.",
+      "ils": "Il vaut mieux qu'ils prennent le dernier train."
+    },
+    "Passé Simple": {
+      "je": "Je pris la route à l'aube.",
+      "tu": "Tu pris la lettre et tu la lus.",
+      "il": "Il prit son chapeau et sortit.",
+      "nous": "Nous prîmes le chemin de la forêt.",
+      "vous": "Vous prîtes la parole devant l'assemblée.",
+      "ils": "Ils prirent la fuite dans la nuit."
+    },
+    "Passé Composé": {
+      "je": "J'ai pris trop de photos pendant le voyage.",
+      "tu": "Tu as pris tes clés ?",
+      "il": "Il a pris le mauvais train ce matin.",
+      "nous": "Nous avons pris un verre en terrasse.",
+      "vous": "Vous avez pris rendez-vous chez le dentiste ?",
+      "ils": "Ils ont pris la route très tôt."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais pris un parapluie, heureusement.",
+      "tu": "Tu avais pris les billets avant de partir ?",
+      "il": "Il avait pris froid pendant la randonnée.",
+      "nous": "Nous avions pris une chambre avec vue sur la mer.",
+      "vous": "Vous aviez pris le temps de lire le contrat ?",
+      "ils": "Ils avaient pris l'habitude de dîner tard."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai pris ma décision avant lundi.",
+      "tu": "Tu auras pris des couleurs au soleil.",
+      "il": "Il aura pris le train de dix heures.",
+      "nous": "Nous aurons pris assez de photos pour un album.",
+      "vous": "Vous aurez pris un peu de repos.",
+      "ils": "Ils auront pris leur petit-déjeuner avant notre arrivée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais pris le même plat que toi.",
+      "tu": "Tu aurais pris ce travail à ma place ?",
+      "il": "Il aurait pris l'avion avec un billet moins cher.",
+      "nous": "Nous aurions pris la voiture sans la neige.",
+      "vous": "Vous auriez pris une autre route ?",
+      "ils": "Ils auraient pris un taxi avec plus de bagages."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie pris des vacances.",
+      "tu": "Je suis soulagé que tu aies pris ton manteau.",
+      "il": "Il est possible qu'il ait pris le mauvais bus.",
+      "nous": "Bien que nous ayons pris l'autoroute, nous sommes en retard.",
+      "vous": "Je suis content que vous ayez pris cette décision.",
+      "ils": "Je doute qu'ils aient pris le temps de réfléchir."
+    },
+    "Futur Proche": {
+      "je": "Je vais prendre une douche rapide.",
+      "tu": "Tu vas prendre le train ou l'avion ?",
+      "il": "Il va prendre sa voiture pour venir.",
+      "nous": "Nous allons prendre un café en ville.",
+      "vous": "Vous allez prendre froid sans manteau.",
+      "ils": "Ils vont prendre des cours de danse."
+    },
+    "Impératif": {
+      "tu": "Prends ton temps, rien ne presse.",
+      "nous": "Prenons le métro, c'est plus rapide.",
+      "vous": "Prenez la deuxième rue à gauche."
+    }
+  }
+}

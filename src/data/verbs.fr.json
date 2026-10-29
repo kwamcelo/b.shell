@@ -974,7 +974,7 @@
    "impersonal": false,
    "tenses": {
     "Présent": {
-     "1e personne du singulier": "je puis",
+     "1e personne du singulier": "je peux",
      "2e personne du singulier": "tu peux",
      "3e personne du singulier": {
       "m": "il peut",
@@ -1919,11 +1919,6 @@
       "m": "ils vont devoir",
       "f": "elles vont devoir"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "dois",
-     "1e personne du pluriel": "devons",
-     "2e personne du pluriel": "devez"
     }
    }
   },

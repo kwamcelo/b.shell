@@ -1,0 +1,106 @@
+{
+  "verb": "donner",
+  "tenses": {
+    "Présent": {
+      "je": "Je donne des cours de guitare le mercredi.",
+      "tu": "Tu donnes à manger au chat ?",
+      "il": "Il donne son vieux vélo à son cousin.",
+      "nous": "Nous donnons nos vieux vêtements à une association.",
+      "vous": "Vous donnez des cours particuliers ?",
+      "ils": "Ils donnent une fête samedi soir."
+    },
+    "Imparfait": {
+      "je": "Je donnais du pain aux canards le dimanche.",
+      "tu": "Tu donnais toujours de bons conseils.",
+      "il": "Il donnait des bonbons à tous les enfants.",
+      "nous": "Nous donnions un coup de main à la ferme.",
+      "vous": "Vous donniez des cours de français à l'époque ?",
+      "ils": "Ils donnaient des concerts dans les bars."
+    },
+    "Futur Simple": {
+      "je": "Je donnerai ma réponse demain.",
+      "tu": "Tu donneras ce paquet à Julie.",
+      "il": "Il donnera une conférence à l'université.",
+      "nous": "Nous donnerons des nouvelles bientôt.",
+      "vous": "Vous donnerez vos papiers à l'accueil.",
+      "ils": "Ils donneront leurs résultats en juin."
+    },
+    "Conditionnel Présent": {
+      "je": "Je donnerais tout pour une semaine de vacances.",
+      "tu": "Tu donnerais un coup de main à ton frère ?",
+      "il": "Il donnerait sa chemise pour un ami.",
+      "nous": "Nous donnerions volontiers un peu d'argent.",
+      "vous": "Vous donneriez votre avis sur ce projet ?",
+      "ils": "Ils donneraient beaucoup pour revoir leur pays."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je donne ma réponse avant vendredi.",
+      "tu": "J'aimerais que tu donnes ton avis.",
+      "il": "Je veux qu'il donne une seconde chance à son ami.",
+      "nous": "Il est normal que nous donnions un pourboire.",
+      "vous": "Il faut que vous donniez votre nom à l'entrée.",
+      "ils": "Il est temps qu'ils donnent de leurs nouvelles."
+    },
+    "Passé Simple": {
+      "je": "Je donnai la lettre au messager.",
+      "tu": "Tu donnas ta parole au roi.",
+      "il": "Il donna l'ordre de partir.",
+      "nous": "Nous donnâmes l'alerte au village.",
+      "vous": "Vous donnâtes tout votre or aux pauvres.",
+      "ils": "Ils donnèrent un grand bal au château."
+    },
+    "Passé Composé": {
+      "je": "J'ai donné mon numéro à la voisine.",
+      "tu": "Tu as donné à manger au poisson ?",
+      "il": "Il a donné un concert au Centre Bell.",
+      "nous": "Nous avons donné nos vieux livres à la bibliothèque.",
+      "vous": "Vous avez donné votre adresse au livreur ?",
+      "ils": "Ils ont donné un nom bizarre à leur chien."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais donné rendez-vous à Marc devant le cinéma.",
+      "tu": "Tu avais donné ta parole !",
+      "il": "Il avait donné sa démission la veille.",
+      "nous": "Nous avions donné une fête pour son départ.",
+      "vous": "Vous aviez donné votre accord ?",
+      "ils": "Ils avaient donné leurs clés au gardien."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai donné ma réponse avant la fin de la semaine.",
+      "tu": "Tu auras donné le meilleur de toi-même.",
+      "il": "Il aura donné toute sa vie à ce projet.",
+      "nous": "Nous aurons donné cent concerts cette année.",
+      "vous": "Vous aurez donné une belle leçon à tout le monde.",
+      "ils": "Ils auront donné tout leur argent à des associations."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais donné cher pour voir ça.",
+      "tu": "Tu aurais donné ton accord ?",
+      "il": "Il aurait donné une fortune pour cette voiture.",
+      "nous": "Nous aurions donné un coup de main avec plaisir.",
+      "vous": "Vous auriez donné quel nom à votre fille ?",
+      "ils": "Ils auraient donné la même réponse."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon fils est content que j'aie donné mon accord.",
+      "tu": "C'est gentil que tu aies donné ton vélo à ta sœur.",
+      "il": "C'est surprenant qu'il ait donné sa démission.",
+      "nous": "Bien que nous ayons donné notre avis, rien n'a changé.",
+      "vous": "Merci ! Je suis touché que vous ayez donné autant.",
+      "ils": "Je suis surpris qu'ils aient donné leur accord."
+    },
+    "Futur Proche": {
+      "je": "Je vais donner mon vieux canapé.",
+      "tu": "Tu vas donner une fête pour ton anniversaire ?",
+      "il": "Il va donner un discours au mariage.",
+      "nous": "Nous allons donner des nouvelles à la famille.",
+      "vous": "Vous allez donner votre avis ?",
+      "ils": "Ils vont donner un concert gratuit."
+    },
+    "Impératif": {
+      "tu": "Donne-moi la main pour traverser.",
+      "nous": "Donnons une chance à ce projet.",
+      "vous": "Donnez votre billet au contrôleur."
+    }
+  }
+}

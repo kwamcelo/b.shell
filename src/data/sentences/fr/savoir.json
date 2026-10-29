@@ -1,0 +1,106 @@
+{
+  "verb": "savoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je sais nager depuis l'âge de cinq ans.",
+      "tu": "Tu sais où sont mes clés ?",
+      "il": "Il sait jouer de la guitare.",
+      "nous": "Nous savons déjà la réponse.",
+      "vous": "Vous savez à quelle heure part le train ?",
+      "ils": "Ils savent parler trois langues."
+    },
+    "Imparfait": {
+      "je": "Je savais que tu viendrais.",
+      "tu": "Tu savais que la boulangerie était fermée ?",
+      "il": "Il savait toutes les capitales par cœur.",
+      "nous": "Nous savions que le voyage serait long.",
+      "vous": "Vous saviez que Marie déménageait ?",
+      "ils": "Ils savaient la vérité depuis le début."
+    },
+    "Futur Simple": {
+      "je": "Je saurai la réponse demain matin.",
+      "tu": "Tu sauras conduire avant l'été.",
+      "il": "Il saura quoi faire, ne t'inquiète pas.",
+      "nous": "Nous saurons les résultats vendredi.",
+      "vous": "Vous saurez tout à la fin du film.",
+      "ils": "Ils sauront lire à la fin de l'année."
+    },
+    "Conditionnel Présent": {
+      "je": "Je saurais le faire avec un peu d'aide.",
+      "tu": "Tu saurais réparer ce vélo ?",
+      "il": "Il saurait trouver une solution.",
+      "nous": "Nous saurions quoi répondre avec plus d'informations.",
+      "vous": "Vous sauriez où se trouve la poste ?",
+      "ils": "Ils sauraient faire mieux avec plus de temps."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je sache la vérité.",
+      "tu": "Je veux que tu saches que je t'aime.",
+      "il": "Je doute qu'il sache cuisiner.",
+      "nous": "Il est important que nous sachions la date exacte.",
+      "vous": "Je voudrais que vous sachiez une chose.",
+      "ils": "Il faut qu'ils sachent nager avant l'été."
+    },
+    "Passé Simple": {
+      "je": "Je sus tout de suite que quelque chose n'allait pas.",
+      "tu": "Tu sus garder le secret.",
+      "il": "Il sut trouver les mots justes.",
+      "nous": "Nous sûmes la nouvelle le lendemain.",
+      "vous": "Vous sûtes répondre à toutes les questions.",
+      "ils": "Ils surent profiter de l'occasion."
+    },
+    "Passé Composé": {
+      "je": "J'ai su la nouvelle par ma sœur.",
+      "tu": "Tu as su répondre à la question du prof ?",
+      "il": "Il a su la vérité trop tard.",
+      "nous": "Nous avons su dès le début que ce serait difficile.",
+      "vous": "Vous avez su comment ça s'est passé ?",
+      "ils": "Ils ont su garder leur calme pendant la tempête."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais su la nouvelle avant tout le monde.",
+      "tu": "Tu avais su trouver la bonne route.",
+      "il": "Il avait su convaincre le jury.",
+      "nous": "Nous avions su la réponse, mais nous l'avons oubliée.",
+      "vous": "Vous aviez su réparer la voiture sans aide.",
+      "ils": "Ils avaient su la vérité depuis des années."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai su la vérité avant la fin de la semaine.",
+      "tu": "Tu auras su répondre à toutes les questions.",
+      "il": "Il aura su nous surprendre jusqu'au bout.",
+      "nous": "Nous aurons su profiter de chaque moment.",
+      "vous": "Vous aurez su faire les bons choix.",
+      "ils": "Ils auront su la nouvelle par la radio."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais su quoi dire avec plus de temps.",
+      "tu": "Tu aurais su la réponse ?",
+      "il": "Il aurait su réparer ça en cinq minutes.",
+      "nous": "Nous aurions su comment faire avec un plan.",
+      "vous": "Vous auriez su la vérité si vous aviez demandé.",
+      "ils": "Ils auraient su quoi faire à notre place."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont contents que j'aie su répondre.",
+      "tu": "C'est bien que tu aies su dire non.",
+      "il": "C'est incroyable qu'il ait su la réponse.",
+      "nous": "Je suis fier que nous ayons su rester calmes.",
+      "vous": "C'est dommage que vous ayez su la nouvelle si tard.",
+      "ils": "Je suis surpris qu'ils aient su garder le secret."
+    },
+    "Futur Proche": {
+      "je": "Je vais savoir mes notes demain.",
+      "tu": "Tu vas savoir la vérité très bientôt.",
+      "il": "Il va savoir quoi faire.",
+      "nous": "Nous allons savoir qui a gagné ce soir.",
+      "vous": "Vous allez savoir tout ce qu'il faut savoir.",
+      "ils": "Ils vont savoir nager à la fin de l'été."
+    },
+    "Impératif": {
+      "tu": "Sache que je suis toujours là pour toi.",
+      "nous": "Sachons rester patients.",
+      "vous": "Sachez que le magasin ferme à midi."
+    }
+  }
+}

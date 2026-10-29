@@ -1,0 +1,106 @@
+{
+  "verb": "aller",
+  "tenses": {
+    "Présent": {
+      "je": "Je vais au marché tous les samedis.",
+      "tu": "Tu vas à la fête de Julie ce soir ?",
+      "il": "Il va au travail à vélo.",
+      "nous": "Nous allons à la plage cet après-midi.",
+      "vous": "Vous allez bien depuis votre opération ?",
+      "ils": "Ils vont en Espagne pour Noël."
+    },
+    "Passé Composé": {
+      "je": "Je suis allé à Paris l'été dernier.",
+      "tu": "Tu es allé chez le médecin finalement ?",
+      "il": "Il est allé à la banque ce matin.",
+      "nous": "Nous sommes allés au concert samedi.",
+      "vous": "Vous êtes allés au musée du Louvre ?",
+      "ils": "Ils sont allés au restaurant pour fêter ça."
+    },
+    "Imparfait": {
+      "je": "J'allais à l'école à pied quand j'étais petit.",
+      "tu": "Tu allais souvent à la montagne avec tes parents ?",
+      "il": "Il allait à la piscine chaque mercredi.",
+      "nous": "Nous allions à la campagne tous les étés.",
+      "vous": "Vous alliez partir sans dire au revoir ?",
+      "ils": "Ils allaient au même lycée."
+    },
+    "Futur Simple": {
+      "je": "J'irai te voir à l'hôpital demain.",
+      "tu": "Tu iras chercher le pain, s'il te plaît ?",
+      "il": "Il ira à Québec en septembre.",
+      "nous": "Nous irons au cinéma après le dîner.",
+      "vous": "Vous irez à pied ou en voiture ?",
+      "ils": "Ils iront à la plage s'il fait beau."
+    },
+    "Conditionnel Présent": {
+      "je": "J'irais bien boire un café.",
+      "tu": "Tu irais au Japon avec moi ?",
+      "il": "Il irait plus vite en métro.",
+      "nous": "Nous irions en Grèce avec un peu plus d'argent.",
+      "vous": "Vous iriez à cette réunion à ma place ?",
+      "ils": "Ils iraient au parc s'il ne pleuvait pas."
+    },
+    "Futur Proche": {
+      "je": "Je vais aller à la poste avant midi.",
+      "tu": "Tu vas aller au mariage de ton cousin ?",
+      "il": "Il va aller chez le coiffeur demain.",
+      "nous": "Nous allons aller au Maroc en avril.",
+      "vous": "Vous allez aller voir ce film ?",
+      "ils": "Ils vont aller à la piscine cet après-midi."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'aille à la banque.",
+      "tu": "Je veux que tu ailles voir un médecin.",
+      "il": "Il est temps qu'il aille se coucher.",
+      "nous": "Il faudrait que nous allions faire les courses.",
+      "vous": "J'aimerais que vous alliez à la réunion.",
+      "ils": "Bien qu'ils aillent mieux, le médecin veut les revoir."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais allé en Irlande deux fois avant ce voyage.",
+      "tu": "Tu étais allé à cette école, non ?",
+      "il": "Il était allé au marché sans son portefeuille.",
+      "nous": "Nous étions allés au même concert sans le savoir.",
+      "vous": "Vous étiez allés en Corse l'année précédente ?",
+      "ils": "Ils étaient allés au lit très tard."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais allé à la fête avec plaisir.",
+      "tu": "Tu serais allé plus loin avec un meilleur vélo.",
+      "il": "Il serait allé à l'université sans la guerre.",
+      "nous": "Nous serions allés à la plage sans la pluie.",
+      "vous": "Vous seriez allés au concert avec nous ?",
+      "ils": "Ils seraient allés en vacances en juillet."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont contents que je sois allé chez le dentiste.",
+      "tu": "Je suis content que tu sois allé voir ta grand-mère.",
+      "il": "C'est bien qu'il soit allé à la réunion.",
+      "nous": "C'est dommage que nous soyons allés au cinéma si tard.",
+      "vous": "Je suis surpris que vous soyez allés à pied.",
+      "ils": "Bien qu'ils soient allés au marché, le frigo est vide."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai allé à la banque avant ton arrivée.",
+      "tu": "Tu seras allé au bout de ton projet.",
+      "il": "Il sera allé chercher les enfants à quatre heures.",
+      "nous": "Nous serons allés dans dix pays avant la fin de l'année.",
+      "vous": "Vous serez allés au moins une fois à Venise.",
+      "ils": "Ils seront allés se coucher avant minuit."
+    },
+    "Impératif": {
+      "tu": "Va chercher ton manteau, il fait froid.",
+      "nous": "Allons au parc avant la pluie.",
+      "vous": "Allez tout droit puis tournez à gauche."
+    },
+    "Passé Simple": {
+      "je": "J'allai jusqu'au bout du chemin.",
+      "tu": "Tu allas seul à la rencontre du roi.",
+      "il": "Il alla s'asseoir près de la fenêtre.",
+      "nous": "Nous allâmes au bord du lac à l'aube.",
+      "vous": "Vous allâtes à Rome cette année-là.",
+      "ils": "Ils allèrent au village chercher du secours."
+    }
+  }
+}

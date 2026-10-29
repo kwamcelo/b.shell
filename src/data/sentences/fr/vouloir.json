@@ -1,0 +1,106 @@
+{
+  "verb": "vouloir",
+  "tenses": {
+    "Présent": {
+      "je": "Je veux un café, s'il vous plaît.",
+      "tu": "Tu veux venir avec nous ?",
+      "il": "Il veut devenir médecin.",
+      "nous": "Nous voulons visiter le vieux port.",
+      "vous": "Vous voulez un peu plus de soupe ?",
+      "ils": "Ils veulent acheter une voiture électrique."
+    },
+    "Passé Composé": {
+      "je": "J'ai voulu t'appeler hier soir.",
+      "tu": "Tu as voulu partir trop vite.",
+      "il": "Il a voulu tout faire sans aide.",
+      "nous": "Nous avons voulu faire une surprise à Léa.",
+      "vous": "Vous avez voulu changer de place ?",
+      "ils": "Ils ont voulu rester jusqu'à la fin."
+    },
+    "Imparfait": {
+      "je": "Je voulais te demander un service.",
+      "tu": "Tu voulais me parler ?",
+      "il": "Il voulait voyager autour du monde.",
+      "nous": "Nous voulions une maison avec un jardin.",
+      "vous": "Vous vouliez réserver pour combien de personnes ?",
+      "ils": "Ils voulaient regarder un film ce soir."
+    },
+    "Futur Simple": {
+      "je": "Je voudrai voir le contrat avant de signer.",
+      "tu": "Tu voudras du dessert après le repas ?",
+      "il": "Il voudra sûrement venir avec nous.",
+      "nous": "Nous voudrons un bon souvenir de ce voyage.",
+      "vous": "Vous voudrez bien patienter quelques minutes.",
+      "ils": "Ils voudront visiter la ville demain."
+    },
+    "Conditionnel Présent": {
+      "je": "Je voudrais une baguette, s'il vous plaît.",
+      "tu": "Tu voudrais aller au cinéma ce soir ?",
+      "il": "Il voudrait apprendre le piano.",
+      "nous": "Nous voudrions une table pour quatre.",
+      "vous": "Vous voudriez un café ou un thé ?",
+      "ils": "Ils voudraient vivre à la campagne."
+    },
+    "Futur Proche": {
+      "je": "Je vais vouloir des explications demain.",
+      "tu": "Tu vas vouloir rentrer tôt, je te connais.",
+      "il": "Il va vouloir voir les photos.",
+      "nous": "Nous allons vouloir un reçu pour la facture.",
+      "vous": "Vous allez vouloir du dessert, j'en suis sûr.",
+      "ils": "Ils vont vouloir jouer dehors toute la journée."
+    },
+    "Subjonctif": {
+      "je": "Il est peu probable que je veuille partir.",
+      "tu": "Bien que tu veuilles aider, ce n'est pas nécessaire.",
+      "il": "Je doute qu'il veuille venir.",
+      "nous": "Il est normal que nous voulions comprendre.",
+      "vous": "Je ne pense pas que vous vouliez attendre.",
+      "ils": "Il est possible qu'ils veuillent rester plus longtemps."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais voulu partir plus tôt.",
+      "tu": "Tu avais voulu essayer ce restaurant.",
+      "il": "Il avait voulu dire quelque chose.",
+      "nous": "Nous avions voulu acheter des billets, mais c'était complet.",
+      "vous": "Vous aviez voulu nous voir ?",
+      "ils": "Ils avaient voulu faire du ski."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais voulu être musicien.",
+      "tu": "Tu aurais voulu habiter à Paris ?",
+      "il": "Il aurait voulu voir la fin du match.",
+      "nous": "Nous aurions voulu rester plus longtemps.",
+      "vous": "Vous auriez voulu un autre dessert ?",
+      "ils": "Ils auraient voulu venir à la fête."
+    },
+    "Subjonctif Passé": {
+      "je": "Il est étonnant que j'aie voulu partir si vite.",
+      "tu": "Je suis touché que tu aies voulu m'aider.",
+      "il": "C'est normal qu'il ait voulu essayer.",
+      "nous": "Bien que nous ayons voulu rester, le bus partait.",
+      "vous": "Je comprends que vous ayez voulu dire non.",
+      "ils": "Il est dommage qu'ils aient voulu partir si tôt."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai voulu tout essayer avant de partir.",
+      "tu": "Tu auras voulu bien faire.",
+      "il": "Il aura voulu nous aider, comme toujours.",
+      "nous": "Nous aurons voulu voir le monde entier.",
+      "vous": "Vous aurez voulu tout comprendre.",
+      "ils": "Ils auront voulu nous faire une surprise."
+    },
+    "Impératif": {
+      "tu": "Veuille bien m'excuser.",
+      "nous": "Veuillons rester calmes.",
+      "vous": "Veuillez fermer la porte en sortant."
+    },
+    "Passé Simple": {
+      "je": "Je voulus répondre, mais personne n'écoutait.",
+      "tu": "Tu voulus partir avant l'aube.",
+      "il": "Il voulut connaître la vérité.",
+      "nous": "Nous voulûmes voir le roi.",
+      "vous": "Vous voulûtes tout savoir.",
+      "ils": "Ils voulurent traverser la rivière."
+    }
+  }
+}

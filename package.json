@@ -9,7 +9,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest run",
-    "verbs": "node scripts/generate-verbs.js"
+    "verbs": "node scripts/generate-verbs.js",
+    "check:sentences": "vitest run src/data/sentences.test.js"
   },
   "dependencies": {
     "french-verbs-lefff": "^3.4.0",

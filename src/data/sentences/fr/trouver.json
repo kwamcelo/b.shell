@@ -1,0 +1,106 @@
+{
+  "verb": "trouver",
+  "tenses": {
+    "Présent": {
+      "je": "Je trouve ce film vraiment drôle.",
+      "tu": "Tu trouves ce pull joli ?",
+      "il": "Il trouve toujours une excuse.",
+      "nous": "Nous trouvons le quartier très calme.",
+      "vous": "Vous trouvez le chemin facilement ?",
+      "ils": "Ils trouvent la ville trop chère."
+    },
+    "Imparfait": {
+      "je": "Je trouvais ce prof très sympa.",
+      "tu": "Tu trouvais le temps de lire, avant ?",
+      "il": "Il trouvait toujours les meilleurs restaurants.",
+      "nous": "Nous trouvions des coquillages sur la plage.",
+      "vous": "Vous trouviez ce travail intéressant ?",
+      "ils": "Ils trouvaient l'hiver trop long."
+    },
+    "Futur Simple": {
+      "je": "Je trouverai une solution, ne t'inquiète pas.",
+      "tu": "Tu trouveras les clés sous le paillasson.",
+      "il": "Il trouvera du travail rapidement.",
+      "nous": "Nous trouverons un hôtel sur place.",
+      "vous": "Vous trouverez la salle au deuxième étage.",
+      "ils": "Ils trouveront le temps de passer nous voir."
+    },
+    "Conditionnel Présent": {
+      "je": "Je trouverais ça bizarre, à ta place.",
+      "tu": "Tu trouverais ça drôle, toi ?",
+      "il": "Il trouverait un appartement plus facilement en banlieue.",
+      "nous": "Nous trouverions le temps avec un peu d'organisation.",
+      "vous": "Vous trouveriez ça normal ?",
+      "ils": "Ils trouveraient du travail plus facilement en ville."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je trouve un cadeau pour Paul.",
+      "tu": "J'aimerais que tu trouves un travail près de chez nous.",
+      "il": "Je doute qu'il trouve la réponse.",
+      "nous": "Il faut que nous trouvions un appartement avant septembre.",
+      "vous": "J'aimerais que vous trouviez une solution.",
+      "ils": "Il est temps qu'ils trouvent un accord."
+    },
+    "Passé Simple": {
+      "je": "Je trouvai une vieille lettre dans le tiroir.",
+      "tu": "Tu trouvas refuge chez un ami.",
+      "il": "Il trouva la porte ouverte.",
+      "nous": "Nous trouvâmes un abri pour la nuit.",
+      "vous": "Vous trouvâtes le trésor au fond du puits.",
+      "ils": "Ils trouvèrent le village abandonné."
+    },
+    "Passé Composé": {
+      "je": "J'ai trouvé un billet de vingt euros dans la rue.",
+      "tu": "Tu as trouvé tes clés ?",
+      "il": "Il a trouvé un nouveau travail.",
+      "nous": "Nous avons trouvé un appartement près du centre.",
+      "vous": "Vous avez trouvé le film intéressant ?",
+      "ils": "Ils ont trouvé un chaton dans le jardin."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais trouvé la réponse avant tout le monde.",
+      "tu": "Tu avais trouvé ce livre dans une brocante ?",
+      "il": "Il avait trouvé un petit restaurant charmant.",
+      "nous": "Nous avions trouvé une solution, mais trop tard.",
+      "vous": "Vous aviez trouvé le chemin sans GPS ?",
+      "ils": "Ils avaient trouvé un portefeuille sur le trottoir."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai trouvé un travail avant la fin de l'été.",
+      "tu": "Tu auras trouvé la solution avant moi.",
+      "il": "Il aura trouvé un appartement d'ici là.",
+      "nous": "Nous aurons trouvé une maison avant l'hiver.",
+      "vous": "Vous aurez trouvé le temps de vous reposer.",
+      "ils": "Ils auront trouvé un cadeau pour leur mère."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais trouvé ça génial.",
+      "tu": "Tu aurais trouvé le chemin sans moi ?",
+      "il": "Il aurait trouvé l'erreur avec plus de temps.",
+      "nous": "Nous aurions trouvé une place avec une réservation.",
+      "vous": "Vous auriez trouvé ce film trop long.",
+      "ils": "Ils auraient trouvé une solution ensemble."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont contents que j'aie trouvé un travail.",
+      "tu": "Je suis ravi que tu aies trouvé un appartement.",
+      "il": "C'est une chance qu'il ait trouvé ce médecin.",
+      "nous": "Bien que nous ayons trouvé la maison, nous hésitons encore.",
+      "vous": "Je suis content que vous ayez trouvé le chemin.",
+      "ils": "Il est étonnant qu'ils aient trouvé une place."
+    },
+    "Futur Proche": {
+      "je": "Je vais trouver un moyen de t'aider.",
+      "tu": "Tu vas trouver ça drôle.",
+      "il": "Il va trouver un travail à Toronto.",
+      "nous": "Nous allons trouver une solution ensemble.",
+      "vous": "Vous allez trouver la sortie au fond du couloir.",
+      "ils": "Ils vont trouver un hôtel près de la gare."
+    },
+    "Impératif": {
+      "tu": "Trouve une excuse, vite !",
+      "nous": "Trouvons un endroit pour pique-niquer.",
+      "vous": "Trouvez la bonne réponse."
+    }
+  }
+}

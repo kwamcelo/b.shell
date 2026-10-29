@@ -1,0 +1,106 @@
+{
+  "verb": "attendre",
+  "tenses": {
+    "Présent": {
+      "je": "J'attends le bus depuis vingt minutes.",
+      "tu": "Tu attends quelqu'un ?",
+      "il": "Il attend les résultats de son examen.",
+      "nous": "Nous attendons nos amis devant le cinéma.",
+      "vous": "Vous attendez depuis longtemps ?",
+      "ils": "Ils attendent un bébé pour le mois de mai."
+    },
+    "Imparfait": {
+      "je": "J'attendais ton appel toute la soirée.",
+      "tu": "Tu attendais le train de quelle heure ?",
+      "il": "Il attendait patiemment son tour.",
+      "nous": "Nous attendions la fin de l'orage.",
+      "vous": "Vous attendiez une réponse de leur part ?",
+      "ils": "Ils attendaient le facteur tous les matins."
+    },
+    "Futur Simple": {
+      "je": "J'attendrai ta réponse jusqu'à demain.",
+      "tu": "Tu attendras devant la porte.",
+      "il": "Il attendra le prochain train.",
+      "nous": "Nous attendrons la fin du film pour manger.",
+      "vous": "Vous attendrez votre tour comme tout le monde.",
+      "ils": "Ils attendront le printemps pour déménager."
+    },
+    "Conditionnel Présent": {
+      "je": "J'attendrais un peu avant de répondre.",
+      "tu": "Tu attendrais cinq minutes ?",
+      "il": "Il attendrait des heures pour un autographe.",
+      "nous": "Nous attendrions volontiers la fin des soldes.",
+      "vous": "Vous attendriez un instant, s'il vous plaît ?",
+      "ils": "Ils attendraient toute la nuit pour ce concert."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'attende ici ?",
+      "tu": "Il faut que tu attendes ton tour.",
+      "il": "Je préfère qu'il attende dans la voiture.",
+      "nous": "Il vaut mieux que nous attendions la fin de la pluie.",
+      "vous": "Je suis désolé que vous attendiez si longtemps.",
+      "ils": "Il faut qu'ils attendent le feu vert."
+    },
+    "Passé Simple": {
+      "je": "J'attendis la nuit pour sortir.",
+      "tu": "Tu attendis son retour pendant des années.",
+      "il": "Il attendit le lever du soleil.",
+      "nous": "Nous attendîmes la fin de la tempête.",
+      "vous": "Vous attendîtes le signal du capitaine.",
+      "ils": "Ils attendirent en silence."
+    },
+    "Passé Composé": {
+      "je": "J'ai attendu une heure chez le médecin.",
+      "tu": "Tu as attendu longtemps ?",
+      "il": "Il a attendu le dernier moment pour réviser.",
+      "nous": "Nous avons attendu le taxi sous la pluie.",
+      "vous": "Vous avez attendu la fin du spectacle ?",
+      "ils": "Ils ont attendu trois mois pour un rendez-vous."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais attendu ce moment depuis des années.",
+      "tu": "Tu avais attendu son appel toute la journée.",
+      "il": "Il avait attendu le bus pendant une heure.",
+      "nous": "Nous avions attendu le printemps pour repeindre.",
+      "vous": "Vous aviez attendu longtemps à la douane ?",
+      "ils": "Ils avaient attendu la nuit pour partir."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai attendu toute la journée pour rien.",
+      "tu": "Tu auras attendu longtemps ce diplôme.",
+      "il": "Il aura attendu dix ans pour revoir son frère.",
+      "nous": "Nous aurons attendu deux heures à l'aéroport.",
+      "vous": "Vous aurez attendu le bon moment.",
+      "ils": "Ils auront attendu toute la nuit devant le magasin."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais attendu, mais j'avais un train à prendre.",
+      "tu": "Tu aurais attendu avec moi ?",
+      "il": "Il aurait attendu plus longtemps avec un livre.",
+      "nous": "Nous aurions attendu la fin du match.",
+      "vous": "Vous auriez attendu combien de temps ?",
+      "ils": "Ils auraient attendu le lendemain pour partir."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est surpris que j'aie attendu si longtemps.",
+      "tu": "Je suis désolé que tu aies attendu sous la pluie.",
+      "il": "C'est dommage qu'il ait attendu le dernier jour.",
+      "nous": "Bien que nous ayons attendu deux heures, le magasin était fermé.",
+      "vous": "Je regrette que vous ayez attendu pour rien.",
+      "ils": "Je suis étonné qu'ils aient attendu jusqu'à minuit."
+    },
+    "Futur Proche": {
+      "je": "Je vais attendre la fin des soldes.",
+      "tu": "Tu vas attendre ici, d'accord ?",
+      "il": "Il va attendre sa sœur à la gare.",
+      "nous": "Nous allons attendre la fin de la pluie.",
+      "vous": "Vous allez attendre un peu, le médecin est en retard.",
+      "ils": "Ils vont attendre les résultats avec impatience."
+    },
+    "Impératif": {
+      "tu": "Attends-moi devant la boulangerie.",
+      "nous": "Attendons encore cinq minutes.",
+      "vous": "Attendez votre tour, s'il vous plaît."
+    }
+  }
+}

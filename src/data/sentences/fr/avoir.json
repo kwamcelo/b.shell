@@ -1,0 +1,106 @@
+{
+  "verb": "avoir",
+  "tenses": {
+    "Présent": {
+      "je": "J'ai deux frères et une sœur.",
+      "tu": "Tu as l'heure, s'il te plaît ?",
+      "il": "Il a un rendez-vous chez le dentiste.",
+      "nous": "Nous avons cours de français le mardi.",
+      "vous": "Vous avez des questions sur l'exercice ?",
+      "ils": "Ils ont une maison au bord de la mer."
+    },
+    "Passé Composé": {
+      "je": "J'ai eu une bonne note à l'examen.",
+      "tu": "Tu as eu de la chance avec la météo.",
+      "il": "Il a eu un accident de vélo hier.",
+      "nous": "Nous avons eu beaucoup de neige cet hiver.",
+      "vous": "Vous avez eu le temps de lire le livre ?",
+      "ils": "Ils ont eu un bébé au mois de mars."
+    },
+    "Imparfait": {
+      "je": "Quand j'avais dix ans, je jouais au foot tous les jours.",
+      "tu": "Tu avais raison sur ce restaurant.",
+      "il": "Il avait toujours un livre dans la poche.",
+      "nous": "Nous avions un chien qui s'appelait Rex.",
+      "vous": "Vous aviez l'air fatigué hier soir.",
+      "ils": "Ils avaient peur du noir."
+    },
+    "Futur Simple": {
+      "je": "J'aurai trente ans l'année prochaine.",
+      "tu": "Tu auras ta réponse demain.",
+      "il": "Il aura besoin d'aide pour le déménagement.",
+      "nous": "Nous aurons le temps de visiter le musée.",
+      "vous": "Vous aurez du soleil tout le week-end.",
+      "ils": "Ils auront leurs résultats en juillet."
+    },
+    "Conditionnel Présent": {
+      "je": "J'aurais besoin d'un conseil.",
+      "tu": "Tu aurais un stylo à me prêter ?",
+      "il": "Il aurait plus de temps sans ce travail.",
+      "nous": "Nous aurions envie d'un voyage en Italie.",
+      "vous": "Vous auriez une chambre pour ce soir ?",
+      "ils": "Ils auraient tort de refuser cette offre."
+    },
+    "Futur Proche": {
+      "je": "Je vais avoir besoin de ton aide.",
+      "tu": "Tu vas avoir froid sans manteau.",
+      "il": "Il va avoir une surprise en rentrant.",
+      "nous": "Nous allons avoir un examen vendredi.",
+      "vous": "Vous allez avoir de la visite ce soir.",
+      "ils": "Ils vont avoir un deuxième enfant."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'aie mon passeport pour voyager.",
+      "tu": "J'aimerais que tu aies plus confiance en toi.",
+      "il": "Je souhaite qu'il ait une bonne journée.",
+      "nous": "Il est important que nous ayons un plan.",
+      "vous": "Je doute que vous ayez le temps de tout faire.",
+      "ils": "Il faut qu'ils aient leurs billets avant lundi."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais eu peur pour rien.",
+      "tu": "Tu avais eu une très bonne idée.",
+      "il": "Il avait eu de la fièvre toute la nuit.",
+      "nous": "Nous avions eu du mal à trouver la maison.",
+      "vous": "Vous aviez eu raison de partir tôt.",
+      "ils": "Ils avaient eu un accident l'année précédente."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais eu peur à ta place.",
+      "tu": "Tu aurais eu le temps de passer nous voir.",
+      "il": "Il aurait eu besoin de plus de sommeil.",
+      "nous": "Nous aurions eu plus de chance avec un guide.",
+      "vous": "Vous auriez eu froid sans couverture.",
+      "ils": "Ils auraient eu une meilleure note avec plus de travail."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie eu mon diplôme.",
+      "tu": "Je suis heureux que tu aies eu cette chance.",
+      "il": "C'est dommage qu'il ait eu la grippe pendant les vacances.",
+      "nous": "Bien que nous ayons eu peu de temps, le projet est fini.",
+      "vous": "Je suis surpris que vous ayez eu un problème.",
+      "ils": "Il est possible qu'ils aient eu un empêchement."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai eu mon permis avant l'été.",
+      "tu": "Tu auras eu le temps de te reposer.",
+      "il": "Il aura eu une longue journée.",
+      "nous": "Nous aurons eu de la chance avec le temps.",
+      "vous": "Vous aurez eu une semaine bien chargée.",
+      "ils": "Ils auront eu leur réponse d'ici vendredi."
+    },
+    "Impératif": {
+      "tu": "Aie confiance en toi.",
+      "nous": "Ayons un peu de patience.",
+      "vous": "Ayez l'amabilité de fermer la porte."
+    },
+    "Passé Simple": {
+      "je": "J'eus soudain une idée.",
+      "tu": "Tu eus raison de partir.",
+      "il": "Il eut un sourire triste.",
+      "nous": "Nous eûmes beaucoup de chance ce jour-là.",
+      "vous": "Vous eûtes le courage de dire non.",
+      "ils": "Ils eurent trois enfants."
+    }
+  }
+}

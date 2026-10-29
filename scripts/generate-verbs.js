@@ -23,6 +23,14 @@ const PRONOMINAL_ONLY = new Set(['souvenir', 'asseoir', 'taire', 'dépêcher', '
 // Common both ways: the pronominal entry follows the plain one.
 const ALSO_PRONOMINAL = new Set(['lever', 'appeler', 'coucher', 'réveiller', 'sentir', 'rappeler', 'occuper', 'tromper'])
 
+// Lefff picks literary forms in a few places; use the everyday ones. { lemma: { code: { personIndex: form } } }
+const FORM_OVERRIDES = {
+  pouvoir: { P: { 0: 'peux' } },
+}
+
+// Imperatives Lefff lists but nobody uses.
+const NO_IMPERATIVE = new Set(['devoir'])
+
 const ETRE_VERBS = new Set([
   'aller', 'venir', 'arriver', 'partir', 'revenir', 'devenir', 'entrer', 'rentrer', 'sortir', 'monter',
   'descendre', 'tomber', 'retourner', 'naître', 'mourir', 'rester', 'apparaître', 'parvenir', 'intervenir',
@@ -89,8 +97,16 @@ function groupOf(infinitive, forms) {
   return 'irregular'
 }
 
+function withOverrides(base) {
+  const forms = { ...conjugations[base] }
+  for (const [code, byPerson] of Object.entries(FORM_OVERRIDES[base] ?? {})) {
+    forms[code] = forms[code].map((form, i) => byPerson[i] ?? form)
+  }
+  return forms
+}
+
 function buildVerb(base, pronominal) {
-  const forms = conjugations[base]
+  const forms = withOverrides(base)
   const avoir = conjugations['avoir']
   const etre = conjugations['être']
   const aller = conjugations['aller']
@@ -131,7 +147,7 @@ function buildVerb(base, pronominal) {
   addTense('Futur Proche', (person, i) => personValue(person, subject =>
     phrase([subject, aller.P[i], phrase([reflexive(person), base])])))
 
-  if (!impersonal && forms.Y) {
+  if (!impersonal && forms.Y && !NO_IMPERATIVE.has(base)) {
     addTense('Impératif', (person, i) => usable(forms.Y[i])
       && (pronominal ? `${forms.Y[i]}-${IMPERATIVE_REFLEXIVE[i]}` : forms.Y[i]))
   }

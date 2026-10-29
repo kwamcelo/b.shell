@@ -1,0 +1,106 @@
+{
+  "verb": "faire",
+  "tenses": {
+    "Présent": {
+      "je": "Je fais du yoga le dimanche matin.",
+      "tu": "Tu fais quoi ce week-end ?",
+      "il": "Il fait la cuisine pour toute la famille.",
+      "nous": "Nous faisons une promenade après le dîner.",
+      "vous": "Vous faites du ski cet hiver ?",
+      "ils": "Ils font leurs devoirs dans la cuisine."
+    },
+    "Passé Composé": {
+      "je": "J'ai fait un gâteau pour ton anniversaire.",
+      "tu": "Tu as fait tes valises ?",
+      "il": "Il a fait le tour du monde en bateau.",
+      "nous": "Nous avons fait une erreur dans le calcul.",
+      "vous": "Vous avez fait bon voyage ?",
+      "ils": "Ils ont fait beaucoup de bruit hier soir."
+    },
+    "Imparfait": {
+      "je": "Je faisais de la danse quand j'étais jeune.",
+      "tu": "Tu faisais quoi avant de devenir prof ?",
+      "il": "Il faisait ses courses le samedi matin.",
+      "nous": "Nous faisions du camping chaque été.",
+      "vous": "Vous faisiez du bruit pendant le film.",
+      "ils": "Ils faisaient la fête jusqu'à l'aube."
+    },
+    "Futur Simple": {
+      "je": "Je ferai la vaisselle après le repas.",
+      "tu": "Tu feras attention sur la route ?",
+      "il": "Il fera ses devoirs après le goûter.",
+      "nous": "Nous ferons une pause à midi.",
+      "vous": "Vous ferez connaissance avec l'équipe lundi.",
+      "ils": "Ils feront le voyage en train."
+    },
+    "Conditionnel Présent": {
+      "je": "Je ferais n'importe quoi pour un bon croissant.",
+      "tu": "Tu ferais mieux de te reposer.",
+      "il": "Il ferait un excellent professeur.",
+      "nous": "Nous ferions le trajet à pied avec plus de temps.",
+      "vous": "Vous feriez une petite place pour moi ?",
+      "ils": "Ils feraient mieux de partir tôt."
+    },
+    "Futur Proche": {
+      "je": "Je vais faire une sieste.",
+      "tu": "Tu vas faire les courses ce soir ?",
+      "il": "Il va faire un discours au mariage.",
+      "nous": "Nous allons faire une randonnée en montagne.",
+      "vous": "Vous allez faire du shopping en ville ?",
+      "ils": "Ils vont faire construire une maison."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je fasse le ménage avant samedi.",
+      "tu": "Je veux que tu fasses attention.",
+      "il": "Il est temps qu'il fasse ses valises.",
+      "nous": "Il faudrait que nous fassions des économies.",
+      "vous": "J'aimerais que vous fassiez moins de bruit.",
+      "ils": "Il faut qu'ils fassent un effort en maths."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais fait une réservation, mais elle a été annulée.",
+      "tu": "Tu avais fait une promesse à ta sœur.",
+      "il": "Il avait fait le même rêve la veille.",
+      "nous": "Nous avions fait le plein avant de partir.",
+      "vous": "Vous aviez fait vos devoirs avant le cours ?",
+      "ils": "Ils avaient fait tout le trajet sous la pluie."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais fait la même chose à ta place.",
+      "tu": "Tu aurais fait un bon avocat.",
+      "il": "Il aurait fait le voyage avec un peu plus d'argent.",
+      "nous": "Nous aurions fait la fête toute la nuit.",
+      "vous": "Vous auriez fait quoi dans cette situation ?",
+      "ils": "Ils auraient fait fortune avec cette idée."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie fait des progrès.",
+      "tu": "Je suis surpris que tu aies fait la cuisine.",
+      "il": "C'est gentil qu'il ait fait le déplacement.",
+      "nous": "Bien que nous ayons fait de notre mieux, le projet a échoué.",
+      "vous": "Je suis ravi que vous ayez fait bon voyage.",
+      "ils": "Il est possible qu'ils aient fait une erreur."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai fait mes valises avant ton arrivée.",
+      "tu": "Tu auras fait le plus difficile.",
+      "il": "Il aura fait trois fois le tour du lac.",
+      "nous": "Nous aurons fait tout notre possible.",
+      "vous": "Vous aurez fait un long voyage.",
+      "ils": "Ils auront fait la connaissance de toute la famille."
+    },
+    "Impératif": {
+      "tu": "Fais attention à la marche !",
+      "nous": "Faisons une pause, je suis fatigué.",
+      "vous": "Faites comme chez vous."
+    },
+    "Passé Simple": {
+      "je": "Je fis semblant de dormir.",
+      "tu": "Tu fis un pas en arrière.",
+      "il": "Il fit un signe de la main.",
+      "nous": "Nous fîmes le chemin en silence.",
+      "vous": "Vous fîtes une grave erreur ce jour-là.",
+      "ils": "Ils firent la paix après la guerre."
+    }
+  }
+}

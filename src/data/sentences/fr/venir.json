@@ -1,0 +1,106 @@
+{
+  "verb": "venir",
+  "tenses": {
+    "Présent": {
+      "je": "Je viens de Montréal.",
+      "tu": "Tu viens avec nous au cinéma ?",
+      "il": "Il vient au bureau à vélo.",
+      "nous": "Nous venons d'arriver à la gare.",
+      "vous": "Vous venez souvent dans ce café ?",
+      "ils": "Ils viennent dîner samedi soir."
+    },
+    "Imparfait": {
+      "je": "Je venais ici chaque été avec mes parents.",
+      "tu": "Tu venais à la plage avec nous quand tu étais enfant.",
+      "il": "Il venait nous voir tous les dimanches.",
+      "nous": "Nous venions de rentrer quand le téléphone a sonné.",
+      "vous": "Vous veniez à l'école à pied ?",
+      "ils": "Ils venaient de partir quand je suis arrivé."
+    },
+    "Futur Simple": {
+      "je": "Je viendrai te chercher à l'aéroport.",
+      "tu": "Tu viendras à mon anniversaire ?",
+      "il": "Il viendra en train demain.",
+      "nous": "Nous viendrons vous voir en été.",
+      "vous": "Vous viendrez dîner chez nous un soir.",
+      "ils": "Ils viendront à la réunion de lundi."
+    },
+    "Conditionnel Présent": {
+      "je": "Je viendrais volontiers, mais j'ai du travail.",
+      "tu": "Tu viendrais avec moi au marché ?",
+      "il": "Il viendrait volontiers avec un jour de congé.",
+      "nous": "Nous viendrions plus souvent avec une voiture.",
+      "vous": "Vous viendriez à la fête de samedi ?",
+      "ils": "Ils viendraient à pied, c'est tout près."
+    },
+    "Subjonctif": {
+      "je": "Mes parents veulent que je vienne pour Noël.",
+      "tu": "J'aimerais que tu viennes avec moi.",
+      "il": "Je doute qu'il vienne ce soir.",
+      "nous": "Ils veulent que nous venions plus tôt.",
+      "vous": "Il faut que vous veniez voir ce spectacle.",
+      "ils": "Je suis content qu'ils viennent au mariage."
+    },
+    "Passé Simple": {
+      "je": "Je vins à Paris pour la première fois en 1990.",
+      "tu": "Tu vins me voir un soir d'hiver.",
+      "il": "Il vint frapper à la porte au milieu de la nuit.",
+      "nous": "Nous vînmes au secours des voyageurs.",
+      "vous": "Vous vîntes nous rendre visite au printemps.",
+      "ils": "Ils vinrent de loin pour la fête."
+    },
+    "Passé Composé": {
+      "je": "Je suis venu dès que possible.",
+      "tu": "Tu es venu en bus ou en voiture ?",
+      "il": "Il est venu nous aider à déménager.",
+      "nous": "Nous sommes venus pour le festival de jazz.",
+      "vous": "Vous êtes venus par l'autoroute ?",
+      "ils": "Ils sont venus en avance pour nous aider."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais venu chercher mes clés.",
+      "tu": "Tu étais venu à cette fête l'année dernière ?",
+      "il": "Il était venu à pied depuis la gare.",
+      "nous": "Nous étions venus pour voir le feu d'artifice.",
+      "vous": "Vous étiez venus avec vos enfants ?",
+      "ils": "Ils étaient venus de Bruxelles en train."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai venu te voir avant la fin du mois.",
+      "tu": "Tu seras venu pour rien si le magasin est fermé.",
+      "il": "Il sera venu au moins une fois cette année.",
+      "nous": "Nous serons venus trois fois dans ce restaurant.",
+      "vous": "Vous serez venus de loin pour ce concert.",
+      "ils": "Ils seront venus nous voir avant leur départ."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais venu avec plaisir.",
+      "tu": "Tu serais venu avec nous si tu avais su ?",
+      "il": "Il serait venu sans la grève des trains.",
+      "nous": "Nous serions venus plus tôt sans les bouchons.",
+      "vous": "Vous seriez venus en voiture ?",
+      "ils": "Ils seraient venus avec une invitation."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est heureuse que je sois venu.",
+      "tu": "Merci beaucoup ! Je suis ravi que tu sois venu.",
+      "il": "C'est gentil qu'il soit venu à l'hôpital.",
+      "nous": "Ils sont contents que nous soyons venus.",
+      "vous": "Je suis heureux que vous soyez venus.",
+      "ils": "C'est dommage qu'ils soient venus si tard."
+    },
+    "Futur Proche": {
+      "je": "Je vais venir avec ma sœur.",
+      "tu": "Tu vas venir à la plage avec nous ?",
+      "il": "Il va venir réparer la machine à laver.",
+      "nous": "Nous allons venir en train.",
+      "vous": "Vous allez venir à la soirée ?",
+      "ils": "Ils vont venir nous chercher à la gare."
+    },
+    "Impératif": {
+      "tu": "Viens ici tout de suite !",
+      "nous": "Venons ensemble demain matin.",
+      "vous": "Venez dîner à la maison samedi."
+    }
+  }
+}

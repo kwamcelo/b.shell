@@ -2,6 +2,8 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { buildRound } from '../engine/round'
 import { buildChoices, makeQuestion } from '../engine/question'
 import { toDay } from '../engine/day'
+import { sentenceFor } from '../engine/sentences'
+import { loadSentences } from '../data/sentences'
 import QuestionCard from '../components/QuestionCard'
 import ProgressBar from '../components/ProgressBar'
 import WordReferenceLink from '../components/WordReferenceLink'
@@ -24,6 +26,17 @@ export default function Round({ state, combos, index, onFinish, onQuit }) {
     () => combo && buildChoices(makeQuestion(combo), state.cards[combo.id] ?? null, index),
     [combo, state.cards, index],
   )
+
+  // Fetch the verb's example sentences while the question is on screen.
+  const [sentences, setSentences] = useState(null)
+  const verb = combo?.verb
+  useEffect(() => {
+    if (!verb) return
+    let live = true
+    setSentences(null)
+    loadSentences(verb).then(loaded => live && setSentences(loaded))
+    return () => { live = false }
+  }, [verb])
 
   if (!round.length) {
     return (
@@ -51,6 +64,7 @@ export default function Round({ state, combos, index, onFinish, onQuit }) {
   }
 
   const wrong = picked !== null && picked !== question.answer
+  const example = wrong && sentenceFor(sentences?.[combo.tense]?.[combo.person], combo, question.variant)
 
   return (
     <main className="screen round">
@@ -65,6 +79,11 @@ export default function Round({ state, combos, index, onFinish, onQuit }) {
         <div className="feedback" role="status">
           <p className="feedback-label">{t.correctAnswer}</p>
           <p className="feedback-answer">{question.pronoun} <strong>{question.answer}</strong></p>
+          {example && (
+            <p className="feedback-sentence">
+              {example.before}<strong>{example.phrase}</strong>{example.after}
+            </p>
+          )}
           <WordReferenceLink verb={combo.verb} />
           <button className="btn-primary" onClick={() => advance(results, misses)} autoFocus>{t.continue}</button>
         </div>

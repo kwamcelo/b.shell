@@ -1,0 +1,106 @@
+{
+  "verb": "aimer",
+  "tenses": {
+    "Présent": {
+      "je": "J'aime le chocolat noir.",
+      "tu": "Tu aimes le cinéma italien ?",
+      "il": "Il aime courir le matin.",
+      "nous": "Nous aimons beaucoup cette ville.",
+      "vous": "Vous aimez la cuisine épicée ?",
+      "ils": "Ils aiment jouer aux cartes le soir."
+    },
+    "Imparfait": {
+      "je": "J'aimais lire sous les arbres quand j'étais enfant.",
+      "tu": "Tu aimais les dessins animés ?",
+      "il": "Il aimait se promener au bord de la mer.",
+      "nous": "Nous aimions passer l'été chez nos grands-parents.",
+      "vous": "Vous aimiez l'école ?",
+      "ils": "Ils aimaient danser jusqu'au matin."
+    },
+    "Futur Simple": {
+      "je": "J'aimerai toujours cette chanson.",
+      "tu": "Tu aimeras ce livre, j'en suis sûr.",
+      "il": "Il aimera sûrement son cadeau.",
+      "nous": "Nous aimerons vivre à la campagne.",
+      "vous": "Vous aimerez la vue depuis la terrasse.",
+      "ils": "Ils aimeront ce restaurant."
+    },
+    "Conditionnel Présent": {
+      "je": "J'aimerais visiter le Japon un jour.",
+      "tu": "Tu aimerais venir dîner samedi ?",
+      "il": "Il aimerait apprendre à nager.",
+      "nous": "Nous aimerions réserver une table pour deux.",
+      "vous": "Vous aimeriez boire quelque chose ?",
+      "ils": "Ils aimeraient avoir un chien."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que j'aime les légumes.",
+      "tu": "Je veux que tu aimes ton nouveau quartier.",
+      "il": "C'est normal qu'il aime sa ville natale.",
+      "nous": "Il est important que nous aimions notre travail.",
+      "vous": "Je souhaite que vous aimiez ce spectacle.",
+      "ils": "Je suis content qu'ils aiment leur nouvelle école."
+    },
+    "Passé Simple": {
+      "je": "J'aimai cette femme dès le premier regard.",
+      "tu": "Tu aimas ce pays plus que tout.",
+      "il": "Il aima la musique toute sa vie.",
+      "nous": "Nous aimâmes ce village au premier coup d'œil.",
+      "vous": "Vous aimâtes la poésie dès l'enfance.",
+      "ils": "Ils aimèrent leur jardin jusqu'à la fin."
+    },
+    "Passé Composé": {
+      "je": "J'ai aimé ce film du début à la fin.",
+      "tu": "Tu as aimé le concert ?",
+      "il": "Il a aimé son séjour à Lisbonne.",
+      "nous": "Nous avons aimé la visite du château.",
+      "vous": "Vous avez aimé le repas ?",
+      "ils": "Ils ont aimé leur voyage en Grèce."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais aimé ce livre quand j'étais ado.",
+      "tu": "Tu avais aimé ce restaurant la dernière fois.",
+      "il": "Il avait aimé ce pays dès son arrivée.",
+      "nous": "Nous avions aimé ce quartier au premier coup d'œil.",
+      "vous": "Vous aviez aimé son premier roman ?",
+      "ils": "Ils avaient aimé la ville, malgré la pluie."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai aimé chaque moment de ce voyage.",
+      "tu": "Tu auras aimé ce séjour, j'espère.",
+      "il": "Il aura aimé ce métier toute sa vie.",
+      "nous": "Nous aurons aimé cette maison pendant trente ans.",
+      "vous": "Vous aurez aimé la fin du film, j'en suis sûr.",
+      "ils": "Ils auront aimé ces vacances."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais aimé venir avec vous.",
+      "tu": "Tu aurais aimé ce concert.",
+      "il": "Il aurait aimé devenir pilote.",
+      "nous": "Nous aurions aimé rester plus longtemps.",
+      "vous": "Vous auriez aimé voir ça !",
+      "ils": "Ils auraient aimé avoir plus de temps."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est content que j'aie aimé son film.",
+      "tu": "Je suis ravi que tu aies aimé le gâteau.",
+      "il": "C'est bien qu'il ait aimé son stage.",
+      "nous": "Bien que nous ayons aimé l'hôtel, nous changeons cette année.",
+      "vous": "Je suis heureux que vous ayez aimé la soirée.",
+      "ils": "C'est super qu'ils aient aimé le spectacle."
+    },
+    "Futur Proche": {
+      "je": "Je vais aimer ce nouveau travail, je le sens.",
+      "tu": "Tu vas aimer ce restaurant.",
+      "il": "Il va aimer son cadeau d'anniversaire.",
+      "nous": "Nous allons aimer cette nouvelle maison.",
+      "vous": "Vous allez aimer ce film.",
+      "ils": "Ils vont aimer la plage de Biarritz."
+    },
+    "Impératif": {
+      "tu": "Aime la vie, elle est courte.",
+      "nous": "Aimons-nous les uns les autres.",
+      "vous": "Aimez vos voisins."
+    }
+  }
+}

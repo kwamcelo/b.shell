@@ -1,0 +1,106 @@
+{
+  "verb": "croire",
+  "tenses": {
+    "Présent": {
+      "je": "Je crois que tu as raison.",
+      "tu": "Tu crois au père Noël ?",
+      "il": "Il croit tout ce qu'on lui dit.",
+      "nous": "Nous croyons en toi.",
+      "vous": "Vous croyez que le magasin est ouvert ?",
+      "ils": "Ils croient aux fantômes."
+    },
+    "Imparfait": {
+      "je": "Je croyais que tu étais à Paris.",
+      "tu": "Tu croyais vraiment cette histoire ?",
+      "il": "Il croyait que le film commençait à huit heures.",
+      "nous": "Nous croyions que la réunion était annulée.",
+      "vous": "Vous croyiez que j'allais oublier ?",
+      "ils": "Ils croyaient que la Terre était plate."
+    },
+    "Futur Simple": {
+      "je": "Je croirai cette histoire quand je la verrai.",
+      "tu": "Tu croiras à peine ce qui m'est arrivé.",
+      "il": "Il croira n'importe quoi.",
+      "nous": "Nous croirons en vous jusqu'au bout.",
+      "vous": "Vous croirez peut-être que je mens.",
+      "ils": "Ils croiront ce que tu leur diras."
+    },
+    "Conditionnel Présent": {
+      "je": "Je croirais presque que tu as fait exprès.",
+      "tu": "Tu croirais qu'il est l'heure du dîner.",
+      "il": "Il croirait toutes tes histoires.",
+      "nous": "Nous croirions entendre un oiseau.",
+      "vous": "Vous croiriez voir un fantôme.",
+      "ils": "Ils croiraient n'importe quelle rumeur."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je croie cette histoire ?",
+      "tu": "J'ai peur que tu croies tout ce qu'on dit en ligne.",
+      "il": "Je doute qu'il croie à ton excuse.",
+      "nous": "Il veut que nous croyions à son projet.",
+      "vous": "Il faut que vous croyiez en vos rêves.",
+      "ils": "Je ne veux pas qu'ils croient cette rumeur."
+    },
+    "Passé Simple": {
+      "je": "Je crus entendre un bruit dans le grenier.",
+      "tu": "Tu crus voir une ombre derrière la porte.",
+      "il": "Il crut à une mauvaise blague.",
+      "nous": "Nous crûmes à un miracle.",
+      "vous": "Vous crûtes la guerre finie.",
+      "ils": "Ils crurent la légende du trésor."
+    },
+    "Passé Composé": {
+      "je": "J'ai cru voir ton frère au supermarché.",
+      "tu": "Tu as cru à son histoire ?",
+      "il": "Il a cru que c'était une blague.",
+      "nous": "Nous avons cru entendre la sonnette.",
+      "vous": "Vous avez cru la météo ?",
+      "ils": "Ils ont cru que nous étions partis."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais cru que la fête était samedi.",
+      "tu": "Tu avais cru à ses promesses.",
+      "il": "Il avait cru gagner à la loterie.",
+      "nous": "Nous avions cru à une erreur.",
+      "vous": "Vous aviez cru que le musée était gratuit ?",
+      "ils": "Ils avaient cru à notre histoire."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai cru à ses mensonges pendant des années.",
+      "tu": "Tu auras cru à cette histoire jusqu'au bout.",
+      "il": "Il aura cru à une plaisanterie.",
+      "nous": "Nous aurons cru en ce projet jusqu'à la fin.",
+      "vous": "Vous aurez cru à un rêve.",
+      "ils": "Ils auront cru que nous avions oublié."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais cru que tu aimais le chocolat.",
+      "tu": "Tu aurais cru ça de lui ?",
+      "il": "Il aurait cru à n'importe quelle excuse.",
+      "nous": "Nous aurions cru à une blague.",
+      "vous": "Vous auriez cru que c'était si facile ?",
+      "ils": "Ils auraient cru à un accident."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère trouve drôle que j'aie cru à cette histoire.",
+      "tu": "Je suis surpris que tu aies cru à ses excuses.",
+      "il": "C'est étrange qu'il ait cru à cette rumeur.",
+      "nous": "Bien que nous ayons cru en lui, le projet a échoué.",
+      "vous": "Je suis étonné que vous ayez cru à cette publicité.",
+      "ils": "Je doute qu'ils aient cru à mon excuse."
+    },
+    "Futur Proche": {
+      "je": "Je vais croire que tu ne m'aimes plus !",
+      "tu": "Tu vas croire que je suis fou.",
+      "il": "Il va croire que nous l'avons oublié.",
+      "nous": "Nous allons croire à un miracle.",
+      "vous": "Vous allez croire que j'exagère.",
+      "ils": "Ils vont croire que nous sommes en retard."
+    },
+    "Impératif": {
+      "tu": "Crois-moi, c'est une bonne idée.",
+      "nous": "Croyons en notre équipe.",
+      "vous": "Croyez-moi, ce restaurant est excellent."
+    }
+  }
+}

@@ -34,6 +34,11 @@ describe('verbs.fr.json', () => {
     expect(verb('se lever').tenses['Passé Composé'][TU]).toBe("tu t'es levé")
   })
 
+  it('uses everyday forms over literary ones', () => {
+    expect(verb('pouvoir').tenses['Présent'][JE]).toBe('je peux')
+    expect(verb('devoir').tenses['Impératif']).toBeUndefined()
+  })
+
   it('only conjugates impersonal verbs with il', () => {
     const tenses = verb('falloir').tenses
     expect(tenses['Passé Composé']).toEqual({ [IL]: 'il a fallu' })

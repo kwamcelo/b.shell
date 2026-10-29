@@ -1,0 +1,106 @@
+{
+  "verb": "appeler",
+  "tenses": {
+    "Présent": {
+      "je": "J'appelle ma grand-mère tous les dimanches.",
+      "tu": "Tu appelles un taxi ?",
+      "il": "Il appelle le plombier pour la fuite.",
+      "nous": "Nous appelons nos parents ce soir.",
+      "vous": "Vous appelez depuis quel numéro ?",
+      "ils": "Ils appellent leur chien Max."
+    },
+    "Imparfait": {
+      "je": "J'appelais mes amis depuis la cabine du coin.",
+      "tu": "Tu appelais qui à cette heure-là ?",
+      "il": "Il appelait sa mère tous les soirs.",
+      "nous": "Nous appelions le médecin au moindre rhume.",
+      "vous": "Vous appeliez souvent vos cousins ?",
+      "ils": "Ils appelaient leur grand-père « Papi »."
+    },
+    "Futur Simple": {
+      "je": "J'appellerai le garage demain matin.",
+      "tu": "Tu appelleras ta sœur pour son anniversaire ?",
+      "il": "Il appellera le service client.",
+      "nous": "Nous appellerons notre fille Chloé.",
+      "vous": "Vous appellerez ce numéro en cas de problème.",
+      "ils": "Ils appelleront la police si besoin."
+    },
+    "Conditionnel Présent": {
+      "je": "J'appellerais un médecin, à ta place.",
+      "tu": "Tu appellerais le restaurant pour réserver ?",
+      "il": "Il appellerait ses parents plus souvent avec moins de travail.",
+      "nous": "Nous appellerions un taxi sans ce bus de nuit.",
+      "vous": "Vous appelleriez l'ascenseur, s'il vous plaît ?",
+      "ils": "Ils appelleraient leur bébé Louis."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'appelle une ambulance ?",
+      "tu": "Il faut que tu appelles ta mère.",
+      "il": "Je préfère qu'il appelle avant de venir.",
+      "nous": "Il vaut mieux que nous appelions un électricien.",
+      "vous": "J'aimerais que vous appeliez le directeur.",
+      "ils": "Il faut qu'ils appellent les pompiers."
+    },
+    "Passé Simple": {
+      "je": "J'appelai à l'aide de toutes mes forces.",
+      "tu": "Tu appelas ton frère au secours.",
+      "il": "Il appela ses soldats au combat.",
+      "nous": "Nous appelâmes le médecin du village.",
+      "vous": "Vous appelâtes votre fils Victor.",
+      "ils": "Ils appelèrent leur village Saint-Jean."
+    },
+    "Passé Composé": {
+      "je": "J'ai appelé la banque ce matin.",
+      "tu": "Tu as appelé le dentiste ?",
+      "il": "Il a appelé un taxi pour aller à l'aéroport.",
+      "nous": "Nous avons appelé les pompiers.",
+      "vous": "Vous avez appelé votre mère ?",
+      "ils": "Ils ont appelé leur fille Emma."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais appelé trois fois, sans réponse.",
+      "tu": "Tu avais appelé le restaurant pour réserver ?",
+      "il": "Il avait appelé un ami pour l'aider.",
+      "nous": "Nous avions appelé un taxi, mais il n'est jamais venu.",
+      "vous": "Vous aviez appelé l'hôtel avant d'arriver ?",
+      "ils": "Ils avaient appelé leurs voisins à l'aide."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai appelé tous les clients avant midi.",
+      "tu": "Tu auras appelé tes parents avant de partir.",
+      "il": "Il aura appelé le médecin, j'espère.",
+      "nous": "Nous aurons appelé tous les hôtels de la ville.",
+      "vous": "Vous aurez appelé la banque avant vendredi.",
+      "ils": "Ils auront appelé la police avant notre arrivée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais appelé, mais mon téléphone était mort.",
+      "tu": "Tu aurais appelé la police à ma place ?",
+      "il": "Il aurait appelé avec un peu plus de temps.",
+      "nous": "Nous aurions appelé un médecin plus tôt.",
+      "vous": "Vous auriez appelé votre fils comment ?",
+      "ils": "Ils auraient appelé un taxi sans la pluie."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie appelé.",
+      "tu": "Je suis content que tu aies appelé.",
+      "il": "C'est bien qu'il ait appelé les secours.",
+      "nous": "Bien que nous ayons appelé deux fois, personne n'a répondu.",
+      "vous": "Je suis soulagé que vous ayez appelé le médecin.",
+      "ils": "C'est étrange qu'ils aient appelé si tard."
+    },
+    "Futur Proche": {
+      "je": "Je vais appeler mon frère ce soir.",
+      "tu": "Tu vas appeler le plombier ?",
+      "il": "Il va appeler la réception.",
+      "nous": "Nous allons appeler un serrurier.",
+      "vous": "Vous allez appeler un taxi ?",
+      "ils": "Ils vont appeler leur fils Hugo."
+    },
+    "Impératif": {
+      "tu": "Appelle-moi en arrivant.",
+      "nous": "Appelons les secours tout de suite.",
+      "vous": "Appelez le 911 en cas d'urgence."
+    }
+  }
+}

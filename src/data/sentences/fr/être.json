@@ -1,0 +1,106 @@
+{
+  "verb": "être",
+  "tenses": {
+    "Présent": {
+      "je": "Je suis en retard pour le cours de français.",
+      "tu": "Tu es toujours le bienvenu chez nous.",
+      "il": "Il est à la bibliothèque depuis ce matin.",
+      "nous": "Nous sommes en vacances jusqu'à lundi.",
+      "vous": "Vous êtes dans le bon train pour Lyon.",
+      "ils": "Ils sont au cinéma avec leurs cousins."
+    },
+    "Passé Composé": {
+      "je": "J'ai été malade toute la semaine dernière.",
+      "tu": "Tu as été très patient avec moi.",
+      "il": "Il a été au chômage pendant six mois.",
+      "nous": "Nous avons été surpris par la nouvelle.",
+      "vous": "Vous avez été d'une grande aide hier.",
+      "ils": "Ils ont été en retard à cause de la neige."
+    },
+    "Imparfait": {
+      "je": "Quand j'étais petit, je voulais devenir pompier.",
+      "tu": "Tu étais où quand j'ai appelé ?",
+      "il": "Il était à Paris quand la guerre a commencé.",
+      "nous": "Nous étions voisins pendant dix ans.",
+      "vous": "Vous étiez au concert samedi soir ?",
+      "ils": "Ils étaient en train de dîner quand je suis arrivé."
+    },
+    "Futur Simple": {
+      "je": "Je serai à l'heure demain, promis.",
+      "tu": "Tu seras toujours mon meilleur ami.",
+      "il": "Il sera au bureau jusqu'à dix-huit heures.",
+      "nous": "Nous serons de retour avant minuit.",
+      "vous": "Vous serez les premiers à le savoir.",
+      "ils": "Ils seront à Montréal la semaine prochaine."
+    },
+    "Conditionnel Présent": {
+      "je": "Je serais ravi de vous aider.",
+      "tu": "Tu serais libre samedi pour un café ?",
+      "il": "Il serait à l'heure avec le métro.",
+      "nous": "Nous serions plus heureux à la campagne.",
+      "vous": "Vous seriez d'accord pour changer la date ?",
+      "ils": "Ils seraient en vacances avec un peu plus d'argent."
+    },
+    "Futur Proche": {
+      "je": "Je vais être en retard ce soir.",
+      "tu": "Tu vas être fatigué demain matin.",
+      "il": "Il va être au bureau toute la journée.",
+      "nous": "Nous allons être en vacances la semaine prochaine.",
+      "vous": "Vous allez être en avance pour une fois.",
+      "ils": "Ils vont être à la gare dans dix minutes."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je sois à la maison avant minuit.",
+      "tu": "Il faut que tu sois patient avec ton petit frère.",
+      "il": "Je doute qu'il soit au bureau ce soir.",
+      "nous": "Il faut que nous soyons à l'aéroport à six heures.",
+      "vous": "Je voudrais que vous soyez honnête avec moi.",
+      "ils": "Bien qu'ils soient en retard, le film n'a pas commencé."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais été prévenu, mais je n'ai rien dit.",
+      "tu": "Tu avais été très clair dès le début.",
+      "il": "Il avait été en prison avant de devenir écrivain.",
+      "nous": "Nous avions été invités à leur mariage.",
+      "vous": "Vous aviez été à Rome avant ce voyage ?",
+      "ils": "Ils avaient été au marché avant de rentrer."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais été heureux de te revoir.",
+      "tu": "Tu aurais été parfait pour ce rôle.",
+      "il": "Il aurait été à l'heure sans les bouchons.",
+      "nous": "Nous aurions été plus prudents avec plus d'expérience.",
+      "vous": "Vous auriez été d'accord avec cette idée ?",
+      "ils": "Ils auraient été au courant avec un simple message."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma famille est fière que j'aie été accepté à l'université.",
+      "tu": "Je suis désolé que tu aies été malade.",
+      "il": "Bien qu'il ait été en retard, la réunion s'est bien passée.",
+      "nous": "C'est dommage que nous ayons été absents ce jour-là.",
+      "vous": "Je regrette que vous ayez été déçu.",
+      "ils": "C'est étonnant qu'ils aient été au courant si tôt."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai été absent trois semaines à mon retour.",
+      "tu": "Tu auras été le seul à comprendre.",
+      "il": "Il aura été au bureau toute la journée.",
+      "nous": "Nous aurons été en France pendant un an en juin.",
+      "vous": "Vous aurez été d'une grande aide.",
+      "ils": "Ils auront été en route pendant dix heures."
+    },
+    "Impératif": {
+      "tu": "Sois prudent sur la route !",
+      "nous": "Soyons honnêtes avec eux.",
+      "vous": "Soyez à l'heure demain matin."
+    },
+    "Passé Simple": {
+      "je": "Je fus le premier à arriver ce soir-là.",
+      "tu": "Tu fus toujours un ami fidèle.",
+      "il": "Il fut de retour avant l'hiver.",
+      "nous": "Nous fûmes surpris par l'orage.",
+      "vous": "Vous fûtes d'une patience admirable.",
+      "ils": "Ils furent de retour au village avant la nuit."
+    }
+  }
+}

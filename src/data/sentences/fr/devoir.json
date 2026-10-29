@@ -1,0 +1,101 @@
+{
+  "verb": "devoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je dois finir ce rapport avant midi.",
+      "tu": "Tu dois prendre le bus de huit heures.",
+      "il": "Il doit appeler sa mère ce soir.",
+      "nous": "Nous devons partir dans dix minutes.",
+      "vous": "Vous devez remplir ce formulaire.",
+      "ils": "Ils doivent rentrer avant minuit."
+    },
+    "Imparfait": {
+      "je": "Je devais rendre ce livre hier.",
+      "tu": "Tu devais m'appeler ce matin.",
+      "il": "Il devait arriver à six heures.",
+      "nous": "Nous devions nous voir samedi.",
+      "vous": "Vous deviez porter un uniforme à l'école ?",
+      "ils": "Ils devaient faire leurs devoirs avant de jouer."
+    },
+    "Futur Simple": {
+      "je": "Je devrai travailler samedi prochain.",
+      "tu": "Tu devras montrer ton passeport à la frontière.",
+      "il": "Il devra changer de train à Lyon.",
+      "nous": "Nous devrons acheter un nouveau frigo.",
+      "vous": "Vous devrez arriver une heure avant le départ.",
+      "ils": "Ils devront passer un examen en juin."
+    },
+    "Conditionnel Présent": {
+      "je": "Je devrais faire plus de sport.",
+      "tu": "Tu devrais goûter ce fromage.",
+      "il": "Il devrait arriver d'une minute à l'autre.",
+      "nous": "Nous devrions réserver une table.",
+      "vous": "Vous devriez prendre un parapluie.",
+      "ils": "Ils devraient dormir plus."
+    },
+    "Subjonctif": {
+      "je": "Mes amis regrettent que je doive partir si tôt.",
+      "tu": "C'est dommage que tu doives travailler ce soir.",
+      "il": "Je suis désolé qu'il doive attendre.",
+      "nous": "Bien que nous devions partir, nous restons pour le dessert.",
+      "vous": "Je regrette que vous deviez payer en avance.",
+      "ils": "C'est normal qu'ils doivent rendre leurs copies."
+    },
+    "Passé Simple": {
+      "je": "Je dus attendre trois heures à la gare.",
+      "tu": "Tu dus marcher jusqu'au village.",
+      "il": "Il dut quitter son pays pendant la guerre.",
+      "nous": "Nous dûmes traverser la forêt à pied.",
+      "vous": "Vous dûtes recommencer depuis le début.",
+      "ils": "Ils durent abandonner la course."
+    },
+    "Passé Composé": {
+      "je": "J'ai dû courir pour attraper le train.",
+      "tu": "Tu as dû attendre longtemps ?",
+      "il": "Il a dû oublier notre rendez-vous.",
+      "nous": "Nous avons dû annuler nos vacances.",
+      "vous": "Vous avez dû payer une amende ?",
+      "ils": "Ils ont dû se perdre en route."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais dû emprunter de l'argent à mon frère.",
+      "tu": "Tu avais dû travailler tout le week-end.",
+      "il": "Il avait dû vendre sa voiture.",
+      "nous": "Nous avions dû dormir à l'aéroport.",
+      "vous": "Vous aviez dû faire la queue pendant une heure.",
+      "ils": "Ils avaient dû changer leurs plans."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai dû me tromper de route.",
+      "tu": "Tu auras dû laisser ton sac dans le train.",
+      "il": "Il aura dû rater son bus.",
+      "nous": "Nous aurons dû faire une erreur de calcul.",
+      "vous": "Vous aurez dû mal comprendre l'adresse.",
+      "ils": "Ils auront dû partir sans nous."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais dû t'écouter.",
+      "tu": "Tu aurais dû prendre un manteau.",
+      "il": "Il aurait dû demander de l'aide.",
+      "nous": "Nous aurions dû partir plus tôt.",
+      "vous": "Vous auriez dû me prévenir.",
+      "ils": "Ils auraient dû réserver à l'avance."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont désolés que j'aie dû partir.",
+      "tu": "Je suis triste que tu aies dû vendre ta maison.",
+      "il": "C'est dommage qu'il ait dû annuler son voyage.",
+      "nous": "Bien que nous ayons dû attendre, la soirée était super.",
+      "vous": "Je regrette que vous ayez dû venir pour rien.",
+      "ils": "Il est injuste qu'ils aient dû payer deux fois."
+    },
+    "Futur Proche": {
+      "je": "Je vais devoir refaire mon passeport.",
+      "tu": "Tu vas devoir te lever tôt demain.",
+      "il": "Il va devoir choisir entre les deux.",
+      "nous": "Nous allons devoir trouver une solution.",
+      "vous": "Vous allez devoir patienter un peu.",
+      "ils": "Ils vont devoir déménager l'année prochaine."
+    }
+  }
+}

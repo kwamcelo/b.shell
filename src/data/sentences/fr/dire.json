@@ -1,0 +1,106 @@
+{
+  "verb": "dire",
+  "tenses": {
+    "Présent": {
+      "je": "Je dis toujours la vérité.",
+      "tu": "Tu dis ça pour me faire plaisir ?",
+      "il": "Il dit bonjour à tout le monde.",
+      "nous": "Nous disons merci au chauffeur en descendant.",
+      "vous": "Vous dites « tu » ou « vous » à votre patron ?",
+      "ils": "Ils disent que le film est excellent."
+    },
+    "Passé Composé": {
+      "je": "J'ai dit non à cette proposition.",
+      "tu": "Tu as dit quelque chose ?",
+      "il": "Il a dit au revoir avant de partir.",
+      "nous": "Nous avons dit la vérité à la police.",
+      "vous": "Vous avez dit dix heures ou onze heures ?",
+      "ils": "Ils ont dit oui tout de suite."
+    },
+    "Imparfait": {
+      "je": "Je disais justement que tu me manquais.",
+      "tu": "Tu disais quoi avant d'être interrompu ?",
+      "il": "Il disait souvent que la vie est courte.",
+      "nous": "Nous disions la prière avant chaque repas.",
+      "vous": "Vous disiez que le train était en retard ?",
+      "ils": "Ils disaient du mal de leurs voisins."
+    },
+    "Futur Simple": {
+      "je": "Je dirai à Paul de t'appeler.",
+      "tu": "Tu diras à Marie que je l'aime.",
+      "il": "Il dira la vérité au juge.",
+      "nous": "Nous dirons au revoir à tout le monde vendredi.",
+      "vous": "Vous direz bonjour à vos parents de ma part.",
+      "ils": "Ils diront leur avis à la réunion."
+    },
+    "Conditionnel Présent": {
+      "je": "Je dirais que le film dure deux heures.",
+      "tu": "Tu dirais oui à ce poste ?",
+      "il": "Il dirait n'importe quoi pour avoir raison.",
+      "nous": "Nous dirions plutôt le contraire.",
+      "vous": "Vous diriez que c'est loin d'ici ?",
+      "ils": "Ils diraient non sans hésiter."
+    },
+    "Futur Proche": {
+      "je": "Je vais dire la vérité à mes parents.",
+      "tu": "Tu vas dire quoi à ton patron ?",
+      "il": "Il va dire quelques mots au début de la cérémonie.",
+      "nous": "Nous allons dire au revoir à nos amis.",
+      "vous": "Vous allez dire bonjour à la directrice ?",
+      "ils": "Ils vont dire oui, j'en suis sûr."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je dise la vérité.",
+      "tu": "Je veux que tu dises ce que tu penses.",
+      "il": "Il faut qu'il dise merci à sa grand-mère.",
+      "nous": "Il est important que nous disions bonjour aux voisins.",
+      "vous": "J'aimerais que vous disiez votre avis franchement.",
+      "ils": "Il vaut mieux qu'ils disent la vérité."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais dit à Marc de venir à huit heures.",
+      "tu": "Tu avais dit que tu serais là !",
+      "il": "Il avait dit au revoir à tout le monde.",
+      "nous": "Nous avions dit non dès le départ.",
+      "vous": "Vous aviez dit que la réunion était annulée.",
+      "ils": "Ils avaient dit oui sans réfléchir."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais dit la même chose.",
+      "tu": "Tu aurais dit quoi à ma place ?",
+      "il": "Il aurait dit oui avec un meilleur salaire.",
+      "nous": "Nous aurions dit merci, au moins.",
+      "vous": "Vous auriez dit que c'était impossible.",
+      "ils": "Ils auraient dit non de toute façon."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie dit la vérité.",
+      "tu": "Je suis content que tu aies dit oui.",
+      "il": "Il est possible qu'il ait dit cela pour rire.",
+      "nous": "Bien que nous ayons dit non, le projet continue.",
+      "vous": "Je suis étonné que vous ayez dit ça.",
+      "ils": "Je doute qu'ils aient dit toute la vérité."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai dit tout ce que j'avais à dire.",
+      "tu": "Tu auras dit au revoir à tout le monde avant midi.",
+      "il": "Il aura dit la vérité, finalement.",
+      "nous": "Nous aurons dit adieu à cette vieille maison.",
+      "vous": "Vous aurez dit votre dernier mot.",
+      "ils": "Ils auront dit oui à toutes les propositions."
+    },
+    "Impératif": {
+      "tu": "Dis la vérité à ta mère.",
+      "nous": "Disons que c'est d'accord.",
+      "vous": "Dites bonjour à la dame."
+    },
+    "Passé Simple": {
+      "je": "Je dis adieu à mes amis et je partis.",
+      "tu": "Tu dis ces mots sans trembler.",
+      "il": "Il dit adieu et partit sans se retourner.",
+      "nous": "Nous dîmes au revoir à nos hôtes.",
+      "vous": "Vous dîtes la vérité devant le tribunal.",
+      "ils": "Ils dirent leurs prières à genoux."
+    }
+  }
+}

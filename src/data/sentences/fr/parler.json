@@ -1,0 +1,106 @@
+{
+  "verb": "parler",
+  "tenses": {
+    "Présent": {
+      "je": "Je parle français avec mes collègues.",
+      "tu": "Tu parles trop vite, je ne comprends rien.",
+      "il": "Il parle au téléphone depuis une heure.",
+      "nous": "Nous parlons de nos vacances.",
+      "vous": "Vous parlez anglais ?",
+      "ils": "Ils parlent de politique à chaque repas."
+    },
+    "Imparfait": {
+      "je": "Je parlais espagnol quand j'habitais à Madrid.",
+      "tu": "Tu parlais à qui au téléphone ?",
+      "il": "Il parlait souvent de son enfance.",
+      "nous": "Nous parlions jusqu'à minuit.",
+      "vous": "Vous parliez de moi ?",
+      "ils": "Ils parlaient doucement pour ne pas réveiller le bébé."
+    },
+    "Futur Simple": {
+      "je": "Je parlerai à mon patron demain.",
+      "tu": "Tu parleras de ton projet à la réunion.",
+      "il": "Il parlera devant toute l'école.",
+      "nous": "Nous parlerons de ce problème plus tard.",
+      "vous": "Vous parlerez avec le directeur lundi.",
+      "ils": "Ils parleront de leur voyage à la radio."
+    },
+    "Conditionnel Présent": {
+      "je": "Je parlerais mieux avec un peu de pratique.",
+      "tu": "Tu parlerais à ma sœur pour moi ?",
+      "il": "Il parlerait plus avec moins de stress.",
+      "nous": "Nous parlerions volontiers de ce sujet.",
+      "vous": "Vous parleriez plus fort, s'il vous plaît ?",
+      "ils": "Ils parleraient toute la nuit sans s'arrêter."
+    },
+    "Subjonctif": {
+      "je": "Mon prof veut que je parle plus en classe.",
+      "tu": "Il faut que tu parles à tes parents.",
+      "il": "Je préfère qu'il parle lentement.",
+      "nous": "Il est temps que nous parlions sérieusement.",
+      "vous": "J'aimerais que vous parliez moins fort.",
+      "ils": "Je veux qu'ils parlent français à la maison."
+    },
+    "Passé Simple": {
+      "je": "Je parlai longtemps avec le vieil homme.",
+      "tu": "Tu parlas sans réfléchir.",
+      "il": "Il parla d'une voix douce.",
+      "nous": "Nous parlâmes de la guerre toute la soirée.",
+      "vous": "Vous parlâtes avec courage devant le roi.",
+      "ils": "Ils parlèrent à voix basse."
+    },
+    "Passé Composé": {
+      "je": "J'ai parlé avec ta mère ce matin.",
+      "tu": "Tu as parlé au médecin ?",
+      "il": "Il a parlé pendant deux heures sans pause.",
+      "nous": "Nous avons parlé de toi hier soir.",
+      "vous": "Vous avez parlé à la police ?",
+      "ils": "Ils ont parlé de leur mariage à toute la famille."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais parlé de ce problème à mon chef.",
+      "tu": "Tu avais parlé de ce livre la semaine dernière.",
+      "il": "Il avait parlé à ses voisins avant la fête.",
+      "nous": "Nous avions parlé de ce voyage pendant des mois.",
+      "vous": "Vous aviez parlé à l'avocat avant de signer ?",
+      "ils": "Ils avaient parlé de déménager à la campagne."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai parlé à tout le monde avant la fin de la soirée.",
+      "tu": "Tu auras parlé à ton prof avant l'examen.",
+      "il": "Il aura parlé à tous les invités.",
+      "nous": "Nous aurons parlé de tout avant ton départ.",
+      "vous": "Vous aurez parlé à la directrice avant midi.",
+      "ils": "Ils auront parlé de nous toute la soirée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais parlé plus tôt avec plus de courage.",
+      "tu": "Tu aurais parlé au directeur à ma place ?",
+      "il": "Il aurait parlé à la police sans hésiter.",
+      "nous": "Nous aurions parlé de ce problème plus tôt.",
+      "vous": "Vous auriez parlé plus fort avec un micro.",
+      "ils": "Ils auraient parlé de toi en bien."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est contente que j'aie parlé à ses amis.",
+      "tu": "Je suis content que tu aies parlé à ton père.",
+      "il": "C'est bien qu'il ait parlé de ses problèmes.",
+      "nous": "Bien que nous ayons parlé longtemps, rien n'est décidé.",
+      "vous": "Je suis heureux que vous ayez parlé franchement.",
+      "ils": "Je doute qu'ils aient parlé de nous."
+    },
+    "Futur Proche": {
+      "je": "Je vais parler à mon frère ce soir.",
+      "tu": "Tu vas parler au public demain ?",
+      "il": "Il va parler de son nouveau livre.",
+      "nous": "Nous allons parler de ton avenir.",
+      "vous": "Vous allez parler à la presse ?",
+      "ils": "Ils vont parler de leur projet à la réunion."
+    },
+    "Impératif": {
+      "tu": "Parle plus fort, je t'entends mal.",
+      "nous": "Parlons d'autre chose.",
+      "vous": "Parlez lentement, s'il vous plaît."
+    }
+  }
+}

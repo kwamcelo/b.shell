@@ -1,0 +1,106 @@
+{
+  "verb": "voir",
+  "tenses": {
+    "Présent": {
+      "je": "Je vois la mer de ma fenêtre.",
+      "tu": "Tu vois ce que je veux dire ?",
+      "il": "Il voit ses grands-parents tous les dimanches.",
+      "nous": "Nous voyons nos cousins pendant les vacances.",
+      "vous": "Vous voyez le panneau là-bas ?",
+      "ils": "Ils voient un film au cinéma ce soir."
+    },
+    "Imparfait": {
+      "je": "Je voyais mes amis tous les soirs après l'école.",
+      "tu": "Tu voyais souvent ton oncle à Lyon ?",
+      "il": "Il voyait la montagne depuis son bureau.",
+      "nous": "Nous voyions les bateaux passer sur le fleuve.",
+      "vous": "Vous voyiez bien la scène de votre place ?",
+      "ils": "Ils voyaient leurs voisins tous les matins."
+    },
+    "Futur Simple": {
+      "je": "Je verrai le médecin jeudi.",
+      "tu": "Tu verras, ce sera génial.",
+      "il": "Il verra ses amis à la fête.",
+      "nous": "Nous verrons ce que nous pouvons faire.",
+      "vous": "Vous verrez la tour Eiffel au bout de la rue.",
+      "ils": "Ils verront leurs petits-enfants à Noël."
+    },
+    "Conditionnel Présent": {
+      "je": "Je verrais bien un petit café ici.",
+      "tu": "Tu verrais mieux avec tes lunettes.",
+      "il": "Il verrait la différence tout de suite.",
+      "nous": "Nous verrions le spectacle d'en haut avec ces billets.",
+      "vous": "Vous verriez la plage depuis le balcon.",
+      "ils": "Ils verraient leurs amis plus souvent en ville."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je voie le directeur avant midi.",
+      "tu": "Je veux que tu voies ce film avec moi.",
+      "il": "Ses parents attendent qu'il voie le médecin.",
+      "nous": "Il est temps que nous voyions la réalité en face.",
+      "vous": "J'aimerais que vous voyiez mon nouvel appartement.",
+      "ils": "Il faut qu'ils voient le spécialiste rapidement."
+    },
+    "Passé Simple": {
+      "je": "Je vis une lumière au bout du couloir.",
+      "tu": "Tu vis le danger trop tard.",
+      "il": "Il vit un loup à l'orée du bois.",
+      "nous": "Nous vîmes la mer pour la première fois.",
+      "vous": "Vous vîtes le roi passer à cheval.",
+      "ils": "Ils virent la ville au loin."
+    },
+    "Passé Composé": {
+      "je": "J'ai vu un renard dans le jardin ce matin.",
+      "tu": "Tu as vu mon téléphone quelque part ?",
+      "il": "Il a vu ce film trois fois.",
+      "nous": "Nous avons vu un très beau coucher de soleil.",
+      "vous": "Vous avez vu le match hier soir ?",
+      "ils": "Ils ont vu la tour Eiffel pendant leur voyage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais vu ce film au cinéma l'année dernière.",
+      "tu": "Tu avais vu la météo avant de partir ?",
+      "il": "Il avait vu l'accident depuis sa voiture.",
+      "nous": "Nous avions vu cette maison sur Internet.",
+      "vous": "Vous aviez vu le panneau d'interdiction ?",
+      "ils": "Ils avaient vu le spectacle deux fois."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai vu tous les musées de la ville avant de partir.",
+      "tu": "Tu auras vu le pays entier en un mois.",
+      "il": "Il aura vu la fin du film, cette fois.",
+      "nous": "Nous aurons vu toute la série avant la rentrée.",
+      "vous": "Vous aurez vu le plus beau paysage de la région.",
+      "ils": "Ils auront vu le monde entier avant trente ans."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais vu le concert avec un billet moins cher.",
+      "tu": "Tu aurais vu sa tête quand il a gagné !",
+      "il": "Il aurait vu l'erreur avec ses lunettes.",
+      "nous": "Nous aurions vu les aurores boréales avec un ciel clair.",
+      "vous": "Vous auriez vu le spectacle, c'était magique.",
+      "ils": "Ils auraient vu le voleur depuis la fenêtre."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est contente que j'aie vu son spectacle.",
+      "tu": "C'est dommage que tu aies vu seulement la fin du match.",
+      "il": "Il est possible qu'il ait vu quelque chose.",
+      "nous": "Bien que nous ayons vu ce film, nous le regardons encore.",
+      "vous": "Je suis ravi que vous ayez vu la pièce.",
+      "ils": "Je doute qu'ils aient vu le panneau."
+    },
+    "Futur Proche": {
+      "je": "Je vais voir un match de hockey samedi.",
+      "tu": "Tu vas voir tes parents ce week-end ?",
+      "il": "Il va voir le dentiste demain matin.",
+      "nous": "Nous allons voir une exposition au musée.",
+      "vous": "Vous allez voir, c'est très facile.",
+      "ils": "Ils vont voir leurs amis à Québec."
+    },
+    "Impératif": {
+      "tu": "Vois le bon côté des choses.",
+      "nous": "Voyons, ce n'est pas si grave.",
+      "vous": "Voyez par vous-mêmes."
+    }
+  }
+}

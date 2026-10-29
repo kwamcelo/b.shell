@@ -1,0 +1,101 @@
+{
+  "verb": "pouvoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je peux t'aider avec tes devoirs.",
+      "tu": "Tu peux fermer la fenêtre ?",
+      "il": "Il peut venir avec nous demain.",
+      "nous": "Nous pouvons commencer la réunion.",
+      "vous": "Vous pouvez répéter, s'il vous plaît ?",
+      "ils": "Ils peuvent rester dîner ce soir."
+    },
+    "Passé Composé": {
+      "je": "J'ai pu finir le travail à temps.",
+      "tu": "Tu as pu dormir un peu ?",
+      "il": "Il a pu acheter les billets en ligne.",
+      "nous": "Nous avons pu voir la tour Eiffel de notre chambre.",
+      "vous": "Vous avez pu trouver l'adresse facilement ?",
+      "ils": "Ils ont pu partir en vacances cette année."
+    },
+    "Imparfait": {
+      "je": "Je pouvais nager pendant des heures.",
+      "tu": "Tu pouvais me prévenir !",
+      "il": "Il pouvait courir très vite à vingt ans.",
+      "nous": "Nous pouvions voir la mer de la fenêtre.",
+      "vous": "Vous pouviez entrer sans frapper.",
+      "ils": "Ils pouvaient jouer dehors jusqu'au soir."
+    },
+    "Futur Simple": {
+      "je": "Je pourrai venir à ta fête samedi.",
+      "tu": "Tu pourras emprunter ma voiture.",
+      "il": "Il pourra passer son examen en juin.",
+      "nous": "Nous pourrons partir dès huit heures.",
+      "vous": "Vous pourrez payer par carte.",
+      "ils": "Ils pourront visiter le château demain."
+    },
+    "Conditionnel Présent": {
+      "je": "Je pourrais avoir un verre d'eau ?",
+      "tu": "Tu pourrais parler moins fort ?",
+      "il": "Il pourrait réussir avec un peu plus de travail.",
+      "nous": "Nous pourrions aller au cinéma ce soir.",
+      "vous": "Vous pourriez m'indiquer la gare ?",
+      "ils": "Ils pourraient arriver en retard à cause de la grève."
+    },
+    "Futur Proche": {
+      "je": "Je vais pouvoir me reposer ce week-end.",
+      "tu": "Tu vas pouvoir dormir dans le train.",
+      "il": "Il va pouvoir conduire dans deux mois.",
+      "nous": "Nous allons pouvoir déménager en mars.",
+      "vous": "Vous allez pouvoir entrer dans quelques minutes.",
+      "ils": "Ils vont pouvoir acheter une maison."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je puisse partir à cinq heures.",
+      "tu": "Je ferai tout pour que tu puisses venir.",
+      "il": "Je doute qu'il puisse venir ce soir.",
+      "nous": "Il faut une salle où nous puissions travailler au calme.",
+      "vous": "Je parle lentement pour que vous puissiez comprendre.",
+      "ils": "Il faut qu'ils puissent dormir un peu avant le match."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais pu dormir un peu dans l'avion.",
+      "tu": "Tu avais pu parler au directeur ?",
+      "il": "Il avait pu sauver le chat à temps.",
+      "nous": "Nous avions pu trouver une table en terrasse.",
+      "vous": "Vous aviez pu réserver un hôtel ?",
+      "ils": "Ils avaient pu prendre le dernier métro."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais pu venir plus tôt.",
+      "tu": "Tu aurais pu me le dire !",
+      "il": "Il aurait pu gagner la course.",
+      "nous": "Nous aurions pu rater le train.",
+      "vous": "Vous auriez pu appeler avant de venir.",
+      "ils": "Ils auraient pu se perdre sans carte."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie pu finir à temps.",
+      "tu": "Je suis soulagé que tu aies pu venir.",
+      "il": "C'est super qu'il ait pu venir.",
+      "nous": "Bien que nous ayons pu partir tôt, la route était bouchée.",
+      "vous": "Je suis content que vous ayez pu vous libérer.",
+      "ils": "Il est incroyable qu'ils aient pu finir en une heure."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai pu me reposer avant le match.",
+      "tu": "Tu auras pu voir toute la ville en trois jours.",
+      "il": "Il aura pu dire au revoir à sa famille.",
+      "nous": "Nous aurons pu visiter cinq musées.",
+      "vous": "Vous aurez pu profiter du soleil.",
+      "ils": "Ils auront pu terminer avant la nuit."
+    },
+    "Passé Simple": {
+      "je": "Je pus enfin dormir.",
+      "tu": "Tu pus voir la mer pour la première fois.",
+      "il": "Il put s'échapper par la fenêtre.",
+      "nous": "Nous pûmes rentrer avant l'orage.",
+      "vous": "Vous pûtes compter sur vos amis.",
+      "ils": "Ils purent repartir le lendemain."
+    }
+  }
+}

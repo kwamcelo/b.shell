@@ -1,0 +1,106 @@
+{
+  "verb": "laisser",
+  "tenses": {
+    "Présent": {
+      "je": "Je laisse mes clés sur la table de l'entrée.",
+      "tu": "Tu laisses la lumière allumée toute la nuit ?",
+      "il": "Il laisse toujours un pourboire.",
+      "nous": "Nous laissons la voiture au parking de la gare.",
+      "vous": "Vous laissez la porte ouverte pour le chat ?",
+      "ils": "Ils laissent leurs enfants jouer dans la rue."
+    },
+    "Imparfait": {
+      "je": "Je laissais toujours la porte ouverte.",
+      "tu": "Tu laissais ton vélo devant l'école.",
+      "il": "Il laissait ses chaussures partout.",
+      "nous": "Nous laissions le chat dormir sur le lit.",
+      "vous": "Vous laissiez les fenêtres ouvertes en été ?",
+      "ils": "Ils laissaient la radio allumée toute la journée."
+    },
+    "Futur Simple": {
+      "je": "Je laisserai la clé chez le voisin.",
+      "tu": "Tu laisseras un mot sur la table.",
+      "il": "Il laissera sa voiture au garage.",
+      "nous": "Nous laisserons les enfants chez leur grand-mère.",
+      "vous": "Vous laisserez vos bagages à la réception.",
+      "ils": "Ils laisseront un bon souvenir à tout le monde."
+    },
+    "Conditionnel Présent": {
+      "je": "Je laisserais tout pour vivre au soleil.",
+      "tu": "Tu laisserais ton chien seul toute la journée ?",
+      "il": "Il laisserait passer cette chance ?",
+      "nous": "Nous laisserions la voiture ici, si possible.",
+      "vous": "Vous laisseriez votre place à cette dame ?",
+      "ils": "Ils laisseraient tomber le projet sans ton aide."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je laisse la porte ouverte ?",
+      "tu": "Il faut que tu laisses une trace de ton passage.",
+      "il": "Je préfère qu'il laisse son téléphone à la maison.",
+      "nous": "Il vaut mieux que nous laissions la voiture ici.",
+      "vous": "J'aimerais que vous laissiez un commentaire.",
+      "ils": "Il faut qu'ils laissent la place aux autres."
+    },
+    "Passé Simple": {
+      "je": "Je laissai une lettre sur son bureau.",
+      "tu": "Tu laissas tes amis derrière toi.",
+      "il": "Il laissa la porte entrouverte.",
+      "nous": "Nous laissâmes nos chevaux au village.",
+      "vous": "Vous laissâtes passer votre chance.",
+      "ils": "Ils laissèrent la ville derrière eux."
+    },
+    "Passé Composé": {
+      "je": "J'ai laissé mon parapluie dans le métro.",
+      "tu": "Tu as laissé un message à ta mère ?",
+      "il": "Il a laissé un pourboire généreux.",
+      "nous": "Nous avons laissé le chien chez les voisins.",
+      "vous": "Vous avez laissé vos clés sur la porte.",
+      "ils": "Ils ont laissé la cuisine en désordre."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais laissé mon téléphone à la maison.",
+      "tu": "Tu avais laissé la fenêtre ouverte.",
+      "il": "Il avait laissé ses lunettes au bureau.",
+      "nous": "Nous avions laissé un mot sur la porte.",
+      "vous": "Vous aviez laissé la lumière allumée.",
+      "ils": "Ils avaient laissé leurs valises à l'hôtel."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai laissé la clé sous le paillasson.",
+      "tu": "Tu auras laissé ton sac dans le train.",
+      "il": "Il aura laissé un souvenir inoubliable.",
+      "nous": "Nous aurons laissé la maison propre.",
+      "vous": "Vous aurez laissé une bonne impression.",
+      "ils": "Ils auront laissé un message sur le répondeur."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais laissé un message, mais personne n'a répondu.",
+      "tu": "Tu aurais laissé passer cette occasion ?",
+      "il": "Il aurait laissé tomber sans tes encouragements.",
+      "nous": "Nous aurions laissé la voiture au garage.",
+      "vous": "Vous auriez laissé vos enfants seuls ?",
+      "ils": "Ils auraient laissé un pourboire avec un meilleur service."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est surpris que j'aie laissé passer cette offre.",
+      "tu": "C'est dommage que tu aies laissé tomber le piano.",
+      "il": "Je suis étonné qu'il ait laissé la porte ouverte.",
+      "nous": "Bien que nous ayons laissé un message, personne n'a rappelé.",
+      "vous": "C'est gentil que vous ayez laissé une place pour moi.",
+      "ils": "C'est bizarre qu'ils aient laissé leur voiture ici."
+    },
+    "Futur Proche": {
+      "je": "Je vais laisser un message à ton frère.",
+      "tu": "Tu vas laisser ton manteau ici ?",
+      "il": "Il va laisser sa place à quelqu'un d'autre.",
+      "nous": "Nous allons laisser les enfants chez mamie.",
+      "vous": "Vous allez laisser la porte ouverte ?",
+      "ils": "Ils vont laisser la maison à leurs enfants."
+    },
+    "Impératif": {
+      "tu": "Laisse-moi tranquille !",
+      "nous": "Laissons-les dormir.",
+      "vous": "Laissez un message après le bip."
+    }
+  }
+}

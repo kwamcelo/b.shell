@@ -1,0 +1,17 @@
+{
+  "verb": "falloir",
+  "tenses": {
+    "Présent": { "il": "Il faut partir maintenant." },
+    "Imparfait": { "il": "Il fallait marcher une heure pour aller à l'école." },
+    "Futur Simple": { "il": "Il faudra acheter du pain demain." },
+    "Conditionnel Présent": { "il": "Il faudrait réserver à l'avance." },
+    "Subjonctif": { "il": "Je ne crois pas qu'il faille s'inquiéter." },
+    "Passé Simple": { "il": "Il fallut attendre la fin de l'hiver." },
+    "Passé Composé": { "il": "Il a fallu trois heures pour réparer la voiture." },
+    "Plus-que-parfait": { "il": "Il avait fallu tout recommencer." },
+    "Futur Antérieur": { "il": "Il aura fallu dix ans pour finir ce pont." },
+    "Conditionnel Passé": { "il": "Il aurait fallu partir plus tôt." },
+    "Subjonctif Passé": { "il": "Je suis surpris qu'il ait fallu si longtemps." },
+    "Futur Proche": { "il": "Il va falloir se dépêcher." }
+  }
+}

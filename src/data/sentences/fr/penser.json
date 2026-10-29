@@ -1,0 +1,106 @@
+{
+  "verb": "penser",
+  "tenses": {
+    "Présent": {
+      "je": "Je pense à toi tous les jours.",
+      "tu": "Tu penses qu'il va pleuvoir ?",
+      "il": "Il pense souvent à son enfance.",
+      "nous": "Nous pensons partir en Italie cet été.",
+      "vous": "Vous pensez que c'est une bonne idée ?",
+      "ils": "Ils pensent acheter une maison."
+    },
+    "Imparfait": {
+      "je": "Je pensais que tu étais déjà parti.",
+      "tu": "Tu pensais à quoi pendant le cours ?",
+      "il": "Il pensait que le magasin ouvrait à neuf heures.",
+      "nous": "Nous pensions arriver plus tôt.",
+      "vous": "Vous pensiez à vos vacances ?",
+      "ils": "Ils pensaient que la fête était samedi."
+    },
+    "Futur Simple": {
+      "je": "Je penserai à toi pendant mon voyage.",
+      "tu": "Tu penseras à acheter du lait ?",
+      "il": "Il pensera à nous en recevant la carte.",
+      "nous": "Nous penserons à vous à Noël.",
+      "vous": "Vous penserez à fermer la porte à clé.",
+      "ils": "Ils penseront à ce jour toute leur vie."
+    },
+    "Conditionnel Présent": {
+      "je": "Je penserais plutôt à une erreur de calcul.",
+      "tu": "Tu penserais à me rappeler demain ?",
+      "il": "Il penserait différemment après ce voyage.",
+      "nous": "Nous penserions à tout avec une liste.",
+      "vous": "Vous penseriez à arroser mes plantes ?",
+      "ils": "Ils penseraient à nous en voyant cette photo."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je pense à quoi, exactement ?",
+      "tu": "J'aimerais que tu penses à ton avenir.",
+      "il": "Ses amis veulent qu'il pense un peu à lui.",
+      "nous": "Il faut que nous pensions aux conséquences.",
+      "vous": "Je voudrais que vous pensiez à ma proposition.",
+      "ils": "Il est important qu'ils pensent à leur sécurité."
+    },
+    "Passé Simple": {
+      "je": "Je pensai à ma mère en voyant ce jardin.",
+      "tu": "Tu pensas à fuir, mais tu restas.",
+      "il": "Il pensa longtemps à cette lettre.",
+      "nous": "Nous pensâmes à une ruse de l'ennemi.",
+      "vous": "Vous pensâtes à tout, comme toujours.",
+      "ils": "Ils pensèrent à leur village toute la nuit."
+    },
+    "Passé Composé": {
+      "je": "J'ai pensé à toi en voyant ce film.",
+      "tu": "Tu as pensé à prendre ton passeport ?",
+      "il": "Il a pensé à tout pour la fête.",
+      "nous": "Nous avons pensé à une autre solution.",
+      "vous": "Vous avez pensé à réserver le restaurant ?",
+      "ils": "Ils ont pensé à apporter des fleurs."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais pensé à tout, sauf à la pluie.",
+      "tu": "Tu avais pensé à prévenir tes parents ?",
+      "il": "Il avait pensé à changer de travail.",
+      "nous": "Nous avions pensé à vendre la maison.",
+      "vous": "Vous aviez pensé à une date pour le mariage ?",
+      "ils": "Ils avaient pensé à tout pour le pique-nique."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai pensé à toi chaque jour de ce voyage.",
+      "tu": "Tu auras pensé à tout, comme d'habitude.",
+      "il": "Il aura pensé à acheter le gâteau.",
+      "nous": "Nous aurons pensé à tous les détails.",
+      "vous": "Vous aurez pensé à prendre vos billets.",
+      "ils": "Ils auront pensé à réserver une table."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais pensé à toi pour ce poste.",
+      "tu": "Tu aurais pensé à ça, toi ?",
+      "il": "Il aurait pensé à nous appeler avec plus de temps.",
+      "nous": "Nous aurions pensé à une blague.",
+      "vous": "Vous auriez pensé à quelqu'un d'autre ?",
+      "ils": "Ils auraient pensé à apporter du vin."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est touchée que j'aie pensé à son anniversaire.",
+      "tu": "C'est gentil que tu aies pensé à moi.",
+      "il": "Je suis surpris qu'il ait pensé à ça.",
+      "nous": "Bien que nous ayons pensé à tout, il manque une chaise.",
+      "vous": "Merci ! Je suis touché que vous ayez pensé à moi.",
+      "ils": "C'est adorable qu'ils aient pensé aux enfants."
+    },
+    "Futur Proche": {
+      "je": "Je vais penser à ta proposition.",
+      "tu": "Tu vas penser à acheter du pain ?",
+      "il": "Il va penser à une solution.",
+      "nous": "Nous allons penser à un cadeau pour Paul.",
+      "vous": "Vous allez penser à moi en Grèce ?",
+      "ils": "Ils vont penser à nous pendant le voyage."
+    },
+    "Impératif": {
+      "tu": "Pense à prendre ton parapluie.",
+      "nous": "Pensons à l'avenir.",
+      "vous": "Pensez à éteindre la lumière en sortant."
+    }
+  }
+}
