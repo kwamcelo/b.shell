@@ -1,0 +1,106 @@
+{
+  "verb": "tuer",
+  "tenses": {
+    "Présent": {
+      "je": "Je tue le temps en lisant des magazines.",
+      "tu": "Tu tues tous les moustiques de la chambre ?",
+      "il": "Il tue le temps sur son téléphone.",
+      "nous": "Nous tuons l'ennui avec des jeux de société.",
+      "vous": "Vous tuez l'ambiance avec ces histoires !",
+      "ils": "Ils tuent les mauvaises herbes avec du vinaigre."
+    },
+    "Imparfait": {
+      "je": "Je tuais le temps en regardant les passants.",
+      "tu": "Tu tuais les mouches avec un vieux journal.",
+      "il": "Il tuait le temps en jouant aux cartes.",
+      "nous": "Nous tuions l'ennui en chantant dans la voiture.",
+      "vous": "Vous tuiez le temps comment pendant le voyage ?",
+      "ils": "Ils tuaient les heures à regarder la pluie."
+    },
+    "Futur Simple": {
+      "je": "Je tuerai le temps à la bibliothèque.",
+      "tu": "Tu tueras ce moustique avant de dormir ?",
+      "il": "Il tuera le temps avec un bon livre.",
+      "nous": "Nous tuerons l'attente avec un café.",
+      "vous": "Vous tuerez le temps au musée de l'aéroport.",
+      "ils": "Ils tueront le temps en jouant aux cartes."
+    },
+    "Conditionnel Présent": {
+      "je": "Je tuerais pour un bon café ce matin !",
+      "tu": "Tu tuerais pour une pizza, toi aussi ?",
+      "il": "Il tuerait le temps plus facilement avec un livre.",
+      "nous": "Nous tuerions l'ennui avec un jeu de cartes.",
+      "vous": "Vous tueriez cette araignée pour moi ?",
+      "ils": "Ils tueraient pour des billets de ce concert."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je tue cette araignée ?",
+      "tu": "J'ai peur que tu tues la plante avec trop d'eau.",
+      "il": "Je ne veux pas qu'il tue l'ambiance.",
+      "nous": "Il faut que nous tuions le temps jusqu'au départ.",
+      "vous": "Je préfère que vous tuiez ces moustiques dehors.",
+      "ils": "Il ne faut pas qu'ils tuent les abeilles."
+    },
+    "Passé Simple": {
+      "je": "Je tuai le dragon d'un seul coup d'épée.",
+      "tu": "Tu tuas le loup qui menaçait le village.",
+      "il": "Il tua le monstre et sauva la princesse.",
+      "nous": "Nous tuâmes le temps en racontant des histoires.",
+      "vous": "Vous tuâtes la bête au fond de la forêt.",
+      "ils": "Ils tuèrent l'ogre dans son château."
+    },
+    "Passé Composé": {
+      "je": "J'ai tué un moustique sur mon bras.",
+      "tu": "Tu as tué ma plante, elle n'a plus de feuilles !",
+      "il": "Il a tué le temps en faisant des mots croisés.",
+      "nous": "Nous avons tué deux heures à l'aéroport.",
+      "vous": "Vous avez tué l'ambiance avec cette blague.",
+      "ils": "Ils ont tué le suspense avec cette révélation."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais tué le temps en lisant un roman.",
+      "tu": "Tu avais tué toutes les mouches de la cuisine.",
+      "il": "Il avait tué le suspense en racontant la fin.",
+      "nous": "Nous avions tué l'attente en jouant aux cartes.",
+      "vous": "Vous aviez tué la conversation avec cette question.",
+      "ils": "Ils avaient tué le temps en se promenant."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai tué le temps en regardant trois films.",
+      "tu": "Tu auras tué toutes les plantes de la maison !",
+      "il": "Il aura tué l'ambiance avec ses mauvaises blagues.",
+      "nous": "Nous aurons tué l'attente avec un bon repas.",
+      "vous": "Vous aurez tué le suspense en racontant la fin.",
+      "ils": "Ils auront tué le temps à la terrasse d'un café."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais tué pour être à ce concert !",
+      "tu": "Tu aurais tué cette araignée, toi ?",
+      "il": "Il aurait tué le suspense avec un mot de plus.",
+      "nous": "Nous aurions tué le temps plus facilement avec un jeu.",
+      "vous": "Vous auriez tué la plante avec autant d'eau.",
+      "ils": "Ils auraient tué l'ambiance avec cette musique."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est fâchée que j'aie tué sa plante.",
+      "tu": "Je suis désolé que tu aies tué ce papillon.",
+      "il": "C'est dommage qu'il ait tué le suspense.",
+      "nous": "Bien que nous ayons tué le temps, l'attente était longue.",
+      "vous": "Je suis furieux que vous ayez tué l'ambiance.",
+      "ils": "C'est triste qu'ils aient tué cette tradition."
+    },
+    "Futur Proche": {
+      "je": "Je vais tuer le temps au café.",
+      "tu": "Tu vas tuer cette plante avec trop d'eau.",
+      "il": "Il va tuer l'ambiance avec ses histoires.",
+      "nous": "Nous allons tuer le temps en jouant aux cartes.",
+      "vous": "Vous allez tuer le suspense !",
+      "ils": "Ils vont tuer le temps en regardant un film."
+    },
+    "Impératif": {
+      "tu": "Tue ce moustique, il me rend fou !",
+      "nous": "Tuons le temps avec un jeu de cartes.",
+      "vous": "Tuez les mauvaises herbes avant qu'elles poussent."
+    }
+  }
+}

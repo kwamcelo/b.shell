@@ -1,0 +1,106 @@
+{
+  "verb": "partir",
+  "tenses": {
+    "Présent": {
+      "je": "Je pars en vacances demain matin.",
+      "tu": "Tu pars à quelle heure ce soir ?",
+      "il": "Il part travailler à sept heures.",
+      "nous": "Nous partons pour Québec en voiture.",
+      "vous": "Vous partez déjà ?",
+      "ils": "Ils partent en voyage de noces au Maroc."
+    },
+    "Imparfait": {
+      "je": "Je partais toujours en colonie de vacances l'été.",
+      "tu": "Tu partais quand je suis arrivé ?",
+      "il": "Il partait à la pêche chaque dimanche.",
+      "nous": "Nous partions en camping tous les ans.",
+      "vous": "Vous partiez déjà quand le téléphone a sonné ?",
+      "ils": "Ils partaient tôt pour éviter les bouchons."
+    },
+    "Futur Simple": {
+      "je": "Je partirai dès que possible.",
+      "tu": "Tu partiras avec nous en juillet ?",
+      "il": "Il partira en retraite l'année prochaine.",
+      "nous": "Nous partirons à l'aube.",
+      "vous": "Vous partirez par le train de nuit.",
+      "ils": "Ils partiront en Australie pour un an."
+    },
+    "Conditionnel Présent": {
+      "je": "Je partirais bien en voyage avec toi.",
+      "tu": "Tu partirais vivre à l'étranger ?",
+      "il": "Il partirait tout de suite avec un billet d'avion.",
+      "nous": "Nous partirions plus tôt sans ce rendez-vous.",
+      "vous": "Vous partiriez sans dire au revoir ?",
+      "ils": "Ils partiraient en vacances avec plus d'argent."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je parte avant la nuit.",
+      "tu": "Je ne veux pas que tu partes.",
+      "il": "Ses amis regrettent qu'il parte si loin.",
+      "nous": "Il est temps que nous partions.",
+      "vous": "Il vaut mieux que vous partiez avant l'orage.",
+      "ils": "Je suis triste qu'ils partent demain."
+    },
+    "Passé Simple": {
+      "je": "Je partis sans un mot.",
+      "tu": "Tu partis à la guerre à vingt ans.",
+      "il": "Il partit au galop vers le village.",
+      "nous": "Nous partîmes à l'aventure.",
+      "vous": "Vous partîtes avant le lever du soleil.",
+      "ils": "Ils partirent pour l'Amérique en 1850."
+    },
+    "Passé Composé": {
+      "je": "Je suis parti de chez moi à huit heures.",
+      "tu": "Tu es parti sans tes clés !",
+      "il": "Il est parti en Espagne pour le travail.",
+      "nous": "Nous sommes partis en vacances en Corse.",
+      "vous": "Vous êtes partis avant la fin du film ?",
+      "ils": "Ils sont partis il y a une heure."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais parti avant ton appel.",
+      "tu": "Tu étais parti quand Marc est arrivé.",
+      "il": "Il était parti travailler à l'étranger.",
+      "nous": "Nous étions partis tôt pour éviter la foule.",
+      "vous": "Vous étiez partis en week-end ?",
+      "ils": "Ils étaient partis sans prévenir personne."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai parti avant ton retour.",
+      "tu": "Tu seras parti depuis longtemps à mon arrivée.",
+      "il": "Il sera parti à la retraite d'ici là.",
+      "nous": "Nous serons partis avant midi.",
+      "vous": "Vous serez partis en vacances à cette date ?",
+      "ils": "Ils seront partis avant la fin de la fête."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais parti plus tôt sans la pluie.",
+      "tu": "Tu serais parti sans moi ?",
+      "il": "Il serait parti à l'étranger avec plus de courage.",
+      "nous": "Nous serions partis en voiture sans la grève.",
+      "vous": "Vous seriez partis à ma place ?",
+      "ils": "Ils seraient partis plus tôt avec un réveil."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis regrettent que je sois parti si vite.",
+      "tu": "C'est dommage que tu sois parti avant le dessert.",
+      "il": "Je suis surpris qu'il soit parti sans rien dire.",
+      "nous": "Bien que nous soyons partis tôt, le trajet a été long.",
+      "vous": "Je suis triste que vous soyez partis si tôt.",
+      "ils": "Il est possible qu'ils soient partis en avance."
+    },
+    "Futur Proche": {
+      "je": "Je vais partir dans cinq minutes.",
+      "tu": "Tu vas partir en Europe cet été ?",
+      "il": "Il va partir en mission pour six mois.",
+      "nous": "Nous allons partir à la montagne ce week-end.",
+      "vous": "Vous allez partir en train ou en avion ?",
+      "ils": "Ils vont partir en vacances en août."
+    },
+    "Impératif": {
+      "tu": "Pars maintenant, tu vas rater ton bus !",
+      "nous": "Partons avant qu'il commence à pleuvoir.",
+      "vous": "Partez tôt pour éviter les bouchons."
+    }
+  }
+}

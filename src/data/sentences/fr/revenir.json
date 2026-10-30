@@ -1,0 +1,106 @@
+{
+  "verb": "revenir",
+  "tenses": {
+    "Présent": {
+      "je": "Je reviens dans cinq minutes.",
+      "tu": "Tu reviens quand de vacances ?",
+      "il": "Il revient du Japon demain.",
+      "nous": "Nous revenons du marché avec des fraises.",
+      "vous": "Vous revenez à quelle heure ?",
+      "ils": "Ils reviennent chaque été dans ce village."
+    },
+    "Imparfait": {
+      "je": "Je revenais de l'école à pied.",
+      "tu": "Tu revenais souvent voir tes grands-parents.",
+      "il": "Il revenait du travail au moment de l'accident.",
+      "nous": "Nous revenions de la plage quand l'orage a éclaté.",
+      "vous": "Vous reveniez de Paris ce jour-là ?",
+      "ils": "Ils revenaient chaque Noël pour voir la famille."
+    },
+    "Futur Simple": {
+      "je": "Je reviendrai te voir l'été prochain.",
+      "tu": "Tu reviendras quand tu voudras.",
+      "il": "Il reviendra de voyage lundi.",
+      "nous": "Nous reviendrons dans ce restaurant, c'est sûr.",
+      "vous": "Vous reviendrez nous voir ?",
+      "ils": "Ils reviendront pour le mariage."
+    },
+    "Conditionnel Présent": {
+      "je": "Je reviendrais volontiers dans cette ville.",
+      "tu": "Tu reviendrais vivre ici ?",
+      "il": "Il reviendrait plus souvent avec un billet moins cher.",
+      "nous": "Nous reviendrions avec plaisir l'année prochaine.",
+      "vous": "Vous reviendriez demain matin, s'il vous plaît ?",
+      "ils": "Ils reviendraient au pays avec un bon travail."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je revienne pour Noël.",
+      "tu": "J'aimerais que tu reviennes vite.",
+      "il": "Je doute qu'il revienne avant ce soir.",
+      "nous": "Il faut que nous revenions avant la nuit.",
+      "vous": "Je souhaite que vous reveniez bientôt.",
+      "ils": "Il est temps qu'ils reviennent à la maison."
+    },
+    "Passé Simple": {
+      "je": "Je revins au village après dix ans d'absence.",
+      "tu": "Tu revins couvert de gloire.",
+      "il": "Il revint de la guerre en 1918.",
+      "nous": "Nous revînmes au château à la tombée de la nuit.",
+      "vous": "Vous revîntes chargés de cadeaux.",
+      "ils": "Ils revinrent au printemps suivant."
+    },
+    "Passé Composé": {
+      "je": "Je suis revenu chercher mon parapluie.",
+      "tu": "Tu es revenu de Lyon quand ?",
+      "il": "Il est revenu avec un cadeau pour chacun.",
+      "nous": "Nous sommes revenus par l'autoroute.",
+      "vous": "Vous êtes revenus plus tôt que prévu ?",
+      "ils": "Ils sont revenus de vacances hier."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais revenu à la maison pour dîner.",
+      "tu": "Tu étais revenu de Rome la veille ?",
+      "il": "Il était revenu au village pour l'enterrement.",
+      "nous": "Nous étions revenus juste avant la neige.",
+      "vous": "Vous étiez revenus de vacances à cette date ?",
+      "ils": "Ils étaient revenus de la plage avec des coquillages."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai revenu avant minuit.",
+      "tu": "Tu seras revenu avant la fin du mois ?",
+      "il": "Il sera revenu de son voyage d'ici là.",
+      "nous": "Nous serons revenus avant la rentrée.",
+      "vous": "Vous serez revenus pour le dîner ?",
+      "ils": "Ils seront revenus avant l'hiver."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais revenu plus tôt sans les bouchons.",
+      "tu": "Tu serais revenu pour moi ?",
+      "il": "Il serait revenu avec un peu plus de temps.",
+      "nous": "Nous serions revenus en train sans la grève.",
+      "vous": "Vous seriez revenus avec une invitation ?",
+      "ils": "Ils seraient revenus l'année suivante sans la guerre."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma famille est contente que je sois revenu.",
+      "tu": "Je suis heureux que tu sois revenu.",
+      "il": "C'est étonnant qu'il soit revenu si vite.",
+      "nous": "Bien que nous soyons revenus tôt, la maison était vide.",
+      "vous": "Je suis ravi que vous soyez revenus.",
+      "ils": "C'est une surprise qu'ils soient revenus."
+    },
+    "Futur Proche": {
+      "je": "Je vais revenir avec du pain.",
+      "tu": "Tu vas revenir à quelle heure ?",
+      "il": "Il va revenir de vacances samedi.",
+      "nous": "Nous allons revenir dans une heure.",
+      "vous": "Vous allez revenir l'année prochaine ?",
+      "ils": "Ils vont revenir vivre en France."
+    },
+    "Impératif": {
+      "tu": "Reviens vite, tu me manques déjà.",
+      "nous": "Revenons à notre sujet.",
+      "vous": "Revenez demain, le magasin est fermé."
+    }
+  }
+}

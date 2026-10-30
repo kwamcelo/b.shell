@@ -1,0 +1,106 @@
+{
+  "verb": "finir",
+  "tenses": {
+    "Présent": {
+      "je": "Je finis le travail à dix-sept heures.",
+      "tu": "Tu finis ton assiette ?",
+      "il": "Il finit toujours ses phrases par une blague.",
+      "nous": "Nous finissons le repas par un café.",
+      "vous": "Vous finissez à quelle heure aujourd'hui ?",
+      "ils": "Ils finissent leurs devoirs avant de jouer."
+    },
+    "Imparfait": {
+      "je": "Je finissais tard le vendredi.",
+      "tu": "Tu finissais toujours après tout le monde.",
+      "il": "Il finissait ses journées à la salle de sport.",
+      "nous": "Nous finissions nos soirées sur la terrasse.",
+      "vous": "Vous finissiez vos études à cette époque ?",
+      "ils": "Ils finissaient le travail au coucher du soleil."
+    },
+    "Futur Simple": {
+      "je": "Je finirai ce livre ce week-end.",
+      "tu": "Tu finiras tes devoirs après le goûter.",
+      "il": "Il finira ses études en juin.",
+      "nous": "Nous finirons la peinture demain.",
+      "vous": "Vous finirez par comprendre.",
+      "ils": "Ils finiront le projet à temps."
+    },
+    "Conditionnel Présent": {
+      "je": "Je finirais plus tôt avec ton aide.",
+      "tu": "Tu finirais mon dessert ?",
+      "il": "Il finirait le marathon avec plus d'entraînement.",
+      "nous": "Nous finirions le puzzle avec plus de temps.",
+      "vous": "Vous finiriez ce rapport pour demain ?",
+      "ils": "Ils finiraient plus vite à deux."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je finisse ce rapport ce soir.",
+      "tu": "Je veux que tu finisses tes légumes.",
+      "il": "J'attends qu'il finisse son discours.",
+      "nous": "Il est temps que nous finissions cette discussion.",
+      "vous": "J'aimerais que vous finissiez avant midi.",
+      "ils": "Il faut qu'ils finissent la course."
+    },
+    "Passé Simple": {
+      "je": "Je finis ma lettre à l'aube.",
+      "tu": "Tu finis tes jours dans ce village.",
+      "il": "Il finit son discours sous les applaudissements.",
+      "nous": "Nous finîmes le voyage à pied.",
+      "vous": "Vous finîtes la guerre en héros.",
+      "ils": "Ils finirent la soirée au bord du lac."
+    },
+    "Passé Composé": {
+      "je": "J'ai fini mes examens hier.",
+      "tu": "Tu as fini ton café ?",
+      "il": "Il a fini le marathon en quatre heures.",
+      "nous": "Nous avons fini de peindre la cuisine.",
+      "vous": "Vous avez fini vos devoirs ?",
+      "ils": "Ils ont fini la soirée en chansons."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais fini mon travail avant midi.",
+      "tu": "Tu avais fini le gâteau avant notre arrivée !",
+      "il": "Il avait fini ses études à vingt-deux ans.",
+      "nous": "Nous avions fini le repas quand ils sont arrivés.",
+      "vous": "Vous aviez fini le livre ?",
+      "ils": "Ils avaient fini les travaux avant l'hiver."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai fini ce rapport avant ce soir.",
+      "tu": "Tu auras fini tes études dans deux ans.",
+      "il": "Il aura fini la course avant midi.",
+      "nous": "Nous aurons fini les travaux en mars.",
+      "vous": "Vous aurez fini avant la nuit.",
+      "ils": "Ils auront fini de manger à notre arrivée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais fini plus tôt sans ces interruptions.",
+      "tu": "Tu aurais fini ton assiette avec plus d'appétit.",
+      "il": "Il aurait fini premier sans sa chute.",
+      "nous": "Nous aurions fini le projet avec plus de temps.",
+      "vous": "Vous auriez fini avant midi avec notre aide.",
+      "ils": "Ils auraient fini la maison avant l'été."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie fini à temps.",
+      "tu": "Je suis fier que tu aies fini le marathon.",
+      "il": "Je doute qu'il ait fini ses devoirs.",
+      "nous": "Bien que nous ayons fini tôt, nous sommes restés.",
+      "vous": "Je suis soulagé que vous ayez fini ce projet.",
+      "ils": "C'est bien qu'ils aient fini leurs études."
+    },
+    "Futur Proche": {
+      "je": "Je vais finir ce chapitre et dormir.",
+      "tu": "Tu vas finir ton assiette ?",
+      "il": "Il va finir ses études cette année.",
+      "nous": "Nous allons finir la soirée chez Marie.",
+      "vous": "Vous allez finir en retard.",
+      "ils": "Ils vont finir le match sous la pluie."
+    },
+    "Impératif": {
+      "tu": "Finis ton verre, on part.",
+      "nous": "Finissons ce travail avant le déjeuner.",
+      "vous": "Finissez vos phrases, s'il vous plaît."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "rester",
+  "tenses": {
+    "Présent": {
+      "je": "Je reste à la maison ce soir.",
+      "tu": "Tu restes dîner avec nous ?",
+      "il": "Il reste au bureau jusqu'à vingt heures.",
+      "nous": "Nous restons une semaine à Lisbonne.",
+      "vous": "Vous restez combien de temps à Paris ?",
+      "ils": "Ils restent chez leurs grands-parents cet été."
+    },
+    "Imparfait": {
+      "je": "Je restais des heures à la bibliothèque.",
+      "tu": "Tu restais toujours jusqu'à la fin des fêtes.",
+      "il": "Il restait au lit jusqu'à midi le dimanche.",
+      "nous": "Nous restions à la plage jusqu'au coucher du soleil.",
+      "vous": "Vous restiez souvent chez vos cousins ?",
+      "ils": "Ils restaient dehors jusqu'à la nuit."
+    },
+    "Futur Simple": {
+      "je": "Je resterai ici jusqu'à ton retour.",
+      "tu": "Tu resteras chez moi pendant les travaux.",
+      "il": "Il restera à Montréal pour ses études.",
+      "nous": "Nous resterons en contact, promis.",
+      "vous": "Vous resterez à l'hôtel ou chez des amis ?",
+      "ils": "Ils resteront deux nuits au camping."
+    },
+    "Conditionnel Présent": {
+      "je": "Je resterais bien plus longtemps.",
+      "tu": "Tu resterais avec moi ce soir ?",
+      "il": "Il resterait volontiers une semaine de plus.",
+      "nous": "Nous resterions à la maison sans cette invitation.",
+      "vous": "Vous resteriez pour le dessert ?",
+      "ils": "Ils resteraient ici avec un meilleur salaire."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je reste avec toi ?",
+      "tu": "J'aimerais que tu restes un peu.",
+      "il": "Le médecin veut qu'il reste au lit.",
+      "nous": "Il vaut mieux que nous restions à l'intérieur.",
+      "vous": "Je souhaite que vous restiez pour le dîner.",
+      "ils": "Il faut qu'ils restent calmes."
+    },
+    "Passé Simple": {
+      "je": "Je restai longtemps devant la tombe.",
+      "tu": "Tu restas fidèle à ta parole.",
+      "il": "Il resta trois jours au village.",
+      "nous": "Nous restâmes à l'abri jusqu'à l'aube.",
+      "vous": "Vous restâtes au château tout l'hiver.",
+      "ils": "Ils restèrent amis toute leur vie."
+    },
+    "Passé Composé": {
+      "je": "Je suis resté au lit toute la matinée.",
+      "tu": "Tu es resté jusqu'à la fin du concert ?",
+      "il": "Il est resté trois ans au Japon.",
+      "nous": "Nous sommes restés à la maison à cause de la neige.",
+      "vous": "Vous êtes restés longtemps à la fête ?",
+      "ils": "Ils sont restés une semaine chez nous."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais resté au bureau jusqu'à minuit.",
+      "tu": "Tu étais resté chez toi ce jour-là ?",
+      "il": "Il était resté deux ans en Afrique.",
+      "nous": "Nous étions restés dans la voiture pendant l'orage.",
+      "vous": "Vous étiez restés au même hôtel l'année dernière ?",
+      "ils": "Ils étaient restés en contact après le lycée."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai resté dix ans dans cette entreprise.",
+      "tu": "Tu seras resté une semaine sans téléphone.",
+      "il": "Il sera resté au même poste toute sa carrière.",
+      "nous": "Nous serons restés trois mois en Asie.",
+      "vous": "Vous serez restés jusqu'à la fin.",
+      "ils": "Ils seront restés au pays toute leur vie."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais resté plus longtemps sans ce train à prendre.",
+      "tu": "Tu serais resté à ma place ?",
+      "il": "Il serait resté à la maison sans ton appel.",
+      "nous": "Nous serions restés dehors sans la pluie.",
+      "vous": "Vous seriez restés pour le feu d'artifice ?",
+      "ils": "Ils seraient restés au lit toute la journée."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont contents que je sois resté pour Noël.",
+      "tu": "C'est gentil que tu sois resté avec moi.",
+      "il": "C'est étonnant qu'il soit resté si longtemps.",
+      "nous": "Bien que nous soyons restés tard, la soirée était courte.",
+      "vous": "Je suis ravi que vous soyez restés dîner.",
+      "ils": "C'est dommage qu'ils soient restés à la maison."
+    },
+    "Futur Proche": {
+      "je": "Je vais rester ici quelques jours.",
+      "tu": "Tu vas rester dormir chez nous ?",
+      "il": "Il va rester au Canada pour ses études.",
+      "nous": "Nous allons rester à la maison ce week-end.",
+      "vous": "Vous allez rester pour la réunion ?",
+      "ils": "Ils vont rester jusqu'à dimanche."
+    },
+    "Impératif": {
+      "tu": "Reste ici, je reviens tout de suite.",
+      "nous": "Restons calmes, tout va bien.",
+      "vous": "Restez assis, s'il vous plaît."
+    }
+  }
+}

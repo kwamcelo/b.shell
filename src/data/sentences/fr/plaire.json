@@ -1,0 +1,101 @@
+{
+  "verb": "plaire",
+  "tenses": {
+    "Présent": {
+      "je": "Je plais beaucoup à ta grand-mère.",
+      "tu": "Tu plais à tout le monde avec ce sourire.",
+      "il": "Il plaît à tous ses collègues.",
+      "nous": "Nous plaisons au public, apparemment.",
+      "vous": "Vous plaisez beaucoup à mes enfants.",
+      "ils": "Ils plaisent aux touristes avec leur musique."
+    },
+    "Imparfait": {
+      "je": "Je plaisais à ses parents, je crois.",
+      "tu": "Tu plaisais à toutes les filles du lycée.",
+      "il": "Il plaisait aux enfants avec ses tours de magie.",
+      "nous": "Nous plaisions aux clients grâce à notre accueil.",
+      "vous": "Vous plaisiez beaucoup à mon père.",
+      "ils": "Ils plaisaient au public avec leurs chansons."
+    },
+    "Futur Simple": {
+      "je": "Je plairai à tes parents, ne t'inquiète pas.",
+      "tu": "Tu plairas au jury, j'en suis sûr.",
+      "il": "Il plaira sûrement au public.",
+      "nous": "Nous plairons aux clients avec ce nouveau menu.",
+      "vous": "Vous plairez à mes amis.",
+      "ils": "Ils plairont aux enfants avec ce spectacle."
+    },
+    "Conditionnel Présent": {
+      "je": "Je plairais plus au jury avec un autre costume.",
+      "tu": "Tu plairais beaucoup à mon cousin.",
+      "il": "Il plairait au public avec une chanson plus courte.",
+      "nous": "Nous plairions aux clients avec des prix plus bas.",
+      "vous": "Vous plairiez à ma mère, c'est certain.",
+      "ils": "Ils plairaient aux jeunes avec une autre musique."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je plaise à ta mère ce soir.",
+      "tu": "Je veux que tu plaises au jury.",
+      "il": "Il faut qu'il plaise au public.",
+      "nous": "Il est important que nous plaisions aux clients.",
+      "vous": "Je souhaite que vous plaisiez à ma famille.",
+      "ils": "Il faut qu'ils plaisent aux électeurs."
+    },
+    "Passé Simple": {
+      "je": "Je plus tout de suite à la reine.",
+      "tu": "Tu plus au roi par ton courage.",
+      "il": "Il plut à toute la cour.",
+      "nous": "Nous plûmes au public dès le premier soir.",
+      "vous": "Vous plûtes aux villageois.",
+      "ils": "Ils plurent au prince par leurs chansons."
+    },
+    "Passé Composé": {
+      "je": "J'ai plu à ses parents dès le premier dîner.",
+      "tu": "Tu as plu au jury, bravo !",
+      "il": "Il a plu à tout le monde à la fête.",
+      "nous": "Nous avons plu aux clients avec notre nouveau menu.",
+      "vous": "Vous avez plu à mes enfants.",
+      "ils": "Ils ont plu au public dès la première chanson."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais plu à son père dès notre rencontre.",
+      "tu": "Tu avais plu au directeur pendant l'entretien.",
+      "il": "Il avait plu au jury avec sa chanson.",
+      "nous": "Nous avions plu au public l'année précédente.",
+      "vous": "Vous aviez plu à mes parents.",
+      "ils": "Ils avaient plu aux critiques avec leur premier film."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai plu à au moins une personne ce soir.",
+      "tu": "Tu auras plu à toute la famille.",
+      "il": "Il aura plu à tout le monde, comme d'habitude.",
+      "nous": "Nous aurons plu au public, j'espère.",
+      "vous": "Vous aurez plu au jury.",
+      "ils": "Ils auront plu aux enfants avec leurs marionnettes."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais plu au jury avec une autre chanson.",
+      "tu": "Tu aurais plu à mon grand-père.",
+      "il": "Il aurait plu au public avec un meilleur micro.",
+      "nous": "Nous aurions plu aux clients avec plus de choix.",
+      "vous": "Vous auriez plu à ma mère.",
+      "ils": "Ils auraient plu aux critiques avec une autre fin."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est content que j'aie plu à ses parents.",
+      "tu": "Je suis ravi que tu aies plu au jury.",
+      "il": "C'est normal qu'il ait plu à tout le monde.",
+      "nous": "Bien que nous ayons plu au public, nous avons perdu.",
+      "vous": "Je suis content que vous ayez plu à mes amis.",
+      "ils": "C'est super qu'ils aient plu aux spectateurs."
+    },
+    "Futur Proche": {
+      "je": "Je vais plaire à tes parents, tu verras.",
+      "tu": "Tu vas plaire au directeur.",
+      "il": "Il va plaire à ta sœur, j'en suis sûr.",
+      "nous": "Nous allons plaire au public avec ce numéro.",
+      "vous": "Vous allez plaire à tout le monde.",
+      "ils": "Ils vont plaire aux enfants."
+    }
+  }
+}

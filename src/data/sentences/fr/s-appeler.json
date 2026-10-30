@@ -1,0 +1,101 @@
+{
+  "verb": "s'appeler",
+  "tenses": {
+    "Présent": {
+      "je": "Bonjour, je m'appelle Camille.",
+      "tu": "Tu t'appelles comment ?",
+      "il": "Il s'appelle Dominique, comme son grand-père.",
+      "nous": "Nous nous appelons tous les deux Claude.",
+      "vous": "Vous vous appelez comment, madame ?",
+      "ils": "Ils s'appellent Sacha et Camille."
+    },
+    "Imparfait": {
+      "je": "Je m'appelais Dupont avant mon mariage.",
+      "tu": "Tu t'appelais comment sur ce vieux forum ?",
+      "il": "Il s'appelait autrement avant de venir en France.",
+      "nous": "Nous nous appelions par nos noms de famille au lycée.",
+      "vous": "Vous vous appeliez Martin avant le mariage ?",
+      "ils": "Ils s'appelaient par des surnoms ridicules."
+    },
+    "Futur Simple": {
+      "je": "Je m'appellerai Lune dans la pièce de théâtre.",
+      "tu": "Tu t'appelleras Zorro pour la fête costumée.",
+      "il": "Il s'appellera Charlie, comme sa marraine.",
+      "nous": "Nous nous appellerons « les Lions » pendant le tournoi.",
+      "vous": "Vous vous appellerez l'équipe bleue.",
+      "ils": "Ils s'appelleront les Étoiles du Nord."
+    },
+    "Conditionnel Présent": {
+      "je": "Je m'appellerais Sacha avec des parents moins originaux.",
+      "tu": "Tu t'appellerais comment dans un autre pays ?",
+      "il": "Il s'appellerait Lou si c'était à moi de choisir.",
+      "nous": "Nous nous appellerions plus souvent avec moins de travail.",
+      "vous": "Vous vous appelleriez comment dans un roman ?",
+      "ils": "Ils s'appelleraient les Rebelles, d'après leur fan-club."
+    },
+    "Subjonctif": {
+      "je": "Mes parents voulaient que je m'appelle Ange.",
+      "tu": "C'est drôle que tu t'appelles comme ma sœur.",
+      "il": "Pour notre bébé, je veux qu'il s'appelle Noa.",
+      "nous": "Il faut que nous nous appelions plus souvent.",
+      "vous": "C'est amusant que vous vous appeliez tous Dominique.",
+      "ils": "C'est normal qu'ils s'appellent comme leurs grands-parents."
+    },
+    "Passé Simple": {
+      "je": "Je m'appelai Dominique pendant toute la guerre.",
+      "tu": "Tu t'appelas Claude dans tous tes romans.",
+      "il": "Il s'appela Camille dans ses lettres secrètes.",
+      "nous": "Nous nous appelâmes frères pour toujours.",
+      "vous": "Vous vous appelâtes d'un faux nom pendant dix ans.",
+      "ils": "Ils s'appelèrent les Compagnons de la Liberté."
+    },
+    "Passé Composé": {
+      "je": "Je me suis appelé Max pendant tout le jeu.",
+      "tu": "Tu t'es appelé comment dans ce jeu vidéo ?",
+      "il": "Il s'est appelé Camille dès sa naissance.",
+      "nous": "Nous nous sommes appelés hier soir.",
+      "vous": "Vous vous êtes appelés pour la réunion ?",
+      "ils": "Ils se sont appelés toute la nuit."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais appelé Lucky dans ce jeu.",
+      "tu": "Tu t'étais appelé comment pour le concours ?",
+      "il": "Il s'était appelé Sam pendant son séjour à Londres.",
+      "nous": "Nous nous étions appelés la veille de son départ.",
+      "vous": "Vous vous étiez appelés avant le rendez-vous ?",
+      "ils": "Ils s'étaient appelés pour organiser la fête."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai appelé Pikachu dans trois jeux différents.",
+      "tu": "Tu te seras appelé Zorro toute la soirée.",
+      "il": "Il se sera appelé Kiki pendant toute son enfance.",
+      "nous": "Nous nous serons appelés tous les jours de l'été.",
+      "vous": "Vous vous serez appelés avant la fin de la semaine.",
+      "ils": "Ils se seront appelés pour se souhaiter bonne année."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais appelé Sacha, d'après ma mère.",
+      "tu": "Tu te serais appelé comment, d'après tes parents ?",
+      "il": "Il se serait appelé Alex avec un autre parrain.",
+      "nous": "Nous nous serions appelés plus tôt avec ton numéro.",
+      "vous": "Vous vous seriez appelés avant de partir ?",
+      "ils": "Ils se seraient appelés pour se réconcilier."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis trouvent drôle que je me sois appelé Pikachu.",
+      "tu": "C'est drôle que tu te sois appelé Batman au carnaval.",
+      "il": "Je suis surpris qu'il se soit appelé Zorro au carnaval.",
+      "nous": "Bien que nous nous soyons appelés, rien n'est réglé.",
+      "vous": "Je suis content que vous vous soyez appelés.",
+      "ils": "C'est bien qu'ils se soient appelés après la dispute."
+    },
+    "Futur Proche": {
+      "je": "Je vais m'appeler Super Mario pour la fête.",
+      "tu": "Tu vas t'appeler comment sur ton profil ?",
+      "il": "Il va s'appeler Camille, comme sa marraine.",
+      "nous": "Nous allons nous appeler ce soir.",
+      "vous": "Vous allez vous appeler demain ?",
+      "ils": "Ils vont s'appeler les Tigres pendant le tournoi."
+    }
+  }
+}

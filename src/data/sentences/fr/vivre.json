@@ -1,0 +1,106 @@
+{
+  "verb": "vivre",
+  "tenses": {
+    "Présent": {
+      "je": "Je vis à Vancouver depuis trois ans.",
+      "tu": "Tu vis en colocation ?",
+      "il": "Il vit à la campagne avec sa famille.",
+      "nous": "Nous vivons dans un petit appartement.",
+      "vous": "Vous vivez près de la mer ?",
+      "ils": "Ils vivent ensemble depuis cinq ans."
+    },
+    "Imparfait": {
+      "je": "Je vivais à Lyon dans mon enfance.",
+      "tu": "Tu vivais où avant de venir ici ?",
+      "il": "Il vivait dans une petite maison au bord du lac.",
+      "nous": "Nous vivions à la campagne à cette époque.",
+      "vous": "Vous viviez en France avant ?",
+      "ils": "Ils vivaient simplement, sans télévision."
+    },
+    "Futur Simple": {
+      "je": "Je vivrai à l'étranger un jour.",
+      "tu": "Tu vivras une expérience inoubliable.",
+      "il": "Il vivra chez ses grands-parents pendant ses études.",
+      "nous": "Nous vivrons à la campagne à la retraite.",
+      "vous": "Vous vivrez des moments formidables là-bas.",
+      "ils": "Ils vivront dans une maison avec un grand jardin."
+    },
+    "Conditionnel Présent": {
+      "je": "Je vivrais bien au bord de la mer.",
+      "tu": "Tu vivrais à Paris, toi ?",
+      "il": "Il vivrait à la montagne avec un travail là-bas.",
+      "nous": "Nous vivrions mieux avec un plus grand appartement.",
+      "vous": "Vous vivriez à la campagne ?",
+      "ils": "Ils vivraient en Italie avec plus d'argent."
+    },
+    "Subjonctif": {
+      "je": "Mes parents veulent que je vive près d'eux.",
+      "tu": "J'aimerais que tu vives ta vie à fond.",
+      "il": "Il faut qu'il vive sa vie.",
+      "nous": "Il est temps que nous vivions nos rêves.",
+      "vous": "Je souhaite que vous viviez une belle aventure.",
+      "ils": "Il faut qu'ils vivent avec leur temps."
+    },
+    "Passé Simple": {
+      "je": "Je vécus trois ans dans ce village.",
+      "tu": "Tu vécus une vie pleine d'aventures.",
+      "il": "Il vécut jusqu'à cent ans.",
+      "nous": "Nous vécûmes heureux dans cette maison.",
+      "vous": "Vous vécûtes longtemps loin de votre pays.",
+      "ils": "Ils vécurent heureux et eurent beaucoup d'enfants."
+    },
+    "Passé Composé": {
+      "je": "J'ai vécu deux ans au Mexique.",
+      "tu": "Tu as vécu à Paris ?",
+      "il": "Il a vécu une enfance heureuse.",
+      "nous": "Nous avons vécu une semaine incroyable.",
+      "vous": "Vous avez vécu à l'étranger ?",
+      "ils": "Ils ont vécu toute leur vie dans ce village."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais vécu à Rome avant de venir ici.",
+      "tu": "Tu avais vécu une situation similaire.",
+      "il": "Il avait vécu en Afrique dans sa jeunesse.",
+      "nous": "Nous avions vécu des moments difficiles.",
+      "vous": "Vous aviez vécu là-bas longtemps ?",
+      "ils": "Ils avaient vécu ensemble avant le mariage."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai vécu dans quatre pays avant trente ans.",
+      "tu": "Tu auras vécu une belle aventure.",
+      "il": "Il aura vécu toute sa vie à la ferme.",
+      "nous": "Nous aurons vécu vingt ans dans cette maison.",
+      "vous": "Vous aurez vécu une expérience unique.",
+      "ils": "Ils auront vécu de grands moments ensemble."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais vécu à Tokyo avec un travail là-bas.",
+      "tu": "Tu aurais vécu à la campagne, toi ?",
+      "il": "Il aurait vécu plus longtemps sans la guerre.",
+      "nous": "Nous aurions vécu au bord de la mer avec plus d'argent.",
+      "vous": "Vous auriez vécu à cette époque ?",
+      "ils": "Ils auraient vécu ensemble sans leurs parents."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont surpris que j'aie vécu en Islande.",
+      "tu": "C'est incroyable que tu aies vécu tout ça.",
+      "il": "Je doute qu'il ait vécu à Paris.",
+      "nous": "Bien que nous ayons vécu ici dix ans, nous connaissons peu de gens.",
+      "vous": "Je suis content que vous ayez vécu cette expérience.",
+      "ils": "C'est rare qu'ils aient vécu aussi longtemps."
+    },
+    "Futur Proche": {
+      "je": "Je vais vivre à Montréal l'an prochain.",
+      "tu": "Tu vas vivre une expérience géniale.",
+      "il": "Il va vivre chez son oncle pendant un an.",
+      "nous": "Nous allons vivre à la campagne.",
+      "vous": "Vous allez vivre en colocation ?",
+      "ils": "Ils vont vivre au Portugal."
+    },
+    "Impératif": {
+      "tu": "Vis ta vie, ne regrette rien.",
+      "nous": "Vivons le moment présent.",
+      "vous": "Vivez vos rêves."
+    }
+  }
+}

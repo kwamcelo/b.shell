@@ -1,0 +1,106 @@
+{
+  "verb": "aider",
+  "tenses": {
+    "Présent": {
+      "je": "J'aide ma sœur avec ses devoirs.",
+      "tu": "Tu aides souvent tes voisins ?",
+      "il": "Il aide son père au garage le samedi.",
+      "nous": "Nous aidons une association du quartier.",
+      "vous": "Vous aidez les nouveaux étudiants ?",
+      "ils": "Ils aident les touristes à trouver leur chemin."
+    },
+    "Imparfait": {
+      "je": "J'aidais ma grand-mère à faire les courses.",
+      "tu": "Tu aidais toujours tes amis à déménager.",
+      "il": "Il aidait les enfants à traverser la rue.",
+      "nous": "Nous aidions nos parents à la ferme.",
+      "vous": "Vous aidiez votre mère en cuisine ?",
+      "ils": "Ils aidaient les voisins après la tempête."
+    },
+    "Futur Simple": {
+      "je": "J'aiderai Paul à peindre sa chambre.",
+      "tu": "Tu aideras ton frère avec son vélo ?",
+      "il": "Il aidera sa sœur à déménager.",
+      "nous": "Nous aiderons les organisateurs du festival.",
+      "vous": "Vous aiderez les clients à l'accueil.",
+      "ils": "Ils aideront les sinistrés après l'inondation."
+    },
+    "Conditionnel Présent": {
+      "je": "J'aiderais volontiers, mais je n'ai pas le temps.",
+      "tu": "Tu aiderais ta sœur avec ses maths ?",
+      "il": "Il aiderait plus à la maison avec moins de travail.",
+      "nous": "Nous aiderions avec plaisir.",
+      "vous": "Vous aideriez cette dame avec ses valises ?",
+      "ils": "Ils aideraient leurs amis sans hésiter."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'aide à la cuisine ?",
+      "tu": "J'aimerais que tu aides ton frère.",
+      "il": "Sa mère veut qu'il aide à ranger.",
+      "nous": "Il faut que nous aidions les plus pauvres.",
+      "vous": "Je souhaite que vous aidiez les nouveaux employés.",
+      "ils": "Il est normal qu'ils aident leurs parents."
+    },
+    "Passé Simple": {
+      "je": "J'aidai le vieil homme à se relever.",
+      "tu": "Tu aidas les villageois à reconstruire le pont.",
+      "il": "Il aida la reine à s'enfuir.",
+      "nous": "Nous aidâmes les blessés toute la nuit.",
+      "vous": "Vous aidâtes les rebelles en secret.",
+      "ils": "Ils aidèrent les réfugiés à passer la frontière."
+    },
+    "Passé Composé": {
+      "je": "J'ai aidé mon voisin à porter son canapé.",
+      "tu": "Tu as aidé ta mère à faire la vaisselle ?",
+      "il": "Il a aidé une dame à monter dans le bus.",
+      "nous": "Nous avons aidé nos amis à déménager.",
+      "vous": "Vous avez aidé à organiser la fête ?",
+      "ils": "Ils ont aidé les pompiers pendant l'incendie."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais aidé Marc avec son projet.",
+      "tu": "Tu avais aidé ton frère à réviser.",
+      "il": "Il avait aidé ses parents toute la journée.",
+      "nous": "Nous avions aidé à préparer le repas.",
+      "vous": "Vous aviez aidé à nettoyer la plage ?",
+      "ils": "Ils avaient aidé les voisins à chercher le chien."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai aidé tout le monde avant de partir.",
+      "tu": "Tu auras aidé beaucoup de gens cette année.",
+      "il": "Il aura aidé des centaines d'étudiants.",
+      "nous": "Nous aurons aidé cinquante familles cet hiver.",
+      "vous": "Vous aurez aidé à sauver ce vieux cinéma.",
+      "ils": "Ils auront aidé à construire l'école."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais aidé avec plaisir.",
+      "tu": "Tu aurais aidé un inconnu dans la rue ?",
+      "il": "Il aurait aidé avec plus de temps libre.",
+      "nous": "Nous aurions aidé, mais personne ne nous a appelés.",
+      "vous": "Vous auriez aidé à ma place ?",
+      "ils": "Ils auraient aidé sans hésiter."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma voisine est contente que j'aie aidé son fils.",
+      "tu": "C'est gentil que tu aies aidé cette dame.",
+      "il": "C'est bien qu'il ait aidé ses collègues.",
+      "nous": "Bien que nous ayons aidé, le travail n'est pas fini.",
+      "vous": "Je suis touché que vous ayez aidé ma famille.",
+      "ils": "Je suis fier qu'ils aient aidé les sinistrés."
+    },
+    "Futur Proche": {
+      "je": "Je vais aider mon père à réparer la voiture.",
+      "tu": "Tu vas aider à mettre la table ?",
+      "il": "Il va aider ses amis à déménager.",
+      "nous": "Nous allons aider à la fête de l'école.",
+      "vous": "Vous allez aider les bénévoles ?",
+      "ils": "Ils vont aider leurs voisins à peindre."
+    },
+    "Impératif": {
+      "tu": "Aide ton frère, il est perdu.",
+      "nous": "Aidons-les à porter les cartons.",
+      "vous": "Aidez les passagers à monter."
+    }
+  }
+}

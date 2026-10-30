@@ -1,0 +1,106 @@
+{
+  "verb": "rendre",
+  "tenses": {
+    "Présent": {
+      "je": "Je rends les livres à la bibliothèque.",
+      "tu": "Tu rends visite à ta grand-mère ce week-end ?",
+      "il": "Il rend toujours la monnaie avec un sourire.",
+      "nous": "Nous rendons la voiture de location demain.",
+      "vous": "Vous rendez service à tout le monde.",
+      "ils": "Ils rendent leurs devoirs le lundi."
+    },
+    "Imparfait": {
+      "je": "Je rendais visite à mes cousins chaque été.",
+      "tu": "Tu rendais toujours tes devoirs en retard.",
+      "il": "Il rendait souvent service aux voisins.",
+      "nous": "Nous rendions les bouteilles vides au magasin.",
+      "vous": "Vous rendiez visite à vos parents le dimanche ?",
+      "ils": "Ils rendaient les clés au gardien chaque soir."
+    },
+    "Futur Simple": {
+      "je": "Je rendrai ton livre demain.",
+      "tu": "Tu rendras la clé à la réception.",
+      "il": "Il rendra son rapport vendredi.",
+      "nous": "Nous rendrons visite à nos amis à Lyon.",
+      "vous": "Vous rendrez les copies à la fin de l'examen.",
+      "ils": "Ils rendront l'appartement en bon état."
+    },
+    "Conditionnel Présent": {
+      "je": "Je rendrais ce pull, il est trop petit.",
+      "tu": "Tu rendrais ce livre à Paul pour moi ?",
+      "il": "Il rendrait service à n'importe qui.",
+      "nous": "Nous rendrions visite à ta mère avec plus de temps.",
+      "vous": "Vous rendriez ce dossier avant midi ?",
+      "ils": "Ils rendraient l'argent avec plaisir."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je rende ce livre avant samedi.",
+      "tu": "Je veux que tu rendes son jouet à ta sœur.",
+      "il": "Il faut qu'il rende la voiture ce soir.",
+      "nous": "Il est temps que nous rendions visite à nos grands-parents.",
+      "vous": "J'aimerais que vous rendiez vos copies.",
+      "ils": "Il faut qu'ils rendent les clés au propriétaire."
+    },
+    "Passé Simple": {
+      "je": "Je rendis la lettre à son propriétaire.",
+      "tu": "Tu rendis visite au vieux roi.",
+      "il": "Il rendit son dernier souffle à l'aube.",
+      "nous": "Nous rendîmes hommage aux soldats.",
+      "vous": "Vous rendîtes justice au peuple.",
+      "ils": "Ils rendirent les armes après la bataille."
+    },
+    "Passé Composé": {
+      "je": "J'ai rendu mon mémoire hier.",
+      "tu": "Tu as rendu le livre à la bibliothèque ?",
+      "il": "Il a rendu visite à son oncle à l'hôpital.",
+      "nous": "Nous avons rendu la voiture de location.",
+      "vous": "Vous avez rendu vos devoirs ?",
+      "ils": "Ils ont rendu l'argent trouvé dans la rue."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais rendu les clés avant de partir.",
+      "tu": "Tu avais rendu ton travail à temps ?",
+      "il": "Il avait rendu service à toute la famille.",
+      "nous": "Nous avions rendu visite à nos voisins la veille.",
+      "vous": "Vous aviez rendu le formulaire ?",
+      "ils": "Ils avaient rendu les livres en retard."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai rendu mon rapport avant la réunion.",
+      "tu": "Tu auras rendu service à beaucoup de gens.",
+      "il": "Il aura rendu toutes ses copies à temps.",
+      "nous": "Nous aurons rendu l'appartement avant la fin du mois.",
+      "vous": "Vous aurez rendu un grand service à la ville.",
+      "ils": "Ils auront rendu visite à toute la famille."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais rendu le livre plus tôt sans ce voyage.",
+      "tu": "Tu aurais rendu l'argent à ma place ?",
+      "il": "Il aurait rendu service avec plaisir.",
+      "nous": "Nous aurions rendu visite à Marie avec plus de temps.",
+      "vous": "Vous auriez rendu le portefeuille ?",
+      "ils": "Ils auraient rendu le travail à temps sans la panne."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie rendu mon devoir à temps.",
+      "tu": "C'est honnête que tu aies rendu l'argent.",
+      "il": "Je doute qu'il ait rendu les clés.",
+      "nous": "Bien que nous ayons rendu le dossier, nous attendons la réponse.",
+      "vous": "Je suis content que vous ayez rendu visite à ma mère.",
+      "ils": "C'est bien qu'ils aient rendu le chien à son propriétaire."
+    },
+    "Futur Proche": {
+      "je": "Je vais rendre ce pull au magasin.",
+      "tu": "Tu vas rendre visite à tes parents ?",
+      "il": "Il va rendre son devoir demain.",
+      "nous": "Nous allons rendre la voiture ce soir.",
+      "vous": "Vous allez rendre le livre à la bibliothèque ?",
+      "ils": "Ils vont rendre les clés au propriétaire."
+    },
+    "Impératif": {
+      "tu": "Rends-moi mon téléphone !",
+      "nous": "Rendons visite à grand-mère dimanche.",
+      "vous": "Rendez vos copies, l'examen est terminé."
+    }
+  }
+}

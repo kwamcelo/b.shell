@@ -1,0 +1,106 @@
+{
+  "verb": "arrêter",
+  "tenses": {
+    "Présent": {
+      "je": "J'arrête de fumer à partir d'aujourd'hui.",
+      "tu": "Tu arrêtes la musique, s'il te plaît ?",
+      "il": "Il arrête de travailler à dix-sept heures.",
+      "nous": "Nous arrêtons le jeu pour manger.",
+      "vous": "Vous arrêtez le travail à quelle heure ?",
+      "ils": "Ils arrêtent les travaux pendant l'hiver."
+    },
+    "Imparfait": {
+      "je": "J'arrêtais la voiture à chaque station-service.",
+      "tu": "Tu arrêtais toujours de lire au milieu du livre.",
+      "il": "Il arrêtait les passants pour leur parler.",
+      "nous": "Nous arrêtions le travail à midi pile.",
+      "vous": "Vous arrêtiez le film avant la fin ?",
+      "ils": "Ils arrêtaient tous les camions à la frontière."
+    },
+    "Futur Simple": {
+      "je": "J'arrêterai le café après les examens.",
+      "tu": "Tu arrêteras la machine à la fin du cycle.",
+      "il": "Il arrêtera ses études en juin.",
+      "nous": "Nous arrêterons le chantier pendant les fêtes.",
+      "vous": "Vous arrêterez le moteur avant de descendre.",
+      "ils": "Ils arrêteront le projet faute d'argent."
+    },
+    "Conditionnel Présent": {
+      "je": "J'arrêterais tout pour partir en voyage.",
+      "tu": "Tu arrêterais de parler deux minutes ?",
+      "il": "Il arrêterait de fumer avec un peu d'aide.",
+      "nous": "Nous arrêterions la voiture ici, si possible.",
+      "vous": "Vous arrêteriez la musique, s'il vous plaît ?",
+      "ils": "Ils arrêteraient la grève avec une meilleure offre."
+    },
+    "Subjonctif": {
+      "je": "Mon médecin veut que j'arrête le sucre.",
+      "tu": "Il faut que tu arrêtes de t'inquiéter.",
+      "il": "Sa femme veut qu'il arrête de ronfler.",
+      "nous": "Il est temps que nous arrêtions cette dispute.",
+      "vous": "J'aimerais que vous arrêtiez ce bruit.",
+      "ils": "Il faut qu'ils arrêtent de se disputer."
+    },
+    "Passé Simple": {
+      "je": "J'arrêtai mon cheval au bord de la rivière.",
+      "tu": "Tu arrêtas le voleur dans sa fuite.",
+      "il": "Il arrêta la voiture devant le château.",
+      "nous": "Nous arrêtâmes la diligence à l'entrée du village.",
+      "vous": "Vous arrêtâtes le combat juste à temps.",
+      "ils": "Ils arrêtèrent les rebelles à l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai arrêté le sport à cause de mon genou.",
+      "tu": "Tu as arrêté le four ?",
+      "il": "Il a arrêté de fumer l'année dernière.",
+      "nous": "Nous avons arrêté de manger de la viande.",
+      "vous": "Vous avez arrêté vos cours de piano ?",
+      "ils": "Ils ont arrêté le voleur à la sortie du magasin."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais arrêté le café depuis un mois.",
+      "tu": "Tu avais arrêté la danse à quinze ans ?",
+      "il": "Il avait arrêté ses études pour travailler.",
+      "nous": "Nous avions arrêté le moteur pour écouter.",
+      "vous": "Vous aviez arrêté de chercher ?",
+      "ils": "Ils avaient arrêté le match à cause de la pluie."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai arrêté de fumer avant mon anniversaire.",
+      "tu": "Tu auras arrêté ce travail avant l'été.",
+      "il": "Il aura arrêté le sport avant ses quarante ans.",
+      "nous": "Nous aurons arrêté le chantier avant l'hiver.",
+      "vous": "Vous aurez arrêté de travailler à cette date.",
+      "ils": "Ils auront arrêté le coupable avant demain."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais arrêté plus tôt avec de meilleurs conseils.",
+      "tu": "Tu aurais arrêté tes études pour ce poste ?",
+      "il": "Il aurait arrêté la voiture à temps sans le verglas.",
+      "nous": "Nous aurions arrêté le match à cause de l'orage.",
+      "vous": "Vous auriez arrêté à ma place ?",
+      "ils": "Ils auraient arrêté le voleur avec une caméra."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon médecin est content que j'aie arrêté de fumer.",
+      "tu": "C'est dommage que tu aies arrêté la guitare.",
+      "il": "C'est bien qu'il ait arrêté de boire.",
+      "nous": "Bien que nous ayons arrêté le sucre, nous avons encore envie de gâteaux.",
+      "vous": "Je suis surpris que vous ayez arrêté le théâtre.",
+      "ils": "Je suis soulagé qu'ils aient arrêté le suspect."
+    },
+    "Futur Proche": {
+      "je": "Je vais arrêter les réseaux sociaux pendant un mois.",
+      "tu": "Tu vas arrêter de te plaindre ?",
+      "il": "Il va arrêter de travailler le vendredi.",
+      "nous": "Nous allons arrêter la voiture à la prochaine aire.",
+      "vous": "Vous allez arrêter ce bruit ?",
+      "ils": "Ils vont arrêter la production de ce modèle."
+    },
+    "Impératif": {
+      "tu": "Arrête de crier, s'il te plaît.",
+      "nous": "Arrêtons cette discussion, on n'avance pas.",
+      "vous": "Arrêtez la voiture, j'ai oublié mon sac !"
+    }
+  }
+}

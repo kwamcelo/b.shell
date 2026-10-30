@@ -1,0 +1,106 @@
+{
+  "verb": "sentir",
+  "tenses": {
+    "Présent": {
+      "je": "Je sens une odeur de gâteau.",
+      "tu": "Tu sens la fumée ?",
+      "il": "Il sent toujours le parfum à la vanille.",
+      "nous": "Nous sentons le vent froid de la mer.",
+      "vous": "Vous sentez cette odeur de brûlé ?",
+      "ils": "Ils sentent le danger approcher."
+    },
+    "Imparfait": {
+      "je": "Je sentais la chaleur du soleil sur mon visage.",
+      "tu": "Tu sentais le pain chaud depuis la rue.",
+      "il": "Il sentait le café dès le matin.",
+      "nous": "Nous sentions la pluie arriver.",
+      "vous": "Vous sentiez l'odeur de la mer ?",
+      "ils": "Ils sentaient la fatigue après le voyage."
+    },
+    "Futur Simple": {
+      "je": "Je sentirai la différence avec ces chaussures.",
+      "tu": "Tu sentiras le parfum des fleurs au printemps.",
+      "il": "Il sentira le froid sans son écharpe.",
+      "nous": "Nous sentirons l'odeur de la mer en arrivant.",
+      "vous": "Vous sentirez une légère piqûre.",
+      "ils": "Ils sentiront la chaleur dès la sortie de l'avion."
+    },
+    "Conditionnel Présent": {
+      "je": "Je sentirais mieux les saveurs sans ce rhume.",
+      "tu": "Tu sentirais cette odeur, tu comprendrais.",
+      "il": "Il sentirait la différence tout de suite.",
+      "nous": "Nous sentirions le vent sur la terrasse.",
+      "vous": "Vous sentiriez le parfum des roses dans le jardin.",
+      "ils": "Ils sentiraient le froid sans le chauffage."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je sente ce vin ?",
+      "tu": "Il faut que tu sentes ce parfum.",
+      "il": "J'aimerais qu'il sente ces fleurs.",
+      "nous": "Il faut que nous sentions le rythme de la musique.",
+      "vous": "Je veux que vous sentiez la texture de ce tissu.",
+      "ils": "Il faut qu'ils sentent la différence."
+    },
+    "Passé Simple": {
+      "je": "Je sentis une main sur mon épaule.",
+      "tu": "Tu sentis le sol trembler.",
+      "il": "Il sentit le danger approcher.",
+      "nous": "Nous sentîmes l'odeur de la fumée.",
+      "vous": "Vous sentîtes le vent tourner.",
+      "ils": "Ils sentirent la terre trembler sous leurs pieds."
+    },
+    "Passé Composé": {
+      "je": "J'ai senti une goutte de pluie.",
+      "tu": "Tu as senti le tremblement de terre ?",
+      "il": "Il a senti une douleur dans le dos.",
+      "nous": "Nous avons senti l'odeur du barbecue des voisins.",
+      "vous": "Vous avez senti le vent froid ce matin ?",
+      "ils": "Ils ont senti la fumée avant de voir le feu."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais senti le danger dès le début.",
+      "tu": "Tu avais senti l'odeur de gaz ?",
+      "il": "Il avait senti la pluie arriver.",
+      "nous": "Nous avions senti la maison trembler.",
+      "vous": "Vous aviez senti une odeur bizarre ?",
+      "ils": "Ils avaient senti le changement dans l'air."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai senti le printemps arriver.",
+      "tu": "Tu auras senti la différence, j'en suis sûr.",
+      "il": "Il aura senti le vent tourner.",
+      "nous": "Nous aurons senti chaque kilomètre de cette randonnée.",
+      "vous": "Vous aurez senti le froid pendant la nuit.",
+      "ils": "Ils auront senti la fatigue à la fin du voyage."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais senti l'odeur sans mon rhume.",
+      "tu": "Tu aurais senti le tremblement de terre à ma place.",
+      "il": "Il aurait senti le danger avec plus d'expérience.",
+      "nous": "Nous aurions senti la fumée sans la fenêtre fermée.",
+      "vous": "Vous auriez senti la différence ?",
+      "ils": "Ils auraient senti le froid sans leurs manteaux."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon médecin est surpris que j'aie senti cette douleur.",
+      "tu": "Je suis content que tu aies senti mon soutien.",
+      "il": "Je doute qu'il ait senti la piqûre.",
+      "nous": "Bien que nous ayons senti l'odeur, personne n'a réagi.",
+      "vous": "C'est étrange que vous ayez senti cette odeur.",
+      "ils": "Il est possible qu'ils aient senti le tremblement de terre."
+    },
+    "Futur Proche": {
+      "je": "Je vais sentir ces fleurs.",
+      "tu": "Tu vas sentir une petite piqûre.",
+      "il": "Il va sentir la différence.",
+      "nous": "Nous allons sentir le froid.",
+      "vous": "Vous allez sentir la chaleur du feu.",
+      "ils": "Ils vont sentir le parfum des roses."
+    },
+    "Impératif": {
+      "tu": "Sens cette odeur de café !",
+      "nous": "Sentons le vent sur la colline.",
+      "vous": "Sentez ce parfum, il est merveilleux."
+    }
+  }
+}

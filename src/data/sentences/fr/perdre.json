@@ -1,0 +1,106 @@
+{
+  "verb": "perdre",
+  "tenses": {
+    "Présent": {
+      "je": "Je perds toujours mes clés.",
+      "tu": "Tu perds ton temps avec lui.",
+      "il": "Il perd patience très vite.",
+      "nous": "Nous perdons du temps dans les bouchons.",
+      "vous": "Vous perdez quelque chose ?",
+      "ils": "Ils perdent chaque match cette saison."
+    },
+    "Imparfait": {
+      "je": "Je perdais toujours aux cartes contre mon grand-père.",
+      "tu": "Tu perdais tes gants chaque hiver.",
+      "il": "Il perdait ses lunettes tous les jours.",
+      "nous": "Nous perdions souvent le fil de la conversation.",
+      "vous": "Vous perdiez de l'argent avec ce magasin ?",
+      "ils": "Ils perdaient tous leurs matchs à l'extérieur."
+    },
+    "Futur Simple": {
+      "je": "Je perdrai quelques kilos avant l'été.",
+      "tu": "Tu perdras ton bus si tu ne pars pas maintenant.",
+      "il": "Il perdra son pari, c'est sûr.",
+      "nous": "Nous perdrons du temps avec ce détour.",
+      "vous": "Vous perdrez votre place dans la file.",
+      "ils": "Ils perdront le match sans leur gardien."
+    },
+    "Conditionnel Présent": {
+      "je": "Je perdrais la tête sans mon agenda.",
+      "tu": "Tu perdrais ton temps avec cette méthode.",
+      "il": "Il perdrait son travail avec une autre erreur.",
+      "nous": "Nous perdrions le match sans toi.",
+      "vous": "Vous perdriez beaucoup d'argent avec ce contrat.",
+      "ils": "Ils perdraient leur maison sans cette aide."
+    },
+    "Subjonctif": {
+      "je": "Mes parents ont peur que je perde mon passeport.",
+      "tu": "Je refuse que tu perdes ton temps.",
+      "il": "Il est possible qu'il perde son emploi.",
+      "nous": "Il faut éviter que nous perdions la clé.",
+      "vous": "Je crains que vous perdiez le match.",
+      "ils": "Il est dommage qu'ils perdent cette chance."
+    },
+    "Passé Simple": {
+      "je": "Je perdis mon chemin dans la forêt.",
+      "tu": "Tu perdis tout au jeu.",
+      "il": "Il perdit la bataille et son royaume.",
+      "nous": "Nous perdîmes la trace des voleurs.",
+      "vous": "Vous perdîtes votre fortune en une nuit.",
+      "ils": "Ils perdirent la guerre après cinq ans."
+    },
+    "Passé Composé": {
+      "je": "J'ai perdu mon portefeuille dans le métro.",
+      "tu": "Tu as perdu ta montre ?",
+      "il": "Il a perdu trois kilos en un mois.",
+      "nous": "Nous avons perdu le match aux tirs au but.",
+      "vous": "Vous avez perdu votre chemin ?",
+      "ils": "Ils ont perdu leur chat pendant le déménagement."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais perdu mon téléphone la veille.",
+      "tu": "Tu avais perdu tes clés encore une fois.",
+      "il": "Il avait perdu son travail juste avant Noël.",
+      "nous": "Nous avions perdu tout espoir.",
+      "vous": "Vous aviez perdu le contact avec lui ?",
+      "ils": "Ils avaient perdu leur avion à cause des bouchons."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai perdu une journée entière pour rien.",
+      "tu": "Tu auras perdu ton temps.",
+      "il": "Il aura perdu son pari.",
+      "nous": "Nous aurons perdu trois matchs cette saison.",
+      "vous": "Vous aurez perdu beaucoup d'argent.",
+      "ils": "Ils auront perdu le nord sans leur GPS."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais perdu mon train sans ton aide.",
+      "tu": "Tu aurais perdu patience à ma place.",
+      "il": "Il aurait perdu la course sans ce dernier effort.",
+      "nous": "Nous aurions perdu la clé sans ce porte-clés.",
+      "vous": "Vous auriez perdu tout votre travail sans sauvegarde.",
+      "ils": "Ils auraient perdu le match sans ce but."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est fâchée que j'aie perdu mon manteau.",
+      "tu": "C'est dommage que tu aies perdu ce match.",
+      "il": "Je suis désolé qu'il ait perdu son emploi.",
+      "nous": "Bien que nous ayons perdu, nous sommes contents du match.",
+      "vous": "C'est triste que vous ayez perdu votre chien.",
+      "ils": "Je suis surpris qu'ils aient perdu contre cette équipe."
+    },
+    "Futur Proche": {
+      "je": "Je vais perdre patience !",
+      "tu": "Tu vas perdre ton bus.",
+      "il": "Il va perdre son pari.",
+      "nous": "Nous allons perdre du temps.",
+      "vous": "Vous allez perdre votre place.",
+      "ils": "Ils vont perdre le match."
+    },
+    "Impératif": {
+      "tu": "Ne perds pas espoir, ça va s'arranger.",
+      "nous": "Ne perdons pas de temps, on y va.",
+      "vous": "Perdez cette mauvaise habitude."
+    }
+  }
+}

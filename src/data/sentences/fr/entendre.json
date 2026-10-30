@@ -1,0 +1,106 @@
+{
+  "verb": "entendre",
+  "tenses": {
+    "Présent": {
+      "je": "J'entends de la musique chez les voisins.",
+      "tu": "Tu entends ce bruit ?",
+      "il": "Il entend mal de l'oreille gauche.",
+      "nous": "Nous entendons les oiseaux chanter le matin.",
+      "vous": "Vous entendez bien au fond de la salle ?",
+      "ils": "Ils entendent le train passer la nuit."
+    },
+    "Imparfait": {
+      "je": "J'entendais la mer depuis ma chambre.",
+      "tu": "Tu entendais les cloches de l'église ?",
+      "il": "Il entendait des voix dans le couloir.",
+      "nous": "Nous entendions les enfants jouer dans la cour.",
+      "vous": "Vous entendiez la pluie sur le toit ?",
+      "ils": "Ils entendaient le tonnerre au loin."
+    },
+    "Futur Simple": {
+      "je": "J'entendrai mieux avec mon appareil.",
+      "tu": "Tu entendras la sonnette depuis le jardin.",
+      "il": "Il entendra la nouvelle à la radio.",
+      "nous": "Nous entendrons le concert depuis le balcon.",
+      "vous": "Vous entendrez un bip à la fin du message.",
+      "ils": "Ils entendront parler de nous !"
+    },
+    "Conditionnel Présent": {
+      "je": "J'entendrais mieux sans ce bruit de fond.",
+      "tu": "Tu entendrais le téléphone d'ici ?",
+      "il": "Il entendrait mieux près de la scène.",
+      "nous": "Nous entendrions la musique avec la fenêtre ouverte.",
+      "vous": "Vous entendriez mieux au premier rang.",
+      "ils": "Ils entendraient le réveil avec plus de volume."
+    },
+    "Subjonctif": {
+      "je": "Parle plus fort pour que j'entende.",
+      "tu": "Je veux que tu entendes cette chanson.",
+      "il": "Chuchote, je ne veux pas qu'il entende.",
+      "nous": "Il faut que nous entendions les deux versions.",
+      "vous": "J'aimerais que vous entendiez ce témoignage.",
+      "ils": "Ferme la porte pour qu'ils entendent moins le bruit."
+    },
+    "Passé Simple": {
+      "je": "J'entendis des pas dans l'escalier.",
+      "tu": "Tu entendis un cri dans la nuit.",
+      "il": "Il entendit frapper à la porte.",
+      "nous": "Nous entendîmes le loup hurler.",
+      "vous": "Vous entendîtes la cloche sonner minuit.",
+      "ils": "Ils entendirent le canon au loin."
+    },
+    "Passé Composé": {
+      "je": "J'ai entendu une drôle d'histoire hier.",
+      "tu": "Tu as entendu la nouvelle ?",
+      "il": "Il a entendu un bruit dans la cuisine.",
+      "nous": "Nous avons entendu ce groupe en concert.",
+      "vous": "Vous avez entendu l'orage cette nuit ?",
+      "ils": "Ils ont entendu parler de ce restaurant."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais entendu cette chanson à la radio.",
+      "tu": "Tu avais entendu parler de ce film ?",
+      "il": "Il avait entendu un bruit étrange.",
+      "nous": "Nous avions entendu la sirène des pompiers.",
+      "vous": "Vous aviez entendu la nouvelle avant nous ?",
+      "ils": "Ils avaient entendu des rumeurs."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai entendu toutes les excuses possibles.",
+      "tu": "Tu auras entendu cette histoire cent fois.",
+      "il": "Il aura entendu la nouvelle à la radio.",
+      "nous": "Nous aurons entendu tous les points de vue.",
+      "vous": "Vous aurez entendu le meilleur orchestre du pays.",
+      "ils": "Ils auront entendu parler de nous."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais entendu le réveil avec moins de fatigue.",
+      "tu": "Tu aurais entendu ce bruit, c'était terrible.",
+      "il": "Il aurait entendu la sonnette sans son casque.",
+      "nous": "Nous aurions entendu le train sans la musique.",
+      "vous": "Vous auriez entendu ce chanteur, quelle voix !",
+      "ils": "Ils auraient entendu l'alarme sans les bouchons d'oreille."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est soulagée que j'aie entendu le réveil.",
+      "tu": "Je suis content que tu aies entendu ce concert.",
+      "il": "Je doute qu'il ait entendu la question.",
+      "nous": "Bien que nous ayons entendu l'alarme, personne n'a bougé.",
+      "vous": "C'est étrange que vous ayez entendu ce bruit.",
+      "ils": "Il est possible qu'ils aient entendu notre conversation."
+    },
+    "Futur Proche": {
+      "je": "Je vais entendre ce groupe en concert samedi.",
+      "tu": "Tu vas entendre parler de moi !",
+      "il": "Il va entendre la nouvelle ce soir.",
+      "nous": "Nous allons entendre le discours du maire.",
+      "vous": "Vous allez entendre un petit bip.",
+      "ils": "Ils vont entendre la vérité."
+    },
+    "Impératif": {
+      "tu": "Entends bien ce que je te dis.",
+      "nous": "Entendons tous les témoins avant de juger.",
+      "vous": "Entendez bien ceci : personne ne sort avant midi."
+    }
+  }
+}

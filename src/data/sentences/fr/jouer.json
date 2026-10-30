@@ -1,0 +1,106 @@
+{
+  "verb": "jouer",
+  "tenses": {
+    "Présent": {
+      "je": "Je joue de la guitare depuis dix ans.",
+      "tu": "Tu joues au tennis le samedi ?",
+      "il": "Il joue au hockey avec ses amis.",
+      "nous": "Nous jouons aux cartes après le dîner.",
+      "vous": "Vous jouez d'un instrument ?",
+      "ils": "Ils jouent dans le jardin."
+    },
+    "Imparfait": {
+      "je": "Je jouais aux billes à la récréation.",
+      "tu": "Tu jouais du piano dans ton enfance ?",
+      "il": "Il jouait au foot tous les mercredis.",
+      "nous": "Nous jouions dans la rue jusqu'au soir.",
+      "vous": "Vous jouiez à quoi pendant les vacances ?",
+      "ils": "Ils jouaient à cache-cache dans la forêt."
+    },
+    "Futur Simple": {
+      "je": "Je jouerai au tennis avec Marc demain.",
+      "tu": "Tu joueras le rôle du roi dans la pièce.",
+      "il": "Il jouera dans l'équipe nationale un jour.",
+      "nous": "Nous jouerons aux échecs ce soir.",
+      "vous": "Vous jouerez à la plage avec les enfants.",
+      "ils": "Ils joueront la finale dimanche."
+    },
+    "Conditionnel Présent": {
+      "je": "Je jouerais bien une partie de cartes.",
+      "tu": "Tu jouerais avec nous ce soir ?",
+      "il": "Il jouerait mieux avec de meilleures chaussures.",
+      "nous": "Nous jouerions dehors sans la pluie.",
+      "vous": "Vous joueriez un morceau pour nous ?",
+      "ils": "Ils joueraient toute la journée si possible."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je joue moins aux jeux vidéo.",
+      "tu": "J'aimerais que tu joues cette chanson.",
+      "il": "Il faut qu'il joue avec plus de confiance.",
+      "nous": "Il est temps que nous jouions ensemble.",
+      "vous": "Je veux que vous jouiez dans mon équipe.",
+      "ils": "Il vaut mieux qu'ils jouent dehors."
+    },
+    "Passé Simple": {
+      "je": "Je jouai mon dernier morceau sous les applaudissements.",
+      "tu": "Tu jouas le tout pour le tout.",
+      "il": "Il joua du violon toute la nuit.",
+      "nous": "Nous jouâmes aux dés avec les soldats.",
+      "vous": "Vous jouâtes un rôle important dans cette affaire.",
+      "ils": "Ils jouèrent une pièce devant le roi."
+    },
+    "Passé Composé": {
+      "je": "J'ai joué au golf pour la première fois.",
+      "tu": "Tu as joué au loto cette semaine ?",
+      "il": "Il a joué dans un film avec Juliette Binoche.",
+      "nous": "Nous avons joué aux cartes toute la soirée.",
+      "vous": "Vous avez joué au foot ce matin ?",
+      "ils": "Ils ont joué un excellent match."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais joué du piano pendant des années.",
+      "tu": "Tu avais joué dans cette équipe avant ?",
+      "il": "Il avait joué ce rôle au théâtre.",
+      "nous": "Nous avions joué aux échecs la veille.",
+      "vous": "Vous aviez joué ensemble au lycée ?",
+      "ils": "Ils avaient joué toute la journée dans la neige."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai joué dans trois pièces cette année.",
+      "tu": "Tu auras joué ton meilleur match.",
+      "il": "Il aura joué cent matchs avec ce club.",
+      "nous": "Nous aurons joué dans toutes les salles de la ville.",
+      "vous": "Vous aurez joué un rôle essentiel.",
+      "ils": "Ils auront joué toute la nuit."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais joué mieux avec plus d'entraînement.",
+      "tu": "Tu aurais joué avec nous ?",
+      "il": "Il aurait joué la finale sans sa blessure.",
+      "nous": "Nous aurions joué dehors avec un meilleur temps.",
+      "vous": "Vous auriez joué ce rôle à ma place ?",
+      "ils": "Ils auraient joué plus longtemps sans l'orage."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie joué sans fautes.",
+      "tu": "Je suis ravi que tu aies joué pour nous.",
+      "il": "C'est dommage qu'il ait joué si peu.",
+      "nous": "Bien que nous ayons joué toute la nuit, personne n'a gagné.",
+      "vous": "Je suis heureux que vous ayez joué ensemble.",
+      "ils": "C'est super qu'ils aient joué à guichets fermés."
+    },
+    "Futur Proche": {
+      "je": "Je vais jouer au tennis avec ma sœur.",
+      "tu": "Tu vas jouer dans la pièce de l'école ?",
+      "il": "Il va jouer le rôle principal.",
+      "nous": "Nous allons jouer aux cartes.",
+      "vous": "Vous allez jouer un morceau ?",
+      "ils": "Ils vont jouer la finale demain."
+    },
+    "Impératif": {
+      "tu": "Joue avec ton frère, s'il te plaît.",
+      "nous": "Jouons une dernière partie.",
+      "vous": "Jouez prudemment, c'est glissant."
+    }
+  }
+}

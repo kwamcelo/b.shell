@@ -1,0 +1,106 @@
+{
+  "verb": "demander",
+  "tenses": {
+    "Présent": {
+      "je": "Je demande l'addition au serveur.",
+      "tu": "Tu demandes ton chemin à un passant ?",
+      "il": "Il demande toujours des conseils à son père.",
+      "nous": "Nous demandons une table près de la fenêtre.",
+      "vous": "Vous demandez un remboursement ?",
+      "ils": "Ils demandent une augmentation de salaire."
+    },
+    "Imparfait": {
+      "je": "Je demandais souvent de l'aide à mon voisin.",
+      "tu": "Tu demandais quoi au vendeur ?",
+      "il": "Il demandait l'heure à tout le monde.",
+      "nous": "Nous demandions des bonbons à notre grand-mère.",
+      "vous": "Vous demandiez quelque chose ?",
+      "ils": "Ils demandaient sans cesse la même chose."
+    },
+    "Futur Simple": {
+      "je": "Je demanderai un jour de congé à mon chef.",
+      "tu": "Tu demanderas le prix avant d'acheter.",
+      "il": "Il demandera sa copine en mariage cet été.",
+      "nous": "Nous demanderons un devis au plombier.",
+      "vous": "Vous demanderez votre chemin à l'accueil.",
+      "ils": "Ils demanderont des nouvelles de ta mère."
+    },
+    "Conditionnel Présent": {
+      "je": "Je demanderais de l'aide, à ta place.",
+      "tu": "Tu demanderais l'heure au monsieur ?",
+      "il": "Il demanderait une augmentation avec plus de courage.",
+      "nous": "Nous demanderions un délai, si possible.",
+      "vous": "Vous demanderiez le menu au serveur ?",
+      "ils": "Ils demanderaient conseil à un avocat."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je demande la permission.",
+      "tu": "Il vaut mieux que tu demandes avant de prendre.",
+      "il": "Je préfère qu'il demande l'avis du médecin.",
+      "nous": "Il est temps que nous demandions de l'aide.",
+      "vous": "J'aimerais que vous demandiez au directeur.",
+      "ils": "Il faut qu'ils demandent un visa."
+    },
+    "Passé Simple": {
+      "je": "Je demandai asile au château.",
+      "tu": "Tu demandas pardon à genoux.",
+      "il": "Il demanda la main de la princesse.",
+      "nous": "Nous demandâmes l'hospitalité au fermier.",
+      "vous": "Vous demandâtes justice au roi.",
+      "ils": "Ils demandèrent la paix après dix ans de guerre."
+    },
+    "Passé Composé": {
+      "je": "J'ai demandé ton numéro à Julie.",
+      "tu": "Tu as demandé la permission à tes parents ?",
+      "il": "Il a demandé un verre d'eau.",
+      "nous": "Nous avons demandé notre chemin trois fois.",
+      "vous": "Vous avez demandé la facture ?",
+      "ils": "Ils ont demandé des explications au directeur."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais demandé une chambre calme.",
+      "tu": "Tu avais demandé un café sans sucre.",
+      "il": "Il avait demandé un rendez-vous la semaine précédente.",
+      "nous": "Nous avions demandé une table pour six.",
+      "vous": "Vous aviez demandé un taxi pour huit heures ?",
+      "ils": "Ils avaient demandé un délai supplémentaire."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai demandé la permission avant de partir.",
+      "tu": "Tu auras demandé conseil à tout le monde.",
+      "il": "Il aura demandé un congé avant l'été.",
+      "nous": "Nous aurons demandé un devis à trois entreprises.",
+      "vous": "Vous aurez demandé votre visa à temps.",
+      "ils": "Ils auront demandé l'avis de tout le monde."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais demandé de l'aide plus tôt.",
+      "tu": "Tu aurais demandé une augmentation, toi ?",
+      "il": "Il aurait demandé pardon avec un peu d'humilité.",
+      "nous": "Nous aurions demandé une autre chambre.",
+      "vous": "Vous auriez demandé quoi, à ma place ?",
+      "ils": "Ils auraient demandé un remboursement."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est surpris que j'aie demandé une augmentation.",
+      "tu": "C'est bien que tu aies demandé de l'aide.",
+      "il": "Je suis surpris qu'il ait demandé ça.",
+      "nous": "Bien que nous ayons demandé une table calme, il y avait du bruit.",
+      "vous": "Je suis content que vous ayez demandé mon avis.",
+      "ils": "C'est normal qu'ils aient demandé des explications."
+    },
+    "Futur Proche": {
+      "je": "Je vais demander à mon frère de m'aider.",
+      "tu": "Tu vas demander la permission ?",
+      "il": "Il va demander une augmentation.",
+      "nous": "Nous allons demander l'addition.",
+      "vous": "Vous allez demander un rendez-vous ?",
+      "ils": "Ils vont demander un visa pour le Japon."
+    },
+    "Impératif": {
+      "tu": "Demande à ta mère si tu peux venir.",
+      "nous": "Demandons notre chemin à ce policier.",
+      "vous": "Demandez l'addition, on part."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "rentrer",
+  "tenses": {
+    "Présent": {
+      "je": "Je rentre à la maison vers dix-neuf heures.",
+      "tu": "Tu rentres à quelle heure ce soir ?",
+      "il": "Il rentre du travail à vélo.",
+      "nous": "Nous rentrons de vacances demain.",
+      "vous": "Vous rentrez en métro ou en taxi ?",
+      "ils": "Ils rentrent en famille pour Noël."
+    },
+    "Imparfait": {
+      "je": "Je rentrais de l'école en bus.",
+      "tu": "Tu rentrais tard le samedi soir.",
+      "il": "Il rentrait toujours avec du pain frais.",
+      "nous": "Nous rentrions à pied par le parc.",
+      "vous": "Vous rentriez du cinéma à cette heure-là ?",
+      "ils": "Ils rentraient de la plage au coucher du soleil."
+    },
+    "Futur Simple": {
+      "je": "Je rentrerai tard ce soir, ne m'attends pas.",
+      "tu": "Tu rentreras avant minuit, d'accord ?",
+      "il": "Il rentrera de Londres jeudi.",
+      "nous": "Nous rentrerons par le train de dix-huit heures.",
+      "vous": "Vous rentrerez avec nous en voiture ?",
+      "ils": "Ils rentreront après le concert."
+    },
+    "Conditionnel Présent": {
+      "je": "Je rentrerais bien à la maison maintenant.",
+      "tu": "Tu rentrerais avec moi ?",
+      "il": "Il rentrerait plus tôt avec moins de travail.",
+      "nous": "Nous rentrerions à pied avec un meilleur temps.",
+      "vous": "Vous rentreriez en taxi à cette heure-ci ?",
+      "ils": "Ils rentreraient au pays avec un bon emploi."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je rentre avant minuit.",
+      "tu": "Il faut que tu rentres te reposer.",
+      "il": "Je préfère qu'il rentre en taxi.",
+      "nous": "Il est temps que nous rentrions.",
+      "vous": "J'aimerais que vous rentriez avant la nuit.",
+      "ils": "Il vaut mieux qu'ils rentrent avant l'orage."
+    },
+    "Passé Simple": {
+      "je": "Je rentrai au village après la guerre.",
+      "tu": "Tu rentras chez toi sans un mot.",
+      "il": "Il rentra au château à l'aube.",
+      "nous": "Nous rentrâmes à Paris au printemps.",
+      "vous": "Vous rentrâtes victorieux de la bataille.",
+      "ils": "Ils rentrèrent au port avant la tempête."
+    },
+    "Passé Composé": {
+      "je": "Je suis rentré très tard hier soir.",
+      "tu": "Tu es rentré comment après la fête ?",
+      "il": "Il est rentré de voyage avec plein de souvenirs.",
+      "nous": "Nous sommes rentrés à pied sous la pluie.",
+      "vous": "Vous êtes rentrés à quelle heure ?",
+      "ils": "Ils sont rentrés de vacances dimanche."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais rentré avant la tempête.",
+      "tu": "Tu étais rentré quand j'ai appelé ?",
+      "il": "Il était rentré du bureau à vingt heures.",
+      "nous": "Nous étions rentrés juste avant la neige.",
+      "vous": "Vous étiez rentrés de Paris la veille ?",
+      "ils": "Ils étaient rentrés de l'école à seize heures."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai rentré avant le début du match.",
+      "tu": "Tu seras rentré pour le dîner ?",
+      "il": "Il sera rentré à la maison à cette heure-là.",
+      "nous": "Nous serons rentrés avant la nuit.",
+      "vous": "Vous serez rentrés de vacances en septembre.",
+      "ils": "Ils seront rentrés de l'école avant nous."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais rentré plus tôt sans la grève.",
+      "tu": "Tu serais rentré à pied à ma place ?",
+      "il": "Il serait rentré avec nous avec une place en plus.",
+      "nous": "Nous serions rentrés plus tôt sans les bouchons.",
+      "vous": "Vous seriez rentrés en taxi ?",
+      "ils": "Ils seraient rentrés avant minuit sans la panne."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont soulagés que je sois rentré.",
+      "tu": "Je suis content que tu sois rentré sans problème.",
+      "il": "C'est bizarre qu'il soit rentré si tôt.",
+      "nous": "Bien que nous soyons rentrés tard, nous nous sommes levés tôt.",
+      "vous": "Je suis heureux que vous soyez rentrés.",
+      "ils": "Il est possible qu'ils soient rentrés par l'autre route."
+    },
+    "Futur Proche": {
+      "je": "Je vais rentrer à la maison.",
+      "tu": "Tu vas rentrer en bus ?",
+      "il": "Il va rentrer de vacances demain.",
+      "nous": "Nous allons rentrer avant la pluie.",
+      "vous": "Vous allez rentrer tard ?",
+      "ils": "Ils vont rentrer au Sénégal cet été."
+    },
+    "Impératif": {
+      "tu": "Rentre vite, il commence à pleuvoir !",
+      "nous": "Rentrons, il se fait tard.",
+      "vous": "Rentrez, la porte est ouverte."
+    }
+  }
+}

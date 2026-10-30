@@ -29,7 +29,7 @@ const FORM_OVERRIDES = {
 }
 
 // Imperatives Lefff lists but nobody uses.
-const NO_IMPERATIVE = new Set(['devoir'])
+const NO_IMPERATIVE = new Set(['devoir', 'plaire', 'mourir', "s'appeler", 'se sentir'])
 
 const ETRE_VERBS = new Set([
   'aller', 'venir', 'arriver', 'partir', 'revenir', 'devenir', 'entrer', 'rentrer', 'sortir', 'monter',
@@ -106,6 +106,7 @@ function withOverrides(base) {
 }
 
 function buildVerb(base, pronominal) {
+  const infinitive = pronominal ? phrase(['se', base]) : base
   const forms = withOverrides(base)
   const avoir = conjugations['avoir']
   const etre = conjugations['être']
@@ -147,13 +148,13 @@ function buildVerb(base, pronominal) {
   addTense('Futur Proche', (person, i) => personValue(person, subject =>
     phrase([subject, aller.P[i], phrase([reflexive(person), base])])))
 
-  if (!impersonal && forms.Y && !NO_IMPERATIVE.has(base)) {
+  if (!impersonal && forms.Y && !NO_IMPERATIVE.has(infinitive)) {
     addTense('Impératif', (person, i) => usable(forms.Y[i])
       && (pronominal ? `${forms.Y[i]}-${IMPERATIVE_REFLEXIVE[i]}` : forms.Y[i]))
   }
 
   return {
-    infinitive: pronominal ? phrase(['se', base]) : base,
+    infinitive,
     group: groupOf(base, forms),
     pronominal,
     impersonal,

@@ -4853,11 +4853,6 @@
       "m": "ils vont s'appeler",
       "f": "elles vont s'appeler"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "appelle-toi",
-     "1e personne du pluriel": "appelons-nous",
-     "2e personne du pluriel": "appelez-vous"
     }
    }
   },
@@ -6204,11 +6199,6 @@
       "m": "ils vont mourir",
       "f": "elles vont mourir"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "meurs",
-     "1e personne du pluriel": "mourons",
-     "2e personne du pluriel": "mourez"
     }
    }
   },
@@ -7941,11 +7931,6 @@
       "m": "ils vont plaire",
       "f": "elles vont plaire"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "plais",
-     "1e personne du pluriel": "plaisons",
-     "2e personne du pluriel": "plaisez"
     }
    }
   },
@@ -8906,11 +8891,6 @@
       "m": "ils vont se sentir",
       "f": "elles vont se sentir"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "sens-toi",
-     "1e personne du pluriel": "sentons-nous",
-     "2e personne du pluriel": "sentez-vous"
     }
    }
   },

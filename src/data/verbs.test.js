@@ -37,6 +37,8 @@ describe('verbs.fr.json', () => {
   it('uses everyday forms over literary ones', () => {
     expect(verb('pouvoir').tenses['Présent'][JE]).toBe('je peux')
     expect(verb('devoir').tenses['Impératif']).toBeUndefined()
+    expect(verb("s'appeler").tenses['Impératif']).toBeUndefined()
+    expect(verb('appeler').tenses['Impératif']).toBeDefined()
   })
 
   it('only conjugates impersonal verbs with il', () => {

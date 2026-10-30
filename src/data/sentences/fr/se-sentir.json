@@ -1,0 +1,101 @@
+{
+  "verb": "se sentir",
+  "tenses": {
+    "Présent": {
+      "je": "Je me sens bien ici.",
+      "tu": "Tu te sens mieux aujourd'hui ?",
+      "il": "Il se sent bien dans ce quartier.",
+      "nous": "Nous nous sentons en sécurité dans cette ville.",
+      "vous": "Vous vous sentez à l'aise ?",
+      "ils": "Ils se sentent mal après le repas."
+    },
+    "Imparfait": {
+      "je": "Je me sentais mal à l'aise à cette fête.",
+      "tu": "Tu te sentais bien dans ton ancien travail ?",
+      "il": "Il se sentait à l'aise à Montréal.",
+      "nous": "Nous nous sentions en vacances dès l'arrivée.",
+      "vous": "Vous vous sentiez mieux après la sieste ?",
+      "ils": "Ils se sentaient en sécurité dans ce village."
+    },
+    "Futur Simple": {
+      "je": "Je me sentirai mieux après une bonne nuit.",
+      "tu": "Tu te sentiras chez toi, tu verras.",
+      "il": "Il se sentira mieux avec ce médicament.",
+      "nous": "Nous nous sentirons plus en sécurité avec une alarme.",
+      "vous": "Vous vous sentirez à l'aise avec cette équipe.",
+      "ils": "Ils se sentiront bien dans cette maison."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me sentirais mieux après un café.",
+      "tu": "Tu te sentirais à l'aise sur scène ?",
+      "il": "Il se sentirait mieux avec un peu de repos.",
+      "nous": "Nous nous sentirions plus en sécurité avec une lampe.",
+      "vous": "Vous vous sentiriez bien dans cette ville.",
+      "ils": "Ils se sentiraient mieux à la campagne."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je me sente chez moi.",
+      "tu": "Je veux que tu te sentes à l'aise.",
+      "il": "Il faut qu'il se sente en confiance.",
+      "nous": "Il est important que nous nous sentions en confiance.",
+      "vous": "J'aimerais que vous vous sentiez chez vous.",
+      "ils": "Il faut qu'ils se sentent en sécurité."
+    },
+    "Passé Simple": {
+      "je": "Je me sentis soudain très loin de chez moi.",
+      "tu": "Tu te sentis enfin en paix.",
+      "il": "Il se sentit mal au milieu du bal.",
+      "nous": "Nous nous sentîmes en sécurité derrière les murs.",
+      "vous": "Vous vous sentîtes chez vous dans ce pays.",
+      "ils": "Ils se sentirent libres pour la première fois."
+    },
+    "Passé Composé": {
+      "je": "Je me suis senti mal pendant le vol.",
+      "tu": "Tu t'es senti à l'aise pendant l'entretien ?",
+      "il": "Il s'est senti mieux après une nuit de sommeil.",
+      "nous": "Nous nous sommes sentis chez nous tout de suite.",
+      "vous": "Vous vous êtes sentis en sécurité là-bas ?",
+      "ils": "Ils se sont sentis mal à cause de la chaleur."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais senti mal toute la matinée.",
+      "tu": "Tu t'étais senti mieux après le médicament ?",
+      "il": "Il s'était senti à l'aise dès le premier jour.",
+      "nous": "Nous nous étions sentis en danger cette nuit-là.",
+      "vous": "Vous vous étiez sentis à l'aise avec eux ?",
+      "ils": "Ils s'étaient sentis mieux après la sieste."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai senti bien toute la semaine.",
+      "tu": "Tu te seras senti chez toi pendant ce séjour.",
+      "il": "Il se sera senti mieux après les vacances.",
+      "nous": "Nous nous serons sentis en sécurité tout le voyage.",
+      "vous": "Vous vous serez sentis à l'aise, j'espère.",
+      "ils": "Ils se seront sentis à l'aise à la fin du mois."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais senti mieux avec une veste.",
+      "tu": "Tu te serais senti à l'aise à ma place ?",
+      "il": "Il se serait senti mieux avec un peu de repos.",
+      "nous": "Nous nous serions sentis plus en sécurité avec un guide.",
+      "vous": "Vous vous seriez sentis chez vous dans cet hôtel.",
+      "ils": "Ils se seraient sentis mal à cette réunion."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes hôtes sont contents que je me sois senti chez moi.",
+      "tu": "Je suis content que tu te sois senti à l'aise.",
+      "il": "C'est normal qu'il se soit senti mal.",
+      "nous": "Bien que nous nous soyons sentis bien, nous sommes partis tôt.",
+      "vous": "Je suis ravi que vous vous soyez sentis bien ici.",
+      "ils": "C'est dommage qu'ils se soient sentis mal à l'aise."
+    },
+    "Futur Proche": {
+      "je": "Je vais me sentir mieux après ce café.",
+      "tu": "Tu vas te sentir chez toi, tu verras.",
+      "il": "Il va se sentir mieux demain.",
+      "nous": "Nous allons nous sentir plus en sécurité.",
+      "vous": "Vous allez vous sentir bien ici.",
+      "ils": "Ils vont se sentir à l'aise avec nous."
+    }
+  }
+}

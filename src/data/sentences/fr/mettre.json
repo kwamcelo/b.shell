@@ -1,0 +1,106 @@
+{
+  "verb": "mettre",
+  "tenses": {
+    "Présent": {
+      "je": "Je mets la table pour le dîner.",
+      "tu": "Tu mets du lait dans ton thé ?",
+      "il": "Il met toujours une cravate pour le travail.",
+      "nous": "Nous mettons nos manteaux, il fait froid.",
+      "vous": "Vous mettez combien de temps pour venir ici ?",
+      "ils": "Ils mettent de la musique pendant le repas."
+    },
+    "Imparfait": {
+      "je": "Je mettais mon réveil à six heures.",
+      "tu": "Tu mettais toujours ce vieux pull.",
+      "il": "Il mettait des heures à se préparer.",
+      "nous": "Nous mettions nos chaussures devant la porte.",
+      "vous": "Vous mettiez du sucre dans la soupe ?",
+      "ils": "Ils mettaient de l'argent de côté chaque mois."
+    },
+    "Futur Simple": {
+      "je": "Je mettrai ma robe bleue pour le mariage.",
+      "tu": "Tu mettras les fleurs dans un vase.",
+      "il": "Il mettra son costume pour l'entretien.",
+      "nous": "Nous mettrons le gâteau au frigo.",
+      "vous": "Vous mettrez vos bagages dans le coffre.",
+      "ils": "Ils mettront deux heures pour arriver."
+    },
+    "Conditionnel Présent": {
+      "je": "Je mettrais un manteau, à ta place.",
+      "tu": "Tu mettrais la radio, s'il te plaît ?",
+      "il": "Il mettrait des années à finir ce livre.",
+      "nous": "Nous mettrions moins de temps en métro.",
+      "vous": "Vous mettriez la musique moins fort ?",
+      "ils": "Ils mettraient tout leur argent dans ce projet."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je mette de l'essence dans la voiture.",
+      "tu": "Je veux que tu mettes ton casque.",
+      "il": "Sa mère veut qu'il mette un pull.",
+      "nous": "Il faut que nous mettions de l'ordre dans la cuisine.",
+      "vous": "J'aimerais que vous mettiez votre téléphone en silencieux.",
+      "ils": "Il est temps qu'ils mettent fin à cette dispute."
+    },
+    "Passé Simple": {
+      "je": "Je mis mon chapeau et je sortis.",
+      "tu": "Tu mis le feu à la lettre.",
+      "il": "Il mit sa main sur mon épaule.",
+      "nous": "Nous mîmes trois jours à traverser le désert.",
+      "vous": "Vous mîtes fin à la guerre.",
+      "ils": "Ils mirent les voiles au lever du jour."
+    },
+    "Passé Composé": {
+      "je": "J'ai mis mes clés dans ton sac.",
+      "tu": "Tu as mis du sel dans la sauce ?",
+      "il": "Il a mis une heure pour trouver une place.",
+      "nous": "Nous avons mis des photos sur le frigo.",
+      "vous": "Vous avez mis le vin au frais ?",
+      "ils": "Ils ont mis des décorations partout."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais mis mon réveil, mais il n'a pas sonné.",
+      "tu": "Tu avais mis tes lunettes dans ta poche.",
+      "il": "Il avait mis de côté assez d'argent pour le voyage.",
+      "nous": "Nous avions mis le champagne au frais.",
+      "vous": "Vous aviez mis votre nom sur la liste ?",
+      "ils": "Ils avaient mis la maison en vente."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai mis un peu d'ordre avant ton arrivée.",
+      "tu": "Tu auras mis trois heures pour faire ce gâteau.",
+      "il": "Il aura mis toute sa vie dans ce restaurant.",
+      "nous": "Nous aurons mis de côté assez d'argent en juin.",
+      "vous": "Vous aurez mis tout votre cœur dans ce projet.",
+      "ils": "Ils auront mis la table avant notre arrivée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais mis une veste avec ce froid.",
+      "tu": "Tu aurais mis cette chemise pour un entretien ?",
+      "il": "Il aurait mis moins de temps en vélo.",
+      "nous": "Nous aurions mis plus de sucre dans la recette.",
+      "vous": "Vous auriez mis la table dehors ?",
+      "ils": "Ils auraient mis plus de chaises avec plus d'invités."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie mis un pull.",
+      "tu": "C'est bien que tu aies mis ta ceinture.",
+      "il": "C'est bizarre qu'il ait mis une heure.",
+      "nous": "Bien que nous ayons mis le réveil, nous avons raté le train.",
+      "vous": "Je suis ravi que vous ayez mis votre plus belle robe.",
+      "ils": "Je doute qu'ils aient mis le gâteau au frigo."
+    },
+    "Futur Proche": {
+      "je": "Je vais mettre une alarme pour demain.",
+      "tu": "Tu vas mettre quoi pour la soirée ?",
+      "il": "Il va mettre ses bottes, il neige.",
+      "nous": "Nous allons mettre la table dans le jardin.",
+      "vous": "Vous allez mettre combien de temps ?",
+      "ils": "Ils vont mettre leur maison en location."
+    },
+    "Impératif": {
+      "tu": "Mets ton manteau, il fait froid.",
+      "nous": "Mettons la musique plus fort !",
+      "vous": "Mettez vos ceintures, s'il vous plaît."
+    }
+  }
+}

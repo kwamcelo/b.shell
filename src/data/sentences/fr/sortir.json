@@ -1,0 +1,106 @@
+{
+  "verb": "sortir",
+  "tenses": {
+    "Présent": {
+      "je": "Je sors du travail à dix-huit heures.",
+      "tu": "Tu sors ce soir ?",
+      "il": "Il sort promener le chien tous les matins.",
+      "nous": "Nous sortons au restaurant pour son anniversaire.",
+      "vous": "Vous sortez souvent le week-end ?",
+      "ils": "Ils sortent ensemble depuis deux ans."
+    },
+    "Imparfait": {
+      "je": "Je sortais tous les vendredis soir à vingt ans.",
+      "tu": "Tu sortais de la douche quand j'ai appelé ?",
+      "il": "Il sortait rarement de son bureau.",
+      "nous": "Nous sortions jouer dans la neige.",
+      "vous": "Vous sortiez du cinéma quand l'orage a éclaté ?",
+      "ils": "Ils sortaient de l'école à seize heures."
+    },
+    "Futur Simple": {
+      "je": "Je sortirai faire les courses après le déjeuner.",
+      "tu": "Tu sortiras par la porte de derrière.",
+      "il": "Il sortira de l'hôpital demain.",
+      "nous": "Nous sortirons dès qu'il arrêtera de pleuvoir.",
+      "vous": "Vous sortirez par la sortie de secours.",
+      "ils": "Ils sortiront de prison l'année prochaine."
+    },
+    "Conditionnel Présent": {
+      "je": "Je sortirais bien prendre l'air.",
+      "tu": "Tu sortirais avec moi samedi ?",
+      "il": "Il sortirait plus souvent avec une voiture.",
+      "nous": "Nous sortirions volontiers ce soir.",
+      "vous": "Vous sortiriez par ce froid ?",
+      "ils": "Ils sortiraient plus tôt sans cette réunion."
+    },
+    "Subjonctif": {
+      "je": "Ma mère ne veut pas que je sorte ce soir.",
+      "tu": "Il faut que tu sortes un peu de chez toi.",
+      "il": "Le médecin préfère qu'il sorte demain.",
+      "nous": "Il vaut mieux que nous sortions par l'arrière.",
+      "vous": "J'aimerais que vous sortiez de mon bureau.",
+      "ils": "Il est temps qu'ils sortent de leur chambre."
+    },
+    "Passé Simple": {
+      "je": "Je sortis de la pièce en silence.",
+      "tu": "Tu sortis dans la nuit froide.",
+      "il": "Il sortit sans se retourner.",
+      "nous": "Nous sortîmes de la forêt à l'aube.",
+      "vous": "Vous sortîtes du château par un passage secret.",
+      "ils": "Ils sortirent de la grotte au lever du soleil."
+    },
+    "Passé Composé": {
+      "je": "Je suis sorti avec des amis hier soir.",
+      "tu": "Tu es sorti sans parapluie ?",
+      "il": "Il est sorti de la réunion en colère.",
+      "nous": "Nous sommes sortis danser samedi.",
+      "vous": "Vous êtes sortis par quelle porte ?",
+      "ils": "Ils sont sortis du cinéma à minuit."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais sorti juste avant la pluie.",
+      "tu": "Tu étais sorti quand le facteur est passé.",
+      "il": "Il était sorti acheter du pain.",
+      "nous": "Nous étions sortis tôt pour voir le lever du soleil.",
+      "vous": "Vous étiez sortis avant la fin du spectacle ?",
+      "ils": "Ils étaient sortis sans fermer la porte."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai sorti du bureau avant ton appel.",
+      "tu": "Tu seras sorti de l'hôpital avant Noël.",
+      "il": "Il sera sorti faire un tour.",
+      "nous": "Nous serons sortis du tunnel dans dix minutes.",
+      "vous": "Vous serez sortis avant la fermeture.",
+      "ils": "Ils seront sortis de l'école à cette heure-là."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais sorti avec vous sans ce rhume.",
+      "tu": "Tu serais sorti par ce froid ?",
+      "il": "Il serait sorti plus tôt sans ce client.",
+      "nous": "Nous serions sortis avec un meilleur temps.",
+      "vous": "Vous seriez sortis par la fenêtre ?",
+      "ils": "Ils seraient sortis plus souvent avec moins de devoirs."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fâchés que je sois sorti si tard.",
+      "tu": "C'est bien que tu sois sorti un peu.",
+      "il": "Je suis surpris qu'il soit sorti par ce temps.",
+      "nous": "Bien que nous soyons sortis tôt, il y avait des bouchons.",
+      "vous": "Je suis content que vous soyez sortis ce soir.",
+      "ils": "C'est étonnant qu'ils soient sortis sans manteau."
+    },
+    "Futur Proche": {
+      "je": "Je vais sortir le chien.",
+      "tu": "Tu vas sortir avec tes amis ce soir ?",
+      "il": "Il va sortir de l'hôpital vendredi.",
+      "nous": "Nous allons sortir dîner en ville.",
+      "vous": "Vous allez sortir par où ?",
+      "ils": "Ils vont sortir un nouvel album en mars."
+    },
+    "Impératif": {
+      "tu": "Sors de ta chambre, le dîner est prêt !",
+      "nous": "Sortons prendre l'air.",
+      "vous": "Sortez par la porte de droite."
+    }
+  }
+}

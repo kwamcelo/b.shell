@@ -1,0 +1,101 @@
+{
+  "verb": "mourir",
+  "tenses": {
+    "Présent": {
+      "je": "Je meurs de faim, on mange quand ?",
+      "tu": "Tu meurs de froid sans ton manteau.",
+      "il": "Il meurt d'envie de voir ce film.",
+      "nous": "Nous mourons de chaud dans ce bureau.",
+      "vous": "Vous mourez de soif après le match ?",
+      "ils": "Ils meurent d'impatience avant les vacances."
+    },
+    "Imparfait": {
+      "je": "Je mourais de peur pendant les orages.",
+      "tu": "Tu mourais d'envie de partir.",
+      "il": "Il mourait de faim après l'entraînement.",
+      "nous": "Nous mourions de rire devant ce spectacle.",
+      "vous": "Vous mouriez de chaud dans cette voiture ?",
+      "ils": "Ils mouraient d'ennui pendant les cours."
+    },
+    "Futur Simple": {
+      "je": "Je mourrai de rire si tu portes ce chapeau.",
+      "tu": "Tu mourras de faim avant le dîner !",
+      "il": "Il mourra de jalousie en voyant ta voiture.",
+      "nous": "Nous mourrons de chaud dans ce train.",
+      "vous": "Vous mourrez d'envie de revenir.",
+      "ils": "Ils mourront de froid sans chauffage."
+    },
+    "Conditionnel Présent": {
+      "je": "Je mourrais de honte à ta place.",
+      "tu": "Tu mourrais d'ennui à cette réunion.",
+      "il": "Il mourrait de peur dans cette maison hantée.",
+      "nous": "Nous mourrions de faim sans tes sandwichs.",
+      "vous": "Vous mourriez de rire en voyant ça.",
+      "ils": "Ils mourraient de jalousie en voyant ta maison."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je meure de faim ?",
+      "tu": "Je refuse que tu meures de froid dehors.",
+      "il": "Le vétérinaire a peur qu'il meure cette nuit.",
+      "nous": "Il faut éviter que nous mourions d'ennui ce soir.",
+      "vous": "Allumez la clim, je refuse que vous mouriez de chaud.",
+      "ils": "Le jardinier craint qu'ils meurent pendant l'hiver."
+    },
+    "Passé Simple": {
+      "je": "Je mourus presque de froid cette nuit-là.",
+      "tu": "Tu mourus en héros sur le champ de bataille.",
+      "il": "Il mourut en 1885 à Paris.",
+      "nous": "Nous mourûmes presque de faim pendant le siège.",
+      "vous": "Vous mourûtes de peur en voyant le fantôme.",
+      "ils": "Ils moururent pendant la grande épidémie."
+    },
+    "Passé Composé": {
+      "je": "Je suis mort de rire en voyant sa tête.",
+      "tu": "Tu es mort de peur pendant le film ?",
+      "il": "Il est mort de rire devant cette vidéo.",
+      "nous": "Nous sommes morts de fatigue après la randonnée.",
+      "vous": "Vous êtes morts de froid au match ?",
+      "ils": "Ils sont morts de rire pendant tout le spectacle."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais mort de peur pendant l'orage.",
+      "tu": "Tu étais mort de fatigue après ce voyage.",
+      "il": "Il était mort en 1990, avant ma naissance.",
+      "nous": "Nous étions morts de rire pendant tout le repas.",
+      "vous": "Vous étiez morts de faim en arrivant ?",
+      "ils": "Ils étaient morts de froid dans la tente."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai mort de fatigue avant la fin de la journée.",
+      "tu": "Tu seras mort de rire avant la fin du film.",
+      "il": "Il sera mort de faim avant le dîner.",
+      "nous": "Nous serons morts de chaud avant midi.",
+      "vous": "Vous serez morts d'ennui avant la fin du discours.",
+      "ils": "Ils seront morts de froid avant l'arrivée du bus."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais mort de honte à sa place.",
+      "tu": "Tu serais mort de rire en voyant ça.",
+      "il": "Il serait mort de peur dans cette grotte.",
+      "nous": "Nous serions morts de faim sans ce restaurant.",
+      "vous": "Vous seriez morts d'ennui à cette conférence.",
+      "ils": "Ils seraient morts de froid sans cette couverture."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis trouvent drôle que je sois mort de peur.",
+      "tu": "C'est bizarre que tu sois mort de rire à ce film triste.",
+      "il": "C'est triste qu'il soit mort si jeune.",
+      "nous": "Bien que nous soyons morts de fatigue, la fête était géniale.",
+      "vous": "Je suis désolé que vous soyez morts de froid au match.",
+      "ils": "Il est possible qu'ils soient morts de rire en lisant ta lettre."
+    },
+    "Futur Proche": {
+      "je": "Je vais mourir de faim si on ne mange pas bientôt.",
+      "tu": "Tu vas mourir de chaud avec ce pull.",
+      "il": "Il va mourir de rire en voyant son cadeau.",
+      "nous": "Nous allons mourir d'ennui à cette réunion.",
+      "vous": "Vous allez mourir de froid sans bonnet.",
+      "ils": "Ils vont mourir de jalousie."
+    }
+  }
+}

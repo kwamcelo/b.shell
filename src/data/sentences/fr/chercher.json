@@ -1,0 +1,106 @@
+{
+  "verb": "chercher",
+  "tenses": {
+    "Présent": {
+      "je": "Je cherche mes lunettes partout.",
+      "tu": "Tu cherches quelque chose ?",
+      "il": "Il cherche un appartement près du centre.",
+      "nous": "Nous cherchons un bon restaurant italien.",
+      "vous": "Vous cherchez la gare ?",
+      "ils": "Ils cherchent un nom pour leur bébé."
+    },
+    "Imparfait": {
+      "je": "Je cherchais un stage quand je t'ai rencontré.",
+      "tu": "Tu cherchais toujours les ennuis à l'école.",
+      "il": "Il cherchait ses clés dans toutes ses poches.",
+      "nous": "Nous cherchions des champignons dans la forêt.",
+      "vous": "Vous cherchiez quelqu'un ?",
+      "ils": "Ils cherchaient du travail depuis des mois."
+    },
+    "Futur Simple": {
+      "je": "Je chercherai un cadeau pour Paul demain.",
+      "tu": "Tu chercheras le mot dans le dictionnaire.",
+      "il": "Il cherchera un nouveau travail en septembre.",
+      "nous": "Nous chercherons un hôtel en arrivant.",
+      "vous": "Vous chercherez la solution ensemble.",
+      "ils": "Ils chercheront une maison avec un jardin."
+    },
+    "Conditionnel Présent": {
+      "je": "Je chercherais un autre travail, à ta place.",
+      "tu": "Tu chercherais mon téléphone dans la voiture ?",
+      "il": "Il chercherait une solution avec plus de temps.",
+      "nous": "Nous chercherions un appartement plus grand avec un bébé.",
+      "vous": "Vous chercheriez le dossier pour moi ?",
+      "ils": "Ils chercheraient une maison à la campagne."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je cherche un cadeau pour Léa.",
+      "tu": "Je veux que tu cherches ton frère à la gare.",
+      "il": "Il est temps qu'il cherche un travail.",
+      "nous": "Il faut que nous cherchions une solution.",
+      "vous": "J'aimerais que vous cherchiez dans vos archives.",
+      "ils": "Il vaut mieux qu'ils cherchent un autre hôtel."
+    },
+    "Passé Simple": {
+      "je": "Je cherchai longtemps la sortie du labyrinthe.",
+      "tu": "Tu cherchas ton chemin dans la tempête.",
+      "il": "Il chercha le trésor toute sa vie.",
+      "nous": "Nous cherchâmes un abri pour la nuit.",
+      "vous": "Vous cherchâtes la vérité sans relâche.",
+      "ils": "Ils cherchèrent l'enfant toute la nuit."
+    },
+    "Passé Composé": {
+      "je": "J'ai cherché ton adresse sur Internet.",
+      "tu": "Tu as cherché dans ton sac ?",
+      "il": "Il a cherché son chat pendant trois jours.",
+      "nous": "Nous avons cherché un parking pendant une heure.",
+      "vous": "Vous avez cherché sous le lit ?",
+      "ils": "Ils ont cherché un cadeau pour leur mère."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais cherché partout avant de te demander.",
+      "tu": "Tu avais cherché un travail à Montréal ?",
+      "il": "Il avait cherché la réponse dans tous ses livres.",
+      "nous": "Nous avions cherché un hôtel pendant des heures.",
+      "vous": "Vous aviez cherché dans la boîte aux lettres ?",
+      "ils": "Ils avaient cherché le chien dans tout le quartier."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai cherché mes clés pendant une heure pour rien.",
+      "tu": "Tu auras cherché partout, sauf au bon endroit.",
+      "il": "Il aura cherché du travail pendant six mois.",
+      "nous": "Nous aurons cherché un appartement tout l'été.",
+      "vous": "Vous aurez cherché la réponse pendant des heures.",
+      "ils": "Ils auront cherché le trésor en vain."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais cherché plus longtemps avec une lampe.",
+      "tu": "Tu aurais cherché un autre travail à ma place ?",
+      "il": "Il aurait cherché de l'aide plus tôt.",
+      "nous": "Nous aurions cherché un hôtel avec plus de temps.",
+      "vous": "Vous auriez cherché dans le grenier ?",
+      "ils": "Ils auraient cherché toute la nuit."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est touché que j'aie cherché son chat.",
+      "tu": "C'est gentil que tu aies cherché mon portefeuille.",
+      "il": "Je doute qu'il ait cherché très longtemps.",
+      "nous": "Bien que nous ayons cherché partout, la bague a disparu.",
+      "vous": "Merci ! Je suis touché que vous ayez cherché avec moi.",
+      "ils": "C'est bien qu'ils aient cherché une solution."
+    },
+    "Futur Proche": {
+      "je": "Je vais chercher du pain à la boulangerie.",
+      "tu": "Tu vas chercher les enfants à l'école ?",
+      "il": "Il va chercher un nouvel appartement.",
+      "nous": "Nous allons chercher des champignons.",
+      "vous": "Vous allez chercher vos parents à l'aéroport ?",
+      "ils": "Ils vont chercher un emploi à l'étranger."
+    },
+    "Impératif": {
+      "tu": "Cherche dans le tiroir de gauche.",
+      "nous": "Cherchons une autre solution.",
+      "vous": "Cherchez le mot dans le dictionnaire."
+    }
+  }
+}

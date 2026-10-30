@@ -1,0 +1,106 @@
+{
+  "verb": "connaître",
+  "tenses": {
+    "Présent": {
+      "je": "Je connais un bon restaurant près d'ici.",
+      "tu": "Tu connais cette chanson ?",
+      "il": "Il connaît la ville comme sa poche.",
+      "nous": "Nous connaissons ses parents depuis longtemps.",
+      "vous": "Vous connaissez le chemin pour la gare ?",
+      "ils": "Ils connaissent tous les voisins du quartier."
+    },
+    "Imparfait": {
+      "je": "Je connaissais bien ce quartier pendant mes études.",
+      "tu": "Tu connaissais déjà Paul avant la fête ?",
+      "il": "Il connaissait tous les poèmes de Hugo.",
+      "nous": "Nous connaissions le patron du café.",
+      "vous": "Vous connaissiez cette plage avant ?",
+      "ils": "Ils connaissaient le chemin par cœur."
+    },
+    "Futur Simple": {
+      "je": "Je connaîtrai mes résultats vendredi.",
+      "tu": "Tu connaîtras tout le monde après une semaine.",
+      "il": "Il connaîtra le succès avec ce roman.",
+      "nous": "Nous connaîtrons la date du concert demain.",
+      "vous": "Vous connaîtrez la réponse à la fin du livre.",
+      "ils": "Ils connaîtront la ville mieux que nous."
+    },
+    "Conditionnel Présent": {
+      "je": "Je connaîtrais mieux la ville avec une carte.",
+      "tu": "Tu connaîtrais un bon plombier ?",
+      "il": "Il connaîtrait la réponse, j'en suis sûr.",
+      "nous": "Nous connaîtrions plus de gens avec un club.",
+      "vous": "Vous connaîtriez un hôtel pas cher ?",
+      "ils": "Ils connaîtraient le quartier depuis le temps."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je connaisse le code pour entrer.",
+      "tu": "Je veux que tu connaisses ma famille.",
+      "il": "C'est normal qu'il connaisse bien sa ville.",
+      "nous": "Il est important que nous connaissions nos droits.",
+      "vous": "J'aimerais que vous connaissiez mon pays.",
+      "ils": "Il faut qu'ils connaissent les règles du jeu."
+    },
+    "Passé Simple": {
+      "je": "Je connus la faim pendant la guerre.",
+      "tu": "Tu connus la gloire à trente ans.",
+      "il": "Il connut un grand succès à Paris.",
+      "nous": "Nous connûmes des jours difficiles.",
+      "vous": "Vous connûtes la prison et l'exil.",
+      "ils": "Ils connurent le bonheur dans ce village."
+    },
+    "Passé Composé": {
+      "je": "J'ai connu ta mère à l'université.",
+      "tu": "Tu as connu ton meilleur ami où ?",
+      "il": "Il a connu des moments difficiles.",
+      "nous": "Nous avons connu un hiver très froid.",
+      "vous": "Vous avez connu cette époque ?",
+      "ils": "Ils ont connu un énorme succès avec leur album."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais connu Marc au lycée.",
+      "tu": "Tu avais connu cette ville avant les travaux.",
+      "il": "Il avait connu la guerre dans sa jeunesse.",
+      "nous": "Nous avions connu des jours meilleurs.",
+      "vous": "Vous aviez connu mon grand-père ?",
+      "ils": "Ils avaient connu la gloire avant de disparaître."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai connu trois pays différents avant trente ans.",
+      "tu": "Tu auras connu une belle carrière.",
+      "il": "Il aura connu toutes les joies du métier.",
+      "nous": "Nous aurons connu des moments inoubliables.",
+      "vous": "Vous aurez connu le succès très tôt.",
+      "ils": "Ils auront connu dix ans de bonheur ensemble."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais connu la réponse avec plus de temps.",
+      "tu": "Tu aurais connu mon grand-père, tu l'aurais adoré.",
+      "il": "Il aurait connu le succès avec un meilleur agent.",
+      "nous": "Nous aurions connu la ville mieux avec un guide.",
+      "vous": "Vous auriez connu cette époque, vous auriez compris.",
+      "ils": "Ils auraient connu la victoire sans cette blessure."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie connu son village.",
+      "tu": "Je suis heureux que tu aies connu mes parents.",
+      "il": "C'est une chance qu'il ait connu ses arrière-grands-parents.",
+      "nous": "Bien que nous ayons connu des difficultés, nous avons réussi.",
+      "vous": "Je suis étonné que vous ayez connu mon père.",
+      "ils": "C'est triste qu'ils aient connu la guerre."
+    },
+    "Futur Proche": {
+      "je": "Je vais connaître le résultat ce soir.",
+      "tu": "Tu vas connaître des gens formidables là-bas.",
+      "il": "Il va connaître un succès énorme.",
+      "nous": "Nous allons connaître le gagnant dans une heure.",
+      "vous": "Vous allez connaître la vérité.",
+      "ils": "Ils vont connaître leur nouvelle maison demain."
+    },
+    "Impératif": {
+      "tu": "Connais tes limites.",
+      "nous": "Connaissons nos forces et nos faiblesses.",
+      "vous": "Connaissez bien vos droits avant de signer."
+    }
+  }
+}

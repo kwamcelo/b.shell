@@ -1,0 +1,106 @@
+{
+  "verb": "comprendre",
+  "tenses": {
+    "Présent": {
+      "je": "Je comprends ce que tu veux dire.",
+      "tu": "Tu comprends l'exercice ?",
+      "il": "Il comprend le français, mais pas l'espagnol.",
+      "nous": "Nous comprenons votre situation.",
+      "vous": "Vous comprenez la question ?",
+      "ils": "Ils comprennent tout ce qu'on dit."
+    },
+    "Imparfait": {
+      "je": "Je comprenais mieux les maths au lycée.",
+      "tu": "Tu comprenais ce que disait le prof ?",
+      "il": "Il comprenait l'allemand grâce à sa grand-mère.",
+      "nous": "Nous comprenions à peine l'accent du guide.",
+      "vous": "Vous compreniez le film sans sous-titres ?",
+      "ils": "Ils comprenaient tout grâce aux gestes."
+    },
+    "Futur Simple": {
+      "je": "Je comprendrai mieux avec un exemple.",
+      "tu": "Tu comprendras plus tard.",
+      "il": "Il comprendra son erreur un jour.",
+      "nous": "Nous comprendrons la règle avec de la pratique.",
+      "vous": "Vous comprendrez tout à la fin du film.",
+      "ils": "Ils comprendront la leçon avec le temps."
+    },
+    "Conditionnel Présent": {
+      "je": "Je comprendrais mieux avec un dessin.",
+      "tu": "Tu comprendrais à ma place.",
+      "il": "Il comprendrait avec une meilleure explication.",
+      "nous": "Nous comprendrions mieux avec des sous-titres.",
+      "vous": "Vous comprendriez la situation en voyant ça.",
+      "ils": "Ils comprendraient plus vite avec un exemple."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je comprenne cette règle avant l'examen.",
+      "tu": "Je parle lentement pour que tu comprennes.",
+      "il": "Je veux qu'il comprenne son erreur.",
+      "nous": "Il est important que nous comprenions les risques.",
+      "vous": "J'aimerais que vous compreniez ma décision.",
+      "ils": "Il faut qu'ils comprennent les règles."
+    },
+    "Passé Simple": {
+      "je": "Je compris enfin la vérité.",
+      "tu": "Tu compris trop tard ton erreur.",
+      "il": "Il comprit le message tout de suite.",
+      "nous": "Nous comprîmes le danger en voyant la fumée.",
+      "vous": "Vous comprîtes le piège à temps.",
+      "ils": "Ils comprirent leur erreur le lendemain."
+    },
+    "Passé Composé": {
+      "je": "J'ai compris la leçon du premier coup.",
+      "tu": "Tu as compris la consigne ?",
+      "il": "Il a compris la blague après tout le monde.",
+      "nous": "Nous avons compris le problème trop tard.",
+      "vous": "Vous avez compris ce qu'il a dit ?",
+      "ils": "Ils ont compris le message."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais compris le contraire.",
+      "tu": "Tu avais compris la date du rendez-vous ?",
+      "il": "Il avait compris le problème avant nous.",
+      "nous": "Nous avions compris la situation trop tard.",
+      "vous": "Vous aviez compris les instructions ?",
+      "ils": "Ils avaient compris le danger."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai compris le fonctionnement avant ce soir.",
+      "tu": "Tu auras compris la leçon, j'espère.",
+      "il": "Il aura compris son erreur avec le temps.",
+      "nous": "Nous aurons compris le problème d'ici demain.",
+      "vous": "Vous aurez compris l'essentiel.",
+      "ils": "Ils auront compris le message."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais compris avec une meilleure explication.",
+      "tu": "Tu aurais compris la blague en français ?",
+      "il": "Il aurait compris le problème avec plus d'informations.",
+      "nous": "Nous aurions compris plus vite avec un plan.",
+      "vous": "Vous auriez compris à ma place.",
+      "ils": "Ils auraient compris le film avec des sous-titres."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie compris l'exercice.",
+      "tu": "Je suis soulagé que tu aies compris.",
+      "il": "Je doute qu'il ait compris la question.",
+      "nous": "Bien que nous ayons compris la règle, l'exercice est difficile.",
+      "vous": "Je suis content que vous ayez compris.",
+      "ils": "C'est bien qu'ils aient compris leur erreur."
+    },
+    "Futur Proche": {
+      "je": "Je vais comprendre, laisse-moi lire.",
+      "tu": "Tu vas comprendre en voyant la photo.",
+      "il": "Il va comprendre bientôt.",
+      "nous": "Nous allons comprendre le problème ensemble.",
+      "vous": "Vous allez comprendre pourquoi.",
+      "ils": "Ils vont comprendre la blague dans une minute."
+    },
+    "Impératif": {
+      "tu": "Comprends-moi, je n'avais pas le choix.",
+      "nous": "Comprenons bien la situation avant d'agir.",
+      "vous": "Comprenez bien ceci : la porte ferme à midi."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "essayer",
+  "tenses": {
+    "Présent": {
+      "je": "J'essaye de comprendre ce que tu dis.",
+      "tu": "Tu essayes cette robe ?",
+      "il": "Il essaye de réparer la machine à laver.",
+      "nous": "Nous essayons un nouveau restaurant ce soir.",
+      "vous": "Vous essayez de dormir ?",
+      "ils": "Ils essayent d'arrêter de fumer."
+    },
+    "Imparfait": {
+      "je": "J'essayais de t'appeler toute la journée.",
+      "tu": "Tu essayais toujours de nouvelles recettes.",
+      "il": "Il essayait de garder son calme.",
+      "nous": "Nous essayions de dormir malgré le bruit.",
+      "vous": "Vous essayiez de joindre le service client ?",
+      "ils": "Ils essayaient de trouver une solution."
+    },
+    "Futur Simple": {
+      "je": "J'essayerai de venir à la fête.",
+      "tu": "Tu essayeras ces chaussures avant de les acheter.",
+      "il": "Il essayera de passer ce soir.",
+      "nous": "Nous essayerons de partir avant midi.",
+      "vous": "Vous essayerez le nouveau menu ?",
+      "ils": "Ils essayeront de gagner le prochain match."
+    },
+    "Conditionnel Présent": {
+      "je": "J'essayerais une autre méthode, à ta place.",
+      "tu": "Tu essayerais le ski avec nous ?",
+      "il": "Il essayerait volontiers la plongée.",
+      "nous": "Nous essayerions ce restaurant avec une réservation.",
+      "vous": "Vous essayeriez de parler plus lentement ?",
+      "ils": "Ils essayeraient le parachute avec un bon moniteur."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'essaye de le réparer ?",
+      "tu": "J'aimerais que tu essayes ce gâteau.",
+      "il": "Il faut qu'il essaye au moins une fois.",
+      "nous": "Il est important que nous essayions de comprendre.",
+      "vous": "Je voudrais que vous essayiez cette nouvelle méthode.",
+      "ils": "Il vaut mieux qu'ils essayent avant d'acheter."
+    },
+    "Passé Simple": {
+      "je": "J'essayai d'ouvrir la porte, en vain.",
+      "tu": "Tu essayas de fuir par la fenêtre.",
+      "il": "Il essaya de crier, mais aucun son ne sortit.",
+      "nous": "Nous essayâmes de traverser la rivière.",
+      "vous": "Vous essayâtes de convaincre le roi.",
+      "ils": "Ils essayèrent de sauver le navire."
+    },
+    "Passé Composé": {
+      "je": "J'ai essayé le yoga la semaine dernière.",
+      "tu": "Tu as essayé de redémarrer l'ordinateur ?",
+      "il": "Il a essayé trois fois avant de réussir.",
+      "nous": "Nous avons essayé la nouvelle pizzeria.",
+      "vous": "Vous avez essayé la cuisine thaïlandaise ?",
+      "ils": "Ils ont essayé de nous appeler."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais essayé de te prévenir.",
+      "tu": "Tu avais essayé ce manteau en magasin ?",
+      "il": "Il avait essayé toutes les clés du trousseau.",
+      "nous": "Nous avions essayé de réserver, mais c'était complet.",
+      "vous": "Vous aviez essayé de le contacter ?",
+      "ils": "Ils avaient essayé de réparer le toit."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai essayé toutes les solutions possibles.",
+      "tu": "Tu auras essayé, c'est le plus important.",
+      "il": "Il aura essayé tous les sports avant de choisir.",
+      "nous": "Nous aurons essayé tous les cafés du quartier.",
+      "vous": "Vous aurez essayé de nous aider.",
+      "ils": "Ils auront essayé de nous joindre."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais essayé une autre approche.",
+      "tu": "Tu aurais essayé ce plat, toi ?",
+      "il": "Il aurait essayé avec un peu plus de confiance.",
+      "nous": "Nous aurions essayé de venir avec une voiture.",
+      "vous": "Vous auriez essayé de négocier ?",
+      "ils": "Ils auraient essayé de nous aider."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon coach est content que j'aie essayé.",
+      "tu": "C'est bien que tu aies essayé de l'aider.",
+      "il": "Je suis surpris qu'il ait essayé le saut à l'élastique.",
+      "nous": "Bien que nous ayons essayé, la porte est restée fermée.",
+      "vous": "Je suis content que vous ayez essayé ce restaurant.",
+      "ils": "C'est courageux qu'ils aient essayé."
+    },
+    "Futur Proche": {
+      "je": "Je vais essayer de dormir un peu.",
+      "tu": "Tu vas essayer le nouveau jeu ?",
+      "il": "Il va essayer de battre son record.",
+      "nous": "Nous allons essayer une recette marocaine.",
+      "vous": "Vous allez essayer de venir ?",
+      "ils": "Ils vont essayer de trouver un appartement."
+    },
+    "Impératif": {
+      "tu": "Essaye encore une fois, tu vas y arriver.",
+      "nous": "Essayons de rester positifs.",
+      "vous": "Essayez ce fromage, il est délicieux."
+    }
+  }
+}
