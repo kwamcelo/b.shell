@@ -1,0 +1,106 @@
+{
+  "verb": "promettre",
+  "tenses": {
+    "Présent": {
+      "je": "Je promets d'être à l'heure.",
+      "tu": "Tu promets de m'écrire ?",
+      "il": "Il promet un cadeau à son fils.",
+      "nous": "Nous promettons de revenir l'année prochaine.",
+      "vous": "Vous promettez de garder le secret ?",
+      "ils": "Ils promettent de ranger leur chambre."
+    },
+    "Imparfait": {
+      "je": "Je promettais toujours de faire mieux.",
+      "tu": "Tu promettais monts et merveilles.",
+      "il": "Il promettait de nous écrire.",
+      "nous": "Nous promettions de rentrer avant minuit.",
+      "vous": "Vous promettiez des choses impossibles.",
+      "ils": "Ils promettaient de changer."
+    },
+    "Futur Simple": {
+      "je": "Je promettrai seulement ce que je peux faire.",
+      "tu": "Tu promettras de faire attention.",
+      "il": "Il promettra un bonus à l'équipe.",
+      "nous": "Nous promettrons de garder le secret.",
+      "vous": "Vous promettrez de revenir ?",
+      "ils": "Ils promettront de payer à temps."
+    },
+    "Conditionnel Présent": {
+      "je": "Je promettrais n'importe quoi pour un jour de congé.",
+      "tu": "Tu promettrais de m'aider ?",
+      "il": "Il promettrait la lune pour gagner.",
+      "nous": "Nous promettrions de faire attention.",
+      "vous": "Vous promettriez de nous appeler ?",
+      "ils": "Ils promettraient tout pour un bonbon."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je promette de rentrer tôt.",
+      "tu": "Je veux que tu promettes de m'appeler.",
+      "il": "Il faut qu'il promette d'être sage.",
+      "nous": "Il faut que nous promettions de garder le secret.",
+      "vous": "J'aimerais que vous promettiez de revenir.",
+      "ils": "Il faut qu'ils promettent de faire attention."
+    },
+    "Passé Simple": {
+      "je": "Je promis de revenir.",
+      "tu": "Tu promis fidélité au roi.",
+      "il": "Il promit une récompense au vainqueur.",
+      "nous": "Nous promîmes de garder le secret.",
+      "vous": "Vous promîtes la paix au peuple.",
+      "ils": "Ils promirent de se venger."
+    },
+    "Passé Composé": {
+      "je": "J'ai promis de t'aider.",
+      "tu": "Tu as promis de venir !",
+      "il": "Il a promis un vélo à sa fille.",
+      "nous": "Nous avons promis de rentrer avant minuit.",
+      "vous": "Vous avez promis de garder le secret.",
+      "ils": "Ils ont promis de faire le ménage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais promis de ne rien dire.",
+      "tu": "Tu avais promis de venir à ma fête.",
+      "il": "Il avait promis de changer.",
+      "nous": "Nous avions promis d'appeler en arrivant.",
+      "vous": "Vous aviez promis de nous attendre.",
+      "ils": "Ils avaient promis de payer."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai promis trop de choses cette année.",
+      "tu": "Tu auras promis pour rien.",
+      "il": "Il aura promis la même chose l'an dernier.",
+      "nous": "Nous aurons promis de revenir.",
+      "vous": "Vous aurez promis de rester.",
+      "ils": "Ils auront promis de tout réparer."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais promis de venir avec plus de temps.",
+      "tu": "Tu aurais promis quoi ?",
+      "il": "Il aurait promis n'importe quoi.",
+      "nous": "Nous aurions promis de garder le secret.",
+      "vous": "Vous auriez promis la même chose ?",
+      "ils": "Ils auraient promis de rester."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère est content que j'aie promis de l'aider.",
+      "tu": "C'est gentil que tu aies promis de venir.",
+      "il": "Je doute qu'il ait promis cela.",
+      "nous": "Bien que nous ayons promis de venir, nous sommes malades.",
+      "vous": "Je suis heureux que vous ayez promis de revenir.",
+      "ils": "C'est étrange qu'ils aient promis de payer."
+    },
+    "Futur Proche": {
+      "je": "Je vais promettre d'être sage.",
+      "tu": "Tu vas promettre de venir ?",
+      "il": "Il va promettre une récompense.",
+      "nous": "Nous allons promettre de rester.",
+      "vous": "Vous allez promettre de revenir ?",
+      "ils": "Ils vont promettre de faire attention."
+    },
+    "Impératif": {
+      "tu": "Promets de m'appeler en arrivant.",
+      "nous": "Promettons de nous revoir.",
+      "vous": "Promettez de garder le secret."
+    }
+  }
+}

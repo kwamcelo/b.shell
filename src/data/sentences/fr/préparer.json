@@ -1,0 +1,106 @@
+{
+  "verb": "préparer",
+  "tenses": {
+    "Présent": {
+      "je": "Je prépare le dîner.",
+      "tu": "Tu prépares ton examen ?",
+      "il": "Il prépare un gâteau pour la fête.",
+      "nous": "Nous préparons nos valises.",
+      "vous": "Vous préparez le petit déjeuner ?",
+      "ils": "Ils préparent un voyage en Grèce."
+    },
+    "Imparfait": {
+      "je": "Je préparais mes cours le dimanche.",
+      "tu": "Tu préparais toujours des crêpes le mardi.",
+      "il": "Il préparait le café chaque matin.",
+      "nous": "Nous préparions la fête depuis des semaines.",
+      "vous": "Vous prépariez le concours ?",
+      "ils": "Ils préparaient le jardin pour l'été."
+    },
+    "Futur Simple": {
+      "je": "Je préparerai une salade.",
+      "tu": "Tu prépareras la table ?",
+      "il": "Il préparera le discours.",
+      "nous": "Nous préparerons une surprise.",
+      "vous": "Vous préparerez vos papiers.",
+      "ils": "Ils prépareront le repas de Noël."
+    },
+    "Conditionnel Présent": {
+      "je": "Je préparerais un bon repas avec plus de temps.",
+      "tu": "Tu préparerais le café, s'il te plaît ?",
+      "il": "Il préparerait mieux son examen sans son travail.",
+      "nous": "Nous préparerions la fête avec plaisir.",
+      "vous": "Vous prépareriez une tarte ?",
+      "ils": "Ils prépareraient le voyage plus tôt."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je prépare mon exposé.",
+      "tu": "Je veux que tu prépares tes affaires.",
+      "il": "Il faut qu'il prépare son discours.",
+      "nous": "Il faut que nous préparions la chambre d'amis.",
+      "vous": "J'aimerais que vous prépariez le dessert.",
+      "ils": "Il faut qu'ils préparent leurs bagages."
+    },
+    "Passé Simple": {
+      "je": "Je préparai une potion magique.",
+      "tu": "Tu préparas ton cheval pour le voyage.",
+      "il": "Il prépara une grande fête.",
+      "nous": "Nous préparâmes l'attaque du château.",
+      "vous": "Vous préparâtes un festin.",
+      "ils": "Ils préparèrent leur fuite."
+    },
+    "Passé Composé": {
+      "je": "J'ai préparé une soupe.",
+      "tu": "Tu as préparé tes valises ?",
+      "il": "Il a préparé le dîner.",
+      "nous": "Nous avons préparé une surprise.",
+      "vous": "Vous avez préparé votre discours ?",
+      "ils": "Ils ont préparé le repas."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais préparé un gâteau.",
+      "tu": "Tu avais préparé ton examen ?",
+      "il": "Il avait préparé la salle.",
+      "nous": "Nous avions préparé les sandwichs.",
+      "vous": "Vous aviez préparé les billets ?",
+      "ils": "Ils avaient préparé une fête."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai préparé le repas avant ton arrivée.",
+      "tu": "Tu auras préparé tes affaires.",
+      "il": "Il aura préparé son discours.",
+      "nous": "Nous aurons préparé la maison.",
+      "vous": "Vous aurez préparé les cadeaux.",
+      "ils": "Ils auront préparé le voyage."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais préparé plus de nourriture.",
+      "tu": "Tu aurais préparé quoi ?",
+      "il": "Il aurait préparé un meilleur discours avec plus de temps.",
+      "nous": "Nous aurions préparé la fête.",
+      "vous": "Vous auriez préparé un dessert ?",
+      "ils": "Ils auraient préparé leurs valises plus tôt."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie préparé le dîner.",
+      "tu": "C'est gentil que tu aies préparé le café.",
+      "il": "Je doute qu'il ait préparé son examen.",
+      "nous": "Bien que nous ayons préparé la fête, peu de gens sont venus.",
+      "vous": "Je suis ravi que vous ayez préparé ce repas.",
+      "ils": "Il est possible qu'ils aient préparé une surprise."
+    },
+    "Futur Proche": {
+      "je": "Je vais préparer le dîner.",
+      "tu": "Tu vas préparer ton sac ?",
+      "il": "Il va préparer le café.",
+      "nous": "Nous allons préparer une surprise.",
+      "vous": "Vous allez préparer la salle ?",
+      "ils": "Ils vont préparer le voyage."
+    },
+    "Impératif": {
+      "tu": "Prépare tes affaires pour demain.",
+      "nous": "Préparons le pique-nique.",
+      "vous": "Préparez vos passeports."
+    }
+  }
+}

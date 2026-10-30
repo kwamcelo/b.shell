@@ -1,0 +1,106 @@
+{
+  "verb": "disparaître",
+  "tenses": {
+    "Présent": {
+      "je": "Je disparais une semaine pour les vacances.",
+      "tu": "Tu disparais toujours quand on fait la vaisselle.",
+      "il": "Il disparaît derrière le rideau.",
+      "nous": "Nous disparaissons dans la foule.",
+      "vous": "Vous disparaissez sans dire au revoir ?",
+      "ils": "Ils disparaissent au coin de la rue."
+    },
+    "Imparfait": {
+      "je": "Je disparaissais dans ma chambre après le dîner.",
+      "tu": "Tu disparaissais pendant des heures.",
+      "il": "Il disparaissait chaque été.",
+      "nous": "Nous disparaissions dans la forêt.",
+      "vous": "Vous disparaissiez souvent le week-end.",
+      "ils": "Ils disparaissaient sous l'eau."
+    },
+    "Futur Simple": {
+      "je": "Je disparaîtrai quelques jours.",
+      "tu": "Tu disparaîtras sans laisser de trace.",
+      "il": "Il disparaîtra dans la nuit.",
+      "nous": "Nous disparaîtrons après le dessert.",
+      "vous": "Vous disparaîtrez derrière le rideau.",
+      "ils": "Ils disparaîtront avant l'aube."
+    },
+    "Conditionnel Présent": {
+      "je": "Je disparaîtrais bien sur une île déserte.",
+      "tu": "Tu disparaîtrais comme ça ?",
+      "il": "Il disparaîtrait sans prévenir.",
+      "nous": "Nous disparaîtrions dans la foule.",
+      "vous": "Vous disparaîtriez une semaine ?",
+      "ils": "Ils disparaîtraient sans ce bateau."
+    },
+    "Subjonctif": {
+      "je": "Mes amis ont peur que je disparaisse.",
+      "tu": "Je ne veux pas que tu disparaisses.",
+      "il": "Il est possible qu'il disparaisse un jour.",
+      "nous": "Il faut que nous disparaissions avant leur arrivée.",
+      "vous": "J'aimerais que vous disparaissiez de ma vue.",
+      "ils": "J'ai peur qu'ils disparaissent dans la tempête."
+    },
+    "Passé Simple": {
+      "je": "Je disparus dans la brume.",
+      "tu": "Tu disparus sans un mot.",
+      "il": "Il disparut dans la nuit.",
+      "nous": "Nous disparûmes dans la forêt.",
+      "vous": "Vous disparûtes sans laisser de trace.",
+      "ils": "Ils disparurent dans le désert."
+    },
+    "Passé Composé": {
+      "je": "J'ai disparu pendant une semaine.",
+      "tu": "Tu as disparu hier soir !",
+      "il": "Il a disparu sans laisser d'adresse.",
+      "nous": "Nous avons disparu dans la foule.",
+      "vous": "Vous avez disparu pendant la fête.",
+      "ils": "Ils ont disparu au coin de la rue."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais disparu avant la fin de la fête.",
+      "tu": "Tu avais disparu toute la journée.",
+      "il": "Il avait disparu depuis trois jours.",
+      "nous": "Nous avions disparu dans la montagne.",
+      "vous": "Vous aviez disparu sans prévenir.",
+      "ils": "Ils avaient disparu sous la neige."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai disparu avant ton retour.",
+      "tu": "Tu auras disparu une fois de plus.",
+      "il": "Il aura disparu avant l'aube.",
+      "nous": "Nous aurons disparu avant midi.",
+      "vous": "Vous aurez disparu de la ville.",
+      "ils": "Ils auront disparu avant notre arrivée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais disparu sans ton aide.",
+      "tu": "Tu aurais disparu sans un mot ?",
+      "il": "Il aurait disparu dans la tempête sans ce phare.",
+      "nous": "Nous aurions disparu dans la foule.",
+      "vous": "Vous auriez disparu pendant combien de temps ?",
+      "ils": "Ils auraient disparu sans cette lampe."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont inquiets que j'aie disparu une journée entière.",
+      "tu": "Je suis triste que tu aies disparu si longtemps.",
+      "il": "Il est possible qu'il ait disparu dans la forêt.",
+      "nous": "Bien que nous ayons disparu une heure, personne ne nous a cherchés.",
+      "vous": "C'est étrange que vous ayez disparu pendant la fête.",
+      "ils": "J'ai peur qu'ils aient disparu dans la tempête."
+    },
+    "Futur Proche": {
+      "je": "Je vais disparaître une semaine.",
+      "tu": "Tu vas disparaître encore ?",
+      "il": "Il va disparaître derrière la colline.",
+      "nous": "Nous allons disparaître dans la foule.",
+      "vous": "Vous allez disparaître pendant les vacances ?",
+      "ils": "Ils vont disparaître dans la nuit."
+    },
+    "Impératif": {
+      "tu": "Disparais de ma vue !",
+      "nous": "Disparaissons avant qu'on nous voie.",
+      "vous": "Disparaissez, les enfants, c'est l'heure des adultes."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "compter",
+  "tenses": {
+    "Présent": {
+      "je": "Je compte jusqu'à dix avant de répondre.",
+      "tu": "Tu comptes partir quand ?",
+      "il": "Il compte ses pièces de monnaie.",
+      "nous": "Nous comptons sur vous pour samedi.",
+      "vous": "Vous comptez venir à la fête ?",
+      "ils": "Ils comptent les jours avant les vacances."
+    },
+    "Imparfait": {
+      "je": "Je comptais les moutons pour m'endormir.",
+      "tu": "Tu comptais sur moi, je le sais.",
+      "il": "Il comptait l'argent de la caisse chaque soir.",
+      "nous": "Nous comptions les étoiles dans le jardin.",
+      "vous": "Vous comptiez partir en juillet ?",
+      "ils": "Ils comptaient les minutes avant la fin du cours."
+    },
+    "Futur Simple": {
+      "je": "Je compterai les invités à l'entrée.",
+      "tu": "Tu compteras jusqu'à trois et on saute.",
+      "il": "Il comptera les votes après la réunion.",
+      "nous": "Nous compterons sur ton aide.",
+      "vous": "Vous compterez les points à la fin du jeu.",
+      "ils": "Ils compteront les jours jusqu'à Noël."
+    },
+    "Conditionnel Présent": {
+      "je": "Je compterais sur toi en cas de problème.",
+      "tu": "Tu compterais les chaises, s'il te plaît ?",
+      "il": "Il compterait sur nous sans hésiter.",
+      "nous": "Nous compterions mieux avec une calculatrice.",
+      "vous": "Vous compteriez combien de personnes ?",
+      "ils": "Ils compteraient sur leurs amis pour déménager."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je compte la monnaie.",
+      "tu": "Je veux que tu comptes sur moi.",
+      "il": "Il faut qu'il compte les points.",
+      "nous": "Il est important que nous comptions les votes.",
+      "vous": "J'aimerais que vous comptiez les participants.",
+      "ils": "Il faut qu'ils comptent leurs bagages."
+    },
+    "Passé Simple": {
+      "je": "Je comptai les pièces d'or du trésor.",
+      "tu": "Tu comptas les soldats de l'armée ennemie.",
+      "il": "Il compta les jours dans sa prison.",
+      "nous": "Nous comptâmes les étoiles toute la nuit.",
+      "vous": "Vous comptâtes sur la loyauté du peuple.",
+      "ils": "Ils comptèrent les moutons du troupeau."
+    },
+    "Passé Composé": {
+      "je": "J'ai compté les invités : il y en a trente.",
+      "tu": "Tu as compté la monnaie ?",
+      "il": "Il a compté jusqu'à cent.",
+      "nous": "Nous avons compté sur toi.",
+      "vous": "Vous avez compté les points ?",
+      "ils": "Ils ont compté les votes deux fois."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais compté sur ton aide.",
+      "tu": "Tu avais compté les chaises ?",
+      "il": "Il avait compté sur une augmentation.",
+      "nous": "Nous avions compté trop de personnes.",
+      "vous": "Vous aviez compté le nombre de places ?",
+      "ils": "Ils avaient compté les jours jusqu'au départ."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai compté tous les bulletins avant minuit.",
+      "tu": "Tu auras compté sur la mauvaise personne.",
+      "il": "Il aura compté ses économies.",
+      "nous": "Nous aurons compté tous les participants.",
+      "vous": "Vous aurez compté sur nous.",
+      "ils": "Ils auront compté les points."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais compté sur toi.",
+      "tu": "Tu aurais compté les invités ?",
+      "il": "Il aurait compté sur sa famille.",
+      "nous": "Nous aurions compté les votes à la main.",
+      "vous": "Vous auriez compté sur cette aide ?",
+      "ils": "Ils auraient compté les jours."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie compté la caisse.",
+      "tu": "C'est gentil que tu aies compté sur moi.",
+      "il": "Je doute qu'il ait compté correctement.",
+      "nous": "Bien que nous ayons compté deux fois, il manque dix euros.",
+      "vous": "Je suis touché que vous ayez compté sur moi.",
+      "ils": "Il est possible qu'ils aient compté trop vite."
+    },
+    "Futur Proche": {
+      "je": "Je vais compter jusqu'à dix.",
+      "tu": "Tu vas compter les points ?",
+      "il": "Il va compter l'argent.",
+      "nous": "Nous allons compter les invités.",
+      "vous": "Vous allez compter les votes ?",
+      "ils": "Ils vont compter sur nous."
+    },
+    "Impératif": {
+      "tu": "Compte jusqu'à trois, puis ouvre les yeux.",
+      "nous": "Comptons les points.",
+      "vous": "Comptez sur moi !"
+    }
+  }
+}

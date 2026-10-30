@@ -1,0 +1,106 @@
+{
+  "verb": "tromper",
+  "tenses": {
+    "Présent": {
+      "je": "Je trompe le gardien avec un faux billet.",
+      "tu": "Tu trompes ton monde avec ce sourire.",
+      "il": "Il trompe ses adversaires avec une feinte.",
+      "nous": "Nous trompons l'ennui avec des jeux de cartes.",
+      "vous": "Vous trompez la faim avec un fruit.",
+      "ils": "Ils trompent les touristes sur les prix."
+    },
+    "Imparfait": {
+      "je": "Je trompais l'attente en lisant.",
+      "tu": "Tu trompais le chat avec une ficelle.",
+      "il": "Il trompait les défenseurs avec ses dribbles.",
+      "nous": "Nous trompions l'ennui en chantant.",
+      "vous": "Vous trompiez la vigilance des gardes.",
+      "ils": "Ils trompaient leurs clients."
+    },
+    "Futur Simple": {
+      "je": "Je tromperai l'ennui avec un bon livre.",
+      "tu": "Tu tromperas le gardien avec ce déguisement.",
+      "il": "Il trompera l'adversaire avec une feinte.",
+      "nous": "Nous tromperons la faim avec des biscuits.",
+      "vous": "Vous tromperez la surveillance.",
+      "ils": "Ils tromperont les gardiens de but."
+    },
+    "Conditionnel Présent": {
+      "je": "Je tromperais l'ennui avec un film.",
+      "tu": "Tu tromperais tes amis ?",
+      "il": "Il tromperait le gardien avec cette feinte.",
+      "nous": "Nous tromperions la faim avec un sandwich.",
+      "vous": "Vous tromperiez vos clients ?",
+      "ils": "Ils tromperaient la police avec de faux papiers."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je trompe l'ennui.",
+      "tu": "Je ne veux pas que tu trompes tes amis.",
+      "il": "J'ai peur qu'il trompe les clients.",
+      "nous": "Il faut que nous trompions la vigilance des gardes.",
+      "vous": "Je refuse que vous trompiez vos clients.",
+      "ils": "Il est possible qu'ils trompent les touristes."
+    },
+    "Passé Simple": {
+      "je": "Je trompai les gardes du château.",
+      "tu": "Tu trompas l'ennemi par une ruse.",
+      "il": "Il trompa le roi avec de faux documents.",
+      "nous": "Nous trompâmes les soldats.",
+      "vous": "Vous trompâtes la surveillance.",
+      "ils": "Ils trompèrent les Troyens avec un cheval de bois."
+    },
+    "Passé Composé": {
+      "je": "J'ai trompé le gardien.",
+      "tu": "Tu as trompé tout le monde !",
+      "il": "Il a trompé ses électeurs.",
+      "nous": "Nous avons trompé l'ennui avec un jeu.",
+      "vous": "Vous avez trompé vos clients ?",
+      "ils": "Ils ont trompé la police."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais trompé tout le monde avec ce costume.",
+      "tu": "Tu avais trompé ta famille.",
+      "il": "Il avait trompé ses associés.",
+      "nous": "Nous avions trompé la faim avec des fruits.",
+      "vous": "Vous aviez trompé le contrôleur ?",
+      "ils": "Ils avaient trompé les gardes."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai trompé l'ennui avec ce livre.",
+      "tu": "Tu auras trompé tout le monde.",
+      "il": "Il aura trompé ses clients pendant des années.",
+      "nous": "Nous aurons trompé la surveillance.",
+      "vous": "Vous aurez trompé vos amis.",
+      "ils": "Ils auront trompé l'ennemi."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais trompé le gardien avec un meilleur déguisement.",
+      "tu": "Tu aurais trompé tes amis ?",
+      "il": "Il aurait trompé le gardien avec plus d'élan.",
+      "nous": "Nous aurions trompé l'ennui avec un jeu.",
+      "vous": "Vous auriez trompé vos clients ?",
+      "ils": "Ils auraient trompé la police."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont fâchés que j'aie trompé le jury.",
+      "tu": "Je suis déçu que tu aies trompé tes amis.",
+      "il": "Je doute qu'il ait trompé ses clients.",
+      "nous": "Bien que nous ayons trompé les gardes, nous avons été arrêtés.",
+      "vous": "C'est grave que vous ayez trompé vos clients.",
+      "ils": "Il est possible qu'ils aient trompé les touristes."
+    },
+    "Futur Proche": {
+      "je": "Je vais tromper l'ennui.",
+      "tu": "Tu vas tromper le gardien ?",
+      "il": "Il va tromper le défenseur.",
+      "nous": "Nous allons tromper la faim.",
+      "vous": "Vous allez tromper vos clients ?",
+      "ils": "Ils vont tromper la police."
+    },
+    "Impératif": {
+      "tu": "Trompe le gardien avec une feinte.",
+      "nous": "Trompons l'ennui avec un jeu.",
+      "vous": "Trompez la faim avec une pomme."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "battre",
+  "tenses": {
+    "Présent": {
+      "je": "Je bats les œufs pour l'omelette.",
+      "tu": "Tu bats toujours ton frère aux échecs ?",
+      "il": "Il bat le record du club.",
+      "nous": "Nous battons les tapis dans la cour.",
+      "vous": "Vous battez les cartes ?",
+      "ils": "Ils battent l'équipe adverse trois à zéro."
+    },
+    "Imparfait": {
+      "je": "Je battais mon père aux cartes.",
+      "tu": "Tu battais tous tes amis à la course.",
+      "il": "Il battait la mesure avec son pied.",
+      "nous": "Nous battions les œufs à la main.",
+      "vous": "Vous battiez tout le monde au tennis.",
+      "ils": "Ils battaient le blé dans la grange."
+    },
+    "Futur Simple": {
+      "je": "Je battrai mon record cette année.",
+      "tu": "Tu battras les blancs en neige.",
+      "il": "Il battra son adversaire en finale.",
+      "nous": "Nous battrons l'équipe de Lyon.",
+      "vous": "Vous battrez les cartes avant de jouer.",
+      "ils": "Ils battront le record du monde."
+    },
+    "Conditionnel Présent": {
+      "je": "Je battrais ce record avec plus d'entraînement.",
+      "tu": "Tu battrais les œufs, s'il te plaît ?",
+      "il": "Il battrait n'importe qui aux échecs.",
+      "nous": "Nous battrions cette équipe avec notre gardien.",
+      "vous": "Vous battriez les cartes ?",
+      "ils": "Ils battraient tout le monde avec un peu de chance."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je batte les œufs.",
+      "tu": "Je veux que tu battes ton record.",
+      "il": "Il est possible qu'il batte le champion.",
+      "nous": "Il faut que nous battions cette équipe.",
+      "vous": "J'aimerais que vous battiez les cartes.",
+      "ils": "Il faut qu'ils battent les Italiens."
+    },
+    "Passé Simple": {
+      "je": "Je battis le fer pendant des heures.",
+      "tu": "Tu battis l'ennemi à Waterloo.",
+      "il": "Il battit le géant en un seul coup.",
+      "nous": "Nous battîmes l'armée du roi.",
+      "vous": "Vous battîtes tous les records.",
+      "ils": "Ils battirent en retraite."
+    },
+    "Passé Composé": {
+      "je": "J'ai battu mon record personnel.",
+      "tu": "Tu as battu les œufs ?",
+      "il": "Il a battu le champion du monde.",
+      "nous": "Nous avons battu l'équipe favorite.",
+      "vous": "Vous avez battu les cartes ?",
+      "ils": "Ils ont battu le record de vitesse."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais battu les blancs en neige.",
+      "tu": "Tu avais battu ton frère aux échecs.",
+      "il": "Il avait battu tous ses adversaires.",
+      "nous": "Nous avions battu cette équipe l'an dernier.",
+      "vous": "Vous aviez battu le record ?",
+      "ils": "Ils avaient battu les tapis avant de les poser."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai battu mon record avant la fin de l'année.",
+      "tu": "Tu auras battu tous tes amis.",
+      "il": "Il aura battu le record du monde.",
+      "nous": "Nous aurons battu toutes les équipes.",
+      "vous": "Vous aurez battu les œufs avant mon arrivée.",
+      "ils": "Ils auront battu le favori."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais battu ce record sans la pluie.",
+      "tu": "Tu aurais battu ton frère avec un peu de chance.",
+      "il": "Il aurait battu le champion sans sa blessure.",
+      "nous": "Nous aurions battu cette équipe à domicile.",
+      "vous": "Vous auriez battu les œufs plus longtemps ?",
+      "ils": "Ils auraient battu le record sans le vent."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon coach est fier que j'aie battu mon record.",
+      "tu": "C'est incroyable que tu aies battu le champion.",
+      "il": "Je doute qu'il ait battu ce record.",
+      "nous": "Bien que nous ayons battu les favoris, nous ne sommes pas qualifiés.",
+      "vous": "Je suis content que vous ayez battu l'équipe adverse.",
+      "ils": "C'est surprenant qu'ils aient battu les champions."
+    },
+    "Futur Proche": {
+      "je": "Je vais battre les œufs.",
+      "tu": "Tu vas battre ton record ?",
+      "il": "Il va battre le champion.",
+      "nous": "Nous allons battre cette équipe.",
+      "vous": "Vous allez battre les cartes ?",
+      "ils": "Ils vont battre le record."
+    },
+    "Impératif": {
+      "tu": "Bats les œufs avec une fourchette.",
+      "nous": "Battons cette équipe !",
+      "vous": "Battez les cartes, s'il vous plaît."
+    }
+  }
+}

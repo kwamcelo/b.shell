@@ -1,0 +1,106 @@
+{
+  "verb": "ignorer",
+  "tenses": {
+    "Présent": {
+      "je": "J'ignore la réponse.",
+      "tu": "Tu ignores mes messages ?",
+      "il": "Il ignore les conseils de son médecin.",
+      "nous": "Nous ignorons tout de cette histoire.",
+      "vous": "Vous ignorez où se trouve la gare ?",
+      "ils": "Ils ignorent le danger."
+    },
+    "Imparfait": {
+      "je": "J'ignorais tout de son passé.",
+      "tu": "Tu ignorais son adresse ?",
+      "il": "Il ignorait la date de la réunion.",
+      "nous": "Nous ignorions l'existence de ce village.",
+      "vous": "Vous ignoriez cette règle ?",
+      "ils": "Ils ignoraient la nouvelle."
+    },
+    "Futur Simple": {
+      "je": "J'ignorerai ses remarques.",
+      "tu": "Tu ignoreras les critiques.",
+      "il": "Il ignorera le bruit.",
+      "nous": "Nous ignorerons cette erreur.",
+      "vous": "Vous ignorerez ce message.",
+      "ils": "Ils ignoreront la pluie."
+    },
+    "Conditionnel Présent": {
+      "je": "J'ignorerais ce commentaire à ta place.",
+      "tu": "Tu ignorerais ce message ?",
+      "il": "Il ignorerait la douleur pour finir la course.",
+      "nous": "Nous ignorerions les rumeurs.",
+      "vous": "Vous ignoreriez cet avertissement ?",
+      "ils": "Ils ignoreraient les règles sans surveillance."
+    },
+    "Subjonctif": {
+      "je": "Il vaut mieux que j'ignore ces rumeurs.",
+      "tu": "Je préfère que tu ignores ces critiques.",
+      "il": "Il est possible qu'il ignore la vérité.",
+      "nous": "Il faut que nous ignorions ce bruit.",
+      "vous": "Il vaut mieux que vous ignoriez ce message.",
+      "ils": "Il est surprenant qu'ils ignorent la nouvelle."
+    },
+    "Passé Simple": {
+      "je": "J'ignorai l'avertissement du vieil homme.",
+      "tu": "Tu ignoras les conseils de ta mère.",
+      "il": "Il ignora les ordres du roi.",
+      "nous": "Nous ignorâmes le danger.",
+      "vous": "Vous ignorâtes la prophétie.",
+      "ils": "Ils ignorèrent les signes de la tempête."
+    },
+    "Passé Composé": {
+      "je": "J'ai ignoré son message.",
+      "tu": "Tu as ignoré mon appel ?",
+      "il": "Il a ignoré le panneau.",
+      "nous": "Nous avons ignoré la météo.",
+      "vous": "Vous avez ignoré mes conseils.",
+      "ils": "Ils ont ignoré la sonnerie."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais ignoré les signes.",
+      "tu": "Tu avais ignoré son invitation.",
+      "il": "Il avait ignoré les règles.",
+      "nous": "Nous avions ignoré les avertissements.",
+      "vous": "Vous aviez ignoré le feu rouge ?",
+      "ils": "Ils avaient ignoré le problème."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai ignoré ce problème trop longtemps.",
+      "tu": "Tu auras ignoré tous mes messages.",
+      "il": "Il aura ignoré les conseils de tout le monde.",
+      "nous": "Nous aurons ignoré les signes.",
+      "vous": "Vous aurez ignoré la date limite.",
+      "ils": "Ils auront ignoré nos avertissements."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais ignoré ce commentaire.",
+      "tu": "Tu aurais ignoré son appel ?",
+      "il": "Il aurait ignoré la douleur.",
+      "nous": "Nous aurions ignoré les rumeurs.",
+      "vous": "Vous auriez ignoré ce conseil ?",
+      "ils": "Ils auraient ignoré le règlement."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est vexé que j'aie ignoré son message.",
+      "tu": "C'est dommage que tu aies ignoré mes conseils.",
+      "il": "Il est possible qu'il ait ignoré la règle.",
+      "nous": "Bien que nous ayons ignoré la pluie, la fête était réussie.",
+      "vous": "Je suis surpris que vous ayez ignoré cette offre.",
+      "ils": "Il est grave qu'ils aient ignoré le danger."
+    },
+    "Futur Proche": {
+      "je": "Je vais ignorer ce message.",
+      "tu": "Tu vas ignorer ses remarques ?",
+      "il": "Il va ignorer le problème.",
+      "nous": "Nous allons ignorer les critiques.",
+      "vous": "Vous allez ignorer cet appel ?",
+      "ils": "Ils vont ignorer la règle."
+    },
+    "Impératif": {
+      "tu": "Ignore les rumeurs.",
+      "nous": "Ignorons ce bruit.",
+      "vous": "Ignorez ce message."
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "verb": "se tromper",
+  "tenses": {
+    "Présent": {
+      "je": "Je me trompe souvent de route.",
+      "tu": "Tu te trompes de numéro.",
+      "il": "Il se trompe dans ses calculs.",
+      "nous": "Nous nous trompons de bus.",
+      "vous": "Vous vous trompez d'adresse.",
+      "ils": "Ils se trompent de jour."
+    },
+    "Imparfait": {
+      "je": "Je me trompais toujours de porte.",
+      "tu": "Tu te trompais sur son compte.",
+      "il": "Il se trompait souvent de date.",
+      "nous": "Nous nous trompions de chemin à chaque fois.",
+      "vous": "Vous vous trompiez de salle.",
+      "ils": "Ils se trompaient dans les comptes."
+    },
+    "Futur Simple": {
+      "je": "Je me tromperai sûrement de chemin.",
+      "tu": "Tu te tromperas de train si tu ne regardes pas.",
+      "il": "Il se trompera dans la recette.",
+      "nous": "Nous nous tromperons de sortie.",
+      "vous": "Vous vous tromperez de rue sans GPS.",
+      "ils": "Ils se tromperont de date."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me tromperais de route sans GPS.",
+      "tu": "Tu te tromperais de clé sans les couleurs.",
+      "il": "Il se tromperait de quai sans le panneau.",
+      "nous": "Nous nous tromperions de chemin sans carte.",
+      "vous": "Vous vous tromperiez de porte sans le numéro.",
+      "ils": "Ils se tromperaient de salle sans le plan."
+    },
+    "Subjonctif": {
+      "je": "Mon chef a peur que je me trompe dans les chiffres.",
+      "tu": "J'ai peur que tu te trompes de route.",
+      "il": "Il est possible qu'il se trompe de date.",
+      "nous": "Il ne faut pas que nous nous trompions de train.",
+      "vous": "Je crains que vous vous trompiez de jour.",
+      "ils": "Il est normal qu'ils se trompent parfois."
+    },
+    "Passé Simple": {
+      "je": "Je me trompai de chemin dans la forêt.",
+      "tu": "Tu te trompas de porte.",
+      "il": "Il se trompa de route et arriva au mauvais village.",
+      "nous": "Nous nous trompâmes de direction.",
+      "vous": "Vous vous trompâtes d'ennemi.",
+      "ils": "Ils se trompèrent de cible."
+    },
+    "Passé Composé": {
+      "je": "Je me suis trompé de numéro.",
+      "tu": "Tu t'es trompé de jour !",
+      "il": "Il s'est trompé dans l'addition.",
+      "nous": "Nous nous sommes trompés de gare.",
+      "vous": "Vous vous êtes trompés de route ?",
+      "ils": "Ils se sont trompés de date."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais trompé d'adresse.",
+      "tu": "Tu t'étais trompé de train.",
+      "il": "Il s'était trompé de chemin.",
+      "nous": "Nous nous étions trompés d'heure.",
+      "vous": "Vous vous étiez trompés de salle ?",
+      "ils": "Ils s'étaient trompés de jour."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai trompé de jour.",
+      "tu": "Tu te seras trompé d'adresse.",
+      "il": "Il se sera trompé de route.",
+      "nous": "Nous nous serons trompés d'heure.",
+      "vous": "Vous vous serez trompés de bus.",
+      "ils": "Ils se seront trompés de porte."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais trompé sans ton aide.",
+      "tu": "Tu te serais trompé de chemin sans la carte.",
+      "il": "Il se serait trompé de rue sans le GPS.",
+      "nous": "Nous nous serions trompés de train sans le panneau.",
+      "vous": "Vous vous seriez trompés de route ?",
+      "ils": "Ils se seraient trompés de salle sans le plan."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est surpris que je me sois trompé.",
+      "tu": "Je doute que tu te sois trompé.",
+      "il": "Il est possible qu'il se soit trompé de numéro.",
+      "nous": "Bien que nous nous soyons trompés de route, nous sommes arrivés à l'heure.",
+      "vous": "C'est normal que vous vous soyez trompés.",
+      "ils": "Je crains qu'ils se soient trompés de date."
+    },
+    "Futur Proche": {
+      "je": "Je vais me tromper de route.",
+      "tu": "Tu vas te tromper de bus.",
+      "il": "Il va se tromper de porte.",
+      "nous": "Nous allons nous tromper de chemin.",
+      "vous": "Vous allez vous tromper de jour.",
+      "ils": "Ils vont se tromper d'adresse."
+    }
+  }
+}

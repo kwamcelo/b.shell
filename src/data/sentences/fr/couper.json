@@ -1,0 +1,106 @@
+{
+  "verb": "couper",
+  "tenses": {
+    "Présent": {
+      "je": "Je coupe le pain.",
+      "tu": "Tu coupes les oignons ?",
+      "il": "Il coupe du bois pour l'hiver.",
+      "nous": "Nous coupons le gâteau.",
+      "vous": "Vous coupez la viande en petits morceaux.",
+      "ils": "Ils coupent les fleurs du jardin."
+    },
+    "Imparfait": {
+      "je": "Je coupais les cheveux de mon frère.",
+      "tu": "Tu coupais toujours la parole.",
+      "il": "Il coupait l'herbe le samedi.",
+      "nous": "Nous coupions du bois en automne.",
+      "vous": "Vous coupiez les légumes ?",
+      "ils": "Ils coupaient les branches des arbres."
+    },
+    "Futur Simple": {
+      "je": "Je couperai le gâteau.",
+      "tu": "Tu couperas les tomates.",
+      "il": "Il coupera le courant pendant les travaux.",
+      "nous": "Nous couperons le ruban.",
+      "vous": "Vous couperez les fleurs fanées.",
+      "ils": "Ils couperont le vieil arbre."
+    },
+    "Conditionnel Présent": {
+      "je": "Je couperais les cheveux plus courts.",
+      "tu": "Tu couperais le pain, s'il te plaît ?",
+      "il": "Il couperait l'herbe avec une tondeuse.",
+      "nous": "Nous couperions ce passage du film.",
+      "vous": "Vous couperiez la pizza en huit ?",
+      "ils": "Ils couperaient les arbres sans cette loi."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je coupe les légumes.",
+      "tu": "Je veux que tu coupes le gâteau.",
+      "il": "Il faut qu'il coupe l'herbe.",
+      "nous": "Il faut que nous coupions le bois.",
+      "vous": "J'aimerais que vous coupiez le son.",
+      "ils": "Il faut qu'ils coupent les branches."
+    },
+    "Passé Simple": {
+      "je": "Je coupai la corde d'un coup.",
+      "tu": "Tu coupas le pain en deux.",
+      "il": "Il coupa la tête du dragon.",
+      "nous": "Nous coupâmes à travers la forêt.",
+      "vous": "Vous coupâtes les ponts.",
+      "ils": "Ils coupèrent la route à l'ennemi."
+    },
+    "Passé Composé": {
+      "je": "J'ai coupé le pain.",
+      "tu": "Tu as coupé tes cheveux ?",
+      "il": "Il a coupé l'arbre.",
+      "nous": "Nous avons coupé le courant.",
+      "vous": "Vous avez coupé le gâteau ?",
+      "ils": "Ils ont coupé les fleurs."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais coupé les légumes.",
+      "tu": "Tu avais coupé le moteur ?",
+      "il": "Il avait coupé le bois.",
+      "nous": "Nous avions coupé le ruban.",
+      "vous": "Vous aviez coupé l'eau ?",
+      "ils": "Ils avaient coupé la haie."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai coupé tout le bois avant l'hiver.",
+      "tu": "Tu auras coupé les légumes.",
+      "il": "Il aura coupé la haie.",
+      "nous": "Nous aurons coupé le gâteau.",
+      "vous": "Vous aurez coupé le courant.",
+      "ils": "Ils auront coupé les arbres."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais coupé ce passage.",
+      "tu": "Tu aurais coupé tes cheveux ?",
+      "il": "Il aurait coupé l'herbe sans la pluie.",
+      "nous": "Nous aurions coupé le gâteau plus tôt.",
+      "vous": "Vous auriez coupé le son ?",
+      "ils": "Ils auraient coupé l'arbre."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est fâchée que j'aie coupé mes cheveux.",
+      "tu": "C'est bien que tu aies coupé l'eau.",
+      "il": "Je doute qu'il ait coupé le courant.",
+      "nous": "Bien que nous ayons coupé l'arbre, le jardin est sombre.",
+      "vous": "Je suis content que vous ayez coupé le gâteau.",
+      "ils": "Il est possible qu'ils aient coupé la route."
+    },
+    "Futur Proche": {
+      "je": "Je vais couper le pain.",
+      "tu": "Tu vas couper le gâteau ?",
+      "il": "Il va couper l'herbe.",
+      "nous": "Nous allons couper du bois.",
+      "vous": "Vous allez couper le ruban.",
+      "ils": "Ils vont couper les fleurs."
+    },
+    "Impératif": {
+      "tu": "Coupe le pain, s'il te plaît.",
+      "nous": "Coupons le gâteau !",
+      "vous": "Coupez vos téléphones pendant le film."
+    }
+  }
+}

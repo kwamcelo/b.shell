@@ -1,0 +1,106 @@
+{
+  "verb": "présenter",
+  "tenses": {
+    "Présent": {
+      "je": "Je présente mon projet demain.",
+      "tu": "Tu présentes ta copine à tes parents ?",
+      "il": "Il présente le journal de vingt heures.",
+      "nous": "Nous présentons nos excuses.",
+      "vous": "Vous présentez votre passeport à l'entrée.",
+      "ils": "Ils présentent leur nouveau spectacle."
+    },
+    "Imparfait": {
+      "je": "Je présentais la météo à la radio.",
+      "tu": "Tu présentais tes amis à tout le monde.",
+      "il": "Il présentait une émission de cuisine.",
+      "nous": "Nous présentions nos travaux chaque vendredi.",
+      "vous": "Vous présentiez le projet à l'équipe ?",
+      "ils": "Ils présentaient leurs produits au salon."
+    },
+    "Futur Simple": {
+      "je": "Je présenterai les résultats lundi.",
+      "tu": "Tu présenteras ton ami à la famille ?",
+      "il": "Il présentera son film à Cannes.",
+      "nous": "Nous présenterons le projet au client.",
+      "vous": "Vous présenterez votre billet au contrôleur.",
+      "ils": "Ils présenteront leur bébé aux grands-parents."
+    },
+    "Conditionnel Présent": {
+      "je": "Je présenterais le projet autrement.",
+      "tu": "Tu présenterais ton exposé en premier ?",
+      "il": "Il présenterait bien une émission de télé.",
+      "nous": "Nous présenterions nos idées avec plus de temps.",
+      "vous": "Vous présenteriez votre candidature ?",
+      "ils": "Ils présenteraient leur collection à Paris."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je présente mon exposé.",
+      "tu": "Je veux que tu présentes ton ami.",
+      "il": "Il faut qu'il présente ses excuses.",
+      "nous": "Il faut que nous présentions le budget.",
+      "vous": "J'aimerais que vous présentiez votre équipe.",
+      "ils": "Il faut qu'ils présentent leurs papiers."
+    },
+    "Passé Simple": {
+      "je": "Je présentai mes respects au roi.",
+      "tu": "Tu présentas ton épée au chevalier.",
+      "il": "Il présenta sa fiancée à la cour.",
+      "nous": "Nous présentâmes nos lettres au gardien.",
+      "vous": "Vous présentâtes vos excuses.",
+      "ils": "Ils présentèrent leurs cadeaux à la reine."
+    },
+    "Passé Composé": {
+      "je": "J'ai présenté mon travail à la classe.",
+      "tu": "Tu as présenté ton projet ?",
+      "il": "Il a présenté sa fiancée à ses parents.",
+      "nous": "Nous avons présenté nos excuses.",
+      "vous": "Vous avez présenté votre passeport ?",
+      "ils": "Ils ont présenté leur nouveau produit."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais présenté mon idée au directeur.",
+      "tu": "Tu avais présenté ton ami à ta sœur.",
+      "il": "Il avait présenté le journal pendant dix ans.",
+      "nous": "Nous avions présenté le projet en mars.",
+      "vous": "Vous aviez présenté votre CV ?",
+      "ils": "Ils avaient présenté un spectacle magnifique."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai présenté mon mémoire avant l'été.",
+      "tu": "Tu auras présenté ton projet à tout le monde.",
+      "il": "Il aura présenté son dernier journal.",
+      "nous": "Nous aurons présenté nos résultats.",
+      "vous": "Vous aurez présenté votre dossier.",
+      "ils": "Ils auront présenté leur film au festival."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais présenté le projet autrement.",
+      "tu": "Tu aurais présenté ton ami ?",
+      "il": "Il aurait présenté ses excuses avec un peu d'humilité.",
+      "nous": "Nous aurions présenté nos idées plus tôt.",
+      "vous": "Vous auriez présenté votre candidature ?",
+      "ils": "Ils auraient présenté le spectacle sans la pluie."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie présenté le projet.",
+      "tu": "C'est gentil que tu aies présenté tes amis.",
+      "il": "Je doute qu'il ait présenté ses excuses.",
+      "nous": "Bien que nous ayons présenté notre projet, personne ne l'a soutenu.",
+      "vous": "Je suis ravi que vous ayez présenté votre travail.",
+      "ils": "Il est possible qu'ils aient présenté le mauvais document."
+    },
+    "Futur Proche": {
+      "je": "Je vais présenter mon projet.",
+      "tu": "Tu vas présenter ton ami ?",
+      "il": "Il va présenter le journal.",
+      "nous": "Nous allons présenter nos excuses.",
+      "vous": "Vous allez présenter votre exposé ?",
+      "ils": "Ils vont présenter leur spectacle."
+    },
+    "Impératif": {
+      "tu": "Présente ton ami à tout le monde.",
+      "nous": "Présentons le projet au directeur.",
+      "vous": "Présentez votre billet à l'entrée."
+    }
+  }
+}

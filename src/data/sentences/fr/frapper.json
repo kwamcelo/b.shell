@@ -1,0 +1,106 @@
+{
+  "verb": "frapper",
+  "tenses": {
+    "Présent": {
+      "je": "Je frappe à la porte.",
+      "tu": "Tu frappes avant d'entrer ?",
+      "il": "Il frappe le ballon du pied gauche.",
+      "nous": "Nous frappons trois coups.",
+      "vous": "Vous frappez fort !",
+      "ils": "Ils frappent dans leurs mains."
+    },
+    "Imparfait": {
+      "je": "Je frappais à la porte depuis dix minutes.",
+      "tu": "Tu frappais toujours deux fois.",
+      "il": "Il frappait la balle très fort.",
+      "nous": "Nous frappions dans nos mains en rythme.",
+      "vous": "Vous frappiez à la fenêtre ?",
+      "ils": "Ils frappaient sur des casseroles."
+    },
+    "Futur Simple": {
+      "je": "Je frapperai avant d'entrer.",
+      "tu": "Tu frapperas trois fois.",
+      "il": "Il frappera le premier.",
+      "nous": "Nous frapperons à la porte des voisins.",
+      "vous": "Vous frapperez à la porte de gauche.",
+      "ils": "Ils frapperont dans leurs mains à la fin."
+    },
+    "Conditionnel Présent": {
+      "je": "Je frapperais plus fort à ta place.",
+      "tu": "Tu frapperais avant d'entrer, s'il te plaît ?",
+      "il": "Il frapperait la balle mieux avec une autre raquette.",
+      "nous": "Nous frapperions à la porte, mais il est tard.",
+      "vous": "Vous frapperiez plus doucement ?",
+      "ils": "Ils frapperaient dans leurs mains avec cette musique."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je frappe avant d'entrer.",
+      "tu": "Je veux que tu frappes à la porte.",
+      "il": "Il faut qu'il frappe le ballon plus fort.",
+      "nous": "Il faut que nous frappions en même temps.",
+      "vous": "J'aimerais que vous frappiez avant d'entrer.",
+      "ils": "Il faut qu'ils frappent dans leurs mains."
+    },
+    "Passé Simple": {
+      "je": "Je frappai à la porte du château.",
+      "tu": "Tu frappas le dragon de ton épée.",
+      "il": "Il frappa trois coups sur la table.",
+      "nous": "Nous frappâmes à la porte de l'auberge.",
+      "vous": "Vous frappâtes le premier.",
+      "ils": "Ils frappèrent à toutes les portes du village."
+    },
+    "Passé Composé": {
+      "je": "J'ai frappé, mais personne n'a répondu.",
+      "tu": "Tu as frappé à la porte ?",
+      "il": "Il a frappé la balle hors du stade.",
+      "nous": "Nous avons frappé trois fois.",
+      "vous": "Vous avez frappé ?",
+      "ils": "Ils ont frappé dans leurs mains."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais frappé à la mauvaise porte.",
+      "tu": "Tu avais frappé trop doucement.",
+      "il": "Il avait frappé le ballon de la tête.",
+      "nous": "Nous avions frappé chez les voisins.",
+      "vous": "Vous aviez frappé avant d'entrer ?",
+      "ils": "Ils avaient frappé sur la table."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai frappé à toutes les portes.",
+      "tu": "Tu auras frappé pour rien.",
+      "il": "Il aura frappé le premier.",
+      "nous": "Nous aurons frappé à la bonne porte.",
+      "vous": "Vous aurez frappé trop tard.",
+      "ils": "Ils auront frappé dans leurs mains toute la soirée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais frappé avant d'entrer.",
+      "tu": "Tu aurais frappé plus fort ?",
+      "il": "Il aurait frappé la balle mieux avec plus d'entraînement.",
+      "nous": "Nous aurions frappé à la porte.",
+      "vous": "Vous auriez frappé ?",
+      "ils": "Ils auraient frappé dans leurs mains."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon voisin est content que j'aie frappé avant d'entrer.",
+      "tu": "C'est poli que tu aies frappé.",
+      "il": "Je doute qu'il ait frappé à la porte.",
+      "nous": "Bien que nous ayons frappé, personne n'a ouvert.",
+      "vous": "Je suis surpris que vous ayez frappé si fort.",
+      "ils": "Il est possible qu'ils aient frappé à la mauvaise porte."
+    },
+    "Futur Proche": {
+      "je": "Je vais frapper à la porte.",
+      "tu": "Tu vas frapper ?",
+      "il": "Il va frapper le ballon.",
+      "nous": "Nous allons frapper trois coups.",
+      "vous": "Vous allez frapper dans vos mains.",
+      "ils": "Ils vont frapper à la porte."
+    },
+    "Impératif": {
+      "tu": "Frappe avant d'entrer.",
+      "nous": "Frappons à la porte.",
+      "vous": "Frappez dans vos mains !"
+    }
+  }
+}

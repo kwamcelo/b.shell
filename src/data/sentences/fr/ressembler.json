@@ -1,0 +1,101 @@
+{
+  "verb": "ressembler",
+  "tenses": {
+    "Présent": {
+      "je": "Je ressemble beaucoup à mon père.",
+      "tu": "Tu ressembles à ta mère.",
+      "il": "Il ressemble à un acteur célèbre.",
+      "nous": "Nous ressemblons à nos grands-parents.",
+      "vous": "Vous ressemblez à quelqu'un que je connais.",
+      "ils": "Ils ressemblent à leur oncle."
+    },
+    "Imparfait": {
+      "je": "Je ressemblais à mon frère quand j'étais enfant.",
+      "tu": "Tu ressemblais à un ange sur cette photo.",
+      "il": "Il ressemblait à un vieux marin.",
+      "nous": "Nous ressemblions à des touristes perdus.",
+      "vous": "Vous ressembliez à votre sœur.",
+      "ils": "Ils ressemblaient à des jumeaux."
+    },
+    "Futur Simple": {
+      "je": "Je ressemblerai à ma mère plus tard.",
+      "tu": "Tu ressembleras à ton père.",
+      "il": "Il ressemblera à un vrai professionnel.",
+      "nous": "Nous ressemblerons à nos parents un jour.",
+      "vous": "Vous ressemblerez à des stars.",
+      "ils": "Ils ressembleront à leur grand-père."
+    },
+    "Conditionnel Présent": {
+      "je": "Je ressemblerais à un clown avec ce chapeau.",
+      "tu": "Tu ressemblerais à une star avec ces lunettes.",
+      "il": "Il ressemblerait à son frère sans sa barbe.",
+      "nous": "Nous ressemblerions à des touristes avec ces appareils photo.",
+      "vous": "Vous ressembleriez à un artiste.",
+      "ils": "Ils ressembleraient à des pirates avec ces costumes."
+    },
+    "Subjonctif": {
+      "je": "Ma tante trouve normal que je ressemble à ma mère.",
+      "tu": "Il est normal que tu ressembles à ton père.",
+      "il": "Il est possible qu'il ressemble à son grand-père.",
+      "nous": "Bien que nous ressemblions à des jumeaux, nous sommes cousins.",
+      "vous": "C'est drôle que vous ressembliez à votre chien.",
+      "ils": "C'est étonnant qu'ils ressemblent si peu à leurs parents."
+    },
+    "Passé Simple": {
+      "je": "Je ressemblai à un mendiant après le voyage.",
+      "tu": "Tu ressemblas à ton père en vieillissant.",
+      "il": "Il ressembla à un fantôme.",
+      "nous": "Nous ressemblâmes à des voyageurs ordinaires.",
+      "vous": "Vous ressemblâtes à un chevalier.",
+      "ils": "Ils ressemblèrent à leurs ancêtres."
+    },
+    "Passé Composé": {
+      "je": "J'ai ressemblé à mon père pendant toute mon enfance.",
+      "tu": "Tu as ressemblé à ta mère sur cette photo.",
+      "il": "Il a ressemblé à son oncle toute sa vie.",
+      "nous": "Nous avons ressemblé à des touristes.",
+      "vous": "Vous avez ressemblé à un vrai chef.",
+      "ils": "Ils ont ressemblé à des clowns avec ces perruques."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais ressemblé à ma sœur enfant.",
+      "tu": "Tu avais ressemblé à un pirate avec ce costume.",
+      "il": "Il avait ressemblé à son père à cet âge.",
+      "nous": "Nous avions ressemblé à des jumeaux.",
+      "vous": "Vous aviez ressemblé à une star.",
+      "ils": "Ils avaient ressemblé à des voyageurs fatigués."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai ressemblé à un clown toute la soirée.",
+      "tu": "Tu auras ressemblé à une star.",
+      "il": "Il aura ressemblé à un vrai chef.",
+      "nous": "Nous aurons ressemblé à des touristes.",
+      "vous": "Vous aurez ressemblé à des pirates.",
+      "ils": "Ils auront ressemblé à leurs parents."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais ressemblé à un clown avec ce chapeau.",
+      "tu": "Tu aurais ressemblé à ta mère avec les cheveux longs.",
+      "il": "Il aurait ressemblé à son frère sans ses lunettes.",
+      "nous": "Nous aurions ressemblé à des touristes.",
+      "vous": "Vous auriez ressemblé à un vrai chef.",
+      "ils": "Ils auraient ressemblé à des jumeaux."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est surprise que j'aie ressemblé à mon oncle.",
+      "tu": "C'est drôle que tu aies ressemblé à ton père.",
+      "il": "Il est possible qu'il ait ressemblé à son grand-père.",
+      "nous": "Bien que nous ayons ressemblé à des touristes, personne ne nous a arrêtés.",
+      "vous": "C'est amusant que vous ayez ressemblé à des jumeaux.",
+      "ils": "Il est étrange qu'ils aient ressemblé à des inconnus."
+    },
+    "Futur Proche": {
+      "je": "Je vais ressembler à un clown.",
+      "tu": "Tu vas ressembler à ta mère.",
+      "il": "Il va ressembler à son père.",
+      "nous": "Nous allons ressembler à des touristes.",
+      "vous": "Vous allez ressembler à des pirates.",
+      "ils": "Ils vont ressembler à leurs cousins."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "courir",
+  "tenses": {
+    "Présent": {
+      "je": "Je cours tous les matins.",
+      "tu": "Tu cours plus vite que moi.",
+      "il": "Il court le marathon de Paris.",
+      "nous": "Nous courons pour attraper le bus.",
+      "vous": "Vous courez dans le parc ?",
+      "ils": "Ils courent après le ballon."
+    },
+    "Imparfait": {
+      "je": "Je courais dans les champs.",
+      "tu": "Tu courais toujours derrière ton frère.",
+      "il": "Il courait cinq kilomètres par jour.",
+      "nous": "Nous courions sur la plage.",
+      "vous": "Vous couriez vite à l'école ?",
+      "ils": "Ils couraient partout dans la maison."
+    },
+    "Futur Simple": {
+      "je": "Je courrai le semi-marathon en avril.",
+      "tu": "Tu courras plus vite avec ces chaussures.",
+      "il": "Il courra le cent mètres.",
+      "nous": "Nous courrons ensemble dimanche.",
+      "vous": "Vous courrez dans quelle catégorie ?",
+      "ils": "Ils courront pour une association."
+    },
+    "Conditionnel Présent": {
+      "je": "Je courrais plus souvent avec un parc près de chez moi.",
+      "tu": "Tu courrais avec moi demain ?",
+      "il": "Il courrait plus vite avec de meilleures chaussures.",
+      "nous": "Nous courrions le matin sans la chaleur.",
+      "vous": "Vous courriez un marathon ?",
+      "ils": "Ils courraient plus avec un peu de motivation."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je coure pour attraper le train.",
+      "tu": "Je veux que tu coures moins vite.",
+      "il": "Il faut qu'il coure plus souvent.",
+      "nous": "Il faut que nous courions jusqu'à la gare.",
+      "vous": "J'aimerais que vous couriez avec nous.",
+      "ils": "Il ne faut pas qu'ils courent dans le couloir."
+    },
+    "Passé Simple": {
+      "je": "Je courus jusqu'au village.",
+      "tu": "Tu courus vers la mer.",
+      "il": "Il courut à perdre haleine.",
+      "nous": "Nous courûmes vers la forêt.",
+      "vous": "Vous courûtes au secours du roi.",
+      "ils": "Ils coururent jusqu'à la rivière."
+    },
+    "Passé Composé": {
+      "je": "J'ai couru dix kilomètres.",
+      "tu": "Tu as couru pour rien.",
+      "il": "Il a couru le marathon en trois heures.",
+      "nous": "Nous avons couru sous la pluie.",
+      "vous": "Vous avez couru jusqu'ici ?",
+      "ils": "Ils ont couru après le bus."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais couru toute la matinée.",
+      "tu": "Tu avais couru plus vite que tout le monde.",
+      "il": "Il avait couru un marathon la veille.",
+      "nous": "Nous avions couru pour attraper le train.",
+      "vous": "Vous aviez couru sous la neige ?",
+      "ils": "Ils avaient couru jusqu'à la plage."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai couru mille kilomètres cette année.",
+      "tu": "Tu auras couru pour rien.",
+      "il": "Il aura couru le marathon.",
+      "nous": "Nous aurons couru tous les jours.",
+      "vous": "Vous aurez couru plus vite que l'an dernier.",
+      "ils": "Ils auront couru la course entière."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais couru plus vite sans cette blessure.",
+      "tu": "Tu aurais couru avec nous ?",
+      "il": "Il aurait couru le marathon sans sa blessure.",
+      "nous": "Nous aurions couru jusqu'à la gare.",
+      "vous": "Vous auriez couru sous cette pluie ?",
+      "ils": "Ils auraient couru plus vite avec le vent."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon coach est fier que j'aie couru le marathon.",
+      "tu": "C'est incroyable que tu aies couru si vite.",
+      "il": "Je doute qu'il ait couru dix kilomètres.",
+      "nous": "Bien que nous ayons couru, nous avons raté le train.",
+      "vous": "Je suis surpris que vous ayez couru sous la neige.",
+      "ils": "Il est possible qu'ils aient couru toute la nuit."
+    },
+    "Futur Proche": {
+      "je": "Je vais courir dans le parc.",
+      "tu": "Tu vas courir demain ?",
+      "il": "Il va courir le marathon.",
+      "nous": "Nous allons courir ensemble.",
+      "vous": "Vous allez courir ?",
+      "ils": "Ils vont courir jusqu'à la plage."
+    },
+    "Impératif": {
+      "tu": "Cours, le bus arrive !",
+      "nous": "Courons jusqu'à la gare.",
+      "vous": "Courez moins vite, je suis fatigué."
+    }
+  }
+}

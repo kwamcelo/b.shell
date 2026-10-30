@@ -1,0 +1,106 @@
+{
+  "verb": "apporter",
+  "tenses": {
+    "Présent": {
+      "je": "J'apporte le dessert ce soir.",
+      "tu": "Tu apportes quoi à la fête ?",
+      "il": "Il apporte toujours des fleurs.",
+      "nous": "Nous apportons du vin et du fromage.",
+      "vous": "Vous apportez vos propres boissons ?",
+      "ils": "Ils apportent des jeux pour les enfants."
+    },
+    "Imparfait": {
+      "je": "J'apportais toujours un gâteau le dimanche.",
+      "tu": "Tu apportais ton déjeuner au bureau.",
+      "il": "Il apportait le journal à son voisin.",
+      "nous": "Nous apportions des cadeaux à chaque visite.",
+      "vous": "Vous apportiez vos livres en classe ?",
+      "ils": "Ils apportaient de la musique à chaque fête."
+    },
+    "Futur Simple": {
+      "je": "J'apporterai les boissons.",
+      "tu": "Tu apporteras ton maillot de bain.",
+      "il": "Il apportera sa guitare.",
+      "nous": "Nous apporterons une salade.",
+      "vous": "Vous apporterez vos papiers d'identité.",
+      "ils": "Ils apporteront le gâteau d'anniversaire."
+    },
+    "Conditionnel Présent": {
+      "je": "J'apporterais bien une bouteille de vin.",
+      "tu": "Tu apporterais des chaises, s'il te plaît ?",
+      "il": "Il apporterait son aide avec plaisir.",
+      "nous": "Nous apporterions plus de nourriture avec plus d'invités.",
+      "vous": "Vous apporteriez un dessert ?",
+      "ils": "Ils apporteraient leurs enfants avec une invitation."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'apporte quelque chose ?",
+      "tu": "J'aimerais que tu apportes ta guitare.",
+      "il": "Il faut qu'il apporte son passeport.",
+      "nous": "Il faut que nous apportions un cadeau.",
+      "vous": "Je souhaite que vous apportiez vos idées.",
+      "ils": "Il faut qu'ils apportent les documents."
+    },
+    "Passé Simple": {
+      "je": "J'apportai la nouvelle au roi.",
+      "tu": "Tu apportas de l'eau aux blessés.",
+      "il": "Il apporta un message du front.",
+      "nous": "Nous apportâmes des vivres au village.",
+      "vous": "Vous apportâtes la paix dans la région.",
+      "ils": "Ils apportèrent des épices d'Orient."
+    },
+    "Passé Composé": {
+      "je": "J'ai apporté des croissants pour tout le monde.",
+      "tu": "Tu as apporté ton parapluie ?",
+      "il": "Il a apporté une bouteille de champagne.",
+      "nous": "Nous avons apporté des fleurs à notre hôtesse.",
+      "vous": "Vous avez apporté les documents ?",
+      "ils": "Ils ont apporté beaucoup de joie à la maison."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais apporté un livre pour le voyage.",
+      "tu": "Tu avais apporté ton chargeur ?",
+      "il": "Il avait apporté un cadeau pour chacun.",
+      "nous": "Nous avions apporté trop de nourriture.",
+      "vous": "Vous aviez apporté une tente ?",
+      "ils": "Ils avaient apporté leur chien."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai apporté tout le nécessaire.",
+      "tu": "Tu auras apporté beaucoup à cette équipe.",
+      "il": "Il aura apporté sa touche personnelle.",
+      "nous": "Nous aurons apporté notre aide.",
+      "vous": "Vous aurez apporté de la bonne humeur.",
+      "ils": "Ils auront apporté le matériel."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais apporté un parapluie avec la météo.",
+      "tu": "Tu aurais apporté quoi ?",
+      "il": "Il aurait apporté des fleurs sans ce retard.",
+      "nous": "Nous aurions apporté un cadeau avec ton adresse.",
+      "vous": "Vous auriez apporté du vin ?",
+      "ils": "Ils auraient apporté leurs enfants."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma tante est contente que j'aie apporté des fleurs.",
+      "tu": "C'est gentil que tu aies apporté un gâteau.",
+      "il": "Je doute qu'il ait apporté son passeport.",
+      "nous": "Bien que nous ayons apporté des parapluies, nous sommes trempés.",
+      "vous": "Je suis ravi que vous ayez apporté du vin.",
+      "ils": "C'est super qu'ils aient apporté des jeux."
+    },
+    "Futur Proche": {
+      "je": "Je vais apporter le dessert.",
+      "tu": "Tu vas apporter ta guitare ?",
+      "il": "Il va apporter des chaises.",
+      "nous": "Nous allons apporter du pain.",
+      "vous": "Vous allez apporter quelque chose ?",
+      "ils": "Ils vont apporter le gâteau."
+    },
+    "Impératif": {
+      "tu": "Apporte-moi un verre d'eau, s'il te plaît.",
+      "nous": "Apportons des fleurs à mamie.",
+      "vous": "Apportez vos papiers d'identité."
+    }
+  }
+}

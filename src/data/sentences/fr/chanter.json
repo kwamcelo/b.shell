@@ -1,0 +1,106 @@
+{
+  "verb": "chanter",
+  "tenses": {
+    "Présent": {
+      "je": "Je chante sous la douche.",
+      "tu": "Tu chantes très bien !",
+      "il": "Il chante dans une chorale.",
+      "nous": "Nous chantons pour l'anniversaire de Léa.",
+      "vous": "Vous chantez juste.",
+      "ils": "Ils chantent à tue-tête."
+    },
+    "Imparfait": {
+      "je": "Je chantais des berceuses à mon fils.",
+      "tu": "Tu chantais toujours en cuisinant.",
+      "il": "Il chantait dans un groupe de rock.",
+      "nous": "Nous chantions autour du feu.",
+      "vous": "Vous chantiez à l'église ?",
+      "ils": "Ils chantaient dans la voiture."
+    },
+    "Futur Simple": {
+      "je": "Je chanterai au mariage.",
+      "tu": "Tu chanteras une chanson pour nous ?",
+      "il": "Il chantera à l'opéra.",
+      "nous": "Nous chanterons en chœur.",
+      "vous": "Vous chanterez en premier.",
+      "ils": "Ils chanteront l'hymne national."
+    },
+    "Conditionnel Présent": {
+      "je": "Je chanterais avec plaisir.",
+      "tu": "Tu chanterais pour moi ?",
+      "il": "Il chanterait mieux avec un micro.",
+      "nous": "Nous chanterions toute la nuit.",
+      "vous": "Vous chanteriez une chanson ?",
+      "ils": "Ils chanteraient plus fort sans les voisins."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je chante ?",
+      "tu": "J'aimerais que tu chantes au mariage.",
+      "il": "Il faut qu'il chante plus fort.",
+      "nous": "Il faut que nous chantions ensemble.",
+      "vous": "Je veux que vous chantiez en chœur.",
+      "ils": "Il est possible qu'ils chantent ce soir."
+    },
+    "Passé Simple": {
+      "je": "Je chantai une vieille ballade.",
+      "tu": "Tu chantas pour le roi.",
+      "il": "Il chanta jusqu'à l'aube.",
+      "nous": "Nous chantâmes autour du feu.",
+      "vous": "Vous chantâtes la gloire des héros.",
+      "ils": "Ils chantèrent la victoire."
+    },
+    "Passé Composé": {
+      "je": "J'ai chanté au karaoké.",
+      "tu": "Tu as chanté hier soir ?",
+      "il": "Il a chanté pour son anniversaire.",
+      "nous": "Nous avons chanté toute la soirée.",
+      "vous": "Vous avez chanté à la fête ?",
+      "ils": "Ils ont chanté l'hymne."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais chanté devant toute l'école.",
+      "tu": "Tu avais chanté cette chanson à Noël.",
+      "il": "Il avait chanté dans un bar.",
+      "nous": "Nous avions chanté pour les mariés.",
+      "vous": "Vous aviez chanté à l'église ?",
+      "ils": "Ils avaient chanté toute la nuit."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai chanté dans dix pays.",
+      "tu": "Tu auras chanté pour rien.",
+      "il": "Il aura chanté toute la soirée.",
+      "nous": "Nous aurons chanté toutes les chansons.",
+      "vous": "Vous aurez chanté à merveille.",
+      "ils": "Ils auront chanté avant le gâteau."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais chanté avec un micro.",
+      "tu": "Tu aurais chanté devant tout le monde ?",
+      "il": "Il aurait chanté sans son mal de gorge.",
+      "nous": "Nous aurions chanté plus fort.",
+      "vous": "Vous auriez chanté au mariage ?",
+      "ils": "Ils auraient chanté toute la nuit."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie chanté pour elle.",
+      "tu": "C'est beau que tu aies chanté cette chanson.",
+      "il": "Je doute qu'il ait chanté juste.",
+      "nous": "Bien que nous ayons chanté faux, le public a applaudi.",
+      "vous": "Je suis ravi que vous ayez chanté pour nous.",
+      "ils": "Il est possible qu'ils aient chanté en playback."
+    },
+    "Futur Proche": {
+      "je": "Je vais chanter une chanson.",
+      "tu": "Tu vas chanter ?",
+      "il": "Il va chanter au concert.",
+      "nous": "Nous allons chanter ensemble.",
+      "vous": "Vous allez chanter en premier ?",
+      "ils": "Ils vont chanter l'hymne."
+    },
+    "Impératif": {
+      "tu": "Chante-nous une chanson !",
+      "nous": "Chantons ensemble !",
+      "vous": "Chantez plus fort !"
+    }
+  }
+}

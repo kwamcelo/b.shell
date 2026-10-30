@@ -1,0 +1,106 @@
+{
+  "verb": "tourner",
+  "tenses": {
+    "Présent": {
+      "je": "Je tourne à gauche au prochain feu.",
+      "tu": "Tu tournes la page ?",
+      "il": "Il tourne un film en Espagne.",
+      "nous": "Nous tournons en rond depuis une heure.",
+      "vous": "Vous tournez à droite après la boulangerie.",
+      "ils": "Ils tournent autour du lac à vélo."
+    },
+    "Imparfait": {
+      "je": "Je tournais les pages très lentement.",
+      "tu": "Tu tournais toujours la tête vers la fenêtre.",
+      "il": "Il tournait autour du pot.",
+      "nous": "Nous tournions dans le quartier pour trouver une place.",
+      "vous": "Vous tourniez un documentaire à cette époque ?",
+      "ils": "Ils tournaient en rond sans carte."
+    },
+    "Futur Simple": {
+      "je": "Je tournerai à droite après le pont.",
+      "tu": "Tu tourneras la clé deux fois.",
+      "il": "Il tournera son prochain film au Québec.",
+      "nous": "Nous tournerons la page.",
+      "vous": "Vous tournerez à gauche au rond-point.",
+      "ils": "Ils tourneront une vidéo pour le mariage."
+    },
+    "Conditionnel Présent": {
+      "je": "Je tournerais à gauche, à ta place.",
+      "tu": "Tu tournerais le bouton du volume ?",
+      "il": "Il tournerait un film avec plus de budget.",
+      "nous": "Nous tournerions moins en rond avec un GPS.",
+      "vous": "Vous tourneriez la tête, s'il vous plaît ?",
+      "ils": "Ils tourneraient une série avec ce scénario."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je tourne à droite ?",
+      "tu": "Il faut que tu tournes la clé.",
+      "il": "Je veux qu'il tourne la page.",
+      "nous": "Il faut que nous tournions au prochain carrefour.",
+      "vous": "J'aimerais que vous tourniez la tête vers la caméra.",
+      "ils": "Il faut qu'ils tournent la scène avant la nuit."
+    },
+    "Passé Simple": {
+      "je": "Je tournai la poignée lentement.",
+      "tu": "Tu tournas la tête vers la mer.",
+      "il": "Il tourna les talons et partit.",
+      "nous": "Nous tournâmes autour du château.",
+      "vous": "Vous tournâtes le dos à votre famille.",
+      "ils": "Ils tournèrent vers le sud."
+    },
+    "Passé Composé": {
+      "je": "J'ai tourné à gauche au lieu de tourner à droite.",
+      "tu": "Tu as tourné la clé ?",
+      "il": "Il a tourné un film en Afrique.",
+      "nous": "Nous avons tourné en rond pendant une heure.",
+      "vous": "Vous avez tourné à droite ?",
+      "ils": "Ils ont tourné une publicité."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais tourné la page.",
+      "tu": "Tu avais tourné dans la mauvaise rue.",
+      "il": "Il avait tourné le dos à ses amis.",
+      "nous": "Nous avions tourné autour du parking.",
+      "vous": "Vous aviez tourné à gauche ?",
+      "ils": "Ils avaient tourné la scène dix fois."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai tourné la page avant l'été.",
+      "tu": "Tu auras tourné en rond pour rien.",
+      "il": "Il aura tourné trois films cette année.",
+      "nous": "Nous aurons tourné toute la vidéo.",
+      "vous": "Vous aurez tourné au bon endroit.",
+      "ils": "Ils auront tourné leur dernier épisode."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais tourné à gauche avec un meilleur panneau.",
+      "tu": "Tu aurais tourné ici ?",
+      "il": "Il aurait tourné le film en été sans les retards.",
+      "nous": "Nous aurions tourné plus tôt avec un GPS.",
+      "vous": "Vous auriez tourné à droite ?",
+      "ils": "Ils auraient tourné la scène de nuit."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon GPS est fâché que j'aie tourné trop tôt.",
+      "tu": "C'est bien que tu aies tourné la page.",
+      "il": "Je doute qu'il ait tourné à droite.",
+      "nous": "Bien que nous ayons tourné au bon endroit, la rue était fermée.",
+      "vous": "Je suis content que vous ayez tourné ce film.",
+      "ils": "Il est possible qu'ils aient tourné dans la mauvaise rue."
+    },
+    "Futur Proche": {
+      "je": "Je vais tourner à droite.",
+      "tu": "Tu vas tourner la page ?",
+      "il": "Il va tourner un film.",
+      "nous": "Nous allons tourner au prochain feu.",
+      "vous": "Vous allez tourner à gauche.",
+      "ils": "Ils vont tourner une vidéo."
+    },
+    "Impératif": {
+      "tu": "Tourne à gauche au feu.",
+      "nous": "Tournons la page.",
+      "vous": "Tournez la clé dans la serrure."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "adorer",
+  "tenses": {
+    "Présent": {
+      "je": "J'adore le chocolat noir.",
+      "tu": "Tu adores cette chanson, non ?",
+      "il": "Il adore les films d'horreur.",
+      "nous": "Nous adorons la cuisine italienne.",
+      "vous": "Vous adorez le jazz ?",
+      "ils": "Ils adorent jouer au foot."
+    },
+    "Imparfait": {
+      "je": "J'adorais les dessins animés le samedi matin.",
+      "tu": "Tu adorais grimper aux arbres.",
+      "il": "Il adorait les histoires de pirates.",
+      "nous": "Nous adorions les vacances chez nos grands-parents.",
+      "vous": "Vous adoriez cette émission ?",
+      "ils": "Ils adoraient la neige."
+    },
+    "Futur Simple": {
+      "je": "J'adorerai ce restaurant, c'est certain.",
+      "tu": "Tu adoreras ce livre.",
+      "il": "Il adorera son cadeau.",
+      "nous": "Nous adorerons cette ville.",
+      "vous": "Vous adorerez la vue depuis la terrasse.",
+      "ils": "Ils adoreront le parc d'attractions."
+    },
+    "Conditionnel Présent": {
+      "je": "J'adorerais visiter le Japon.",
+      "tu": "Tu adorerais ce film.",
+      "il": "Il adorerait apprendre la guitare.",
+      "nous": "Nous adorerions venir à ta fête.",
+      "vous": "Vous adoreriez cette plage.",
+      "ils": "Ils adoreraient un petit chien."
+    },
+    "Subjonctif": {
+      "je": "Mes parents ont peur que j'adore trop les jeux vidéo.",
+      "tu": "J'aimerais que tu adores ce livre autant que moi.",
+      "il": "Je doute qu'il adore ce cadeau.",
+      "nous": "Il est normal que nous adorions cette ville.",
+      "vous": "Je suis heureux que vous adoriez ce plat.",
+      "ils": "C'est étonnant qu'ils adorent les épinards."
+    },
+    "Passé Simple": {
+      "je": "J'adorai ce pays dès le premier jour.",
+      "tu": "Tu adoras cette musique toute ta vie.",
+      "il": "Il adora les dieux de la forêt.",
+      "nous": "Nous adorâmes ce voyage.",
+      "vous": "Vous adorâtes la reine.",
+      "ils": "Ils adorèrent le soleil."
+    },
+    "Passé Composé": {
+      "je": "J'ai adoré ce film.",
+      "tu": "Tu as adoré le concert ?",
+      "il": "Il a adoré son cadeau.",
+      "nous": "Nous avons adoré nos vacances.",
+      "vous": "Vous avez adoré le spectacle ?",
+      "ils": "Ils ont adoré le gâteau."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais adoré ce livre à quinze ans.",
+      "tu": "Tu avais adoré la Grèce.",
+      "il": "Il avait adoré ce restaurant.",
+      "nous": "Nous avions adoré la première saison.",
+      "vous": "Vous aviez adoré ce chanteur ?",
+      "ils": "Ils avaient adoré le zoo."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai adoré chaque minute de ce voyage.",
+      "tu": "Tu auras adoré ce séjour.",
+      "il": "Il aura adoré la surprise.",
+      "nous": "Nous aurons adoré cette année.",
+      "vous": "Vous aurez adoré le dîner.",
+      "ils": "Ils auront adoré la fête."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais adoré venir avec vous.",
+      "tu": "Tu aurais adoré ce concert.",
+      "il": "Il aurait adoré voir ça.",
+      "nous": "Nous aurions adoré rester plus longtemps.",
+      "vous": "Vous auriez adoré cette ville.",
+      "ils": "Ils auraient adoré ce spectacle."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère est surpris que j'aie adoré ce film.",
+      "tu": "Je suis content que tu aies adoré le cadeau.",
+      "il": "Je doute qu'il ait adoré le repas.",
+      "nous": "Bien que nous ayons adoré l'hôtel, nous ne reviendrons pas.",
+      "vous": "C'est super que vous ayez adoré la visite.",
+      "ils": "Je suis ravi qu'ils aient adoré le spectacle."
+    },
+    "Futur Proche": {
+      "je": "Je vais adorer ce film.",
+      "tu": "Tu vas adorer ce gâteau.",
+      "il": "Il va adorer son cadeau.",
+      "nous": "Nous allons adorer cette ville.",
+      "vous": "Vous allez adorer la plage.",
+      "ils": "Ils vont adorer la surprise."
+    },
+    "Impératif": {
+      "tu": "Adore chaque instant de ces vacances.",
+      "nous": "Adorons ce moment.",
+      "vous": "Adorez la vie, elle passe vite."
+    }
+  }
+}

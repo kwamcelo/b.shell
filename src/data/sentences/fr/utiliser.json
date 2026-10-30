@@ -1,0 +1,106 @@
+{
+  "verb": "utiliser",
+  "tenses": {
+    "Présent": {
+      "je": "J'utilise mon téléphone comme réveil.",
+      "tu": "Tu utilises quel logiciel ?",
+      "il": "Il utilise le vélo pour aller au travail.",
+      "nous": "Nous utilisons des produits naturels.",
+      "vous": "Vous utilisez une carte de crédit ?",
+      "ils": "Ils utilisent les transports en commun."
+    },
+    "Imparfait": {
+      "je": "J'utilisais une vieille machine à écrire.",
+      "tu": "Tu utilisais ce dictionnaire à l'école.",
+      "il": "Il utilisait toujours le même stylo.",
+      "nous": "Nous utilisions la voiture tous les jours.",
+      "vous": "Vous utilisiez des cartes papier ?",
+      "ils": "Ils utilisaient des bougies pendant la panne."
+    },
+    "Futur Simple": {
+      "je": "J'utiliserai ta voiture demain.",
+      "tu": "Tu utiliseras la clé verte.",
+      "il": "Il utilisera le nouveau logiciel.",
+      "nous": "Nous utiliserons la salle du premier étage.",
+      "vous": "Vous utiliserez l'entrée principale.",
+      "ils": "Ils utiliseront le train."
+    },
+    "Conditionnel Présent": {
+      "je": "J'utiliserais plutôt un couteau.",
+      "tu": "Tu utiliserais quoi à ma place ?",
+      "il": "Il utiliserait le bus sans sa voiture.",
+      "nous": "Nous utiliserions moins d'eau avec une douche.",
+      "vous": "Vous utiliseriez cette application ?",
+      "ils": "Ils utiliseraient le vélo avec une piste cyclable."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'utilise mon temps libre.",
+      "tu": "Je préfère que tu utilises ce stylo.",
+      "il": "Il faut qu'il utilise une crème solaire.",
+      "nous": "Il faut que nous utilisions moins de plastique.",
+      "vous": "J'aimerais que vous utilisiez le parking.",
+      "ils": "Il faut qu'ils utilisent le bon formulaire."
+    },
+    "Passé Simple": {
+      "je": "J'utilisai une corde pour descendre.",
+      "tu": "Tu utilisas la ruse pour entrer.",
+      "il": "Il utilisa une épée magique.",
+      "nous": "Nous utilisâmes les étoiles pour trouver le chemin.",
+      "vous": "Vous utilisâtes un faux nom.",
+      "ils": "Ils utilisèrent des chevaux pour traverser le désert."
+    },
+    "Passé Composé": {
+      "je": "J'ai utilisé ton stylo.",
+      "tu": "Tu as utilisé tout le shampoing ?",
+      "il": "Il a utilisé la mauvaise clé.",
+      "nous": "Nous avons utilisé le GPS.",
+      "vous": "Vous avez utilisé votre carte ?",
+      "ils": "Ils ont utilisé tous les œufs."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais utilisé tout mon forfait.",
+      "tu": "Tu avais utilisé la machine à laver ?",
+      "il": "Il avait utilisé le mauvais mot de passe.",
+      "nous": "Nous avions utilisé toutes nos économies.",
+      "vous": "Vous aviez utilisé ce produit ?",
+      "ils": "Ils avaient utilisé toute l'eau chaude."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai utilisé tous mes jours de congé.",
+      "tu": "Tu auras utilisé tout le papier.",
+      "il": "Il aura utilisé tout son budget.",
+      "nous": "Nous aurons utilisé toute la peinture.",
+      "vous": "Vous aurez utilisé tous vos points.",
+      "ils": "Ils auront utilisé toutes les piles."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais utilisé une autre couleur.",
+      "tu": "Tu aurais utilisé quoi ?",
+      "il": "Il aurait utilisé un marteau avec plus de temps.",
+      "nous": "Nous aurions utilisé le train.",
+      "vous": "Vous auriez utilisé cette méthode ?",
+      "ils": "Ils auraient utilisé une carte."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère est fâché que j'aie utilisé son ordinateur.",
+      "tu": "Je suis surpris que tu aies utilisé ce mot.",
+      "il": "Je doute qu'il ait utilisé la bonne méthode.",
+      "nous": "Bien que nous ayons utilisé le GPS, nous sommes perdus.",
+      "vous": "C'est bien que vous ayez utilisé le vélo.",
+      "ils": "Il est possible qu'ils aient utilisé un faux nom."
+    },
+    "Futur Proche": {
+      "je": "Je vais utiliser ta voiture.",
+      "tu": "Tu vas utiliser l'ordinateur ?",
+      "il": "Il va utiliser le four.",
+      "nous": "Nous allons utiliser le train.",
+      "vous": "Vous allez utiliser ce logiciel ?",
+      "ils": "Ils vont utiliser la salle."
+    },
+    "Impératif": {
+      "tu": "Utilise ce stylo.",
+      "nous": "Utilisons le vélo aujourd'hui.",
+      "vous": "Utilisez la porte de derrière."
+    }
+  }
+}

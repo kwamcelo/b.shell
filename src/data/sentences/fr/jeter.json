@@ -1,0 +1,106 @@
+{
+  "verb": "jeter",
+  "tenses": {
+    "Présent": {
+      "je": "Je jette les vieux journaux.",
+      "tu": "Tu jettes ce papier à la poubelle ?",
+      "il": "Il jette la balle au chien.",
+      "nous": "Nous jetons un coup d'œil au menu.",
+      "vous": "Vous jetez les bouteilles dans le bac vert.",
+      "ils": "Ils jettent des cailloux dans le lac."
+    },
+    "Imparfait": {
+      "je": "Je jetais du pain aux canards.",
+      "tu": "Tu jetais tout par la fenêtre.",
+      "il": "Il jetait ses chaussettes sous le lit.",
+      "nous": "Nous jetions des pièces dans la fontaine.",
+      "vous": "Vous jetiez les épluchures au compost ?",
+      "ils": "Ils jetaient des boules de neige."
+    },
+    "Futur Simple": {
+      "je": "Je jetterai ces vieilles chaussures.",
+      "tu": "Tu jetteras un œil sur mon devoir ?",
+      "il": "Il jettera les restes au chien.",
+      "nous": "Nous jetterons les vieux meubles.",
+      "vous": "Vous jetterez les déchets dans la bonne poubelle.",
+      "ils": "Ils jetteront des fleurs aux mariés."
+    },
+    "Conditionnel Présent": {
+      "je": "Je jetterais ce vieux canapé.",
+      "tu": "Tu jetterais un coup d'œil à ma voiture ?",
+      "il": "Il jetterait tout sans réfléchir.",
+      "nous": "Nous jetterions moins avec un meilleur frigo.",
+      "vous": "Vous jetteriez ces vieux livres ?",
+      "ils": "Ils jetteraient la nourriture sans le compost."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je jette ces yaourts périmés.",
+      "tu": "Je ne veux pas que tu jettes tes jouets.",
+      "il": "Il faut qu'il jette ses vieux papiers.",
+      "nous": "Il faut que nous jetions moins de nourriture.",
+      "vous": "J'aimerais que vous jetiez un œil à ce contrat.",
+      "ils": "Je ne veux pas qu'ils jettent de pierres."
+    },
+    "Passé Simple": {
+      "je": "Je jetai la lettre au feu.",
+      "tu": "Tu jetas ton épée à terre.",
+      "il": "Il jeta l'anneau dans la rivière.",
+      "nous": "Nous jetâmes l'ancre dans la baie.",
+      "vous": "Vous jetâtes un regard vers la porte.",
+      "ils": "Ils jetèrent leurs armes."
+    },
+    "Passé Composé": {
+      "je": "J'ai jeté ton vieux pull.",
+      "tu": "Tu as jeté le ticket de caisse ?",
+      "il": "Il a jeté la balle trop loin.",
+      "nous": "Nous avons jeté un coup d'œil à la maison.",
+      "vous": "Vous avez jeté les bouteilles ?",
+      "ils": "Ils ont jeté leurs chapeaux en l'air."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais jeté le reçu par erreur.",
+      "tu": "Tu avais jeté mes notes ?",
+      "il": "Il avait jeté son téléphone dans l'eau.",
+      "nous": "Nous avions jeté les restes du repas.",
+      "vous": "Vous aviez jeté ce vieux tapis ?",
+      "ils": "Ils avaient jeté du riz sur les mariés."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai jeté tous les cartons avant le déménagement.",
+      "tu": "Tu auras jeté ces vieux magazines.",
+      "il": "Il aura jeté la lettre sans la lire.",
+      "nous": "Nous aurons jeté tout le bazar.",
+      "vous": "Vous aurez jeté les fleurs fanées.",
+      "ils": "Ils auront jeté les restes de la fête."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais jeté cette vieille lampe.",
+      "tu": "Tu aurais jeté ce cadeau ?",
+      "il": "Il aurait jeté la clé sans faire attention.",
+      "nous": "Nous aurions jeté le gâteau brûlé.",
+      "vous": "Vous auriez jeté ces photos ?",
+      "ils": "Ils auraient jeté les vieux vêtements."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est fâchée que j'aie jeté ses vieux magazines.",
+      "tu": "C'est dommage que tu aies jeté cette lampe.",
+      "il": "Je doute qu'il ait jeté la facture.",
+      "nous": "Bien que nous ayons jeté les vieux meubles, la cave est encore pleine.",
+      "vous": "Je suis triste que vous ayez jeté ces photos.",
+      "ils": "Il est possible qu'ils aient jeté le reçu."
+    },
+    "Futur Proche": {
+      "je": "Je vais jeter ces vieux journaux.",
+      "tu": "Tu vas jeter un œil ?",
+      "il": "Il va jeter la poubelle.",
+      "nous": "Nous allons jeter les cartons.",
+      "vous": "Vous allez jeter ces bouteilles ?",
+      "ils": "Ils vont jeter la balle."
+    },
+    "Impératif": {
+      "tu": "Jette ce papier à la poubelle.",
+      "nous": "Jetons un coup d'œil au plan.",
+      "vous": "Jetez vos déchets dans la bonne poubelle."
+    }
+  }
+}

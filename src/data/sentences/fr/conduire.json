@@ -1,0 +1,106 @@
+{
+  "verb": "conduire",
+  "tenses": {
+    "Présent": {
+      "je": "Je conduis prudemment sous la pluie.",
+      "tu": "Tu conduis trop vite !",
+      "il": "Il conduit un camion de livraison.",
+      "nous": "Nous conduisons les enfants à l'école.",
+      "vous": "Vous conduisez une voiture électrique ?",
+      "ils": "Ils conduisent à gauche en Angleterre."
+    },
+    "Imparfait": {
+      "je": "Je conduisais un vieux camion rouge.",
+      "tu": "Tu conduisais la nuit pour éviter les bouchons.",
+      "il": "Il conduisait le bus de l'école.",
+      "nous": "Nous conduisions à tour de rôle.",
+      "vous": "Vous conduisiez déjà à dix-huit ans ?",
+      "ils": "Ils conduisaient sans permis."
+    },
+    "Futur Simple": {
+      "je": "Je conduirai pendant la première partie du trajet.",
+      "tu": "Tu conduiras la voiture de ton père ?",
+      "il": "Il conduira les invités à l'hôtel.",
+      "nous": "Nous conduirons jusqu'à Lyon.",
+      "vous": "Vous conduirez prudemment.",
+      "ils": "Ils conduiront toute la nuit."
+    },
+    "Conditionnel Présent": {
+      "je": "Je conduirais plus lentement à ta place.",
+      "tu": "Tu conduirais un peu, s'il te plaît ?",
+      "il": "Il conduirait mieux avec des lunettes.",
+      "nous": "Nous conduirions moins avec un bon réseau de bus.",
+      "vous": "Vous conduiriez une moto ?",
+      "ils": "Ils conduiraient jusqu'en Espagne."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je conduise ?",
+      "tu": "Je préfère que tu conduises.",
+      "il": "Il faut qu'il conduise plus lentement.",
+      "nous": "Il faut que nous conduisions les enfants à la gare.",
+      "vous": "J'aimerais que vous conduisiez prudemment.",
+      "ils": "Il est possible qu'ils conduisent toute la nuit."
+    },
+    "Passé Simple": {
+      "je": "Je conduisis le carrosse jusqu'au palais.",
+      "tu": "Tu conduisis ton peuple vers la liberté.",
+      "il": "Il conduisit l'armée jusqu'à la mer.",
+      "nous": "Nous conduisîmes les voyageurs jusqu'à la ville.",
+      "vous": "Vous conduisîtes les chevaux à l'écurie.",
+      "ils": "Ils conduisirent le roi en prison."
+    },
+    "Passé Composé": {
+      "je": "J'ai conduit pendant six heures.",
+      "tu": "Tu as conduit la voiture de ta sœur ?",
+      "il": "Il a conduit les enfants au cinéma.",
+      "nous": "Nous avons conduit jusqu'à la mer.",
+      "vous": "Vous avez conduit sous la neige ?",
+      "ils": "Ils ont conduit toute la nuit."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais conduit toute la journée.",
+      "tu": "Tu avais conduit trop vite.",
+      "il": "Il avait conduit sa grand-mère à l'hôpital.",
+      "nous": "Nous avions conduit jusqu'en Italie.",
+      "vous": "Vous aviez conduit un camion ?",
+      "ils": "Ils avaient conduit sans s'arrêter."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai conduit mille kilomètres cette semaine.",
+      "tu": "Tu auras conduit toute la nuit.",
+      "il": "Il aura conduit les invités à la gare.",
+      "nous": "Nous aurons conduit jusqu'à Paris.",
+      "vous": "Vous aurez conduit sous la pluie.",
+      "ils": "Ils auront conduit dix heures."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais conduit plus lentement.",
+      "tu": "Tu aurais conduit jusqu'à Paris ?",
+      "il": "Il aurait conduit sans le brouillard.",
+      "nous": "Nous aurions conduit toute la nuit.",
+      "vous": "Vous auriez conduit avec cette neige ?",
+      "ils": "Ils auraient conduit plus prudemment."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon père est content que j'aie conduit prudemment.",
+      "tu": "C'est gentil que tu aies conduit les enfants.",
+      "il": "Je doute qu'il ait conduit toute la nuit.",
+      "nous": "Bien que nous ayons conduit vite, nous avons raté le ferry.",
+      "vous": "Je suis surpris que vous ayez conduit jusqu'ici.",
+      "ils": "Il est possible qu'ils aient conduit sans permis."
+    },
+    "Futur Proche": {
+      "je": "Je vais conduire.",
+      "tu": "Tu vas conduire ?",
+      "il": "Il va conduire les enfants.",
+      "nous": "Nous allons conduire jusqu'à la plage.",
+      "vous": "Vous allez conduire la nuit ?",
+      "ils": "Ils vont conduire toute la journée."
+    },
+    "Impératif": {
+      "tu": "Conduis prudemment !",
+      "nous": "Conduisons à tour de rôle.",
+      "vous": "Conduisez lentement, la route est glissante."
+    }
+  }
+}

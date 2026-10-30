@@ -1,0 +1,106 @@
+{
+  "verb": "mentir",
+  "tenses": {
+    "Présent": {
+      "je": "Je mens très mal.",
+      "tu": "Tu mens, je le vois dans tes yeux.",
+      "il": "Il ment sur son âge.",
+      "nous": "Nous mentons parfois pour être polis.",
+      "vous": "Vous mentez à votre patron ?",
+      "ils": "Ils mentent à leurs parents."
+    },
+    "Imparfait": {
+      "je": "Je mentais sur mes notes.",
+      "tu": "Tu mentais à tout le monde.",
+      "il": "Il mentait depuis le début.",
+      "nous": "Nous mentions pour éviter les ennuis.",
+      "vous": "Vous mentiez déjà à cet âge ?",
+      "ils": "Ils mentaient pour se protéger."
+    },
+    "Futur Simple": {
+      "je": "Je mentirai si c'est nécessaire.",
+      "tu": "Tu mentiras encore ?",
+      "il": "Il mentira à la police.",
+      "nous": "Nous mentirons pour garder la surprise.",
+      "vous": "Vous mentirez au juge ?",
+      "ils": "Ils mentiront sur leur âge."
+    },
+    "Conditionnel Présent": {
+      "je": "Je mentirais pour protéger mes enfants.",
+      "tu": "Tu mentirais à ta mère ?",
+      "il": "Il mentirait pour avoir ce poste.",
+      "nous": "Nous mentirions pour garder la surprise.",
+      "vous": "Vous mentiriez pour un ami ?",
+      "ils": "Ils mentiraient sans hésiter."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je mente pour toi ?",
+      "tu": "Je ne veux pas que tu mentes.",
+      "il": "Je doute qu'il mente.",
+      "nous": "Il ne faut pas que nous mentions.",
+      "vous": "Je refuse que vous mentiez à ma famille.",
+      "ils": "J'ai peur qu'ils mentent au juge."
+    },
+    "Passé Simple": {
+      "je": "Je mentis au roi pour sauver mon ami.",
+      "tu": "Tu mentis sur ton nom.",
+      "il": "Il mentit à ses soldats.",
+      "nous": "Nous mentîmes aux gardes.",
+      "vous": "Vous mentîtes devant le tribunal.",
+      "ils": "Ils mentirent au peuple."
+    },
+    "Passé Composé": {
+      "je": "J'ai menti à mes parents.",
+      "tu": "Tu as menti !",
+      "il": "Il a menti sur son CV.",
+      "nous": "Nous avons menti pour garder la surprise.",
+      "vous": "Vous avez menti à la police ?",
+      "ils": "Ils ont menti sur leur âge."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais menti sur mon âge.",
+      "tu": "Tu avais menti à ta sœur ?",
+      "il": "Il avait menti à tout le monde.",
+      "nous": "Nous avions menti pour rien.",
+      "vous": "Vous aviez menti au médecin ?",
+      "ils": "Ils avaient menti sur leurs vacances."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai menti pour une bonne raison.",
+      "tu": "Tu auras menti pour rien.",
+      "il": "Il aura menti une fois de plus.",
+      "nous": "Nous aurons menti pour garder le secret.",
+      "vous": "Vous aurez menti à tout le monde.",
+      "ils": "Ils auront menti jusqu'au bout."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais menti à ta place.",
+      "tu": "Tu aurais menti ?",
+      "il": "Il aurait menti pour sauver sa sœur.",
+      "nous": "Nous aurions menti pour te protéger.",
+      "vous": "Vous auriez menti à la police ?",
+      "ils": "Ils auraient menti sans hésiter."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon père est déçu que j'aie menti.",
+      "tu": "Je suis triste que tu aies menti.",
+      "il": "Il est possible qu'il ait menti.",
+      "nous": "Bien que nous ayons menti, personne n'a rien remarqué.",
+      "vous": "Je ne crois pas que vous ayez menti.",
+      "ils": "C'est grave qu'ils aient menti au juge."
+    },
+    "Futur Proche": {
+      "je": "Je vais mentir pour garder la surprise.",
+      "tu": "Tu vas mentir à ta mère ?",
+      "il": "Il va mentir, comme d'habitude.",
+      "nous": "Nous allons mentir au patron.",
+      "vous": "Vous allez mentir ?",
+      "ils": "Ils vont mentir sur leur âge."
+    },
+    "Impératif": {
+      "tu": "Ne mens pas à ta mère.",
+      "nous": "Mentons un peu pour garder la surprise.",
+      "vous": "Ne mentez pas au médecin."
+    }
+  }
+}

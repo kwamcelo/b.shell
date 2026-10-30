@@ -1,0 +1,106 @@
+{
+  "verb": "ramener",
+  "tenses": {
+    "Présent": {
+      "je": "Je ramène les enfants de l'école.",
+      "tu": "Tu ramènes du pain ?",
+      "il": "Il ramène des souvenirs de chaque voyage.",
+      "nous": "Nous ramenons la voiture ce soir.",
+      "vous": "Vous ramenez les livres à la bibliothèque ?",
+      "ils": "Ils ramènent leurs amis à la maison."
+    },
+    "Imparfait": {
+      "je": "Je ramenais des coquillages de la plage.",
+      "tu": "Tu ramenais toujours des chats perdus.",
+      "il": "Il ramenait des fleurs du marché.",
+      "nous": "Nous ramenions nos grands-parents chez eux.",
+      "vous": "Vous rameniez les enfants le soir ?",
+      "ils": "Ils ramenaient du fromage de Normandie."
+    },
+    "Futur Simple": {
+      "je": "Je ramènerai ta valise demain.",
+      "tu": "Tu ramèneras le pain ?",
+      "il": "Il ramènera les enfants avant dix heures.",
+      "nous": "Nous ramènerons des souvenirs d'Italie.",
+      "vous": "Vous ramènerez la voiture au garage.",
+      "ils": "Ils ramèneront des cadeaux pour tout le monde."
+    },
+    "Conditionnel Présent": {
+      "je": "Je ramènerais bien un chat à la maison.",
+      "tu": "Tu ramènerais les enfants ce soir ?",
+      "il": "Il ramènerait des fleurs avec plus de temps.",
+      "nous": "Nous ramènerions plus de souvenirs avec une plus grande valise.",
+      "vous": "Vous ramèneriez du pain, s'il vous plaît ?",
+      "ils": "Ils ramèneraient le chien chez le vétérinaire."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je ramène la voiture avant midi.",
+      "tu": "Je veux que tu ramènes tes affaires.",
+      "il": "Il faut qu'il ramène les livres à la bibliothèque.",
+      "nous": "Il faut que nous ramenions les chaises.",
+      "vous": "J'aimerais que vous rameniez les enfants avant le dîner.",
+      "ils": "Il faut qu'ils ramènent le chien."
+    },
+    "Passé Simple": {
+      "je": "Je ramenai le cheval à l'écurie.",
+      "tu": "Tu ramenas le trésor au château.",
+      "il": "Il ramena la paix dans le pays.",
+      "nous": "Nous ramenâmes les prisonniers au camp.",
+      "vous": "Vous ramenâtes l'enfant perdu à sa mère.",
+      "ils": "Ils ramenèrent les blessés au village."
+    },
+    "Passé Composé": {
+      "je": "J'ai ramené des chocolats de Belgique.",
+      "tu": "Tu as ramené ma veste ?",
+      "il": "Il a ramené un chien de la fourrière.",
+      "nous": "Nous avons ramené la voiture au garage.",
+      "vous": "Vous avez ramené des souvenirs ?",
+      "ils": "Ils ont ramené leurs enfants à l'école."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais ramené un tapis du Maroc.",
+      "tu": "Tu avais ramené les clés ?",
+      "il": "Il avait ramené des amis à la maison.",
+      "nous": "Nous avions ramené du vin d'Espagne.",
+      "vous": "Vous aviez ramené le pain ?",
+      "ils": "Ils avaient ramené le chat perdu."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai ramené la voiture avant ce soir.",
+      "tu": "Tu auras ramené tous les livres.",
+      "il": "Il aura ramené les enfants à la maison.",
+      "nous": "Nous aurons ramené les chaises au voisin.",
+      "vous": "Vous aurez ramené des souvenirs pour tout le monde.",
+      "ils": "Ils auront ramené le bateau au port."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais ramené plus de cadeaux avec une plus grande valise.",
+      "tu": "Tu aurais ramené quoi ?",
+      "il": "Il aurait ramené des fleurs.",
+      "nous": "Nous aurions ramené du fromage.",
+      "vous": "Vous auriez ramené les enfants plus tôt ?",
+      "ils": "Ils auraient ramené la voiture à l'heure."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie ramené du pain.",
+      "tu": "C'est gentil que tu aies ramené ces fleurs.",
+      "il": "Je doute qu'il ait ramené la voiture.",
+      "nous": "Bien que nous ayons ramené les livres, la bibliothèque nous réclame une amende.",
+      "vous": "Je suis ravi que vous ayez ramené des souvenirs.",
+      "ils": "C'est super qu'ils aient ramené le chien."
+    },
+    "Futur Proche": {
+      "je": "Je vais ramener les enfants.",
+      "tu": "Tu vas ramener du pain ?",
+      "il": "Il va ramener la voiture.",
+      "nous": "Nous allons ramener des souvenirs.",
+      "vous": "Vous allez ramener les livres ?",
+      "ils": "Ils vont ramener le chien."
+    },
+    "Impératif": {
+      "tu": "Ramène du pain en rentrant.",
+      "nous": "Ramenons les chaises au voisin.",
+      "vous": "Ramenez vos livres avant vendredi."
+    }
+  }
+}

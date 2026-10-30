@@ -1,0 +1,106 @@
+{
+  "verb": "revoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je revois mes amis d'enfance cet été.",
+      "tu": "Tu revois souvent ton ancien professeur ?",
+      "il": "Il revoit ce film tous les ans.",
+      "nous": "Nous revoyons nos cousins à Noël.",
+      "vous": "Vous revoyez vos notes avant l'examen ?",
+      "ils": "Ils revoient leur village natal."
+    },
+    "Imparfait": {
+      "je": "Je revoyais souvent mes amis de lycée.",
+      "tu": "Tu revoyais ce film chaque Noël.",
+      "il": "Il revoyait ses parents chaque dimanche.",
+      "nous": "Nous revoyions nos leçons le soir.",
+      "vous": "Vous revoyiez vos anciens collègues ?",
+      "ils": "Ils revoyaient la même série en boucle."
+    },
+    "Futur Simple": {
+      "je": "Je reverrai mes grands-parents en août.",
+      "tu": "Tu reverras ta famille bientôt.",
+      "il": "Il reverra sa ville natale.",
+      "nous": "Nous reverrons ce film ensemble.",
+      "vous": "Vous reverrez vos amis à la rentrée.",
+      "ils": "Ils reverront leurs enfants à Noël."
+    },
+    "Conditionnel Présent": {
+      "je": "Je reverrais ce film avec plaisir.",
+      "tu": "Tu reverrais ton ancien quartier ?",
+      "il": "Il reverrait volontiers ses anciens collègues.",
+      "nous": "Nous reverrions la mer avec plaisir.",
+      "vous": "Vous reverriez cette pièce ?",
+      "ils": "Ils reverraient leurs amis plus souvent avec une voiture."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je revoie mes notes.",
+      "tu": "J'aimerais que tu revoies ce film avec moi.",
+      "il": "Il est temps qu'il revoie sa famille.",
+      "nous": "Il faut que nous revoyions le contrat.",
+      "vous": "Je souhaite que vous revoyiez votre copie.",
+      "ils": "Il est important qu'ils revoient leurs grands-parents."
+    },
+    "Passé Simple": {
+      "je": "Je revis la maison de mon enfance.",
+      "tu": "Tu revis ta mère après dix ans.",
+      "il": "Il revit la mer pour la dernière fois.",
+      "nous": "Nous revîmes le château au loin.",
+      "vous": "Vous revîtes votre frère au port.",
+      "ils": "Ils revirent leur pays après la guerre."
+    },
+    "Passé Composé": {
+      "je": "J'ai revu mon ancien professeur.",
+      "tu": "Tu as revu ce film ?",
+      "il": "Il a revu ses amis de lycée.",
+      "nous": "Nous avons revu nos voisins.",
+      "vous": "Vous avez revu vos notes ?",
+      "ils": "Ils ont revu la maison de leur enfance."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais revu ce film trois fois.",
+      "tu": "Tu avais revu ton ancien quartier ?",
+      "il": "Il avait revu sa sœur après des années.",
+      "nous": "Nous avions revu nos cousins à Pâques.",
+      "vous": "Vous aviez revu le contrat ?",
+      "ils": "Ils avaient revu leurs vieux amis."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai revu tous mes cours avant l'examen.",
+      "tu": "Tu auras revu toute ta famille.",
+      "il": "Il aura revu ses anciens camarades.",
+      "nous": "Nous aurons revu tous les épisodes.",
+      "vous": "Vous aurez revu le dossier.",
+      "ils": "Ils auront revu leurs amis."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais revu ce film avec plaisir.",
+      "tu": "Tu aurais revu tes notes avant l'examen ?",
+      "il": "Il aurait revu sa famille avec un billet moins cher.",
+      "nous": "Nous aurions revu nos amis plus souvent.",
+      "vous": "Vous auriez revu ce film ?",
+      "ils": "Ils auraient revu leur village."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est heureuse que j'aie revu mes cousins.",
+      "tu": "C'est bien que tu aies revu tes notes.",
+      "il": "Je doute qu'il ait revu ce film.",
+      "nous": "Bien que nous ayons revu nos leçons, l'examen était difficile.",
+      "vous": "Je suis content que vous ayez revu vos amis.",
+      "ils": "C'est émouvant qu'ils aient revu leur maison d'enfance."
+    },
+    "Futur Proche": {
+      "je": "Je vais revoir mes amis.",
+      "tu": "Tu vas revoir ce film ?",
+      "il": "Il va revoir sa famille.",
+      "nous": "Nous allons revoir nos cousins.",
+      "vous": "Vous allez revoir vos notes ?",
+      "ils": "Ils vont revoir leurs anciens collègues."
+    },
+    "Impératif": {
+      "tu": "Revois tes leçons avant l'examen.",
+      "nous": "Revoyons ce passage ensemble.",
+      "vous": "Revoyez votre copie avant de la rendre."
+    }
+  }
+}

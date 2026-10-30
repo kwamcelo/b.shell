@@ -1,0 +1,106 @@
+{
+  "verb": "expliquer",
+  "tenses": {
+    "Présent": {
+      "je": "J'explique la règle aux élèves.",
+      "tu": "Tu expliques bien, merci.",
+      "il": "Il explique le problème au mécanicien.",
+      "nous": "Nous expliquons le projet aux nouveaux.",
+      "vous": "Vous expliquez très clairement.",
+      "ils": "Ils expliquent le chemin aux touristes."
+    },
+    "Imparfait": {
+      "je": "J'expliquais les maths à mon petit frère.",
+      "tu": "Tu expliquais la recette à ta voisine.",
+      "il": "Il expliquait tout avec des dessins.",
+      "nous": "Nous expliquions la situation au directeur.",
+      "vous": "Vous expliquiez la grammaire avec patience.",
+      "ils": "Ils expliquaient les règles du jeu."
+    },
+    "Futur Simple": {
+      "je": "J'expliquerai tout demain.",
+      "tu": "Tu expliqueras le projet à l'équipe.",
+      "il": "Il expliquera la situation au client.",
+      "nous": "Nous expliquerons les règles aux enfants.",
+      "vous": "Vous expliquerez le chemin au chauffeur.",
+      "ils": "Ils expliqueront leur choix à la réunion."
+    },
+    "Conditionnel Présent": {
+      "je": "J'expliquerais mieux avec un tableau.",
+      "tu": "Tu expliquerais ça comment ?",
+      "il": "Il expliquerait volontiers la recette.",
+      "nous": "Nous expliquerions le problème avec plus de temps.",
+      "vous": "Vous expliqueriez cette règle encore une fois ?",
+      "ils": "Ils expliqueraient tout avec un schéma."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'explique la situation au patron.",
+      "tu": "Je veux que tu expliques ton absence.",
+      "il": "Il faut qu'il explique ce retard.",
+      "nous": "Il est temps que nous expliquions tout.",
+      "vous": "J'aimerais que vous expliquiez cette phrase.",
+      "ils": "Il faut qu'ils expliquent les règles du jeu."
+    },
+    "Passé Simple": {
+      "je": "J'expliquai mon plan à voix basse.",
+      "tu": "Tu expliquas la carte aux soldats.",
+      "il": "Il expliqua la prophétie au roi.",
+      "nous": "Nous expliquâmes notre retard au capitaine.",
+      "vous": "Vous expliquâtes le mystère en une phrase.",
+      "ils": "Ils expliquèrent le chemin aux voyageurs."
+    },
+    "Passé Composé": {
+      "je": "J'ai expliqué le problème au technicien.",
+      "tu": "Tu as expliqué la situation à ta mère ?",
+      "il": "Il a expliqué le jeu aux enfants.",
+      "nous": "Nous avons expliqué notre idée au directeur.",
+      "vous": "Vous avez expliqué la règle ?",
+      "ils": "Ils ont expliqué le chemin aux touristes."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais expliqué la règle trois fois.",
+      "tu": "Tu avais expliqué ton plan à l'équipe ?",
+      "il": "Il avait expliqué la recette à sa fille.",
+      "nous": "Nous avions expliqué le projet en détail.",
+      "vous": "Vous aviez expliqué la situation au médecin ?",
+      "ils": "Ils avaient expliqué tout le problème."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai expliqué tout le chapitre avant l'examen.",
+      "tu": "Tu auras expliqué le projet avant la réunion.",
+      "il": "Il aura expliqué la méthode à tout le monde.",
+      "nous": "Nous aurons expliqué les règles avant le match.",
+      "vous": "Vous aurez expliqué votre choix.",
+      "ils": "Ils auront expliqué la situation à la presse."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais expliqué la règle autrement.",
+      "tu": "Tu aurais expliqué ça comment ?",
+      "il": "Il aurait expliqué le problème avec plus de temps.",
+      "nous": "Nous aurions expliqué la situation plus tôt.",
+      "vous": "Vous auriez expliqué la vérité ?",
+      "ils": "Ils auraient expliqué le plan avec une carte."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie expliqué la règle à mes camarades.",
+      "tu": "Je suis content que tu aies expliqué la situation.",
+      "il": "Je doute qu'il ait expliqué le problème clairement.",
+      "nous": "Bien que nous ayons expliqué la règle, personne ne la suit.",
+      "vous": "C'est gentil que vous ayez expliqué le chemin.",
+      "ils": "Il est étrange qu'ils aient expliqué si peu."
+    },
+    "Futur Proche": {
+      "je": "Je vais expliquer la situation.",
+      "tu": "Tu vas expliquer ton retard ?",
+      "il": "Il va expliquer le jeu aux enfants.",
+      "nous": "Nous allons expliquer le projet.",
+      "vous": "Vous allez expliquer la règle ?",
+      "ils": "Ils vont expliquer leur décision."
+    },
+    "Impératif": {
+      "tu": "Explique la règle encore une fois.",
+      "nous": "Expliquons la situation au directeur.",
+      "vous": "Expliquez votre réponse."
+    }
+  }
+}

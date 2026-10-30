@@ -1,0 +1,106 @@
+{
+  "verb": "amener",
+  "tenses": {
+    "Présent": {
+      "je": "J'amène les enfants à l'école.",
+      "tu": "Tu amènes ton chien au parc ?",
+      "il": "Il amène sa fille chez le dentiste.",
+      "nous": "Nous amenons un dessert pour le dîner.",
+      "vous": "Vous amenez des amis ce soir ?",
+      "ils": "Ils amènent leur bébé à la fête."
+    },
+    "Imparfait": {
+      "je": "J'amenais mon frère au foot le mercredi.",
+      "tu": "Tu amenais toujours des fleurs.",
+      "il": "Il amenait son chien au bureau.",
+      "nous": "Nous amenions nos cousins à la plage.",
+      "vous": "Vous ameniez les enfants au parc ?",
+      "ils": "Ils amenaient leurs amis à la maison."
+    },
+    "Futur Simple": {
+      "je": "J'amènerai les enfants au cinéma.",
+      "tu": "Tu amèneras ta copine à la fête ?",
+      "il": "Il amènera le vin.",
+      "nous": "Nous amènerons les chaises.",
+      "vous": "Vous amènerez votre chien ?",
+      "ils": "Ils amèneront leurs enfants."
+    },
+    "Conditionnel Présent": {
+      "je": "J'amènerais mon chien avec ta permission.",
+      "tu": "Tu amènerais ta sœur ?",
+      "il": "Il amènerait le dessert avec plaisir.",
+      "nous": "Nous amènerions les enfants avec une plus grande voiture.",
+      "vous": "Vous amèneriez des amis ?",
+      "ils": "Ils amèneraient leur fils."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'amène la voiture au garage.",
+      "tu": "Je veux que tu amènes ton ami.",
+      "il": "Il faut qu'il amène les clés.",
+      "nous": "Il faut que nous amenions les enfants chez le médecin.",
+      "vous": "J'aimerais que vous ameniez de la musique.",
+      "ils": "Il faut qu'ils amènent leurs papiers."
+    },
+    "Passé Simple": {
+      "je": "J'amenai le cheval à l'écurie.",
+      "tu": "Tu amenas le prisonnier devant le roi.",
+      "il": "Il amena son armée jusqu'à la mer.",
+      "nous": "Nous amenâmes les vivres au camp.",
+      "vous": "Vous amenâtes la paix dans le royaume.",
+      "ils": "Ils amenèrent les blessés au village."
+    },
+    "Passé Composé": {
+      "je": "J'ai amené un gâteau.",
+      "tu": "Tu as amené ton maillot de bain ?",
+      "il": "Il a amené son fils au zoo.",
+      "nous": "Nous avons amené des amis.",
+      "vous": "Vous avez amené le chien ?",
+      "ils": "Ils ont amené leurs enfants chez le dentiste."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais amené mon appareil photo.",
+      "tu": "Tu avais amené ta guitare ?",
+      "il": "Il avait amené toute sa famille.",
+      "nous": "Nous avions amené les enfants à la plage.",
+      "vous": "Vous aviez amené votre voiture ?",
+      "ils": "Ils avaient amené une bouteille de vin."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai amené les enfants à l'école avant huit heures.",
+      "tu": "Tu auras amené le chien chez le vétérinaire.",
+      "il": "Il aura amené sa voiture au garage.",
+      "nous": "Nous aurons amené les invités à l'hôtel.",
+      "vous": "Vous aurez amené tout le matériel.",
+      "ils": "Ils auront amené le dessert."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais amené mon chien.",
+      "tu": "Tu aurais amené tes amis ?",
+      "il": "Il aurait amené sa fille avec un peu plus de temps.",
+      "nous": "Nous aurions amené des boissons.",
+      "vous": "Vous auriez amené le gâteau ?",
+      "ils": "Ils auraient amené leurs enfants."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est content que j'aie amené mon chien.",
+      "tu": "C'est gentil que tu aies amené des fleurs.",
+      "il": "Je doute qu'il ait amené sa voiture.",
+      "nous": "Bien que nous ayons amené les enfants, la fête est calme.",
+      "vous": "Je suis ravi que vous ayez amené vos amis.",
+      "ils": "C'est super qu'ils aient amené de la musique."
+    },
+    "Futur Proche": {
+      "je": "Je vais amener les enfants à l'école.",
+      "tu": "Tu vas amener ton chien ?",
+      "il": "Il va amener le dessert.",
+      "nous": "Nous allons amener des amis.",
+      "vous": "Vous allez amener votre voiture ?",
+      "ils": "Ils vont amener leurs enfants."
+    },
+    "Impératif": {
+      "tu": "Amène ton maillot de bain.",
+      "nous": "Amenons les enfants au parc.",
+      "vous": "Amenez vos amis à la fête !"
+    }
+  }
+}

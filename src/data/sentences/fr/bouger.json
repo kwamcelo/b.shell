@@ -1,0 +1,106 @@
+{
+  "verb": "bouger",
+  "tenses": {
+    "Présent": {
+      "je": "Je bouge beaucoup quand je dors.",
+      "tu": "Tu bouges ta voiture ? Elle bloque la sortie.",
+      "il": "Il bouge sans arrêt pendant le cours.",
+      "nous": "Nous bougeons les meubles pour la fête.",
+      "vous": "Vous bougez trop, la photo est floue !",
+      "ils": "Ils bougent au rythme de la musique."
+    },
+    "Imparfait": {
+      "je": "Je bougeais tout le temps quand j'étais enfant.",
+      "tu": "Tu bougeais tes pieds au rythme de la chanson.",
+      "il": "Il bougeait à peine sur sa chaise.",
+      "nous": "Nous bougions les tables après chaque repas.",
+      "vous": "Vous bougiez beaucoup pendant le film.",
+      "ils": "Ils bougeaient en cadence."
+    },
+    "Futur Simple": {
+      "je": "Je bougerai ma voiture dans cinq minutes.",
+      "tu": "Tu bougeras le canapé avec moi ?",
+      "il": "Il bougera la table près de la fenêtre.",
+      "nous": "Nous bougerons ce week-end, promis.",
+      "vous": "Vous bougerez pendant la pause.",
+      "ils": "Ils bougeront les chaises après le spectacle."
+    },
+    "Conditionnel Présent": {
+      "je": "Je bougerais plus avec un vélo.",
+      "tu": "Tu bougerais ta voiture, s'il te plaît ?",
+      "il": "Il bougerait plus avec un chien.",
+      "nous": "Nous bougerions plus avec un parc près de chez nous.",
+      "vous": "Vous bougeriez votre sac ?",
+      "ils": "Ils bougeraient plus sans écrans."
+    },
+    "Subjonctif": {
+      "je": "Le médecin veut que je bouge plus.",
+      "tu": "Il faut que tu bouges ta voiture.",
+      "il": "J'aimerais qu'il bouge un peu plus.",
+      "nous": "Il faut que nous bougions ces cartons.",
+      "vous": "Je préfère que vous bougiez la table.",
+      "ils": "Il faut qu'ils bougent un peu après le repas."
+    },
+    "Passé Simple": {
+      "je": "Je bougeai lentement pour ne pas le réveiller.",
+      "tu": "Tu bougeas la pierre de l'entrée.",
+      "il": "Il bougea à peine.",
+      "nous": "Nous bougeâmes le rocher à quatre.",
+      "vous": "Vous bougeâtes vos troupes vers le nord.",
+      "ils": "Ils bougèrent les meubles de la grande salle."
+    },
+    "Passé Composé": {
+      "je": "J'ai bougé le canapé pour passer l'aspirateur.",
+      "tu": "Tu as bougé mes clés ?",
+      "il": "Il a bougé pendant la radio.",
+      "nous": "Nous avons bougé toute la journée.",
+      "vous": "Vous avez bougé la voiture ?",
+      "ils": "Ils ont bougé les tables pour danser."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais bougé la lampe pour mieux lire.",
+      "tu": "Tu avais bougé ma tasse ?",
+      "il": "Il avait bougé pendant la photo.",
+      "nous": "Nous avions bougé les meubles avant la fête.",
+      "vous": "Vous aviez bougé le vase ?",
+      "ils": "Ils avaient bougé la voiture avant la neige."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai bougé tous les meubles avant ton retour.",
+      "tu": "Tu auras bougé la voiture avant le passage de la balayeuse.",
+      "il": "Il aura bougé toute la nuit.",
+      "nous": "Nous aurons bougé tous les cartons.",
+      "vous": "Vous aurez bougé beaucoup aujourd'hui.",
+      "ils": "Ils auront bougé les tables."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais bougé la voiture avec les clés.",
+      "tu": "Tu aurais bougé ce meuble sans aide ?",
+      "il": "Il aurait bougé plus sans sa blessure.",
+      "nous": "Nous aurions bougé les chaises avant la réunion.",
+      "vous": "Vous auriez bougé la table ?",
+      "ils": "Ils auraient bougé le piano avec plus de monde."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon voisin est content que j'aie bougé ma voiture.",
+      "tu": "C'est bien que tu aies bougé un peu aujourd'hui.",
+      "il": "Je doute qu'il ait bougé de son canapé.",
+      "nous": "Bien que nous ayons bougé les meubles, la pièce semble petite.",
+      "vous": "Je suis content que vous ayez bougé la table.",
+      "ils": "Il est possible qu'ils aient bougé le panneau."
+    },
+    "Futur Proche": {
+      "je": "Je vais bouger ma voiture.",
+      "tu": "Tu vas bouger un peu ?",
+      "il": "Il va bouger le canapé.",
+      "nous": "Nous allons bouger ce week-end.",
+      "vous": "Vous allez bouger les chaises ?",
+      "ils": "Ils vont bouger la table."
+    },
+    "Impératif": {
+      "tu": "Bouge ta voiture, s'il te plaît.",
+      "nous": "Bougeons un peu, il fait froid !",
+      "vous": "Bougez au rythme de la musique."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "cacher",
+  "tenses": {
+    "Présent": {
+      "je": "Je cache les cadeaux dans l'armoire.",
+      "tu": "Tu caches quelque chose dans ton sac ?",
+      "il": "Il cache ses bonbons sous le lit.",
+      "nous": "Nous cachons la clé sous le pot de fleurs.",
+      "vous": "Vous cachez la vérité à vos parents ?",
+      "ils": "Ils cachent les œufs de Pâques dans le jardin."
+    },
+    "Imparfait": {
+      "je": "Je cachais mon journal intime sous le matelas.",
+      "tu": "Tu cachais tes notes à tes parents.",
+      "il": "Il cachait son argent dans une boîte en fer.",
+      "nous": "Nous cachions les biscuits en haut du placard.",
+      "vous": "Vous cachiez la télécommande ?",
+      "ils": "Ils cachaient leurs jouets dans le grenier."
+    },
+    "Futur Simple": {
+      "je": "Je cacherai la surprise dans le garage.",
+      "tu": "Tu cacheras les clés sous le paillasson.",
+      "il": "Il cachera le gâteau jusqu'au dessert.",
+      "nous": "Nous cacherons les cadeaux chez la voisine.",
+      "vous": "Vous cacherez les œufs dans le jardin.",
+      "ils": "Ils cacheront le trésor sur l'île."
+    },
+    "Conditionnel Présent": {
+      "je": "Je cacherais l'argent dans un endroit plus sûr.",
+      "tu": "Tu cacherais ça à ta mère ?",
+      "il": "Il cacherait la vérité pour protéger sa sœur.",
+      "nous": "Nous cacherions les bijoux dans le coffre.",
+      "vous": "Vous cacheriez les cadeaux où ?",
+      "ils": "Ils cacheraient la lettre sans hésiter."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je cache le cadeau avant son arrivée.",
+      "tu": "Je ne veux pas que tu caches tes problèmes.",
+      "il": "Il est possible qu'il cache quelque chose.",
+      "nous": "Il faut que nous cachions les bonbons.",
+      "vous": "Je préfère que vous cachiez les clés.",
+      "ils": "Il faut qu'ils cachent les œufs avant le réveil des enfants."
+    },
+    "Passé Simple": {
+      "je": "Je cachai la lettre dans mon manteau.",
+      "tu": "Tu cachas l'épée sous la paille.",
+      "il": "Il cacha le trésor dans une grotte.",
+      "nous": "Nous cachâmes les réfugiés dans la cave.",
+      "vous": "Vous cachâtes la vérité au roi.",
+      "ils": "Ils cachèrent l'or dans la forêt."
+    },
+    "Passé Composé": {
+      "je": "J'ai caché les cadeaux dans le placard.",
+      "tu": "Tu as caché mes clés ?",
+      "il": "Il a caché la télécommande sous le coussin.",
+      "nous": "Nous avons caché les œufs dans le jardin.",
+      "vous": "Vous avez caché la vérité à tout le monde.",
+      "ils": "Ils ont caché le chat dans la salle de bains."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais caché la clé sous le tapis.",
+      "tu": "Tu avais caché les chocolats où ?",
+      "il": "Il avait caché une lettre dans le livre.",
+      "nous": "Nous avions caché les cadeaux au grenier.",
+      "vous": "Vous aviez caché ce secret pendant des années.",
+      "ils": "Ils avaient caché le vélo derrière la maison."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai caché les cadeaux avant Noël.",
+      "tu": "Tu auras caché la surprise à temps.",
+      "il": "Il aura caché ses bonbons quelque part.",
+      "nous": "Nous aurons caché tous les œufs avant midi.",
+      "vous": "Vous aurez caché les clés avant de partir.",
+      "ils": "Ils auront caché le trésor avant l'aube."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais caché le gâteau dans le four.",
+      "tu": "Tu aurais caché la vérité ?",
+      "il": "Il aurait caché la lettre avec plus de temps.",
+      "nous": "Nous aurions caché les cadeaux plus haut.",
+      "vous": "Vous auriez caché l'argent dans la banque ?",
+      "ils": "Ils auraient caché le chien chez la voisine."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est fâchée que j'aie caché ses chaussures.",
+      "tu": "Je suis triste que tu aies caché tes soucis.",
+      "il": "Il est possible qu'il ait caché la clé dans le jardin.",
+      "nous": "Bien que nous ayons caché les cadeaux, les enfants les ont trouvés.",
+      "vous": "Je suis déçu que vous ayez caché la vérité.",
+      "ils": "C'est drôle qu'ils aient caché le chat dans le panier."
+    },
+    "Futur Proche": {
+      "je": "Je vais cacher les cadeaux.",
+      "tu": "Tu vas cacher les œufs ?",
+      "il": "Il va cacher la clé sous le pot.",
+      "nous": "Nous allons cacher le gâteau dans le frigo.",
+      "vous": "Vous allez cacher la surprise où ?",
+      "ils": "Ils vont cacher le trésor."
+    },
+    "Impératif": {
+      "tu": "Cache les cadeaux avant son arrivée !",
+      "nous": "Cachons les œufs dans le jardin.",
+      "vous": "Cachez vos bonbons, les enfants arrivent."
+    }
+  }
+}

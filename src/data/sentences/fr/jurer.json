@@ -1,0 +1,106 @@
+{
+  "verb": "jurer",
+  "tenses": {
+    "Présent": {
+      "je": "Je jure que c'est vrai.",
+      "tu": "Tu jures de dire la vérité ?",
+      "il": "Il jure fidélité à son pays.",
+      "nous": "Nous jurons de garder le secret.",
+      "vous": "Vous jurez de ne rien dire ?",
+      "ils": "Ils jurent de dire la vérité."
+    },
+    "Imparfait": {
+      "je": "Je jurais toujours de faire mieux.",
+      "tu": "Tu jurais comme un charretier.",
+      "il": "Il jurait de revenir un jour.",
+      "nous": "Nous jurions d'être amis pour la vie.",
+      "vous": "Vous juriez de dire la vérité.",
+      "ils": "Ils juraient de changer."
+    },
+    "Futur Simple": {
+      "je": "Je jurerai devant le juge.",
+      "tu": "Tu jureras de garder le secret.",
+      "il": "Il jurera fidélité au roi.",
+      "nous": "Nous jurerons de nous revoir.",
+      "vous": "Vous jurerez sur la Bible ?",
+      "ils": "Ils jureront de rester amis."
+    },
+    "Conditionnel Présent": {
+      "je": "Je jurerais que c'était lui.",
+      "tu": "Tu jurerais de dire la vérité ?",
+      "il": "Il jurerait n'importe quoi pour sortir.",
+      "nous": "Nous jurerions de garder le secret.",
+      "vous": "Vous jureriez que c'est vrai ?",
+      "ils": "Ils jureraient sur la tête de leur mère."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je jure de garder le secret.",
+      "tu": "Je veux que tu jures de dire la vérité.",
+      "il": "Il faut qu'il jure devant le juge.",
+      "nous": "Il faut que nous jurions de nous revoir.",
+      "vous": "J'aimerais que vous juriez de ne rien dire.",
+      "ils": "Il faut qu'ils jurent fidélité."
+    },
+    "Passé Simple": {
+      "je": "Je jurai de venger mon père.",
+      "tu": "Tu juras fidélité à la reine.",
+      "il": "Il jura de revenir.",
+      "nous": "Nous jurâmes de garder le secret.",
+      "vous": "Vous jurâtes sur votre honneur.",
+      "ils": "Ils jurèrent de défendre le royaume."
+    },
+    "Passé Composé": {
+      "je": "J'ai juré de garder le secret.",
+      "tu": "Tu as juré !",
+      "il": "Il a juré de dire la vérité.",
+      "nous": "Nous avons juré de rester amis.",
+      "vous": "Vous avez juré de venir.",
+      "ils": "Ils ont juré fidélité."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais juré de ne plus fumer.",
+      "tu": "Tu avais juré de m'aider.",
+      "il": "Il avait juré de changer.",
+      "nous": "Nous avions juré de revenir.",
+      "vous": "Vous aviez juré de tout dire.",
+      "ils": "Ils avaient juré de se revoir."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai juré pour rien.",
+      "tu": "Tu auras juré trop vite.",
+      "il": "Il aura juré de ne plus recommencer.",
+      "nous": "Nous aurons juré de garder le silence.",
+      "vous": "Vous aurez juré devant témoins.",
+      "ils": "Ils auront juré fidélité."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais juré que c'était toi.",
+      "tu": "Tu aurais juré que c'était vrai.",
+      "il": "Il aurait juré n'importe quoi.",
+      "nous": "Nous aurions juré de garder le secret.",
+      "vous": "Vous auriez juré que c'était lundi ?",
+      "ils": "Ils auraient juré de rester."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont contents que j'aie juré de garder le secret.",
+      "tu": "C'est sérieux que tu aies juré.",
+      "il": "Je doute qu'il ait juré de dire la vérité.",
+      "nous": "Bien que nous ayons juré de garder le secret, tout le monde le sait.",
+      "vous": "Je suis surpris que vous ayez juré si vite.",
+      "ils": "Il est possible qu'ils aient juré de se venger."
+    },
+    "Futur Proche": {
+      "je": "Je vais jurer de garder le secret.",
+      "tu": "Tu vas jurer ?",
+      "il": "Il va jurer devant le juge.",
+      "nous": "Nous allons jurer de rester amis.",
+      "vous": "Vous allez jurer de dire la vérité ?",
+      "ils": "Ils vont jurer fidélité."
+    },
+    "Impératif": {
+      "tu": "Jure-moi que c'est vrai.",
+      "nous": "Jurons de garder le secret.",
+      "vous": "Jurez de dire toute la vérité."
+    }
+  }
+}

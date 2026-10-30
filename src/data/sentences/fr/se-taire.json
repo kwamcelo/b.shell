@@ -1,0 +1,106 @@
+{
+  "verb": "se taire",
+  "tenses": {
+    "Présent": {
+      "je": "Je me tais pendant les réunions.",
+      "tu": "Tu te tais enfin !",
+      "il": "Il se tait pendant la réunion.",
+      "nous": "Nous nous taisons pendant le film.",
+      "vous": "Vous vous taisez, s'il vous plaît ?",
+      "ils": "Ils se taisent quand le professeur entre."
+    },
+    "Imparfait": {
+      "je": "Je me taisais pendant les repas.",
+      "tu": "Tu te taisais toujours devant ton père.",
+      "il": "Il se taisait pour écouter la pluie.",
+      "nous": "Nous nous taisions pendant le concert.",
+      "vous": "Vous vous taisiez à l'église ?",
+      "ils": "Ils se taisaient à l'arrivée du directeur."
+    },
+    "Futur Simple": {
+      "je": "Je me tairai pendant la cérémonie.",
+      "tu": "Tu te tairas pendant le spectacle.",
+      "il": "Il se taira devant le juge.",
+      "nous": "Nous nous tairons pour écouter.",
+      "vous": "Vous vous tairez pendant l'examen.",
+      "ils": "Ils se tairont à la fin du discours."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me tairais à ta place.",
+      "tu": "Tu te tairais deux minutes ?",
+      "il": "Il se tairait plus souvent avec un peu de sagesse.",
+      "nous": "Nous nous tairions pour mieux entendre.",
+      "vous": "Vous vous tairiez, s'il vous plaît ?",
+      "ils": "Ils se tairaient devant le directeur."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je me taise ?",
+      "tu": "Il faut que tu te taises.",
+      "il": "Il est temps qu'il se taise.",
+      "nous": "Il faut que nous nous taisions pendant le film.",
+      "vous": "Je voudrais que vous vous taisiez.",
+      "ils": "Il faut qu'ils se taisent."
+    },
+    "Passé Simple": {
+      "je": "Je me tus et j'écoutai.",
+      "tu": "Tu te tus devant le roi.",
+      "il": "Il se tut d'un coup.",
+      "nous": "Nous nous tûmes pour entendre la musique.",
+      "vous": "Vous vous tûtes par prudence.",
+      "ils": "Ils se turent à l'entrée de la reine."
+    },
+    "Passé Composé": {
+      "je": "Je me suis tu pour ne pas le vexer.",
+      "tu": "Tu t'es tu pendant toute la réunion.",
+      "il": "Il s'est tu brusquement.",
+      "nous": "Nous nous sommes tus pendant le discours.",
+      "vous": "Vous vous êtes tus au bon moment.",
+      "ils": "Ils se sont tus à l'arrivée du prof."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais tu pour éviter une dispute.",
+      "tu": "Tu t'étais tu par timidité.",
+      "il": "Il s'était tu pendant tout le repas.",
+      "nous": "Nous nous étions tus pour écouter.",
+      "vous": "Vous vous étiez tus par respect.",
+      "ils": "Ils s'étaient tus devant la police."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai tu pour rien.",
+      "tu": "Tu te seras tu toute la soirée.",
+      "il": "Il se sera tu par prudence.",
+      "nous": "Nous nous serons tus au bon moment.",
+      "vous": "Vous vous serez tus par politesse.",
+      "ils": "Ils se seront tus devant le juge."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais tu à ta place.",
+      "tu": "Tu te serais tu ?",
+      "il": "Il se serait tu avec un peu de bon sens.",
+      "nous": "Nous nous serions tus pour éviter le conflit.",
+      "vous": "Vous vous seriez tus ?",
+      "ils": "Ils se seraient tus par peur."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon père est surpris que je me sois tu.",
+      "tu": "C'est sage que tu te sois tu.",
+      "il": "Il est possible qu'il se soit tu par timidité.",
+      "nous": "Bien que nous nous soyons tus, le bébé s'est réveillé.",
+      "vous": "C'est dommage que vous vous soyez tus.",
+      "ils": "Je comprends qu'ils se soient tus."
+    },
+    "Futur Proche": {
+      "je": "Je vais me taire.",
+      "tu": "Tu vas te taire ?",
+      "il": "Il va se taire bientôt.",
+      "nous": "Nous allons nous taire pendant le film.",
+      "vous": "Vous allez vous taire ?",
+      "ils": "Ils vont se taire."
+    },
+    "Impératif": {
+      "tu": "Tais-toi, j'écoute la radio !",
+      "nous": "Taisons-nous, le film commence.",
+      "vous": "Taisez-vous, s'il vous plaît."
+    }
+  }
+}

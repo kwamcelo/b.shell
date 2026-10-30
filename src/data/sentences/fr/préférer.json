@@ -1,0 +1,106 @@
+{
+  "verb": "préférer",
+  "tenses": {
+    "Présent": {
+      "je": "Je préfère le thé au café.",
+      "tu": "Tu préfères la mer ou la montagne ?",
+      "il": "Il préfère rester à la maison.",
+      "nous": "Nous préférons partir tôt.",
+      "vous": "Vous préférez une table en terrasse ?",
+      "ils": "Ils préfèrent les films d'action."
+    },
+    "Imparfait": {
+      "je": "Je préférais l'été quand j'étais petit.",
+      "tu": "Tu préférais les dessins animés.",
+      "il": "Il préférait lire plutôt que jouer.",
+      "nous": "Nous préférions la plage.",
+      "vous": "Vous préfériez le train à l'avion ?",
+      "ils": "Ils préféraient la campagne."
+    },
+    "Futur Simple": {
+      "je": "Je préférerai toujours la mer.",
+      "tu": "Tu préféreras ce restaurant, tu verras.",
+      "il": "Il préférera rester ici.",
+      "nous": "Nous préférerons le train.",
+      "vous": "Vous préférerez la chambre avec vue.",
+      "ils": "Ils préféreront la version originale."
+    },
+    "Conditionnel Présent": {
+      "je": "Je préférerais rester ici.",
+      "tu": "Tu préférerais partir demain ?",
+      "il": "Il préférerait un thé.",
+      "nous": "Nous préférerions une table près de la fenêtre.",
+      "vous": "Vous préféreriez venir samedi ?",
+      "ils": "Ils préféreraient dormir à l'hôtel."
+    },
+    "Subjonctif": {
+      "je": "Mon ami doute que je préfère cette version.",
+      "tu": "Je doute que tu préfères ce film.",
+      "il": "Il est possible qu'il préfère le train.",
+      "nous": "Bien que nous préférions la mer, nous partons à la montagne.",
+      "vous": "Je comprends que vous préfériez rester.",
+      "ils": "Il est normal qu'ils préfèrent leur maison."
+    },
+    "Passé Simple": {
+      "je": "Je préférai la mort au déshonneur.",
+      "tu": "Tu préféras l'exil à la prison.",
+      "il": "Il préféra la fuite au combat.",
+      "nous": "Nous préférâmes le silence.",
+      "vous": "Vous préférâtes la paix.",
+      "ils": "Ils préférèrent la liberté."
+    },
+    "Passé Composé": {
+      "je": "J'ai préféré le premier film.",
+      "tu": "Tu as préféré quel plat ?",
+      "il": "Il a préféré rester à la maison.",
+      "nous": "Nous avons préféré prendre le train.",
+      "vous": "Vous avez préféré quelle ville ?",
+      "ils": "Ils ont préféré partir tôt."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais préféré attendre.",
+      "tu": "Tu avais préféré le rouge.",
+      "il": "Il avait préféré se taire.",
+      "nous": "Nous avions préféré dîner à la maison.",
+      "vous": "Vous aviez préféré la version courte ?",
+      "ils": "Ils avaient préféré rester."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai préféré la mer, finalement.",
+      "tu": "Tu auras préféré la ville à la campagne.",
+      "il": "Il aura préféré rester discret.",
+      "nous": "Nous aurons préféré la tranquillité.",
+      "vous": "Vous aurez préféré la première option.",
+      "ils": "Ils auront préféré attendre."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais préféré rester à la maison.",
+      "tu": "Tu aurais préféré quel cadeau ?",
+      "il": "Il aurait préféré un autre prénom.",
+      "nous": "Nous aurions préféré le savoir avant.",
+      "vous": "Vous auriez préféré venir en voiture ?",
+      "ils": "Ils auraient préféré partir plus tôt."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est surprise que j'aie préféré le train.",
+      "tu": "Je comprends que tu aies préféré rester.",
+      "il": "Il est possible qu'il ait préféré attendre.",
+      "nous": "Bien que nous ayons préféré la mer, la montagne était magnifique.",
+      "vous": "C'est dommage que vous ayez préféré partir.",
+      "ils": "Je doute qu'ils aient préféré ce film."
+    },
+    "Futur Proche": {
+      "je": "Je vais préférer cette option.",
+      "tu": "Tu vas préférer le dessert au chocolat.",
+      "il": "Il va préférer rester ici.",
+      "nous": "Nous allons préférer le train.",
+      "vous": "Vous allez préférer cette chambre.",
+      "ils": "Ils vont préférer le grand jardin."
+    },
+    "Impératif": {
+      "tu": "Préfère l'eau au soda.",
+      "nous": "Préférons la qualité à la quantité.",
+      "vous": "Préférez le vélo pour les petits trajets."
+    }
+  }
+}

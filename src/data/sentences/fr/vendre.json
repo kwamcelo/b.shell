@@ -1,0 +1,106 @@
+{
+  "verb": "vendre",
+  "tenses": {
+    "Présent": {
+      "je": "Je vends mon vieux vélo.",
+      "tu": "Tu vends ta voiture ?",
+      "il": "Il vend des fruits au marché.",
+      "nous": "Nous vendons notre maison.",
+      "vous": "Vous vendez des timbres ?",
+      "ils": "Ils vendent des glaces sur la plage."
+    },
+    "Imparfait": {
+      "je": "Je vendais des journaux le dimanche matin.",
+      "tu": "Tu vendais des bracelets à l'école.",
+      "il": "Il vendait des légumes sur le marché.",
+      "nous": "Nous vendions des gâteaux pour l'association.",
+      "vous": "Vous vendiez des vêtements à l'époque ?",
+      "ils": "Ils vendaient du miel de leur ferme."
+    },
+    "Futur Simple": {
+      "je": "Je vendrai mes vieux livres au vide-grenier.",
+      "tu": "Tu vendras ta guitare ?",
+      "il": "Il vendra son appartement cet été.",
+      "nous": "Nous vendrons des crêpes à la kermesse.",
+      "vous": "Vous vendrez vos billets à l'entrée.",
+      "ils": "Ils vendront leur entreprise."
+    },
+    "Conditionnel Présent": {
+      "je": "Je vendrais cette voiture pour un bon prix.",
+      "tu": "Tu vendrais ta maison ?",
+      "il": "Il vendrait sa collection de timbres pour un voyage.",
+      "nous": "Nous vendrions plus avec un site internet.",
+      "vous": "Vous vendriez ce tableau ?",
+      "ils": "Ils vendraient plus avec une meilleure publicité."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je vende ma voiture.",
+      "tu": "Je ne veux pas que tu vendes ce piano.",
+      "il": "Il est possible qu'il vende son entreprise.",
+      "nous": "Il faut que nous vendions avant l'hiver.",
+      "vous": "J'aimerais que vous vendiez ces billets.",
+      "ils": "Il faut qu'ils vendent tous les gâteaux."
+    },
+    "Passé Simple": {
+      "je": "Je vendis mon cheval pour payer le voyage.",
+      "tu": "Tu vendis tes bijoux au marchand.",
+      "il": "Il vendit le domaine de ses ancêtres.",
+      "nous": "Nous vendîmes nos récoltes au village.",
+      "vous": "Vous vendîtes le secret à l'ennemi.",
+      "ils": "Ils vendirent tout et partirent en Amérique."
+    },
+    "Passé Composé": {
+      "je": "J'ai vendu mon ancien téléphone.",
+      "tu": "Tu as vendu ta voiture ?",
+      "il": "Il a vendu sa maison très cher.",
+      "nous": "Nous avons vendu tous les billets.",
+      "vous": "Vous avez vendu votre appartement ?",
+      "ils": "Ils ont vendu leur restaurant."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais vendu ma moto avant de déménager.",
+      "tu": "Tu avais vendu tous tes livres ?",
+      "il": "Il avait vendu sa collection de disques.",
+      "nous": "Nous avions vendu la maison de campagne.",
+      "vous": "Vous aviez vendu ce tableau ?",
+      "ils": "Ils avaient vendu tous leurs meubles."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai vendu mon appartement avant l'été.",
+      "tu": "Tu auras vendu ta voiture d'ici là.",
+      "il": "Il aura vendu mille livres cette année.",
+      "nous": "Nous aurons vendu tous les gâteaux.",
+      "vous": "Vous aurez vendu tous les billets.",
+      "ils": "Ils auront vendu leur entreprise."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais vendu la maison pour un meilleur prix.",
+      "tu": "Tu aurais vendu ce tableau ?",
+      "il": "Il aurait vendu sa voiture sans cette panne.",
+      "nous": "Nous aurions vendu plus avec un meilleur emplacement.",
+      "vous": "Vous auriez vendu à ce prix-là ?",
+      "ils": "Ils auraient vendu leur maison sans la crise."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère est triste que j'aie vendu notre vieille voiture.",
+      "tu": "C'est dommage que tu aies vendu ta guitare.",
+      "il": "Je doute qu'il ait vendu sa maison.",
+      "nous": "Bien que nous ayons vendu tous les billets, la salle est à moitié vide.",
+      "vous": "Je suis content que vous ayez vendu votre appartement.",
+      "ils": "C'est triste qu'ils aient vendu la ferme."
+    },
+    "Futur Proche": {
+      "je": "Je vais vendre mon vélo.",
+      "tu": "Tu vas vendre ta maison ?",
+      "il": "Il va vendre sa voiture.",
+      "nous": "Nous allons vendre des gâteaux.",
+      "vous": "Vous allez vendre vos meubles ?",
+      "ils": "Ils vont vendre leur appartement."
+    },
+    "Impératif": {
+      "tu": "Vends ce vieux canapé, il prend de la place.",
+      "nous": "Vendons la voiture et achetons des vélos.",
+      "vous": "Vendez vos billets à l'entrée."
+    }
+  }
+}

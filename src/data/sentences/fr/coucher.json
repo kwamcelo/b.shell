@@ -1,0 +1,106 @@
+{
+  "verb": "coucher",
+  "tenses": {
+    "Présent": {
+      "je": "Je couche les enfants à huit heures.",
+      "tu": "Tu couches le bébé ?",
+      "il": "Il couche sa fille tous les soirs.",
+      "nous": "Nous couchons chez des amis ce soir.",
+      "vous": "Vous couchez à l'hôtel ?",
+      "ils": "Ils couchent sous la tente."
+    },
+    "Imparfait": {
+      "je": "Je couchais mon petit frère le soir.",
+      "tu": "Tu couchais à la belle étoile.",
+      "il": "Il couchait le bébé après le bain.",
+      "nous": "Nous couchions chez nos grands-parents.",
+      "vous": "Vous couchiez dans le grenier ?",
+      "ils": "Ils couchaient dans une petite chambre."
+    },
+    "Futur Simple": {
+      "je": "Je coucherai les enfants après le dessert.",
+      "tu": "Tu coucheras chez ta tante.",
+      "il": "Il couchera le bébé.",
+      "nous": "Nous coucherons à l'hôtel.",
+      "vous": "Vous coucherez dans la chambre d'amis.",
+      "ils": "Ils coucheront sous la tente."
+    },
+    "Conditionnel Présent": {
+      "je": "Je coucherais les enfants plus tôt.",
+      "tu": "Tu coucherais le bébé, s'il te plaît ?",
+      "il": "Il coucherait dehors sans tente.",
+      "nous": "Nous coucherions chez toi avec plaisir.",
+      "vous": "Vous coucheriez dans la voiture ?",
+      "ils": "Ils coucheraient à la belle étoile."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je couche les enfants.",
+      "tu": "Je veux que tu couches le bébé.",
+      "il": "Il faut qu'il couche sa fille.",
+      "nous": "Il faut que nous couchions à l'hôtel.",
+      "vous": "J'aimerais que vous couchiez chez nous.",
+      "ils": "Il faut qu'ils couchent les petits."
+    },
+    "Passé Simple": {
+      "je": "Je couchai dans une grange.",
+      "tu": "Tu couchas sur la paille.",
+      "il": "Il coucha l'enfant dans le berceau.",
+      "nous": "Nous couchâmes à la belle étoile.",
+      "vous": "Vous couchâtes dans une auberge.",
+      "ils": "Ils couchèrent dans la forêt."
+    },
+    "Passé Composé": {
+      "je": "J'ai couché les enfants.",
+      "tu": "Tu as couché le bébé ?",
+      "il": "Il a couché le chat dans son panier.",
+      "nous": "Nous avons couché chez des amis.",
+      "vous": "Vous avez couché à l'hôtel ?",
+      "ils": "Ils ont couché sous la tente."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais couché les enfants avant ton arrivée.",
+      "tu": "Tu avais couché le bébé ?",
+      "il": "Il avait couché sa fille très tard.",
+      "nous": "Nous avions couché dans un vieux château.",
+      "vous": "Vous aviez couché dans la voiture ?",
+      "ils": "Ils avaient couché dans la forêt."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai couché les enfants avant neuf heures.",
+      "tu": "Tu auras couché le bébé.",
+      "il": "Il aura couché les petits.",
+      "nous": "Nous aurons couché chez nos cousins.",
+      "vous": "Vous aurez couché dans un hôtel de luxe.",
+      "ils": "Ils auront couché à la belle étoile."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais couché les enfants plus tôt.",
+      "tu": "Tu aurais couché dehors ?",
+      "il": "Il aurait couché dans la voiture sans cet hôtel.",
+      "nous": "Nous aurions couché chez toi.",
+      "vous": "Vous auriez couché sous la tente ?",
+      "ils": "Ils auraient couché à la gare."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma femme est contente que j'aie couché les enfants.",
+      "tu": "C'est gentil que tu aies couché le bébé.",
+      "il": "Je doute qu'il ait couché les petits.",
+      "nous": "Bien que nous ayons couché à l'hôtel, nous sommes fatigués.",
+      "vous": "C'est drôle que vous ayez couché dans une cabane.",
+      "ils": "Il est possible qu'ils aient couché dehors."
+    },
+    "Futur Proche": {
+      "je": "Je vais coucher les enfants.",
+      "tu": "Tu vas coucher le bébé ?",
+      "il": "Il va coucher sa fille.",
+      "nous": "Nous allons coucher à l'hôtel.",
+      "vous": "Vous allez coucher chez nous ?",
+      "ils": "Ils vont coucher sous la tente."
+    },
+    "Impératif": {
+      "tu": "Couche le bébé, il est fatigué.",
+      "nous": "Couchons les enfants.",
+      "vous": "Couchez les petits avant le film."
+    }
+  }
+}

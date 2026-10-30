@@ -1,0 +1,106 @@
+{
+  "verb": "casser",
+  "tenses": {
+    "Présent": {
+      "je": "Je casse les œufs dans le bol.",
+      "tu": "Tu casses tout !",
+      "il": "Il casse des noix pour le gâteau.",
+      "nous": "Nous cassons le bois pour la cheminée.",
+      "vous": "Vous cassez la tablette de chocolat en deux ?",
+      "ils": "Ils cassent souvent leurs jouets."
+    },
+    "Imparfait": {
+      "je": "Je cassais toujours mes lunettes.",
+      "tu": "Tu cassais des assiettes en faisant la vaisselle.",
+      "il": "Il cassait des noix avec un marteau.",
+      "nous": "Nous cassions la glace sur le lac.",
+      "vous": "Vous cassiez souvent vos crayons ?",
+      "ils": "Ils cassaient tout dans la maison."
+    },
+    "Futur Simple": {
+      "je": "Je casserai les œufs pour l'omelette.",
+      "tu": "Tu casseras ce vase, fais attention.",
+      "il": "Il cassera le record.",
+      "nous": "Nous casserons le mur pour agrandir la cuisine.",
+      "vous": "Vous casserez la tirelire ?",
+      "ils": "Ils casseront la routine avec un voyage."
+    },
+    "Conditionnel Présent": {
+      "je": "Je casserais bien la tirelire pour ce vélo.",
+      "tu": "Tu casserais cette noix pour moi ?",
+      "il": "Il casserait tout sans faire attention.",
+      "nous": "Nous casserions le mur avec la permission du propriétaire.",
+      "vous": "Vous casseriez les œufs, s'il vous plaît ?",
+      "ils": "Ils casseraient les prix pour attirer des clients."
+    },
+    "Subjonctif": {
+      "je": "Ma mère a peur que je casse ses verres.",
+      "tu": "Je ne veux pas que tu casses ce verre.",
+      "il": "J'ai peur qu'il casse le vase.",
+      "nous": "Il faut que nous cassions la glace.",
+      "vous": "Je ne veux pas que vous cassiez la porte.",
+      "ils": "Il faut qu'ils cassent les œufs avant la farine."
+    },
+    "Passé Simple": {
+      "je": "Je cassai mon épée sur le bouclier.",
+      "tu": "Tu cassas le sceau de la lettre.",
+      "il": "Il cassa la porte d'un coup d'épaule.",
+      "nous": "Nous cassâmes la glace pour pêcher.",
+      "vous": "Vous cassâtes le contrat.",
+      "ils": "Ils cassèrent les fenêtres du château."
+    },
+    "Passé Composé": {
+      "je": "J'ai cassé mes lunettes.",
+      "tu": "Tu as cassé le vase ?",
+      "il": "Il a cassé la télécommande.",
+      "nous": "Nous avons cassé une assiette.",
+      "vous": "Vous avez cassé la fenêtre ?",
+      "ils": "Ils ont cassé leur tirelire."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais cassé mon téléphone la veille.",
+      "tu": "Tu avais cassé ta raquette.",
+      "il": "Il avait cassé la chaise.",
+      "nous": "Nous avions cassé la vitre avec le ballon.",
+      "vous": "Vous aviez cassé le jouet ?",
+      "ils": "Ils avaient cassé le record."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai cassé trois verres ce soir.",
+      "tu": "Tu auras cassé tous les œufs.",
+      "il": "Il aura cassé son jouet avant la fin de la journée.",
+      "nous": "Nous aurons cassé la glace.",
+      "vous": "Vous aurez cassé la tirelire.",
+      "ils": "Ils auront cassé la machine."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais cassé le vase sans ton aide.",
+      "tu": "Tu aurais cassé la fenêtre ?",
+      "il": "Il aurait cassé la vitre avec ce ballon.",
+      "nous": "Nous aurions cassé le mur.",
+      "vous": "Vous auriez cassé la porte ?",
+      "ils": "Ils auraient cassé le jouet."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est fâchée que j'aie cassé son vase.",
+      "tu": "C'est dommage que tu aies cassé ton téléphone.",
+      "il": "Je doute qu'il ait cassé la fenêtre.",
+      "nous": "Bien que nous ayons cassé une assiette, le repas était réussi.",
+      "vous": "Je suis surpris que vous ayez cassé le record.",
+      "ils": "Il est possible qu'ils aient cassé la machine."
+    },
+    "Futur Proche": {
+      "je": "Je vais casser les œufs.",
+      "tu": "Tu vas casser ce verre !",
+      "il": "Il va casser la branche.",
+      "nous": "Nous allons casser la tirelire.",
+      "vous": "Vous allez casser la chaise.",
+      "ils": "Ils vont casser le jouet."
+    },
+    "Impératif": {
+      "tu": "Casse les œufs dans le bol.",
+      "nous": "Cassons la croûte.",
+      "vous": "Cassez la glace avec un petit jeu."
+    }
+  }
+}

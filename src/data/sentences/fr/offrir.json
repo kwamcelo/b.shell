@@ -1,0 +1,106 @@
+{
+  "verb": "offrir",
+  "tenses": {
+    "Présent": {
+      "je": "J'offre un café à tout le monde.",
+      "tu": "Tu offres quoi à ta mère pour son anniversaire ?",
+      "il": "Il offre des fleurs à sa femme.",
+      "nous": "Nous offrons la livraison gratuite.",
+      "vous": "Vous offrez le dessert ?",
+      "ils": "Ils offrent un cadeau à leur professeur."
+    },
+    "Imparfait": {
+      "je": "J'offrais toujours des livres à Noël.",
+      "tu": "Tu offrais des bonbons aux enfants.",
+      "il": "Il offrait son aide à tout le monde.",
+      "nous": "Nous offrions un repas aux voisins chaque été.",
+      "vous": "Vous offriez des cours gratuits ?",
+      "ils": "Ils offraient du thé aux visiteurs."
+    },
+    "Futur Simple": {
+      "je": "J'offrirai un vélo à mon fils.",
+      "tu": "Tu offriras ce livre à ton père ?",
+      "il": "Il offrira une bague à sa fiancée.",
+      "nous": "Nous offrirons le champagne.",
+      "vous": "Vous offrirez un cadeau aux mariés ?",
+      "ils": "Ils offriront un voyage à leurs parents."
+    },
+    "Conditionnel Présent": {
+      "je": "J'offrirais un voyage à ma mère avec plus d'argent.",
+      "tu": "Tu offrirais quoi à un enfant de dix ans ?",
+      "il": "Il offrirait son aide avec plaisir.",
+      "nous": "Nous offririons volontiers un verre.",
+      "vous": "Vous offririez des fleurs ?",
+      "ils": "Ils offriraient une meilleure vie à leurs enfants."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'offre un cadeau à ma grand-mère.",
+      "tu": "J'aimerais que tu offres des fleurs à ta mère.",
+      "il": "Il faut qu'il offre quelque chose à sa sœur.",
+      "nous": "Il faut que nous offrions un cadeau aux voisins.",
+      "vous": "Je souhaite que vous offriez votre aide.",
+      "ils": "Il est possible qu'ils offrent une prime."
+    },
+    "Passé Simple": {
+      "je": "J'offris mon épée au roi.",
+      "tu": "Tu offris ton cœur à la princesse.",
+      "il": "Il offrit une rose à la reine.",
+      "nous": "Nous offrîmes l'hospitalité aux voyageurs.",
+      "vous": "Vous offrîtes la paix à vos ennemis.",
+      "ils": "Ils offrirent des présents aux dieux."
+    },
+    "Passé Composé": {
+      "je": "J'ai offert un livre à mon frère.",
+      "tu": "Tu as offert quoi à ton père ?",
+      "il": "Il a offert un collier à sa mère.",
+      "nous": "Nous avons offert un week-end à nos parents.",
+      "vous": "Vous avez offert des fleurs ?",
+      "ils": "Ils ont offert une montre à leur grand-père."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais offert ce pull à ma sœur.",
+      "tu": "Tu avais offert le même cadeau l'an dernier.",
+      "il": "Il avait offert son aide.",
+      "nous": "Nous avions offert une plante aux voisins.",
+      "vous": "Vous aviez offert le repas ?",
+      "ils": "Ils avaient offert des chocolats."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai offert tous mes cadeaux avant Noël.",
+      "tu": "Tu auras offert le plus beau cadeau.",
+      "il": "Il aura offert un voyage à sa famille.",
+      "nous": "Nous aurons offert un dîner à nos amis.",
+      "vous": "Vous aurez offert une belle fête.",
+      "ils": "Ils auront offert un vélo à leur fils."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais offert des fleurs avec plus de temps.",
+      "tu": "Tu aurais offert quoi ?",
+      "il": "Il aurait offert un plus beau cadeau.",
+      "nous": "Nous aurions offert le dessert.",
+      "vous": "Vous auriez offert un livre ?",
+      "ils": "Ils auraient offert leur aide."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est touchée que j'aie offert ces fleurs.",
+      "tu": "C'est gentil que tu aies offert le café.",
+      "il": "Je doute qu'il ait offert ce cadeau.",
+      "nous": "Bien que nous ayons offert le repas, personne n'est venu.",
+      "vous": "Je suis content que vous ayez offert votre aide.",
+      "ils": "C'est généreux qu'ils aient offert le voyage."
+    },
+    "Futur Proche": {
+      "je": "Je vais offrir un cadeau à ma sœur.",
+      "tu": "Tu vas offrir des fleurs ?",
+      "il": "Il va offrir un livre.",
+      "nous": "Nous allons offrir le dessert.",
+      "vous": "Vous allez offrir quoi ?",
+      "ils": "Ils vont offrir un voyage."
+    },
+    "Impératif": {
+      "tu": "Offre-lui un livre, elle adore lire.",
+      "nous": "Offrons un cadeau à la maîtresse.",
+      "vous": "Offrez des fleurs, c'est toujours apprécié."
+    }
+  }
+}

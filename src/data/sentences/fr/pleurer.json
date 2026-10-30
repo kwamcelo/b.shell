@@ -1,0 +1,106 @@
+{
+  "verb": "pleurer",
+  "tenses": {
+    "Présent": {
+      "je": "Je pleure à chaque fois que je regarde ce film.",
+      "tu": "Tu pleures pour rien.",
+      "il": "Il pleure en coupant des oignons.",
+      "nous": "Nous pleurons de rire.",
+      "vous": "Vous pleurez à la fin du livre ?",
+      "ils": "Ils pleurent la nuit à cause des dents."
+    },
+    "Imparfait": {
+      "je": "Je pleurais souvent à l'école.",
+      "tu": "Tu pleurais pour un bonbon.",
+      "il": "Il pleurait devant les films tristes.",
+      "nous": "Nous pleurions de joie.",
+      "vous": "Vous pleuriez pendant le mariage ?",
+      "ils": "Ils pleuraient sans arrêt dans la voiture."
+    },
+    "Futur Simple": {
+      "je": "Je pleurerai à ton mariage, c'est sûr.",
+      "tu": "Tu pleureras à la fin du film.",
+      "il": "Il pleurera de joie.",
+      "nous": "Nous pleurerons au départ de nos amis.",
+      "vous": "Vous pleurerez de rire.",
+      "ils": "Ils pleureront à l'aéroport."
+    },
+    "Conditionnel Présent": {
+      "je": "Je pleurerais devant un tel cadeau.",
+      "tu": "Tu pleurerais pour si peu ?",
+      "il": "Il pleurerait de joie à cette nouvelle.",
+      "nous": "Nous pleurerions sans ce mouchoir.",
+      "vous": "Vous pleureriez devant ce film.",
+      "ils": "Ils pleureraient sans leur doudou."
+    },
+    "Subjonctif": {
+      "je": "Ma mère a peur que je pleure au mariage.",
+      "tu": "Je ne veux pas que tu pleures.",
+      "il": "Il est normal qu'il pleure un peu.",
+      "nous": "C'est normal que nous pleurions au départ.",
+      "vous": "Je comprends que vous pleuriez.",
+      "ils": "J'ai peur qu'ils pleurent toute la nuit."
+    },
+    "Passé Simple": {
+      "je": "Je pleurai toute la nuit.",
+      "tu": "Tu pleuras sur la tombe de ton ami.",
+      "il": "Il pleura en silence.",
+      "nous": "Nous pleurâmes la mort du roi.",
+      "vous": "Vous pleurâtes de joie.",
+      "ils": "Ils pleurèrent leurs morts."
+    },
+    "Passé Composé": {
+      "je": "J'ai pleuré devant ce film.",
+      "tu": "Tu as pleuré ?",
+      "il": "Il a pleuré pendant tout le voyage.",
+      "nous": "Nous avons pleuré de rire.",
+      "vous": "Vous avez pleuré à la fin ?",
+      "ils": "Ils ont pleuré de joie."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais pleuré toute la soirée.",
+      "tu": "Tu avais pleuré pour ce garçon ?",
+      "il": "Il avait pleuré en lisant la lettre.",
+      "nous": "Nous avions pleuré de rire pendant le spectacle.",
+      "vous": "Vous aviez pleuré à l'enterrement.",
+      "ils": "Ils avaient pleuré toute la nuit."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai pleuré pour rien.",
+      "tu": "Tu auras pleuré toutes les larmes de ton corps.",
+      "il": "Il aura pleuré toute la journée.",
+      "nous": "Nous aurons pleuré de rire.",
+      "vous": "Vous aurez pleuré pour un film.",
+      "ils": "Ils auront pleuré à l'aéroport."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais pleuré à ta place.",
+      "tu": "Tu aurais pleuré devant ce spectacle.",
+      "il": "Il aurait pleuré sans son doudou.",
+      "nous": "Nous aurions pleuré de joie.",
+      "vous": "Vous auriez pleuré ?",
+      "ils": "Ils auraient pleuré toute la nuit."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur trouve drôle que j'aie pleuré devant un dessin animé.",
+      "tu": "Je suis désolé que tu aies pleuré.",
+      "il": "Il est possible qu'il ait pleuré en secret.",
+      "nous": "Bien que nous ayons pleuré, la soirée était belle.",
+      "vous": "C'est normal que vous ayez pleuré.",
+      "ils": "Je suis triste qu'ils aient pleuré à cause de moi."
+    },
+    "Futur Proche": {
+      "je": "Je vais pleurer.",
+      "tu": "Tu vas pleurer au mariage ?",
+      "il": "Il va pleurer à la fin du film.",
+      "nous": "Nous allons pleurer de rire.",
+      "vous": "Vous allez pleurer à la fin.",
+      "ils": "Ils vont pleurer au départ du train."
+    },
+    "Impératif": {
+      "tu": "Pleure si ça te fait du bien.",
+      "nous": "Pleurons ensemble, puis rions ensemble.",
+      "vous": "Pleurez, ça soulage."
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "verb": "s'inquiéter",
+  "tenses": {
+    "Présent": {
+      "je": "Je m'inquiète pour mon examen.",
+      "tu": "Tu t'inquiètes pour rien.",
+      "il": "Il s'inquiète toujours pour sa fille.",
+      "nous": "Nous nous inquiétons pour notre grand-mère.",
+      "vous": "Vous vous inquiétez trop.",
+      "ils": "Ils s'inquiètent pour leur chien malade."
+    },
+    "Imparfait": {
+      "je": "Je m'inquiétais quand tu rentrais tard.",
+      "tu": "Tu t'inquiétais pour moi ?",
+      "il": "Il s'inquiétait pour son travail.",
+      "nous": "Nous nous inquiétions pour l'avenir.",
+      "vous": "Vous vous inquiétiez pour les enfants ?",
+      "ils": "Ils s'inquiétaient pour la récolte."
+    },
+    "Futur Simple": {
+      "je": "Je m'inquiéterai si tu ne m'appelles pas.",
+      "tu": "Tu t'inquiéteras moins avec le temps.",
+      "il": "Il s'inquiétera sans nouvelles de nous.",
+      "nous": "Nous nous inquiéterons demain.",
+      "vous": "Vous vous inquiéterez pour rien.",
+      "ils": "Ils s'inquiéteront sans un message de notre part."
+    },
+    "Conditionnel Présent": {
+      "je": "Je m'inquiéterais à ta place.",
+      "tu": "Tu t'inquiéterais pour si peu ?",
+      "il": "Il s'inquiéterait sans ton message.",
+      "nous": "Nous nous inquiéterions sans nouvelles.",
+      "vous": "Vous vous inquiéteriez pour ça ?",
+      "ils": "Ils s'inquiéteraient pour nous."
+    },
+    "Subjonctif": {
+      "je": "Il est normal que je m'inquiète pour toi.",
+      "tu": "Je ne veux pas que tu t'inquiètes.",
+      "il": "Il est normal qu'il s'inquiète.",
+      "nous": "Il ne faut pas que nous nous inquiétions.",
+      "vous": "Je ne veux pas que vous vous inquiétiez.",
+      "ils": "Il est normal qu'ils s'inquiètent pour leur fils."
+    },
+    "Passé Simple": {
+      "je": "Je m'inquiétai de son silence.",
+      "tu": "Tu t'inquiétas pour ton frère.",
+      "il": "Il s'inquiéta de l'absence du messager.",
+      "nous": "Nous nous inquiétâmes de la tempête.",
+      "vous": "Vous vous inquiétâtes pour le royaume.",
+      "ils": "Ils s'inquiétèrent du retard des navires."
+    },
+    "Passé Composé": {
+      "je": "Je me suis inquiété toute la nuit.",
+      "tu": "Tu t'es inquiété pour moi ?",
+      "il": "Il s'est inquiété en voyant l'heure.",
+      "nous": "Nous nous sommes inquiétés pour rien.",
+      "vous": "Vous vous êtes inquiétés ?",
+      "ils": "Ils se sont inquiétés de notre retard."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais inquiété pour rien.",
+      "tu": "Tu t'étais inquiété sans raison.",
+      "il": "Il s'était inquiété de ne pas nous voir.",
+      "nous": "Nous nous étions inquiétés pour la météo.",
+      "vous": "Vous vous étiez inquiétés pour nous ?",
+      "ils": "Ils s'étaient inquiétés pour leur fils."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai inquiété pour rien, comme d'habitude.",
+      "tu": "Tu te seras inquiété toute la soirée.",
+      "il": "Il se sera inquiété sans raison.",
+      "nous": "Nous nous serons inquiétés pour rien.",
+      "vous": "Vous vous serez inquiétés inutilement.",
+      "ils": "Ils se seront inquiétés de notre absence."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais inquiété sans ton message.",
+      "tu": "Tu te serais inquiété à ma place ?",
+      "il": "Il se serait inquiété sans nouvelles.",
+      "nous": "Nous nous serions inquiétés sans ton appel.",
+      "vous": "Vous vous seriez inquiétés pour si peu ?",
+      "ils": "Ils se seraient inquiétés sans ce message."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont désolés que je me sois inquiété pour rien.",
+      "tu": "C'est gentil que tu te sois inquiété pour moi.",
+      "il": "Je suis désolé qu'il se soit inquiété.",
+      "nous": "Bien que nous nous soyons inquiétés, tout s'est bien passé.",
+      "vous": "Je suis désolé que vous vous soyez inquiétés.",
+      "ils": "C'est normal qu'ils se soient inquiétés."
+    },
+    "Futur Proche": {
+      "je": "Je vais m'inquiéter si tu ne rentres pas.",
+      "tu": "Tu vas t'inquiéter pour rien.",
+      "il": "Il va s'inquiéter sans nouvelles.",
+      "nous": "Nous allons nous inquiéter si le train a du retard.",
+      "vous": "Vous allez vous inquiéter ?",
+      "ils": "Ils vont s'inquiéter pour nous."
+    }
+  }
+}

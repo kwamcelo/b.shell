@@ -1,0 +1,101 @@
+{
+  "verb": "sembler",
+  "tenses": {
+    "Présent": {
+      "je": "Je semble avoir oublié mes clés.",
+      "tu": "Tu sembles connaître tout le monde ici.",
+      "il": "Il semble aimer son nouveau travail.",
+      "nous": "Nous semblons avoir le même problème.",
+      "vous": "Vous semblez avoir faim.",
+      "ils": "Ils semblent s'amuser à cette fête."
+    },
+    "Imparfait": {
+      "je": "Je semblais comprendre, mais pas du tout.",
+      "tu": "Tu semblais avoir froid hier soir.",
+      "il": "Il semblait connaître la réponse.",
+      "nous": "Nous semblions avoir tout le temps du monde.",
+      "vous": "Vous sembliez avoir besoin d'aide.",
+      "ils": "Ils semblaient s'entendre à merveille."
+    },
+    "Futur Simple": {
+      "je": "Je semblerai avoir dix ans de moins avec cette coupe.",
+      "tu": "Tu sembleras avoir plus d'expérience avec ce CV.",
+      "il": "Il semblera avoir tout oublié demain.",
+      "nous": "Nous semblerons avoir beaucoup voyagé avec ces photos.",
+      "vous": "Vous semblerez avoir de la chance.",
+      "ils": "Ils sembleront avoir compris la leçon."
+    },
+    "Conditionnel Présent": {
+      "je": "Je semblerais avoir plus d'expérience avec ce diplôme.",
+      "tu": "Tu semblerais avoir vingt ans avec cette coiffure.",
+      "il": "Il semblerait avoir raison, à première vue.",
+      "nous": "Nous semblerions avoir plus de place avec moins de meubles.",
+      "vous": "Vous sembleriez avoir plus de temps avec un agenda.",
+      "ils": "Ils sembleraient avoir besoin de vacances."
+    },
+    "Subjonctif": {
+      "je": "Bien que je semble avoir compris, j'ai des doutes.",
+      "tu": "Bien que tu sembles avoir raison, je ne suis pas d'accord.",
+      "il": "Bien qu'il semble avoir peur, le spectacle continue.",
+      "nous": "Bien que nous semblions avoir de l'avance, rien n'est gagné.",
+      "vous": "Bien que vous sembliez avoir faim, vous ne mangez rien.",
+      "ils": "Bien qu'ils semblent s'aimer, les disputes sont fréquentes."
+    },
+    "Passé Simple": {
+      "je": "Je semblai hésiter un instant.",
+      "tu": "Tu semblas comprendre le message.",
+      "il": "Il sembla réfléchir longuement.",
+      "nous": "Nous semblâmes perdre tout espoir.",
+      "vous": "Vous semblâtes deviner la vérité.",
+      "ils": "Ils semblèrent accepter la proposition."
+    },
+    "Passé Composé": {
+      "je": "J'ai semblé hésiter, mais ma décision était prise.",
+      "tu": "Tu as semblé comprendre tout de suite.",
+      "il": "Il a semblé apprécier le repas.",
+      "nous": "Nous avons semblé perdre le fil de la conversation.",
+      "vous": "Vous avez semblé avoir du mal à respirer.",
+      "ils": "Ils ont semblé apprécier le concert."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais semblé hésiter devant le jury.",
+      "tu": "Tu avais semblé comprendre la consigne.",
+      "il": "Il avait semblé apprécier notre cadeau.",
+      "nous": "Nous avions semblé perdre patience.",
+      "vous": "Vous aviez semblé avoir froid pendant le match.",
+      "ils": "Ils avaient semblé s'ennuyer pendant le film."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai semblé distrait toute la soirée, désolé.",
+      "tu": "Tu auras semblé hésiter jusqu'au bout.",
+      "il": "Il aura semblé apprécier le spectacle.",
+      "nous": "Nous aurons semblé avoir tout prévu.",
+      "vous": "Vous aurez semblé comprendre le problème.",
+      "ils": "Ils auront semblé s'amuser."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais semblé avoir peur sans ce sourire.",
+      "tu": "Tu aurais semblé avoir plus d'expérience avec ce costume.",
+      "il": "Il aurait semblé avoir raison sans cette erreur.",
+      "nous": "Nous aurions semblé avoir préparé le voyage.",
+      "vous": "Vous auriez semblé avoir plus d'assurance avec un micro.",
+      "ils": "Ils auraient semblé avoir gagné sans ce dernier but."
+    },
+    "Subjonctif Passé": {
+      "je": "Bien que j'aie semblé hésiter, ma décision était prise.",
+      "tu": "Bien que tu aies semblé comprendre, tu as fait une erreur.",
+      "il": "Bien qu'il ait semblé apprécier le repas, son assiette est pleine.",
+      "nous": "Bien que nous ayons semblé gagner, le match a mal fini.",
+      "vous": "Bien que vous ayez semblé avoir raison, le jury a voté contre.",
+      "ils": "Bien qu'ils aient semblé s'entendre, la réunion a été tendue."
+    },
+    "Futur Proche": {
+      "je": "Je vais sembler ridicule avec ce chapeau.",
+      "tu": "Tu vas sembler avoir dix ans de plus.",
+      "il": "Il va sembler avoir tout compris.",
+      "nous": "Nous allons sembler avoir de l'expérience.",
+      "vous": "Vous allez sembler avoir beaucoup travaillé.",
+      "ils": "Ils vont sembler avoir gagné."
+    }
+  }
+}

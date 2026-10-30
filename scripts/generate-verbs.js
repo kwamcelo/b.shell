@@ -26,10 +26,12 @@ const ALSO_PRONOMINAL = new Set(['lever', 'appeler', 'coucher', 'réveiller', 's
 // Lefff picks literary forms in a few places; use the everyday ones. { lemma: { code: { personIndex: form } } }
 const FORM_OVERRIDES = {
   pouvoir: { P: { 0: 'peux' } },
+  taire: { P: { 2: 'tait' } },
 }
 
 // Imperatives Lefff lists but nobody uses.
-const NO_IMPERATIVE = new Set(['devoir', 'plaire', 'mourir', "s'appeler", 'se sentir', 'valoir'])
+const NO_IMPERATIVE = new Set(['devoir', 'plaire', 'mourir', "s'appeler", 'se sentir', 'valoir',
+  'suffire', 'sembler', 'ressembler', "s'inquiéter", 'se tromper'])
 
 // Pronominal verbs whose "se" is an indirect object, so the participle never agrees: "elle s'est rappelé".
 const INVARIABLE_PARTICIPLE = new Set(['se rappeler'])

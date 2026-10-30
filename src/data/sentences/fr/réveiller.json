@@ -1,0 +1,106 @@
+{
+  "verb": "réveiller",
+  "tenses": {
+    "Présent": {
+      "je": "Je réveille les enfants à sept heures.",
+      "tu": "Tu réveilles ton frère, s'il te plaît ?",
+      "il": "Il réveille toute la maison avec sa musique.",
+      "nous": "Nous réveillons les invités avec des croissants.",
+      "vous": "Vous réveillez le bébé avec ce bruit !",
+      "ils": "Ils réveillent les voisins chaque nuit."
+    },
+    "Imparfait": {
+      "je": "Je réveillais ma sœur avec un verre d'eau.",
+      "tu": "Tu réveillais tout le monde en chantant.",
+      "il": "Il réveillait le quartier avec sa moto.",
+      "nous": "Nous réveillions nos parents le matin de Noël.",
+      "vous": "Vous réveilliez le chat ?",
+      "ils": "Ils réveillaient les voisins avec leurs fêtes."
+    },
+    "Futur Simple": {
+      "je": "Je réveillerai tout le monde à six heures.",
+      "tu": "Tu réveilleras papa avant de partir.",
+      "il": "Il réveillera les enfants pour le départ.",
+      "nous": "Nous réveillerons les invités avec du café.",
+      "vous": "Vous réveillerez le chauffeur ?",
+      "ils": "Ils réveilleront le bébé avec leurs cris."
+    },
+    "Conditionnel Présent": {
+      "je": "Je réveillerais bien mon colocataire.",
+      "tu": "Tu réveillerais les enfants à ma place ?",
+      "il": "Il réveillerait tout l'immeuble avec ce réveil.",
+      "nous": "Nous réveillerions le bébé avec la télé.",
+      "vous": "Vous réveilleriez les enfants à sept heures ?",
+      "ils": "Ils réveilleraient les voisins avec ce bruit."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je réveille les enfants ?",
+      "tu": "Je ne veux pas que tu réveilles le bébé.",
+      "il": "J'ai peur qu'il réveille les voisins.",
+      "nous": "Il faut que nous réveillions papa.",
+      "vous": "J'aimerais que vous réveilliez la classe.",
+      "ils": "Il ne faut pas qu'ils réveillent le chien."
+    },
+    "Passé Simple": {
+      "je": "Je réveillai le capitaine en pleine nuit.",
+      "tu": "Tu réveillas le village avec la cloche.",
+      "il": "Il réveilla la princesse d'un baiser.",
+      "nous": "Nous réveillâmes les soldats avant l'aube.",
+      "vous": "Vous réveillâtes le dragon.",
+      "ils": "Ils réveillèrent tout le château."
+    },
+    "Passé Composé": {
+      "je": "J'ai réveillé le chat sans faire exprès.",
+      "tu": "Tu as réveillé le bébé ?",
+      "il": "Il a réveillé toute la famille.",
+      "nous": "Nous avons réveillé les voisins avec la musique.",
+      "vous": "Vous avez réveillé les enfants ?",
+      "ils": "Ils ont réveillé le quartier avec leurs pétards."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais réveillé tout le monde à cinq heures.",
+      "tu": "Tu avais réveillé ta sœur ?",
+      "il": "Il avait réveillé le chien.",
+      "nous": "Nous avions réveillé les invités trop tôt.",
+      "vous": "Vous aviez réveillé le bébé ?",
+      "ils": "Ils avaient réveillé tout l'hôtel."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai réveillé les enfants avant ton arrivée.",
+      "tu": "Tu auras réveillé tout le monde pour rien.",
+      "il": "Il aura réveillé les voisins, encore une fois.",
+      "nous": "Nous aurons réveillé le bébé avec nos rires.",
+      "vous": "Vous aurez réveillé toute la maison.",
+      "ils": "Ils auront réveillé le quartier."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais réveillé les enfants plus tôt.",
+      "tu": "Tu aurais réveillé papa ?",
+      "il": "Il aurait réveillé le bébé sans ce casque.",
+      "nous": "Nous aurions réveillé les voisins avec la batterie.",
+      "vous": "Vous auriez réveillé tout l'immeuble.",
+      "ils": "Ils auraient réveillé le chat."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est fâchée que j'aie réveillé son bébé.",
+      "tu": "C'est dommage que tu aies réveillé le chien.",
+      "il": "Je doute qu'il ait réveillé les voisins.",
+      "nous": "Bien que nous ayons réveillé les enfants, ils dorment encore à moitié.",
+      "vous": "Je suis désolé que vous ayez réveillé le bébé.",
+      "ils": "Il est possible qu'ils aient réveillé tout l'immeuble."
+    },
+    "Futur Proche": {
+      "je": "Je vais réveiller les enfants.",
+      "tu": "Tu vas réveiller le bébé !",
+      "il": "Il va réveiller toute la maison.",
+      "nous": "Nous allons réveiller les invités.",
+      "vous": "Vous allez réveiller les voisins.",
+      "ils": "Ils vont réveiller le chien."
+    },
+    "Impératif": {
+      "tu": "Réveille ton frère, il est huit heures.",
+      "nous": "Réveillons papa avec un gâteau.",
+      "vous": "Réveillez les enfants à sept heures."
+    }
+  }
+}

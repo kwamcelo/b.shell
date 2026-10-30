@@ -1,0 +1,106 @@
+{
+  "verb": "suivre",
+  "tenses": {
+    "Présent": {
+      "je": "Je suis un cours de cuisine le jeudi.",
+      "tu": "Tu suis la série dont tout le monde parle ?",
+      "il": "Il suit les conseils de son médecin.",
+      "nous": "Nous suivons la rivière jusqu'au village.",
+      "vous": "Vous suivez le match à la télé ?",
+      "ils": "Ils suivent leur guide dans le musée."
+    },
+    "Imparfait": {
+      "je": "Je suivais des cours de danse à l'époque.",
+      "tu": "Tu suivais toujours ton frère partout.",
+      "il": "Il suivait l'actualité de près.",
+      "nous": "Nous suivions la route de la côte.",
+      "vous": "Vous suiviez des cours du soir ?",
+      "ils": "Ils suivaient le chemin balisé."
+    },
+    "Futur Simple": {
+      "je": "Je suivrai tes conseils.",
+      "tu": "Tu suivras la flèche jusqu'à la sortie.",
+      "il": "Il suivra une formation en septembre.",
+      "nous": "Nous suivrons le guide.",
+      "vous": "Vous suivrez le traitement pendant un mois.",
+      "ils": "Ils suivront le match au stade."
+    },
+    "Conditionnel Présent": {
+      "je": "Je suivrais un cours d'espagnol avec plus de temps.",
+      "tu": "Tu suivrais mes conseils ?",
+      "il": "Il suivrait une formation avec une bourse.",
+      "nous": "Nous suivrions la côte avec un bateau.",
+      "vous": "Vous suivriez ce chemin ?",
+      "ils": "Ils suivraient le guide sans discuter."
+    },
+    "Subjonctif": {
+      "je": "Le médecin veut que je suive ce traitement.",
+      "tu": "Il faut que tu suives les instructions.",
+      "il": "J'aimerais qu'il suive un cours de piano.",
+      "nous": "Il vaut mieux que nous suivions le sentier.",
+      "vous": "Je préfère que vous suiviez la voiture devant.",
+      "ils": "Il faut qu'ils suivent les règles."
+    },
+    "Passé Simple": {
+      "je": "Je suivis le chemin jusqu'à la rivière.",
+      "tu": "Tu suivis les traces dans la neige.",
+      "il": "Il suivit le voleur jusqu'au port.",
+      "nous": "Nous suivîmes l'étoile du nord.",
+      "vous": "Vous suivîtes le roi en exil.",
+      "ils": "Ils suivirent la caravane dans le désert."
+    },
+    "Passé Composé": {
+      "je": "J'ai suivi un cours de photo.",
+      "tu": "Tu as suivi le match hier soir ?",
+      "il": "Il a suivi les conseils de son père.",
+      "nous": "Nous avons suivi le GPS et nous nous sommes perdus.",
+      "vous": "Vous avez suivi les instructions ?",
+      "ils": "Ils ont suivi le guide pendant toute la visite."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais suivi tes conseils à la lettre.",
+      "tu": "Tu avais suivi ce cours l'année précédente ?",
+      "il": "Il avait suivi une formation en informatique.",
+      "nous": "Nous avions suivi la mauvaise route.",
+      "vous": "Vous aviez suivi l'affaire dans les journaux ?",
+      "ils": "Ils avaient suivi le chien jusqu'à la forêt."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai suivi toute la série avant la fin du mois.",
+      "tu": "Tu auras suivi le traitement jusqu'au bout.",
+      "il": "Il aura suivi les traces de son père.",
+      "nous": "Nous aurons suivi tous les épisodes.",
+      "vous": "Vous aurez suivi une formation complète.",
+      "ils": "Ils auront suivi le cours en entier."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais suivi ce cours avec plus de temps.",
+      "tu": "Tu aurais suivi ses conseils à ma place ?",
+      "il": "Il aurait suivi le chemin sans ce panneau cassé.",
+      "nous": "Nous aurions suivi la côte avec un meilleur temps.",
+      "vous": "Vous auriez suivi ce régime ?",
+      "ils": "Ils auraient suivi le guide avec plus d'attention."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon médecin est content que j'aie suivi son traitement.",
+      "tu": "C'est bien que tu aies suivi ce cours.",
+      "il": "Je doute qu'il ait suivi mes conseils.",
+      "nous": "Bien que nous ayons suivi la carte, nous nous sommes perdus.",
+      "vous": "Je suis content que vous ayez suivi ma recommandation.",
+      "ils": "C'est dommage qu'ils aient suivi cette mauvaise idée."
+    },
+    "Futur Proche": {
+      "je": "Je vais suivre un cours de yoga.",
+      "tu": "Tu vas suivre le match ce soir ?",
+      "il": "Il va suivre une formation.",
+      "nous": "Nous allons suivre le guide.",
+      "vous": "Vous allez suivre la route principale.",
+      "ils": "Ils vont suivre le défilé."
+    },
+    "Impératif": {
+      "tu": "Suis-moi, je connais le chemin.",
+      "nous": "Suivons la rivière jusqu'au lac.",
+      "vous": "Suivez le guide, s'il vous plaît."
+    }
+  }
+}

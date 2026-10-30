@@ -1,0 +1,106 @@
+{
+  "verb": "lâcher",
+  "tenses": {
+    "Présent": {
+      "je": "Je lâche le volant une seconde.",
+      "tu": "Tu lâches mon bras, s'il te plaît ?",
+      "il": "Il lâche le chien dans le jardin.",
+      "nous": "Nous lâchons les ballons à midi.",
+      "vous": "Vous lâchez la corde à trois.",
+      "ils": "Ils lâchent des colombes au mariage."
+    },
+    "Imparfait": {
+      "je": "Je lâchais toujours la balle.",
+      "tu": "Tu lâchais les chevaux dans le pré.",
+      "il": "Il lâchait tout au dernier moment.",
+      "nous": "Nous lâchions des cerfs-volants sur la plage.",
+      "vous": "Vous lâchiez le guidon à vélo ?",
+      "ils": "Ils lâchaient des pétards dans la rue."
+    },
+    "Futur Simple": {
+      "je": "Je lâcherai la corde à ton signal.",
+      "tu": "Tu lâcheras le frein doucement.",
+      "il": "Il lâchera les pigeons au début de la course.",
+      "nous": "Nous lâcherons des lanternes dans le ciel.",
+      "vous": "Vous lâcherez la main de l'enfant au portail.",
+      "ils": "Ils lâcheront les chiens à l'aube."
+    },
+    "Conditionnel Présent": {
+      "je": "Je lâcherais tout pour vivre à la mer.",
+      "tu": "Tu lâcherais ce sac, s'il te plaît ?",
+      "il": "Il lâcherait son travail pour un tour du monde.",
+      "nous": "Nous lâcherions la corde avec un matelas en bas.",
+      "vous": "Vous lâcheriez le volant ?",
+      "ils": "Ils lâcheraient leur projet sans ce soutien."
+    },
+    "Subjonctif": {
+      "je": "Il ne faut pas que je lâche la corde.",
+      "tu": "Je veux que tu lâches ce téléphone.",
+      "il": "J'ai peur qu'il lâche le vase.",
+      "nous": "Il faut que nous lâchions les ballons ensemble.",
+      "vous": "J'aimerais que vous lâchiez la poignée.",
+      "ils": "Il ne faut pas qu'ils lâchent le chien."
+    },
+    "Passé Simple": {
+      "je": "Je lâchai la corde et tombai dans l'eau.",
+      "tu": "Tu lâchas ton épée.",
+      "il": "Il lâcha les rênes de son cheval.",
+      "nous": "Nous lâchâmes les voiles.",
+      "vous": "Vous lâchâtes un cri de surprise.",
+      "ils": "Ils lâchèrent les chiens sur les voleurs."
+    },
+    "Passé Composé": {
+      "je": "J'ai lâché mon téléphone dans l'eau.",
+      "tu": "Tu as lâché la corde ?",
+      "il": "Il a lâché le ballon trop tôt.",
+      "nous": "Nous avons lâché des ballons dans le ciel.",
+      "vous": "Vous avez lâché le chien ?",
+      "ils": "Ils ont lâché leur travail pour voyager."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais lâché le guidon.",
+      "tu": "Tu avais lâché la laisse ?",
+      "il": "Il avait lâché le verre.",
+      "nous": "Nous avions lâché les poissons dans le lac.",
+      "vous": "Vous aviez lâché les freins trop tôt.",
+      "ils": "Ils avaient lâché leurs études."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai lâché la corde avant ton arrivée.",
+      "tu": "Tu auras lâché tes soucis pendant les vacances.",
+      "il": "Il aura lâché le volant une seconde.",
+      "nous": "Nous aurons lâché les ballons à temps.",
+      "vous": "Vous aurez lâché prise.",
+      "ils": "Ils auront lâché les oiseaux."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais lâché le sac à ta place.",
+      "tu": "Tu aurais lâché la corde ?",
+      "il": "Il aurait lâché la balle sans ses gants.",
+      "nous": "Nous aurions lâché le projet sans votre aide.",
+      "vous": "Vous auriez lâché prise ?",
+      "ils": "Ils auraient lâché le chien dans le parc."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon père est fâché que j'aie lâché le vase.",
+      "tu": "C'est dommage que tu aies lâché tes études.",
+      "il": "Il est possible qu'il ait lâché le ballon.",
+      "nous": "Bien que nous ayons lâché la corde, le bateau est resté au quai.",
+      "vous": "Je suis surpris que vous ayez lâché votre travail.",
+      "ils": "Je doute qu'ils aient lâché le chien."
+    },
+    "Futur Proche": {
+      "je": "Je vais lâcher la corde.",
+      "tu": "Tu vas lâcher le volant ?",
+      "il": "Il va lâcher le ballon.",
+      "nous": "Nous allons lâcher les colombes.",
+      "vous": "Vous allez lâcher la laisse ?",
+      "ils": "Ils vont lâcher les chevaux."
+    },
+    "Impératif": {
+      "tu": "Lâche mon bras !",
+      "nous": "Lâchons les ballons à trois.",
+      "vous": "Lâchez la corde maintenant !"
+    }
+  }
+}

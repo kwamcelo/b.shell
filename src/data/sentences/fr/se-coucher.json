@@ -1,0 +1,106 @@
+{
+  "verb": "se coucher",
+  "tenses": {
+    "Présent": {
+      "je": "Je me couche vers onze heures.",
+      "tu": "Tu te couches déjà ?",
+      "il": "Il se couche tard le samedi.",
+      "nous": "Nous nous couchons tôt en semaine.",
+      "vous": "Vous vous couchez à quelle heure ?",
+      "ils": "Ils se couchent après le film."
+    },
+    "Imparfait": {
+      "je": "Je me couchais à neuf heures quand j'étais enfant.",
+      "tu": "Tu te couchais toujours après minuit.",
+      "il": "Il se couchait avec les poules.",
+      "nous": "Nous nous couchions sur la plage au soleil.",
+      "vous": "Vous vous couchiez tard pendant les vacances ?",
+      "ils": "Ils se couchaient dans l'herbe."
+    },
+    "Futur Simple": {
+      "je": "Je me coucherai tôt ce soir.",
+      "tu": "Tu te coucheras après tes devoirs.",
+      "il": "Il se couchera après le match.",
+      "nous": "Nous nous coucherons tard demain.",
+      "vous": "Vous vous coucherez dans la grande chambre.",
+      "ils": "Ils se coucheront à neuf heures."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me coucherais bien maintenant.",
+      "tu": "Tu te coucherais plus tôt avec un réveil à six heures.",
+      "il": "Il se coucherait plus tôt sans son téléphone.",
+      "nous": "Nous nous coucherions volontiers.",
+      "vous": "Vous vous coucheriez plus tôt sans la télé ?",
+      "ils": "Ils se coucheraient plus tôt sans les jeux vidéo."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je me couche tôt.",
+      "tu": "Je veux que tu te couches maintenant.",
+      "il": "Il est temps qu'il se couche.",
+      "nous": "Il vaut mieux que nous nous couchions tôt.",
+      "vous": "J'aimerais que vous vous couchiez avant minuit.",
+      "ils": "Il faut qu'ils se couchent à huit heures."
+    },
+    "Passé Simple": {
+      "je": "Je me couchai sans dîner.",
+      "tu": "Tu te couchas près du feu.",
+      "il": "Il se coucha sous un arbre.",
+      "nous": "Nous nous couchâmes à la belle étoile.",
+      "vous": "Vous vous couchâtes très tard.",
+      "ils": "Ils se couchèrent dans la paille."
+    },
+    "Passé Composé": {
+      "je": "Je me suis couché à deux heures du matin.",
+      "tu": "Tu t'es couché tard ?",
+      "il": "Il s'est couché sans dîner.",
+      "nous": "Nous nous sommes couchés après minuit.",
+      "vous": "Vous vous êtes couchés à quelle heure ?",
+      "ils": "Ils se sont couchés tôt."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais couché avant ton appel.",
+      "tu": "Tu t'étais couché très tard.",
+      "il": "Il s'était couché sur le canapé.",
+      "nous": "Nous nous étions couchés tôt la veille.",
+      "vous": "Vous vous étiez couchés avant la fin du film ?",
+      "ils": "Ils s'étaient couchés sans faire de bruit."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai couché avant ton retour.",
+      "tu": "Tu te seras couché tard, encore une fois.",
+      "il": "Il se sera couché avant minuit.",
+      "nous": "Nous nous serons couchés à l'heure.",
+      "vous": "Vous vous serez couchés tard.",
+      "ils": "Ils se seront couchés avant la tempête."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais couché plus tôt sans ce film.",
+      "tu": "Tu te serais couché à quelle heure ?",
+      "il": "Il se serait couché plus tôt sans le match.",
+      "nous": "Nous nous serions couchés tôt sans la fête.",
+      "vous": "Vous vous seriez couchés plus tard ?",
+      "ils": "Ils se seraient couchés sans dîner."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon père est surpris que je me sois couché si tôt.",
+      "tu": "C'est bien que tu te sois couché tôt.",
+      "il": "Il est possible qu'il se soit couché sans dîner.",
+      "nous": "Bien que nous nous soyons couchés tôt, la nuit a été courte.",
+      "vous": "C'est étonnant que vous vous soyez couchés avant minuit.",
+      "ils": "Je doute qu'ils se soient couchés à l'heure."
+    },
+    "Futur Proche": {
+      "je": "Je vais me coucher.",
+      "tu": "Tu vas te coucher ?",
+      "il": "Il va se coucher tôt.",
+      "nous": "Nous allons nous coucher après le film.",
+      "vous": "Vous allez vous coucher tard ?",
+      "ils": "Ils vont se coucher dans dix minutes."
+    },
+    "Impératif": {
+      "tu": "Couche-toi, il est tard.",
+      "nous": "Couchons-nous tôt ce soir.",
+      "vous": "Couchez-vous, les enfants !"
+    }
+  }
+}

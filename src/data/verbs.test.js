@@ -36,6 +36,7 @@ describe('verbs.fr.json', () => {
 
   it('uses everyday forms over literary ones', () => {
     expect(verb('pouvoir').tenses['Présent'][JE]).toBe('je peux')
+    expect(verb('se taire').tenses['Présent'][IL]).toEqual({ m: 'il se tait', f: 'elle se tait', neutral: 'on se tait' })
     expect(verb('devoir').tenses['Impératif']).toBeUndefined()
     expect(verb("s'appeler").tenses['Impératif']).toBeUndefined()
     expect(verb('appeler').tenses['Impératif']).toBeDefined()

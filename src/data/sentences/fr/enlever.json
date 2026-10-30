@@ -1,0 +1,106 @@
+{
+  "verb": "enlever",
+  "tenses": {
+    "Présent": {
+      "je": "J'enlève mes chaussures en entrant.",
+      "tu": "Tu enlèves ton manteau ?",
+      "il": "Il enlève la neige devant la porte.",
+      "nous": "Nous enlevons les mauvaises herbes du jardin.",
+      "vous": "Vous enlevez vos lunettes pour lire ?",
+      "ils": "Ils enlèvent les décorations de Noël."
+    },
+    "Imparfait": {
+      "je": "J'enlevais toujours les oignons de mon assiette.",
+      "tu": "Tu enlevais tes chaussettes sous la table.",
+      "il": "Il enlevait son chapeau pour saluer.",
+      "nous": "Nous enlevions la poussière tous les samedis.",
+      "vous": "Vous enleviez vos bijoux avant de nager ?",
+      "ils": "Ils enlevaient les feuilles mortes."
+    },
+    "Futur Simple": {
+      "je": "J'enlèverai cette tache demain.",
+      "tu": "Tu enlèveras tes chaussures avant d'entrer.",
+      "il": "Il enlèvera les vieilles affiches.",
+      "nous": "Nous enlèverons le sapin en janvier.",
+      "vous": "Vous enlèverez votre veste ?",
+      "ils": "Ils enlèveront les meubles du salon."
+    },
+    "Conditionnel Présent": {
+      "je": "J'enlèverais cette phrase du texte.",
+      "tu": "Tu enlèverais ton manteau, s'il te plaît ?",
+      "il": "Il enlèverait la moquette avec plus de temps.",
+      "nous": "Nous enlèverions ce vieux papier peint.",
+      "vous": "Vous enlèveriez vos chaussures ?",
+      "ils": "Ils enlèveraient les rideaux pour avoir plus de lumière."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'enlève cette tache.",
+      "tu": "Je veux que tu enlèves tes chaussures.",
+      "il": "Il faut qu'il enlève ses lunettes pour la photo.",
+      "nous": "Il faut que nous enlevions la neige.",
+      "vous": "J'aimerais que vous enleviez votre chapeau.",
+      "ils": "Il faut qu'ils enlèvent leurs bottes."
+    },
+    "Passé Simple": {
+      "je": "J'enlevai mon armure.",
+      "tu": "Tu enlevas ton masque devant le roi.",
+      "il": "Il enleva la princesse dans la nuit.",
+      "nous": "Nous enlevâmes les pierres du chemin.",
+      "vous": "Vous enlevâtes votre manteau.",
+      "ils": "Ils enlevèrent le drapeau ennemi."
+    },
+    "Passé Composé": {
+      "je": "J'ai enlevé mes chaussures.",
+      "tu": "Tu as enlevé la tache ?",
+      "il": "Il a enlevé sa veste.",
+      "nous": "Nous avons enlevé le vieux tapis.",
+      "vous": "Vous avez enlevé les étiquettes ?",
+      "ils": "Ils ont enlevé le sapin de Noël."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais enlevé mes lunettes.",
+      "tu": "Tu avais enlevé ta bague ?",
+      "il": "Il avait enlevé son manteau à cause de la chaleur.",
+      "nous": "Nous avions enlevé les meubles avant de peindre.",
+      "vous": "Vous aviez enlevé vos bottes ?",
+      "ils": "Ils avaient enlevé les décorations."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai enlevé toutes les taches avant la fête.",
+      "tu": "Tu auras enlevé tes affaires de la table.",
+      "il": "Il aura enlevé la neige du trottoir.",
+      "nous": "Nous aurons enlevé les vieux meubles.",
+      "vous": "Vous aurez enlevé les étiquettes.",
+      "ils": "Ils auront enlevé toutes les affiches."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais enlevé cette phrase.",
+      "tu": "Tu aurais enlevé ton manteau ?",
+      "il": "Il aurait enlevé ses chaussures avec un tapis à l'entrée.",
+      "nous": "Nous aurions enlevé le papier peint.",
+      "vous": "Vous auriez enlevé ce tableau ?",
+      "ils": "Ils auraient enlevé les rideaux."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie enlevé mes chaussures.",
+      "tu": "C'est bien que tu aies enlevé cette tache.",
+      "il": "Je doute qu'il ait enlevé ses bottes.",
+      "nous": "Bien que nous ayons enlevé la neige, le trottoir est glissant.",
+      "vous": "Merci beaucoup, c'est gentil que vous ayez enlevé vos chaussures.",
+      "ils": "Il est possible qu'ils aient enlevé les panneaux."
+    },
+    "Futur Proche": {
+      "je": "Je vais enlever mon manteau.",
+      "tu": "Tu vas enlever tes chaussures ?",
+      "il": "Il va enlever la neige.",
+      "nous": "Nous allons enlever le sapin.",
+      "vous": "Vous allez enlever vos lunettes ?",
+      "ils": "Ils vont enlever les meubles."
+    },
+    "Impératif": {
+      "tu": "Enlève tes chaussures, s'il te plaît.",
+      "nous": "Enlevons ce vieux tapis.",
+      "vous": "Enlevez vos manteaux et installez-vous."
+    }
+  }
+}

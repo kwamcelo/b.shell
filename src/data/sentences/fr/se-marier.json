@@ -1,0 +1,106 @@
+{
+  "verb": "se marier",
+  "tenses": {
+    "Présent": {
+      "je": "Je me marie au mois de juin.",
+      "tu": "Tu te maries à l'église ou à la mairie ?",
+      "il": "Il se marie avec son amour de jeunesse.",
+      "nous": "Nous nous marions l'été prochain.",
+      "vous": "Vous vous mariez où ?",
+      "ils": "Ils se marient à Montréal en septembre."
+    },
+    "Imparfait": {
+      "je": "Je me mariais le lendemain et je ne dormais pas.",
+      "tu": "Tu te mariais quand je t'ai rencontré ?",
+      "il": "Il se mariait dans un château.",
+      "nous": "Nous nous mariions au moment de la tempête.",
+      "vous": "Vous vous mariiez en même temps que vos amis ?",
+      "ils": "Ils se mariaient dans le petit village de leurs grands-parents."
+    },
+    "Futur Simple": {
+      "je": "Je me marierai un jour, peut-être.",
+      "tu": "Tu te marieras à la plage ?",
+      "il": "Il se mariera en Italie.",
+      "nous": "Nous nous marierons sous le soleil de Provence.",
+      "vous": "Vous vous marierez l'année prochaine ?",
+      "ils": "Ils se marieront dans un an."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me marierais bien à la montagne.",
+      "tu": "Tu te marierais à Las Vegas ?",
+      "il": "Il se marierait avec plaisir, avec la bonne personne.",
+      "nous": "Nous nous marierions plus tôt avec plus d'argent.",
+      "vous": "Vous vous marieriez en hiver ?",
+      "ils": "Ils se marieraient sur une île."
+    },
+    "Subjonctif": {
+      "je": "Mes parents veulent que je me marie à l'église.",
+      "tu": "J'aimerais que tu te maries avec quelqu'un de bien.",
+      "il": "Il est possible qu'il se marie cette année.",
+      "nous": "Il faut que nous nous mariions avant la naissance du bébé.",
+      "vous": "Je suis content que vous vous mariiez.",
+      "ils": "Il est temps qu'ils se marient."
+    },
+    "Passé Simple": {
+      "je": "Je me mariai au printemps de mes vingt ans.",
+      "tu": "Tu te marias dans la cathédrale.",
+      "il": "Il se maria avec la fille du meunier.",
+      "nous": "Nous nous mariâmes en secret.",
+      "vous": "Vous vous mariâtes devant toute la cour.",
+      "ils": "Ils se marièrent et eurent trois enfants."
+    },
+    "Passé Composé": {
+      "je": "Je me suis marié à vingt-cinq ans.",
+      "tu": "Tu t'es marié où ?",
+      "il": "Il s'est marié l'année dernière.",
+      "nous": "Nous nous sommes mariés au bord du lac.",
+      "vous": "Vous vous êtes mariés en quelle année ?",
+      "ils": "Ils se sont mariés à la mairie."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais marié juste avant de déménager.",
+      "tu": "Tu t'étais marié avant ton départ au Canada ?",
+      "il": "Il s'était marié trois fois.",
+      "nous": "Nous nous étions mariés en été.",
+      "vous": "Vous vous étiez mariés jeunes ?",
+      "ils": "Ils s'étaient mariés dans le jardin de leurs parents."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai marié avant mes trente ans.",
+      "tu": "Tu te seras marié avant moi.",
+      "il": "Il se sera marié d'ici l'été.",
+      "nous": "Nous nous serons mariés depuis dix ans en mai.",
+      "vous": "Vous vous serez mariés avant Noël.",
+      "ils": "Ils se seront mariés avant la fin de l'année."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais marié à la plage avec un meilleur temps.",
+      "tu": "Tu te serais marié sans fête ?",
+      "il": "Il se serait marié plus tôt sans la pandémie.",
+      "nous": "Nous nous serions mariés en été avec plus de temps.",
+      "vous": "Vous vous seriez mariés à l'étranger ?",
+      "ils": "Ils se seraient mariés à l'église."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont heureux que je me sois marié.",
+      "tu": "C'est génial que tu te sois marié !",
+      "il": "Je suis surpris qu'il se soit marié si vite.",
+      "nous": "Bien que nous nous soyons mariés jeunes, tout va bien.",
+      "vous": "Je suis ravi que vous vous soyez mariés.",
+      "ils": "C'est mignon qu'ils se soient mariés après quarante ans."
+    },
+    "Futur Proche": {
+      "je": "Je vais me marier en mai.",
+      "tu": "Tu vas te marier ?",
+      "il": "Il va se marier en Espagne.",
+      "nous": "Nous allons nous marier à la mairie.",
+      "vous": "Vous allez vous marier quand ?",
+      "ils": "Ils vont se marier cet été."
+    },
+    "Impératif": {
+      "tu": "Marie-toi avec quelqu'un qui te fait rire.",
+      "nous": "Marions-nous au printemps !",
+      "vous": "Mariez-vous à la mairie, c'est plus simple."
+    }
+  }
+}

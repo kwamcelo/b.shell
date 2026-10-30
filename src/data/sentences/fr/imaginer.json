@@ -1,0 +1,106 @@
+{
+  "verb": "imaginer",
+  "tenses": {
+    "Présent": {
+      "je": "J'imagine une maison au bord de la mer.",
+      "tu": "Tu imagines la tête de ton père ?",
+      "il": "Il imagine des histoires pour les enfants.",
+      "nous": "Nous imaginons un nouveau jeu.",
+      "vous": "Vous imaginez la scène ?",
+      "ils": "Ils imaginent la ville du futur."
+    },
+    "Imparfait": {
+      "je": "J'imaginais des monstres sous mon lit.",
+      "tu": "Tu imaginais une vie à Paris.",
+      "il": "Il imaginait des inventions extraordinaires.",
+      "nous": "Nous imaginions un voyage en Asie.",
+      "vous": "Vous imaginiez quoi, enfant ?",
+      "ils": "Ils imaginaient un monde sans voitures."
+    },
+    "Futur Simple": {
+      "je": "J'imaginerai une fin pour l'histoire.",
+      "tu": "Tu imagineras le décor de la pièce.",
+      "il": "Il imaginera une solution.",
+      "nous": "Nous imaginerons un plan ensemble.",
+      "vous": "Vous imaginerez un nom pour le chien.",
+      "ils": "Ils imagineront un nouveau logo."
+    },
+    "Conditionnel Présent": {
+      "je": "J'imaginerais une fin plus heureuse.",
+      "tu": "Tu imaginerais quoi comme cadeau ?",
+      "il": "Il imaginerait un meilleur plan avec plus de temps.",
+      "nous": "Nous imaginerions une maison en bois.",
+      "vous": "Vous imagineriez ça comment ?",
+      "ils": "Ils imagineraient un jeu pour les enfants."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'imagine une histoire pour ce soir.",
+      "tu": "Je veux que tu imagines la fin du film.",
+      "il": "Il faut qu'il imagine une solution.",
+      "nous": "Il est temps que nous imaginions un plan.",
+      "vous": "J'aimerais que vous imaginiez un nouveau décor.",
+      "ils": "Il faut qu'ils imaginent une autre stratégie."
+    },
+    "Passé Simple": {
+      "je": "J'imaginai le pire.",
+      "tu": "Tu imaginas un plan audacieux.",
+      "il": "Il imagina une machine volante.",
+      "nous": "Nous imaginâmes une ruse pour entrer dans la ville.",
+      "vous": "Vous imaginâtes une fin tragique.",
+      "ils": "Ils imaginèrent un pays sans rois."
+    },
+    "Passé Composé": {
+      "je": "J'ai imaginé une nouvelle recette.",
+      "tu": "Tu as imaginé la suite de l'histoire ?",
+      "il": "Il a imaginé un jeu de société.",
+      "nous": "Nous avons imaginé un plan parfait.",
+      "vous": "Vous avez imaginé tout ça ?",
+      "ils": "Ils ont imaginé un nouveau logo."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais imaginé une fête plus simple.",
+      "tu": "Tu avais imaginé ce voyage depuis longtemps.",
+      "il": "Il avait imaginé une autre fin.",
+      "nous": "Nous avions imaginé un week-end calme.",
+      "vous": "Vous aviez imaginé la maison plus grande ?",
+      "ils": "Ils avaient imaginé un plan compliqué."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai imaginé toute l'histoire avant ce soir.",
+      "tu": "Tu auras imaginé le pire pour rien.",
+      "il": "Il aura imaginé une solution.",
+      "nous": "Nous aurons imaginé un nouveau projet.",
+      "vous": "Vous aurez imaginé le décor.",
+      "ils": "Ils auront imaginé un nouveau jeu."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais imaginé une fin différente.",
+      "tu": "Tu aurais imaginé ça ?",
+      "il": "Il aurait imaginé une autre histoire.",
+      "nous": "Nous aurions imaginé une fête plus grande.",
+      "vous": "Vous auriez imaginé un tel succès ?",
+      "ils": "Ils auraient imaginé un meilleur plan avec plus de temps."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont surpris que j'aie imaginé cette histoire.",
+      "tu": "C'est génial que tu aies imaginé ce jeu.",
+      "il": "Je doute qu'il ait imaginé une telle fin.",
+      "nous": "Bien que nous ayons imaginé le pire, tout s'est bien passé.",
+      "vous": "C'est étonnant que vous ayez imaginé la même chose.",
+      "ils": "Il est possible qu'ils aient imaginé toute l'histoire."
+    },
+    "Futur Proche": {
+      "je": "Je vais imaginer une histoire.",
+      "tu": "Tu vas imaginer la fin ?",
+      "il": "Il va imaginer une solution.",
+      "nous": "Nous allons imaginer un plan.",
+      "vous": "Vous allez imaginer un nouveau jeu ?",
+      "ils": "Ils vont imaginer un décor."
+    },
+    "Impératif": {
+      "tu": "Imagine la scène.",
+      "nous": "Imaginons une autre fin.",
+      "vous": "Imaginez un monde sans voitures."
+    }
+  }
+}

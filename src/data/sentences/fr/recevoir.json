@@ -1,0 +1,106 @@
+{
+  "verb": "recevoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je reçois beaucoup de courriels le lundi.",
+      "tu": "Tu reçois des amis ce soir ?",
+      "il": "Il reçoit un prix pour son roman.",
+      "nous": "Nous recevons la famille à Noël.",
+      "vous": "Vous recevez le journal le matin ?",
+      "ils": "Ils reçoivent des invités samedi."
+    },
+    "Imparfait": {
+      "je": "Je recevais des lettres de ma grand-mère.",
+      "tu": "Tu recevais des cadeaux tous les ans.",
+      "il": "Il recevait ses clients dans son bureau.",
+      "nous": "Nous recevions souvent des amis.",
+      "vous": "Vous receviez ce magazine ?",
+      "ils": "Ils recevaient la visite du médecin chaque semaine."
+    },
+    "Futur Simple": {
+      "je": "Je recevrai la réponse demain.",
+      "tu": "Tu recevras un colis cette semaine.",
+      "il": "Il recevra son diplôme en juin.",
+      "nous": "Nous recevrons nos invités dans le jardin.",
+      "vous": "Vous recevrez un courriel de confirmation.",
+      "ils": "Ils recevront leur salaire vendredi."
+    },
+    "Conditionnel Présent": {
+      "je": "Je recevrais plus d'amis avec une plus grande maison.",
+      "tu": "Tu recevrais tes parents ce week-end ?",
+      "il": "Il recevrait le prix avec un meilleur film.",
+      "nous": "Nous recevrions volontiers vos amis.",
+      "vous": "Vous recevriez ces messieurs demain ?",
+      "ils": "Ils recevraient plus de lettres avec une bonne adresse."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je reçoive le colis avant samedi.",
+      "tu": "Je veux que tu reçoives tes amis dans le salon.",
+      "il": "Il est possible qu'il reçoive une augmentation.",
+      "nous": "Il faut que nous recevions les invités à huit heures.",
+      "vous": "J'aimerais que vous receviez ma famille.",
+      "ils": "Il faut qu'ils reçoivent les résultats avant lundi."
+    },
+    "Passé Simple": {
+      "je": "Je reçus une lettre mystérieuse.",
+      "tu": "Tu reçus la visite d'un inconnu.",
+      "il": "Il reçut l'ordre de partir.",
+      "nous": "Nous reçûmes la nouvelle avec joie.",
+      "vous": "Vous reçûtes le roi au château.",
+      "ils": "Ils reçurent une récompense."
+    },
+    "Passé Composé": {
+      "je": "J'ai reçu ton message.",
+      "tu": "Tu as reçu mon colis ?",
+      "il": "Il a reçu une lettre de la banque.",
+      "nous": "Nous avons reçu des amis hier soir.",
+      "vous": "Vous avez reçu les billets ?",
+      "ils": "Ils ont reçu un prix."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais reçu une invitation.",
+      "tu": "Tu avais reçu ma lettre ?",
+      "il": "Il avait reçu un appel de l'école.",
+      "nous": "Nous avions reçu de mauvaises nouvelles.",
+      "vous": "Vous aviez reçu le paquet ?",
+      "ils": "Ils avaient reçu leurs résultats."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai reçu ma commande avant Noël.",
+      "tu": "Tu auras reçu ma lettre d'ici là.",
+      "il": "Il aura reçu sa réponse avant lundi.",
+      "nous": "Nous aurons reçu les meubles avant le déménagement.",
+      "vous": "Vous aurez reçu les documents demain.",
+      "ils": "Ils auront reçu leur visa à temps."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais reçu le colis sans la grève.",
+      "tu": "Tu aurais reçu mon message ?",
+      "il": "Il aurait reçu le prix sans ce scandale.",
+      "nous": "Nous aurions reçu plus d'invités avec une plus grande salle.",
+      "vous": "Vous auriez reçu la lettre sans cette erreur d'adresse.",
+      "ils": "Ils auraient reçu une meilleure offre ailleurs."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fiers que j'aie reçu ce prix.",
+      "tu": "Je suis content que tu aies reçu mon cadeau.",
+      "il": "Je doute qu'il ait reçu mon message.",
+      "nous": "Bien que nous ayons reçu la facture, nous n'avons rien payé.",
+      "vous": "C'est bien que vous ayez reçu les billets.",
+      "ils": "Il est possible qu'ils aient reçu la mauvaise commande."
+    },
+    "Futur Proche": {
+      "je": "Je vais recevoir des amis.",
+      "tu": "Tu vas recevoir un cadeau.",
+      "il": "Il va recevoir son diplôme.",
+      "nous": "Nous allons recevoir la famille.",
+      "vous": "Vous allez recevoir un courriel.",
+      "ils": "Ils vont recevoir une récompense."
+    },
+    "Impératif": {
+      "tu": "Reçois ce cadeau avec mes meilleurs vœux.",
+      "nous": "Recevons nos invités dans le salon.",
+      "vous": "Recevez mes sincères salutations."
+    }
+  }
+}

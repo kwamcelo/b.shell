@@ -1,0 +1,106 @@
+{
+  "verb": "choisir",
+  "tenses": {
+    "Présent": {
+      "je": "Je choisis le menu du jour.",
+      "tu": "Tu choisis quel film ?",
+      "il": "Il choisit toujours la même couleur.",
+      "nous": "Nous choisissons un cadeau pour Paul.",
+      "vous": "Vous choisissez le vin ?",
+      "ils": "Ils choisissent leur destination de vacances."
+    },
+    "Imparfait": {
+      "je": "Je choisissais toujours la glace à la vanille.",
+      "tu": "Tu choisissais les plus beaux fruits.",
+      "il": "Il choisissait ses vêtements avec soin.",
+      "nous": "Nous choisissions les films le vendredi.",
+      "vous": "Vous choisissiez la musique ?",
+      "ils": "Ils choisissaient le restaurant à tour de rôle."
+    },
+    "Futur Simple": {
+      "je": "Je choisirai demain.",
+      "tu": "Tu choisiras ta tenue pour le mariage.",
+      "il": "Il choisira un nom pour le chien.",
+      "nous": "Nous choisirons la date ensemble.",
+      "vous": "Vous choisirez votre place à l'entrée.",
+      "ils": "Ils choisiront leurs cours en septembre."
+    },
+    "Conditionnel Présent": {
+      "je": "Je choisirais le rouge à ta place.",
+      "tu": "Tu choisirais quoi ?",
+      "il": "Il choisirait la mer sans hésiter.",
+      "nous": "Nous choisirions le train.",
+      "vous": "Vous choisiriez quelle option ?",
+      "ils": "Ils choisiraient un appartement plus grand avec plus d'argent."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je choisisse une couleur.",
+      "tu": "Je veux que tu choisisses le dessert.",
+      "il": "Il faut qu'il choisisse un sujet.",
+      "nous": "Il est temps que nous choisissions un nom.",
+      "vous": "J'aimerais que vous choisissiez le vin.",
+      "ils": "Il faut qu'ils choisissent une date."
+    },
+    "Passé Simple": {
+      "je": "Je choisis le chemin de la forêt.",
+      "tu": "Tu choisis l'épée la plus lourde.",
+      "il": "Il choisit la liberté.",
+      "nous": "Nous choisîmes le silence.",
+      "vous": "Vous choisîtes le meilleur cheval.",
+      "ils": "Ils choisirent un nouveau roi."
+    },
+    "Passé Composé": {
+      "je": "J'ai choisi la chambre avec vue.",
+      "tu": "Tu as choisi ton cadeau ?",
+      "il": "Il a choisi la médecine.",
+      "nous": "Nous avons choisi un prénom pour le bébé.",
+      "vous": "Vous avez choisi ?",
+      "ils": "Ils ont choisi la plage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais choisi une autre robe.",
+      "tu": "Tu avais choisi le mauvais train.",
+      "il": "Il avait choisi le menu végétarien.",
+      "nous": "Nous avions choisi cet hôtel pour la piscine.",
+      "vous": "Vous aviez choisi la date ?",
+      "ils": "Ils avaient choisi la musique pour le mariage."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai choisi avant la fin de la semaine.",
+      "tu": "Tu auras choisi ton université.",
+      "il": "Il aura choisi la bonne option.",
+      "nous": "Nous aurons choisi notre maison.",
+      "vous": "Vous aurez choisi votre menu.",
+      "ils": "Ils auront choisi leur équipe."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais choisi la même chose.",
+      "tu": "Tu aurais choisi quoi ?",
+      "il": "Il aurait choisi un autre métier.",
+      "nous": "Nous aurions choisi une autre date.",
+      "vous": "Vous auriez choisi cet hôtel ?",
+      "ils": "Ils auraient choisi la mer."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fiers que j'aie choisi la médecine.",
+      "tu": "C'est bien que tu aies choisi ce cadeau.",
+      "il": "Je doute qu'il ait choisi la bonne route.",
+      "nous": "Bien que nous ayons choisi le meilleur hôtel, les vacances étaient décevantes.",
+      "vous": "Je suis content que vous ayez choisi notre restaurant.",
+      "ils": "Il est surprenant qu'ils aient choisi cette date."
+    },
+    "Futur Proche": {
+      "je": "Je vais choisir un livre.",
+      "tu": "Tu vas choisir quoi ?",
+      "il": "Il va choisir une couleur.",
+      "nous": "Nous allons choisir le menu.",
+      "vous": "Vous allez choisir la date ?",
+      "ils": "Ils vont choisir un nom."
+    },
+    "Impératif": {
+      "tu": "Choisis un dessert.",
+      "nous": "Choisissons un film.",
+      "vous": "Choisissez une carte."
+    }
+  }
+}

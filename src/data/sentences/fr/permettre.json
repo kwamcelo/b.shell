@@ -1,0 +1,106 @@
+{
+  "verb": "permettre",
+  "tenses": {
+    "Présent": {
+      "je": "Je permets aux enfants de jouer dehors.",
+      "tu": "Tu permets que je m'assoie ?",
+      "il": "Il permet aux élèves d'utiliser un dictionnaire.",
+      "nous": "Nous permettons les animaux dans l'hôtel.",
+      "vous": "Vous permettez que j'ouvre la fenêtre ?",
+      "ils": "Ils permettent à leur fils de sortir le soir."
+    },
+    "Imparfait": {
+      "je": "Je permettais à ma fille de regarder la télé.",
+      "tu": "Tu permettais tout à tes enfants.",
+      "il": "Il permettait aux clients de payer plus tard.",
+      "nous": "Nous permettions aux voisins d'utiliser le jardin.",
+      "vous": "Vous permettiez les téléphones en classe ?",
+      "ils": "Ils permettaient aux visiteurs de prendre des photos."
+    },
+    "Futur Simple": {
+      "je": "Je permettrai aux enfants de veiller tard.",
+      "tu": "Tu permettras au chien de dormir sur le canapé ?",
+      "il": "Il permettra aux employés de travailler à la maison.",
+      "nous": "Nous permettrons aux invités de garer leur voiture ici.",
+      "vous": "Vous permettrez les photos pendant la cérémonie ?",
+      "ils": "Ils permettront l'entrée gratuite aux étudiants."
+    },
+    "Conditionnel Présent": {
+      "je": "Je permettrais ce voyage avec plus de garanties.",
+      "tu": "Tu permettrais à ton fils de partir seul ?",
+      "il": "Il permettrait aux élèves de sortir plus tôt.",
+      "nous": "Nous permettrions les chiens avec un plus grand jardin.",
+      "vous": "Vous permettriez une petite pause ?",
+      "ils": "Ils permettraient à leurs enfants de venir."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je permette aux enfants de jouer.",
+      "tu": "J'aimerais que tu permettes à ta sœur de venir.",
+      "il": "Il est possible qu'il permette les photos.",
+      "nous": "Il faut que nous permettions aux élèves de s'exprimer.",
+      "vous": "Je souhaite que vous permettiez cette sortie.",
+      "ils": "Il faut qu'ils permettent aux enfants de dormir ici."
+    },
+    "Passé Simple": {
+      "je": "Je permis aux prisonniers de partir.",
+      "tu": "Tu permis au peuple de fêter la victoire.",
+      "il": "Il permit aux paysans de chasser dans la forêt.",
+      "nous": "Nous permîmes aux voyageurs de dormir au château.",
+      "vous": "Vous permîtes ce mariage.",
+      "ils": "Ils permirent le passage de l'armée."
+    },
+    "Passé Composé": {
+      "je": "J'ai permis aux enfants de manger des bonbons.",
+      "tu": "Tu as permis à ton frère de prendre ta voiture ?",
+      "il": "Il a permis aux élèves de sortir plus tôt.",
+      "nous": "Nous avons permis aux voisins de faire une fête.",
+      "vous": "Vous avez permis les photos ?",
+      "ils": "Ils ont permis à leur fille de partir en voyage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais permis aux enfants de veiller.",
+      "tu": "Tu avais permis au chien de monter sur le lit ?",
+      "il": "Il avait permis aux clients de payer en trois fois.",
+      "nous": "Nous avions permis à nos amis d'utiliser la piscine.",
+      "vous": "Vous aviez permis cette sortie ?",
+      "ils": "Ils avaient permis à leurs enfants de camper dans le jardin."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai permis cette sortie pour rien.",
+      "tu": "Tu auras permis à tout le monde de venir.",
+      "il": "Il aura permis à l'équipe de gagner.",
+      "nous": "Nous aurons permis à nos enfants de voyager.",
+      "vous": "Vous aurez permis à ce projet d'exister.",
+      "ils": "Ils auront permis à la ville de se développer."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais permis cette sortie avec plus d'informations.",
+      "tu": "Tu aurais permis ça ?",
+      "il": "Il aurait permis aux élèves de partir sans la pluie.",
+      "nous": "Nous aurions permis la fête dans le jardin.",
+      "vous": "Vous auriez permis à votre fils de partir ?",
+      "ils": "Ils auraient permis aux enfants de rester."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes enfants sont contents que j'aie permis cette fête.",
+      "tu": "Je suis surpris que tu aies permis ça.",
+      "il": "Je doute qu'il ait permis les photos.",
+      "nous": "Bien que nous ayons permis les animaux, personne n'en a amené.",
+      "vous": "C'est gentil que vous ayez permis aux enfants de jouer.",
+      "ils": "Il est étonnant qu'ils aient permis ce voyage."
+    },
+    "Futur Proche": {
+      "je": "Je vais permettre aux enfants de sortir.",
+      "tu": "Tu vas permettre ça ?",
+      "il": "Il va permettre aux élèves de partir.",
+      "nous": "Nous allons permettre les photos.",
+      "vous": "Vous allez permettre cette sortie ?",
+      "ils": "Ils vont permettre l'entrée gratuite."
+    },
+    "Impératif": {
+      "tu": "Permets à ta sœur de jouer avec toi.",
+      "nous": "Permettons aux enfants de choisir le film.",
+      "vous": "Permettez que je me présente."
+    }
+  }
+}

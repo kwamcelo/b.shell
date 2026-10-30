@@ -1,0 +1,106 @@
+{
+  "verb": "poser",
+  "tenses": {
+    "Présent": {
+      "je": "Je pose une question au professeur.",
+      "tu": "Tu poses tes clés sur la table ?",
+      "il": "Il pose des étagères dans le salon.",
+      "nous": "Nous posons nos valises à l'hôtel.",
+      "vous": "Vous posez des questions très intéressantes.",
+      "ils": "Ils posent pour la photo de famille."
+    },
+    "Imparfait": {
+      "je": "Je posais toujours trop de questions.",
+      "tu": "Tu posais tes affaires partout.",
+      "il": "Il posait pour des magazines de mode.",
+      "nous": "Nous posions nos sacs à l'entrée.",
+      "vous": "Vous posiez beaucoup de questions en classe ?",
+      "ils": "Ils posaient des pièges pour les souris."
+    },
+    "Futur Simple": {
+      "je": "Je poserai la question au directeur.",
+      "tu": "Tu poseras le gâteau sur la table.",
+      "il": "Il posera sa candidature demain.",
+      "nous": "Nous poserons le nouveau carrelage samedi.",
+      "vous": "Vous poserez vos questions à la fin.",
+      "ils": "Ils poseront leurs valises dans l'entrée."
+    },
+    "Conditionnel Présent": {
+      "je": "Je poserais bien une question.",
+      "tu": "Tu poserais ce carton là-bas ?",
+      "il": "Il poserait des questions avec un peu plus de courage.",
+      "nous": "Nous poserions les tableaux avec une perceuse.",
+      "vous": "Vous poseriez votre sac ici ?",
+      "ils": "Ils poseraient leur candidature avec plus d'expérience."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je pose une question ?",
+      "tu": "Il faut que tu poses ton téléphone.",
+      "il": "Je préfère qu'il pose ses questions à la fin.",
+      "nous": "Il faut que nous posions les bases du projet.",
+      "vous": "J'aimerais que vous posiez votre manteau ici.",
+      "ils": "Il faut qu'ils posent leurs sacs à l'entrée."
+    },
+    "Passé Simple": {
+      "je": "Je posai la lettre sur la table.",
+      "tu": "Tu posas ta main sur la mienne.",
+      "il": "Il posa son épée sur le sol.",
+      "nous": "Nous posâmes nos bagages à l'auberge.",
+      "vous": "Vous posâtes la première pierre du château.",
+      "ils": "Ils posèrent les armes."
+    },
+    "Passé Composé": {
+      "je": "J'ai posé une question au guide.",
+      "tu": "Tu as posé mes lunettes où ?",
+      "il": "Il a posé sa candidature pour ce poste.",
+      "nous": "Nous avons posé le nouveau parquet.",
+      "vous": "Vous avez posé la question au médecin ?",
+      "ils": "Ils ont posé pour le photographe."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais posé mes clés sur le comptoir.",
+      "tu": "Tu avais posé ton sac par terre.",
+      "il": "Il avait posé une question gênante.",
+      "nous": "Nous avions posé nos valises à l'hôtel.",
+      "vous": "Vous aviez posé votre téléphone ici ?",
+      "ils": "Ils avaient posé leurs vélos contre le mur."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai posé toutes mes questions.",
+      "tu": "Tu auras posé ta candidature à temps.",
+      "il": "Il aura posé le carrelage avant ce soir.",
+      "nous": "Nous aurons posé les fondations avant l'hiver.",
+      "vous": "Vous aurez posé vos valises à l'hôtel.",
+      "ils": "Ils auront posé les décorations."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais posé la question avec plus de temps.",
+      "tu": "Tu aurais posé ta candidature à ma place ?",
+      "il": "Il aurait posé une question sans sa timidité.",
+      "nous": "Nous aurions posé le parquet nous-mêmes.",
+      "vous": "Vous auriez posé cette question ?",
+      "ils": "Ils auraient posé des panneaux solaires avec une aide."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie posé une question.",
+      "tu": "C'est bien que tu aies posé ta candidature.",
+      "il": "Je doute qu'il ait posé la question.",
+      "nous": "Bien que nous ayons posé la question, personne n'a répondu.",
+      "vous": "Je suis content que vous ayez posé cette question.",
+      "ils": "C'est étonnant qu'ils aient posé ce tableau à l'envers."
+    },
+    "Futur Proche": {
+      "je": "Je vais poser une question.",
+      "tu": "Tu vas poser ta candidature ?",
+      "il": "Il va poser les étagères.",
+      "nous": "Nous allons poser nos valises.",
+      "vous": "Vous allez poser vos questions à la fin.",
+      "ils": "Ils vont poser pour la photo."
+    },
+    "Impératif": {
+      "tu": "Pose ton téléphone, on mange.",
+      "nous": "Posons nos sacs ici.",
+      "vous": "Posez vos questions, s'il vous plaît."
+    }
+  }
+}

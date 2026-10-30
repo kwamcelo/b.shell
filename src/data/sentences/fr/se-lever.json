@@ -1,0 +1,106 @@
+{
+  "verb": "se lever",
+  "tenses": {
+    "Présent": {
+      "je": "Je me lève à six heures.",
+      "tu": "Tu te lèves tôt demain ?",
+      "il": "Il se lève toujours de bonne humeur.",
+      "nous": "Nous nous levons avec le soleil.",
+      "vous": "Vous vous levez à quelle heure ?",
+      "ils": "Ils se lèvent pour l'hymne national."
+    },
+    "Imparfait": {
+      "je": "Je me levais à cinq heures pour aller au marché.",
+      "tu": "Tu te levais tard le dimanche.",
+      "il": "Il se levait avant tout le monde.",
+      "nous": "Nous nous levions tôt pour voir le lever du soleil.",
+      "vous": "Vous vous leviez la nuit pour le bébé ?",
+      "ils": "Ils se levaient pour applaudir."
+    },
+    "Futur Simple": {
+      "je": "Je me lèverai tôt pour faire du sport.",
+      "tu": "Tu te lèveras à sept heures.",
+      "il": "Il se lèvera pour prendre la parole.",
+      "nous": "Nous nous lèverons avant l'aube.",
+      "vous": "Vous vous lèverez à l'arrivée du juge.",
+      "ils": "Ils se lèveront à la fin du concert."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me lèverais plus tôt avec un bon café.",
+      "tu": "Tu te lèverais pour moi ?",
+      "il": "Il se lèverait plus tôt sans ses longues soirées.",
+      "nous": "Nous nous lèverions tard sans le réveil.",
+      "vous": "Vous vous lèveriez pour la dame ?",
+      "ils": "Ils se lèveraient pour l'applaudir."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je me lève tôt demain.",
+      "tu": "Je veux que tu te lèves maintenant.",
+      "il": "Il est temps qu'il se lève.",
+      "nous": "Il faut que nous nous levions à cinq heures.",
+      "vous": "J'aimerais que vous vous leviez, s'il vous plaît.",
+      "ils": "Il faut qu'ils se lèvent pour l'hymne."
+    },
+    "Passé Simple": {
+      "je": "Je me levai avant l'aube.",
+      "tu": "Tu te levas pour saluer le roi.",
+      "il": "Il se leva et quitta la salle.",
+      "nous": "Nous nous levâmes au chant du coq.",
+      "vous": "Vous vous levâtes d'un bond.",
+      "ils": "Ils se levèrent pour applaudir."
+    },
+    "Passé Composé": {
+      "je": "Je me suis levé à midi.",
+      "tu": "Tu t'es levé tôt ?",
+      "il": "Il s'est levé pour ouvrir la porte.",
+      "nous": "Nous nous sommes levés à l'aube.",
+      "vous": "Vous vous êtes levés à quelle heure ?",
+      "ils": "Ils se sont levés pour applaudir."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais levé avant le réveil.",
+      "tu": "Tu t'étais levé du mauvais pied.",
+      "il": "Il s'était levé pendant la nuit.",
+      "nous": "Nous nous étions levés très tôt.",
+      "vous": "Vous vous étiez levés avant nous ?",
+      "ils": "Ils s'étaient levés pour danser."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai levé avant ton départ.",
+      "tu": "Tu te seras levé trop tard.",
+      "il": "Il se sera levé à l'aube.",
+      "nous": "Nous nous serons levés à temps.",
+      "vous": "Vous vous serez levés de bonne heure.",
+      "ils": "Ils se seront levés pour rien."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais levé plus tôt avec un réveil.",
+      "tu": "Tu te serais levé pour ça ?",
+      "il": "Il se serait levé sans sa douleur au dos.",
+      "nous": "Nous nous serions levés plus tard sans le bruit.",
+      "vous": "Vous vous seriez levés à l'aube ?",
+      "ils": "Ils se seraient levés pour applaudir."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est surprise que je me sois levé si tôt.",
+      "tu": "C'est bien que tu te sois levé à l'heure.",
+      "il": "Il est possible qu'il se soit levé pendant la nuit.",
+      "nous": "Bien que nous nous soyons levés tôt, nous avons raté le train.",
+      "vous": "C'est gentil que vous vous soyez levés pour la dame.",
+      "ils": "Je doute qu'ils se soient levés avant midi."
+    },
+    "Futur Proche": {
+      "je": "Je vais me lever tôt.",
+      "tu": "Tu vas te lever ?",
+      "il": "Il va se lever dans cinq minutes.",
+      "nous": "Nous allons nous lever à six heures.",
+      "vous": "Vous allez vous lever tôt ?",
+      "ils": "Ils vont se lever pour l'hymne."
+    },
+    "Impératif": {
+      "tu": "Lève-toi, on va être en retard !",
+      "nous": "Levons-nous pour applaudir.",
+      "vous": "Levez-vous, s'il vous plaît."
+    }
+  }
+}

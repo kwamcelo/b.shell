@@ -1,0 +1,106 @@
+{
+  "verb": "accepter",
+  "tenses": {
+    "Présent": {
+      "je": "J'accepte ton invitation avec plaisir.",
+      "tu": "Tu acceptes les cartes de crédit ?",
+      "il": "Il accepte le poste à Paris.",
+      "nous": "Nous acceptons votre offre.",
+      "vous": "Vous acceptez les chiens ?",
+      "ils": "Ils acceptent la proposition."
+    },
+    "Imparfait": {
+      "je": "J'acceptais tout sans discuter.",
+      "tu": "Tu acceptais toujours les invitations.",
+      "il": "Il acceptait les critiques avec calme.",
+      "nous": "Nous acceptions les chèques à l'époque.",
+      "vous": "Vous acceptiez les animaux dans l'hôtel ?",
+      "ils": "Ils acceptaient de travailler le dimanche."
+    },
+    "Futur Simple": {
+      "je": "J'accepterai ce travail.",
+      "tu": "Tu accepteras sa proposition ?",
+      "il": "Il acceptera le prix.",
+      "nous": "Nous accepterons les nouveaux membres.",
+      "vous": "Vous accepterez nos excuses ?",
+      "ils": "Ils accepteront les conditions."
+    },
+    "Conditionnel Présent": {
+      "je": "J'accepterais volontiers un café.",
+      "tu": "Tu accepterais de m'aider ?",
+      "il": "Il accepterait ce poste avec un meilleur salaire.",
+      "nous": "Nous accepterions votre offre avec plaisir.",
+      "vous": "Vous accepteriez de venir dîner ?",
+      "ils": "Ils accepteraient de déménager."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'accepte la situation.",
+      "tu": "J'aimerais que tu acceptes mon cadeau.",
+      "il": "Il est possible qu'il accepte l'offre.",
+      "nous": "Il faut que nous acceptions le compromis.",
+      "vous": "Je souhaite que vous acceptiez mes excuses.",
+      "ils": "Il faut qu'ils acceptent les règles."
+    },
+    "Passé Simple": {
+      "je": "J'acceptai la mission.",
+      "tu": "Tu acceptas le défi.",
+      "il": "Il accepta la couronne.",
+      "nous": "Nous acceptâmes l'invitation du roi.",
+      "vous": "Vous acceptâtes la paix.",
+      "ils": "Ils acceptèrent le marché."
+    },
+    "Passé Composé": {
+      "je": "J'ai accepté le poste.",
+      "tu": "Tu as accepté son invitation ?",
+      "il": "Il a accepté de nous aider.",
+      "nous": "Nous avons accepté leur offre.",
+      "vous": "Vous avez accepté les conditions ?",
+      "ils": "Ils ont accepté la proposition."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais accepté de venir.",
+      "tu": "Tu avais accepté ce travail ?",
+      "il": "Il avait accepté de partir.",
+      "nous": "Nous avions accepté leurs excuses.",
+      "vous": "Vous aviez accepté le contrat ?",
+      "ils": "Ils avaient accepté de nous attendre."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai accepté pour rien.",
+      "tu": "Tu auras accepté trop vite.",
+      "il": "Il aura accepté le poste avant la fin du mois.",
+      "nous": "Nous aurons accepté leur invitation.",
+      "vous": "Vous aurez accepté le compromis.",
+      "ils": "Ils auront accepté la nouvelle règle."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais accepté avec plaisir.",
+      "tu": "Tu aurais accepté ?",
+      "il": "Il aurait accepté avec un meilleur salaire.",
+      "nous": "Nous aurions accepté leur offre.",
+      "vous": "Vous auriez accepté ce poste ?",
+      "ils": "Ils auraient accepté de venir."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont contents que j'aie accepté l'invitation.",
+      "tu": "C'est bien que tu aies accepté ce travail.",
+      "il": "Je doute qu'il ait accepté l'offre.",
+      "nous": "Bien que nous ayons accepté le contrat, nous avons des doutes.",
+      "vous": "Je suis ravi que vous ayez accepté mon invitation.",
+      "ils": "Il est surprenant qu'ils aient accepté si vite."
+    },
+    "Futur Proche": {
+      "je": "Je vais accepter le poste.",
+      "tu": "Tu vas accepter son offre ?",
+      "il": "Il va accepter le défi.",
+      "nous": "Nous allons accepter la proposition.",
+      "vous": "Vous allez accepter les conditions ?",
+      "ils": "Ils vont accepter le compromis."
+    },
+    "Impératif": {
+      "tu": "Accepte ce petit cadeau.",
+      "nous": "Acceptons la situation.",
+      "vous": "Acceptez mes excuses."
+    }
+  }
+}

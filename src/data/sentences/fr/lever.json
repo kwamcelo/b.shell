@@ -1,0 +1,106 @@
+{
+  "verb": "lever",
+  "tenses": {
+    "Présent": {
+      "je": "Je lève la main pour poser une question.",
+      "tu": "Tu lèves les yeux au ciel ?",
+      "il": "Il lève son verre aux mariés.",
+      "nous": "Nous levons les bras pour l'exercice.",
+      "vous": "Vous levez la main si vous êtes d'accord.",
+      "ils": "Ils lèvent le drapeau chaque matin."
+    },
+    "Imparfait": {
+      "je": "Je levais toujours la main en classe.",
+      "tu": "Tu levais les yeux de ton livre.",
+      "il": "Il levait les poids tous les matins.",
+      "nous": "Nous levions nos verres à chaque victoire.",
+      "vous": "Vous leviez le doigt pour parler ?",
+      "ils": "Ils levaient l'ancre à l'aube."
+    },
+    "Futur Simple": {
+      "je": "Je lèverai la main pour répondre.",
+      "tu": "Tu lèveras ton verre à la santé des mariés.",
+      "il": "Il lèvera le rideau à vingt heures.",
+      "nous": "Nous lèverons l'ancre demain matin.",
+      "vous": "Vous lèverez la main pour voter.",
+      "ils": "Ils lèveront les yeux vers le ciel."
+    },
+    "Conditionnel Présent": {
+      "je": "Je lèverais la main avec la bonne réponse.",
+      "tu": "Tu lèverais les pieds, s'il te plaît ?",
+      "il": "Il lèverait cette valise sans effort.",
+      "nous": "Nous lèverions l'ancre avec un meilleur vent.",
+      "vous": "Vous lèveriez la main pour voter ?",
+      "ils": "Ils lèveraient leur verre à notre santé."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je lève la main avant de parler.",
+      "tu": "Je veux que tu lèves les yeux.",
+      "il": "Il faut qu'il lève la barrière.",
+      "nous": "Il faut que nous levions l'ancre avant midi.",
+      "vous": "J'aimerais que vous leviez votre verre.",
+      "ils": "Il faut qu'ils lèvent la main pour voter."
+    },
+    "Passé Simple": {
+      "je": "Je levai les yeux vers la tour.",
+      "tu": "Tu levas ton épée.",
+      "il": "Il leva le bras pour saluer la foule.",
+      "nous": "Nous levâmes l'ancre au lever du soleil.",
+      "vous": "Vous levâtes une armée.",
+      "ils": "Ils levèrent le camp avant l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai levé la main.",
+      "tu": "Tu as levé les yeux ?",
+      "il": "Il a levé son verre.",
+      "nous": "Nous avons levé l'ancre à six heures.",
+      "vous": "Vous avez levé la main ?",
+      "ils": "Ils ont levé le drapeau."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais levé la main, mais personne ne m'a vu.",
+      "tu": "Tu avais levé le doigt.",
+      "il": "Il avait levé le rideau.",
+      "nous": "Nous avions levé le camp à l'aube.",
+      "vous": "Vous aviez levé la barrière ?",
+      "ils": "Ils avaient levé les yeux vers les étoiles."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai levé la main pour rien.",
+      "tu": "Tu auras levé ton verre avant tout le monde.",
+      "il": "Il aura levé tous les poids.",
+      "nous": "Nous aurons levé l'ancre avant la tempête.",
+      "vous": "Vous aurez levé la main pour voter.",
+      "ils": "Ils auront levé le camp."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais levé la main avec la réponse.",
+      "tu": "Tu aurais levé ton verre ?",
+      "il": "Il aurait levé la valise sans son mal de dos.",
+      "nous": "Nous aurions levé l'ancre plus tôt.",
+      "vous": "Vous auriez levé la main ?",
+      "ils": "Ils auraient levé le drapeau."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie levé la main.",
+      "tu": "C'est bien que tu aies levé le doigt.",
+      "il": "Je doute qu'il ait levé la barrière.",
+      "nous": "Bien que nous ayons levé l'ancre, le bateau ne bouge pas.",
+      "vous": "Je suis content que vous ayez levé votre verre.",
+      "ils": "Il est possible qu'ils aient levé le camp."
+    },
+    "Futur Proche": {
+      "je": "Je vais lever la main.",
+      "tu": "Tu vas lever les yeux ?",
+      "il": "Il va lever son verre.",
+      "nous": "Nous allons lever l'ancre.",
+      "vous": "Vous allez lever la main ?",
+      "ils": "Ils vont lever le drapeau."
+    },
+    "Impératif": {
+      "tu": "Lève la main avant de parler.",
+      "nous": "Levons nos verres aux mariés !",
+      "vous": "Levez les bras au-dessus de la tête."
+    }
+  }
+}

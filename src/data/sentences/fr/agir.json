@@ -1,0 +1,106 @@
+{
+  "verb": "agir",
+  "tenses": {
+    "Présent": {
+      "je": "J'agis toujours avec prudence.",
+      "tu": "Tu agis trop vite.",
+      "il": "Il agit sans réfléchir.",
+      "nous": "Nous agissons pour protéger la planète.",
+      "vous": "Vous agissez avec beaucoup de calme.",
+      "ils": "Ils agissent dans l'intérêt des enfants."
+    },
+    "Imparfait": {
+      "je": "J'agissais sans réfléchir à cet âge.",
+      "tu": "Tu agissais toujours avec gentillesse.",
+      "il": "Il agissait en secret.",
+      "nous": "Nous agissions pour le bien du quartier.",
+      "vous": "Vous agissiez avec sagesse.",
+      "ils": "Ils agissaient comme des adultes."
+    },
+    "Futur Simple": {
+      "je": "J'agirai demain.",
+      "tu": "Tu agiras au bon moment.",
+      "il": "Il agira avec prudence.",
+      "nous": "Nous agirons ensemble.",
+      "vous": "Vous agirez selon les règles.",
+      "ils": "Ils agiront dès lundi."
+    },
+    "Conditionnel Présent": {
+      "je": "J'agirais autrement à ta place.",
+      "tu": "Tu agirais comment ?",
+      "il": "Il agirait plus vite avec de l'aide.",
+      "nous": "Nous agirions avec plus de moyens.",
+      "vous": "Vous agiriez de la même façon ?",
+      "ils": "Ils agiraient immédiatement en cas de danger."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'agisse maintenant.",
+      "tu": "Je veux que tu agisses avec prudence.",
+      "il": "Il est temps qu'il agisse.",
+      "nous": "Il faut que nous agissions vite.",
+      "vous": "J'aimerais que vous agissiez ensemble.",
+      "ils": "Il faut qu'ils agissent avant l'hiver."
+    },
+    "Passé Simple": {
+      "je": "J'agis sans attendre les ordres.",
+      "tu": "Tu agis avec courage ce jour-là.",
+      "il": "Il agit sans aide contre l'armée.",
+      "nous": "Nous agîmes en secret.",
+      "vous": "Vous agîtes avec sagesse.",
+      "ils": "Ils agirent avant l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai agi trop vite.",
+      "tu": "Tu as agi avec courage.",
+      "il": "Il a agi sans réfléchir.",
+      "nous": "Nous avons agi au bon moment.",
+      "vous": "Vous avez agi avec sagesse.",
+      "ils": "Ils ont agi pour aider les voisins."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais agi par peur.",
+      "tu": "Tu avais agi avec gentillesse.",
+      "il": "Il avait agi en secret.",
+      "nous": "Nous avions agi trop tard.",
+      "vous": "Vous aviez agi dans l'intérêt de tous.",
+      "ils": "Ils avaient agi sans consulter personne."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai agi au mieux.",
+      "tu": "Tu auras agi avec courage.",
+      "il": "Il aura agi pour le bien de tous.",
+      "nous": "Nous aurons agi à temps.",
+      "vous": "Vous aurez agi avec prudence.",
+      "ils": "Ils auront agi trop tard."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais agi autrement.",
+      "tu": "Tu aurais agi comment ?",
+      "il": "Il aurait agi plus vite avec plus d'informations.",
+      "nous": "Nous aurions agi de la même façon.",
+      "vous": "Vous auriez agi autrement ?",
+      "ils": "Ils auraient agi avec plus de temps."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est fière que j'aie agi avec courage.",
+      "tu": "Je suis content que tu aies agi vite.",
+      "il": "Il est possible qu'il ait agi par jalousie.",
+      "nous": "Bien que nous ayons agi vite, il était trop tard.",
+      "vous": "C'est bien que vous ayez agi ensemble.",
+      "ils": "Je doute qu'ils aient agi par hasard."
+    },
+    "Futur Proche": {
+      "je": "Je vais agir maintenant.",
+      "tu": "Tu vas agir quand ?",
+      "il": "Il va agir demain.",
+      "nous": "Nous allons agir ensemble.",
+      "vous": "Vous allez agir vite ?",
+      "ils": "Ils vont agir pour la planète."
+    },
+    "Impératif": {
+      "tu": "Agis avec prudence.",
+      "nous": "Agissons avant qu'il ne soit trop tard.",
+      "vous": "Agissez maintenant !"
+    }
+  }
+}

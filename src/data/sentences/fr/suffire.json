@@ -1,0 +1,101 @@
+{
+  "verb": "suffire",
+  "tenses": {
+    "Présent": {
+      "je": "Je suffis à la tâche, pas besoin d'aide.",
+      "tu": "Tu suffis à mon bonheur.",
+      "il": "Il suffit pour quatre personnes.",
+      "nous": "Nous suffisons pour porter ce canapé.",
+      "vous": "Vous suffisez pour cette petite tâche.",
+      "ils": "Ils suffisent pour tout le monde."
+    },
+    "Imparfait": {
+      "je": "Je suffisais pour faire tourner la boutique.",
+      "tu": "Tu suffisais à remplir la maison de rires.",
+      "il": "Il suffisait pour toute la semaine.",
+      "nous": "Nous suffisions pour organiser la fête.",
+      "vous": "Vous suffisiez pour gérer le magasin ?",
+      "ils": "Ils suffisaient pour nourrir toute la famille."
+    },
+    "Futur Simple": {
+      "je": "Je suffirai pour garder la boutique demain.",
+      "tu": "Tu suffiras pour m'aider à déménager.",
+      "il": "Il suffira pour tout le voyage.",
+      "nous": "Nous suffirons pour cette petite réunion.",
+      "vous": "Vous suffirez pour servir les invités.",
+      "ils": "Ils suffiront pour la soirée."
+    },
+    "Conditionnel Présent": {
+      "je": "Je suffirais pour cette mission.",
+      "tu": "Tu suffirais pour monter ce meuble ?",
+      "il": "Il suffirait pour nourrir dix personnes.",
+      "nous": "Nous suffirions pour ce petit travail.",
+      "vous": "Vous suffiriez pour remplacer l'équipe ?",
+      "ils": "Ils suffiraient pour payer le loyer."
+    },
+    "Subjonctif": {
+      "je": "Bien que je suffise pour ce travail, le chef engage quelqu'un.",
+      "tu": "Bien que tu suffises à la tâche, je viens t'aider.",
+      "il": "Je doute qu'il suffise pour tout le monde.",
+      "nous": "Bien que nous suffisions pour ce projet, ils recrutent.",
+      "vous": "Je ne crois pas que vous suffisiez pour tout porter.",
+      "ils": "J'ai peur qu'ils suffisent à peine pour le mois."
+    },
+    "Passé Simple": {
+      "je": "Je suffis à défendre le château.",
+      "tu": "Tu suffis à ramener la paix au village.",
+      "il": "Il suffit à nourrir tout le village cet hiver-là.",
+      "nous": "Nous suffîmes à repousser l'ennemi.",
+      "vous": "Vous suffîtes à protéger la ville.",
+      "ils": "Ils suffirent à payer la rançon."
+    },
+    "Passé Composé": {
+      "je": "J'ai suffi pour garder les enfants tout le week-end.",
+      "tu": "Tu as suffi pour remonter le moral de l'équipe.",
+      "il": "Il a suffi pour toute la famille.",
+      "nous": "Nous avons suffi pour organiser le tournoi.",
+      "vous": "Vous avez suffi pour monter le chapiteau ?",
+      "ils": "Ils ont suffi pour toute la soirée."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais suffi pour faire tout le travail.",
+      "tu": "Tu avais suffi à rassurer tout le monde.",
+      "il": "Il avait suffi pour tout le voyage.",
+      "nous": "Nous avions suffi pour ranger la salle.",
+      "vous": "Vous aviez suffi pour servir tous les clients.",
+      "ils": "Ils avaient suffi pour payer les réparations."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai suffi pour cette mission.",
+      "tu": "Tu auras suffi à rendre cette fête inoubliable.",
+      "il": "Il aura suffi pour toute la semaine.",
+      "nous": "Nous aurons suffi pour terminer le projet.",
+      "vous": "Vous aurez suffi pour cette tâche.",
+      "ils": "Ils auront suffi pour tout le monde."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais suffi pour ce petit travail.",
+      "tu": "Tu aurais suffi pour porter les cartons.",
+      "il": "Il aurait suffi pour toute la classe.",
+      "nous": "Nous aurions suffi pour ce déménagement.",
+      "vous": "Vous auriez suffi pour monter la tente.",
+      "ils": "Ils auraient suffi pour une famille de cinq."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est surpris que j'aie suffi pour ce travail.",
+      "tu": "C'est incroyable que tu aies suffi à tout gérer.",
+      "il": "Je doute qu'il ait suffi pour tout le monde.",
+      "nous": "Bien que nous ayons suffi pour le travail, on nous a envoyé de l'aide.",
+      "vous": "Je suis impressionné que vous ayez suffi pour tout ranger.",
+      "ils": "C'est étonnant qu'ils aient suffi pour tous les invités."
+    },
+    "Futur Proche": {
+      "je": "Je vais suffire pour garder la boutique.",
+      "tu": "Tu vas suffire pour cette tâche.",
+      "il": "Il va suffire pour tout le monde.",
+      "nous": "Nous allons suffire pour porter le piano.",
+      "vous": "Vous allez suffire pour ce petit travail.",
+      "ils": "Ils vont suffire pour la semaine."
+    }
+  }
+}

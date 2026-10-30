@@ -1,0 +1,106 @@
+{
+  "verb": "remettre",
+  "tenses": {
+    "Présent": {
+      "je": "Je remets mon manteau, il fait froid.",
+      "tu": "Tu remets la clé sous le paillasson ?",
+      "il": "Il remet le prix au gagnant.",
+      "nous": "Nous remettons la réunion à lundi.",
+      "vous": "Vous remettez les livres à leur place ?",
+      "ils": "Ils remettent leurs devoirs au professeur."
+    },
+    "Imparfait": {
+      "je": "Je remettais toujours tout à plus tard.",
+      "tu": "Tu remettais tes affaires en ordre le soir.",
+      "il": "Il remettait le courrier chaque matin.",
+      "nous": "Nous remettions les chaises en place après la fête.",
+      "vous": "Vous remettiez la télé en marche ?",
+      "ils": "Ils remettaient les jouets dans le coffre."
+    },
+    "Futur Simple": {
+      "je": "Je remettrai le rapport demain.",
+      "tu": "Tu remettras les clés à la voisine.",
+      "il": "Il remettra les médailles aux vainqueurs.",
+      "nous": "Nous remettrons le voyage à l'été prochain.",
+      "vous": "Vous remettrez ce dossier au directeur.",
+      "ils": "Ils remettront la maison en état."
+    },
+    "Conditionnel Présent": {
+      "je": "Je remettrais ce rendez-vous à plus tard.",
+      "tu": "Tu remettrais le lait au frigo ?",
+      "il": "Il remettrait la fête à samedi.",
+      "nous": "Nous remettrions nos vacances à septembre.",
+      "vous": "Vous remettriez cette lettre à votre chef ?",
+      "ils": "Ils remettraient leur projet à l'année prochaine."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je remette mon devoir avant midi.",
+      "tu": "Je veux que tu remettes ces livres en place.",
+      "il": "Il faut qu'il remette les clés au gardien.",
+      "nous": "Il faut que nous remettions la réunion.",
+      "vous": "J'aimerais que vous remettiez ce colis au voisin.",
+      "ils": "Il faut qu'ils remettent leurs dossiers vendredi."
+    },
+    "Passé Simple": {
+      "je": "Je remis la lettre au messager.",
+      "tu": "Tu remis l'épée au fourreau.",
+      "il": "Il remit la couronne au jeune prince.",
+      "nous": "Nous remîmes les clés du château au roi.",
+      "vous": "Vous remîtes le prisonnier aux gardes.",
+      "ils": "Ils remirent leur départ au lendemain."
+    },
+    "Passé Composé": {
+      "je": "J'ai remis mon rapport.",
+      "tu": "Tu as remis la clé ?",
+      "il": "Il a remis le prix à la gagnante.",
+      "nous": "Nous avons remis la fête à samedi.",
+      "vous": "Vous avez remis les documents ?",
+      "ils": "Ils ont remis leur projet."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais remis la réunion à mardi.",
+      "tu": "Tu avais remis tes lunettes ?",
+      "il": "Il avait remis les clés à l'agence.",
+      "nous": "Nous avions remis les livres à la bibliothèque.",
+      "vous": "Vous aviez remis le dossier ?",
+      "ils": "Ils avaient remis le départ."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai remis mon mémoire avant juin.",
+      "tu": "Tu auras remis tes devoirs.",
+      "il": "Il aura remis la maison en ordre.",
+      "nous": "Nous aurons remis tous les dossiers.",
+      "vous": "Vous aurez remis les clés à temps.",
+      "ils": "Ils auront remis le colis au destinataire."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais remis la réunion à plus tard.",
+      "tu": "Tu aurais remis ton voyage ?",
+      "il": "Il aurait remis le prix avec plaisir.",
+      "nous": "Nous aurions remis la fête.",
+      "vous": "Vous auriez remis ce document ?",
+      "ils": "Ils auraient remis leur mariage à l'été."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie remis mon devoir à temps.",
+      "tu": "C'est bien que tu aies remis les clés.",
+      "il": "Je doute qu'il ait remis la lettre.",
+      "nous": "Bien que nous ayons remis le rapport, personne ne l'a lu.",
+      "vous": "Je suis content que vous ayez remis ce colis.",
+      "ils": "Il est possible qu'ils aient remis le match."
+    },
+    "Futur Proche": {
+      "je": "Je vais remettre mon manteau.",
+      "tu": "Tu vas remettre la clé ?",
+      "il": "Il va remettre le prix.",
+      "nous": "Nous allons remettre la réunion.",
+      "vous": "Vous allez remettre le dossier ?",
+      "ils": "Ils vont remettre leur départ."
+    },
+    "Impératif": {
+      "tu": "Remets ton pull, il fait froid.",
+      "nous": "Remettons la réunion à demain.",
+      "vous": "Remettez les chaises en place."
+    }
+  }
+}

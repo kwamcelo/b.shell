@@ -1,0 +1,106 @@
+{
+  "verb": "calmer",
+  "tenses": {
+    "Présent": {
+      "je": "Je calme le bébé avec une chanson.",
+      "tu": "Tu calmes ton chien, s'il te plaît ?",
+      "il": "Il calme les enfants avec une histoire.",
+      "nous": "Nous calmons la douleur avec de la glace.",
+      "vous": "Vous calmez la situation ?",
+      "ils": "Ils calment les esprits."
+    },
+    "Imparfait": {
+      "je": "Je calmais ma sœur pendant les orages.",
+      "tu": "Tu calmais le chat avec des caresses.",
+      "il": "Il calmait toujours les disputes.",
+      "nous": "Nous calmions les enfants avec de la musique.",
+      "vous": "Vous calmiez le bébé comment ?",
+      "ils": "Ils calmaient le public."
+    },
+    "Futur Simple": {
+      "je": "Je calmerai les enfants.",
+      "tu": "Tu calmeras le chien.",
+      "il": "Il calmera la foule.",
+      "nous": "Nous calmerons le jeu.",
+      "vous": "Vous calmerez la douleur avec ce médicament.",
+      "ils": "Ils calmeront les supporters."
+    },
+    "Conditionnel Présent": {
+      "je": "Je calmerais le bébé avec un biberon.",
+      "tu": "Tu calmerais ton frère ?",
+      "il": "Il calmerait la foule avec un discours.",
+      "nous": "Nous calmerions la situation avec un peu de patience.",
+      "vous": "Vous calmeriez les esprits ?",
+      "ils": "Ils calmeraient le jeu avec un temps mort."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je calme le bébé.",
+      "tu": "Je veux que tu calmes ton chien.",
+      "il": "Il faut qu'il calme les enfants.",
+      "nous": "Il faut que nous calmions la situation.",
+      "vous": "J'aimerais que vous calmiez le jeu.",
+      "ils": "Il faut qu'ils calment les supporters."
+    },
+    "Passé Simple": {
+      "je": "Je calmai le cheval d'une caresse.",
+      "tu": "Tu calmas la tempête par magie.",
+      "il": "Il calma la colère du roi.",
+      "nous": "Nous calmâmes les paysans.",
+      "vous": "Vous calmâtes la foule.",
+      "ils": "Ils calmèrent les esprits."
+    },
+    "Passé Composé": {
+      "je": "J'ai calmé le bébé.",
+      "tu": "Tu as calmé ton frère ?",
+      "il": "Il a calmé la foule.",
+      "nous": "Nous avons calmé la douleur.",
+      "vous": "Vous avez calmé les enfants ?",
+      "ils": "Ils ont calmé le jeu."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais calmé la situation.",
+      "tu": "Tu avais calmé le chien.",
+      "il": "Il avait calmé les esprits.",
+      "nous": "Nous avions calmé les enfants.",
+      "vous": "Vous aviez calmé le bébé ?",
+      "ils": "Ils avaient calmé la foule."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai calmé le bébé avant ton retour.",
+      "tu": "Tu auras calmé la situation.",
+      "il": "Il aura calmé tout le monde.",
+      "nous": "Nous aurons calmé les enfants.",
+      "vous": "Vous aurez calmé le jeu.",
+      "ils": "Ils auront calmé la foule."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais calmé le chien.",
+      "tu": "Tu aurais calmé le bébé ?",
+      "il": "Il aurait calmé la situation avec un peu de patience.",
+      "nous": "Nous aurions calmé les esprits.",
+      "vous": "Vous auriez calmé la foule ?",
+      "ils": "Ils auraient calmé le jeu."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est soulagée que j'aie calmé son bébé.",
+      "tu": "C'est bien que tu aies calmé la situation.",
+      "il": "Je doute qu'il ait calmé les supporters.",
+      "nous": "Bien que nous ayons calmé les enfants, la soirée était bruyante.",
+      "vous": "Je suis content que vous ayez calmé le chien.",
+      "ils": "Il est heureux qu'ils aient calmé la foule."
+    },
+    "Futur Proche": {
+      "je": "Je vais calmer le bébé.",
+      "tu": "Tu vas calmer ton chien ?",
+      "il": "Il va calmer la foule.",
+      "nous": "Nous allons calmer la situation.",
+      "vous": "Vous allez calmer les enfants ?",
+      "ils": "Ils vont calmer le jeu."
+    },
+    "Impératif": {
+      "tu": "Calme ton chien, s'il te plaît.",
+      "nous": "Calmons le jeu.",
+      "vous": "Calmez les enfants avant le spectacle."
+    }
+  }
+}

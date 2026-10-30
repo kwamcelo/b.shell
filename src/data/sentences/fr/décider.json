@@ -1,0 +1,106 @@
+{
+  "verb": "décider",
+  "tenses": {
+    "Présent": {
+      "je": "Je décide de partir demain.",
+      "tu": "Tu décides quoi pour ce soir ?",
+      "il": "Il décide toujours à la dernière minute.",
+      "nous": "Nous décidons ensemble où aller en vacances.",
+      "vous": "Vous décidez de la date de la réunion ?",
+      "ils": "Ils décident de vendre la maison."
+    },
+    "Imparfait": {
+      "je": "Je décidais toujours trop vite.",
+      "tu": "Tu décidais de tout à la maison.",
+      "il": "Il décidait du menu chaque semaine.",
+      "nous": "Nous décidions des sorties ensemble.",
+      "vous": "Vous décidiez des horaires ?",
+      "ils": "Ils décidaient de tout sans nous consulter."
+    },
+    "Futur Simple": {
+      "je": "Je déciderai demain.",
+      "tu": "Tu décideras de la couleur du mur.",
+      "il": "Il décidera après la réunion.",
+      "nous": "Nous déciderons ensemble.",
+      "vous": "Vous déciderez de la date.",
+      "ils": "Ils décideront du nom du bébé."
+    },
+    "Conditionnel Présent": {
+      "je": "Je déciderais plus vite avec plus d'informations.",
+      "tu": "Tu déciderais quoi à ma place ?",
+      "il": "Il déciderait mieux avec du recul.",
+      "nous": "Nous déciderions avec plaisir.",
+      "vous": "Vous décideriez de partir ?",
+      "ils": "Ils décideraient de rester avec un meilleur salaire."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je décide avant vendredi.",
+      "tu": "J'aimerais que tu décides vite.",
+      "il": "Il est temps qu'il décide.",
+      "nous": "Il faut que nous décidions de la date.",
+      "vous": "Je souhaite que vous décidiez ensemble.",
+      "ils": "Il faut qu'ils décident du menu."
+    },
+    "Passé Simple": {
+      "je": "Je décidai de partir à l'aube.",
+      "tu": "Tu décidas de rester au village.",
+      "il": "Il décida de traverser la mer.",
+      "nous": "Nous décidâmes d'attaquer le château.",
+      "vous": "Vous décidâtes de pardonner au traître.",
+      "ils": "Ils décidèrent de fuir."
+    },
+    "Passé Composé": {
+      "je": "J'ai décidé de changer de travail.",
+      "tu": "Tu as décidé quoi ?",
+      "il": "Il a décidé d'apprendre le chinois.",
+      "nous": "Nous avons décidé de déménager.",
+      "vous": "Vous avez décidé de la date du mariage ?",
+      "ils": "Ils ont décidé de rester à la maison."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais décidé de ne rien dire.",
+      "tu": "Tu avais décidé de partir ?",
+      "il": "Il avait décidé de vendre sa voiture.",
+      "nous": "Nous avions décidé de rester une semaine de plus.",
+      "vous": "Vous aviez décidé de la date ?",
+      "ils": "Ils avaient décidé de se marier en secret."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai décidé avant la fin du mois.",
+      "tu": "Tu auras décidé de ton avenir.",
+      "il": "Il aura décidé de rester.",
+      "nous": "Nous aurons décidé de la destination.",
+      "vous": "Vous aurez décidé avant lundi.",
+      "ils": "Ils auront décidé du nom du chien."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais décidé autrement à ta place.",
+      "tu": "Tu aurais décidé quoi ?",
+      "il": "Il aurait décidé de partir sans ce nouveau poste.",
+      "nous": "Nous aurions décidé plus vite avec tous les détails.",
+      "vous": "Vous auriez décidé de rester ?",
+      "ils": "Ils auraient décidé de vendre sans cette offre."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fiers que j'aie décidé de reprendre mes études.",
+      "tu": "C'est courageux que tu aies décidé de partir.",
+      "il": "Je suis surpris qu'il ait décidé de démissionner.",
+      "nous": "Bien que nous ayons décidé de partir tôt, nous sommes en retard.",
+      "vous": "Je suis content que vous ayez décidé de venir.",
+      "ils": "C'est dommage qu'ils aient décidé de déménager."
+    },
+    "Futur Proche": {
+      "je": "Je vais décider ce soir.",
+      "tu": "Tu vas décider quand ?",
+      "il": "Il va décider demain.",
+      "nous": "Nous allons décider ensemble.",
+      "vous": "Vous allez décider de la date ?",
+      "ils": "Ils vont décider du menu."
+    },
+    "Impératif": {
+      "tu": "Décide-toi, on n'a pas toute la journée !",
+      "nous": "Décidons de la date maintenant.",
+      "vous": "Décidez ensemble, je suis d'accord avec tout."
+    }
+  }
+}

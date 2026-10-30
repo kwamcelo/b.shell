@@ -19496,11 +19496,6 @@
       "m": "ils vont suffire",
       "f": "elles vont suffire"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "suffis",
-     "1e personne du pluriel": "suffisons",
-     "2e personne du pluriel": "suffisez"
     }
    }
   },
@@ -19689,11 +19684,6 @@
       "m": "ils vont sembler",
       "f": "elles vont sembler"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "semble",
-     "1e personne du pluriel": "semblons",
-     "2e personne du pluriel": "semblez"
     }
    }
   },
@@ -20654,11 +20644,6 @@
       "m": "ils vont s'inquiéter",
       "f": "elles vont s'inquiéter"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "inquiète-toi",
-     "1e personne du pluriel": "inquiétons-nous",
-     "2e personne du pluriel": "inquiétez-vous"
     }
    }
   },
@@ -28971,9 +28956,9 @@
      "1e personne du singulier": "je me tais",
      "2e personne du singulier": "tu te tais",
      "3e personne du singulier": {
-      "m": "il se taît",
-      "f": "elle se taît",
-      "neutral": "on se taît"
+      "m": "il se tait",
+      "f": "elle se tait",
+      "neutral": "on se tait"
      },
      "1e personne du pluriel": "nous nous taisons",
      "2e personne du pluriel": "vous vous taisez",
@@ -29532,11 +29517,6 @@
       "m": "ils vont se tromper",
       "f": "elles vont se tromper"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "trompe-toi",
-     "1e personne du pluriel": "trompons-nous",
-     "2e personne du pluriel": "trompez-vous"
     }
    }
   },
@@ -29725,11 +29705,6 @@
       "m": "ils vont ressembler",
       "f": "elles vont ressembler"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "ressemble",
-     "1e personne du pluriel": "ressemblons",
-     "2e personne du pluriel": "ressemblez"
     }
    }
   },

@@ -1,0 +1,106 @@
+{
+  "verb": "descendre",
+  "tenses": {
+    "Présent": {
+      "je": "Je descends au prochain arrêt.",
+      "tu": "Tu descends à la cave chercher du vin ?",
+      "il": "Il descend l'escalier en courant.",
+      "nous": "Nous descendons vers la plage à pied.",
+      "vous": "Vous descendez à quelle station ?",
+      "ils": "Ils descendent en ville tous les samedis."
+    },
+    "Imparfait": {
+      "je": "Je descendais la rue en vélo sans freiner.",
+      "tu": "Tu descendais toujours à la même station.",
+      "il": "Il descendait au village chaque matin.",
+      "nous": "Nous descendions la rivière en canoë.",
+      "vous": "Vous descendiez souvent dans le sud ?",
+      "ils": "Ils descendaient les pistes à toute vitesse."
+    },
+    "Futur Simple": {
+      "je": "Je descendrai dans cinq minutes.",
+      "tu": "Tu descendras à la gare centrale.",
+      "il": "Il descendra du train à Lyon.",
+      "nous": "Nous descendrons à l'hôtel du port.",
+      "vous": "Vous descendrez au rez-de-chaussée.",
+      "ils": "Ils descendront en Provence cet été."
+    },
+    "Conditionnel Présent": {
+      "je": "Je descendrais bien à la plage.",
+      "tu": "Tu descendrais la poubelle, s'il te plaît ?",
+      "il": "Il descendrait plus vite par l'escalier.",
+      "nous": "Nous descendrions en ski avec plus de neige.",
+      "vous": "Vous descendriez au prochain arrêt ?",
+      "ils": "Ils descendraient à pied avec un meilleur temps."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je descende dîner.",
+      "tu": "Il faut que tu descendes au prochain arrêt.",
+      "il": "J'attends qu'il descende du bus.",
+      "nous": "Il vaut mieux que nous descendions avant la nuit.",
+      "vous": "Je préfère que vous descendiez par l'escalier.",
+      "ils": "Il faut qu'ils descendent à la station suivante."
+    },
+    "Passé Simple": {
+      "je": "Je descendis dans la vallée à l'aube.",
+      "tu": "Tu descendis de ton cheval.",
+      "il": "Il descendit les marches du palais.",
+      "nous": "Nous descendîmes la rivière en barque.",
+      "vous": "Vous descendîtes dans les catacombes.",
+      "ils": "Ils descendirent de la montagne avant l'orage."
+    },
+    "Passé Composé": {
+      "je": "Je suis descendu à la mauvaise station.",
+      "tu": "Tu es descendu par l'escalier ?",
+      "il": "Il est descendu chercher le courrier.",
+      "nous": "Nous sommes descendus à la plage à pied.",
+      "vous": "Vous êtes descendus à quel hôtel ?",
+      "ils": "Ils sont descendus du train à Marseille."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais descendu chercher du pain.",
+      "tu": "Tu étais descendu à la cave ?",
+      "il": "Il était descendu dans le sud pour l'été.",
+      "nous": "Nous étions descendus au village pour le marché.",
+      "vous": "Vous étiez descendus par le sentier ?",
+      "ils": "Ils étaient descendus de l'avion en premier."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai descendu avant ton arrivée.",
+      "tu": "Tu seras descendu du bus avant moi.",
+      "il": "Il sera descendu de la montagne avant la nuit.",
+      "nous": "Nous serons descendus à la plage à cette heure-là.",
+      "vous": "Vous serez descendus au bon arrêt.",
+      "ils": "Ils seront descendus en ville pour le marché."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais descendu plus tôt sans ce coup de fil.",
+      "tu": "Tu serais descendu par la fenêtre ?",
+      "il": "Il serait descendu au prochain arrêt sans ce retard.",
+      "nous": "Nous serions descendus à pied sans la pluie.",
+      "vous": "Vous seriez descendus à ma place ?",
+      "ils": "Ils seraient descendus plus vite en téléphérique."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont surpris que je sois descendu si vite.",
+      "tu": "C'est bien que tu sois descendu au bon arrêt.",
+      "il": "Je doute qu'il soit descendu à la cave.",
+      "nous": "Bien que nous soyons descendus tôt, il n'y avait plus de croissants.",
+      "vous": "Je suis content que vous soyez descendus nous voir.",
+      "ils": "Il est possible qu'ils soient descendus à la station précédente."
+    },
+    "Futur Proche": {
+      "je": "Je vais descendre au prochain arrêt.",
+      "tu": "Tu vas descendre ou monter ?",
+      "il": "Il va descendre chercher le courrier.",
+      "nous": "Nous allons descendre à la plage.",
+      "vous": "Vous allez descendre à quelle gare ?",
+      "ils": "Ils vont descendre en ville."
+    },
+    "Impératif": {
+      "tu": "Descends, le dîner est prêt !",
+      "nous": "Descendons au port pour voir les bateaux.",
+      "vous": "Descendez à la prochaine station."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "se réveiller",
+  "tenses": {
+    "Présent": {
+      "je": "Je me réveille à sept heures.",
+      "tu": "Tu te réveilles toujours si tôt ?",
+      "il": "Il se réveille avec le soleil.",
+      "nous": "Nous nous réveillons sans réveil.",
+      "vous": "Vous vous réveillez à quelle heure ?",
+      "ils": "Ils se réveillent la nuit."
+    },
+    "Imparfait": {
+      "je": "Je me réveillais à cinq heures pour travailler.",
+      "tu": "Tu te réveillais toujours de bonne humeur.",
+      "il": "Il se réveillait au chant du coq.",
+      "nous": "Nous nous réveillions tard le dimanche.",
+      "vous": "Vous vous réveilliez la nuit ?",
+      "ils": "Ils se réveillaient avant l'aube."
+    },
+    "Futur Simple": {
+      "je": "Je me réveillerai tôt demain.",
+      "tu": "Tu te réveilleras à quelle heure ?",
+      "il": "Il se réveillera après la sieste.",
+      "nous": "Nous nous réveillerons au bord de la mer.",
+      "vous": "Vous vous réveillerez avec le soleil.",
+      "ils": "Ils se réveilleront tôt pour le voyage."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me réveillerais plus tôt avec un meilleur réveil.",
+      "tu": "Tu te réveillerais à six heures ?",
+      "il": "Il se réveillerait sans ce bruit.",
+      "nous": "Nous nous réveillerions plus tard sans les oiseaux.",
+      "vous": "Vous vous réveilleriez avec le soleil.",
+      "ils": "Ils se réveilleraient plus tôt avec des volets ouverts."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je me réveille à six heures.",
+      "tu": "Je veux que tu te réveilles tôt demain.",
+      "il": "J'ai peur qu'il se réveille avec le bruit.",
+      "nous": "Il faut que nous nous réveillions avant l'aube.",
+      "vous": "J'aimerais que vous vous réveilliez plus tôt.",
+      "ils": "Il faut qu'ils se réveillent à l'heure."
+    },
+    "Passé Simple": {
+      "je": "Je me réveillai dans une pièce inconnue.",
+      "tu": "Tu te réveillas au milieu de la nuit.",
+      "il": "Il se réveilla après cent ans de sommeil.",
+      "nous": "Nous nous réveillâmes au bord de la mer.",
+      "vous": "Vous vous réveillâtes en sursaut.",
+      "ils": "Ils se réveillèrent dans la forêt."
+    },
+    "Passé Composé": {
+      "je": "Je me suis réveillé à midi.",
+      "tu": "Tu t'es réveillé à quelle heure ?",
+      "il": "Il s'est réveillé en retard.",
+      "nous": "Nous nous sommes réveillés tôt.",
+      "vous": "Vous vous êtes réveillés avec le bruit ?",
+      "ils": "Ils se sont réveillés pendant l'orage."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais réveillé avant le réveil.",
+      "tu": "Tu t'étais réveillé en retard.",
+      "il": "Il s'était réveillé au milieu de la nuit.",
+      "nous": "Nous nous étions réveillés trop tard.",
+      "vous": "Vous vous étiez réveillés avec le soleil ?",
+      "ils": "Ils s'étaient réveillés pendant la nuit."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai réveillé avant ton départ.",
+      "tu": "Tu te seras réveillé trop tard.",
+      "il": "Il se sera réveillé avant midi.",
+      "nous": "Nous nous serons réveillés à temps.",
+      "vous": "Vous vous serez réveillés de bonne heure.",
+      "ils": "Ils se seront réveillés avant l'aube."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais réveillé plus tôt sans ce film hier soir.",
+      "tu": "Tu te serais réveillé avec ce bruit ?",
+      "il": "Il se serait réveillé sans les volets.",
+      "nous": "Nous nous serions réveillés plus tôt avec un réveil.",
+      "vous": "Vous vous seriez réveillés à temps ?",
+      "ils": "Ils se seraient réveillés avec l'orage."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est surprise que je me sois réveillé si tôt.",
+      "tu": "C'est bien que tu te sois réveillé à l'heure.",
+      "il": "Il est possible qu'il se soit réveillé pendant la nuit.",
+      "nous": "Bien que nous nous soyons réveillés tôt, nous avons raté le bus.",
+      "vous": "C'est étonnant que vous vous soyez réveillés si tard.",
+      "ils": "Je doute qu'ils se soient réveillés à l'heure."
+    },
+    "Futur Proche": {
+      "je": "Je vais me réveiller tôt.",
+      "tu": "Tu vas te réveiller à quelle heure ?",
+      "il": "Il va se réveiller bientôt.",
+      "nous": "Nous allons nous réveiller tôt.",
+      "vous": "Vous allez vous réveiller avec le soleil.",
+      "ils": "Ils vont se réveiller dans une heure."
+    },
+    "Impératif": {
+      "tu": "Réveille-toi, on est en retard !",
+      "nous": "Réveillons-nous tôt demain.",
+      "vous": "Réveillez-vous, le petit déjeuner est prêt !"
+    }
+  }
+}
