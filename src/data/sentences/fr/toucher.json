@@ -1,0 +1,106 @@
+{
+  "verb": "toucher",
+  "tenses": {
+    "Présent": {
+      "je": "Je touche le fond de la piscine avec mes pieds.",
+      "tu": "Tu touches à mes affaires ?",
+      "il": "Il touche son salaire le premier du mois.",
+      "nous": "Nous touchons presque au but.",
+      "vous": "Vous touchez une prime cette année ?",
+      "ils": "Ils touchent tout dans le magasin."
+    },
+    "Imparfait": {
+      "je": "Je touchais le plafond en sautant.",
+      "tu": "Tu touchais toujours à tout.",
+      "il": "Il touchait une petite pension.",
+      "nous": "Nous touchions l'eau du bout des pieds.",
+      "vous": "Vous touchiez une bourse pendant vos études ?",
+      "ils": "Ils touchaient les animaux de la ferme."
+    },
+    "Futur Simple": {
+      "je": "Je toucherai mon premier salaire en juin.",
+      "tu": "Tu toucheras le sol avec tes mains.",
+      "il": "Il touchera une prime à Noël.",
+      "nous": "Nous toucherons le jackpot un jour !",
+      "vous": "Vous toucherez votre remboursement dans un mois.",
+      "ils": "Ils toucheront l'héritage de leur oncle."
+    },
+    "Conditionnel Présent": {
+      "je": "Je toucherais le plafond avec un tabouret.",
+      "tu": "Tu toucherais un serpent ?",
+      "il": "Il toucherait plus avec un autre contrat.",
+      "nous": "Nous toucherions une aide avec ce dossier.",
+      "vous": "Vous toucheriez ce tableau ?",
+      "ils": "Ils toucheraient le ballon avec plus d'élan."
+    },
+    "Subjonctif": {
+      "je": "Mon père refuse que je touche à sa voiture.",
+      "tu": "Je ne veux pas que tu touches à ce gâteau.",
+      "il": "Il ne faut pas qu'il touche aux fils électriques.",
+      "nous": "Il faut que nous touchions au moins une fois le ballon.",
+      "vous": "Je préfère que vous touchiez avec des gants.",
+      "ils": "Il ne faut pas qu'ils touchent les œuvres."
+    },
+    "Passé Simple": {
+      "je": "Je touchai la pierre magique.",
+      "tu": "Tu touchas le sol de ta patrie.",
+      "il": "Il toucha la cloche du bout des doigts.",
+      "nous": "Nous touchâmes terre après trois semaines en mer.",
+      "vous": "Vous touchâtes le cœur de la reine.",
+      "ils": "Ils touchèrent la côte au lever du soleil."
+    },
+    "Passé Composé": {
+      "je": "J'ai touché un dauphin pendant la plongée.",
+      "tu": "Tu as touché à mon ordinateur ?",
+      "il": "Il a touché le ballon de la main.",
+      "nous": "Nous avons touché notre premier salaire.",
+      "vous": "Vous avez touché votre prime ?",
+      "ils": "Ils ont touché le cœur du public."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais touché ce tableau sans faire exprès.",
+      "tu": "Tu avais touché à la télécommande ?",
+      "il": "Il avait touché une petite fortune.",
+      "nous": "Nous avions touché le fond de la grotte.",
+      "vous": "Vous aviez touché votre remboursement ?",
+      "ils": "Ils avaient touché la ligne d'arrivée ensemble."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai touché mon salaire avant le voyage.",
+      "tu": "Tu auras touché le cœur de tout le monde.",
+      "il": "Il aura touché sa prime d'ici là.",
+      "nous": "Nous aurons touché au but.",
+      "vous": "Vous aurez touché votre indemnité.",
+      "ils": "Ils auront touché leur argent avant Noël."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais touché le panier avec un meilleur tir.",
+      "tu": "Tu aurais touché ce serpent ?",
+      "il": "Il aurait touché le ballon sans cette chute.",
+      "nous": "Nous aurions touché une prime avec de meilleurs résultats.",
+      "vous": "Vous auriez touché à ce plat ?",
+      "ils": "Ils auraient touché le fond sans cette aide."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon frère est fâché que j'aie touché à son vélo.",
+      "tu": "C'est génial que tu aies touché ton premier salaire.",
+      "il": "Je doute qu'il ait touché sa prime.",
+      "nous": "Bien que nous ayons touché le ballon, l'arbitre a sifflé.",
+      "vous": "Je suis content que vous ayez touché votre argent.",
+      "ils": "C'est émouvant qu'ils aient touché le public."
+    },
+    "Futur Proche": {
+      "je": "Je vais toucher mon salaire demain.",
+      "tu": "Tu vas toucher le fond, fais attention.",
+      "il": "Il va toucher une prime.",
+      "nous": "Nous allons toucher l'eau.",
+      "vous": "Vous allez toucher votre remboursement.",
+      "ils": "Ils vont toucher le sommet."
+    },
+    "Impératif": {
+      "tu": "Ne touche pas à ça !",
+      "nous": "Touchons du bois.",
+      "vous": "Touchez avec les yeux, pas avec les mains."
+    }
+  }
+}

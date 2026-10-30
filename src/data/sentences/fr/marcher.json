@@ -1,0 +1,106 @@
+{
+  "verb": "marcher",
+  "tenses": {
+    "Présent": {
+      "je": "Je marche une heure tous les matins.",
+      "tu": "Tu marches trop vite pour moi !",
+      "il": "Il marche jusqu'au bureau.",
+      "nous": "Nous marchons le long de la plage.",
+      "vous": "Vous marchez beaucoup en vacances ?",
+      "ils": "Ils marchent main dans la main."
+    },
+    "Imparfait": {
+      "je": "Je marchais jusqu'à l'école tous les jours.",
+      "tu": "Tu marchais pieds nus dans le jardin.",
+      "il": "Il marchait avec une canne.",
+      "nous": "Nous marchions des kilomètres sans nous fatiguer.",
+      "vous": "Vous marchiez souvent en montagne ?",
+      "ils": "Ils marchaient sous la pluie en chantant."
+    },
+    "Futur Simple": {
+      "je": "Je marcherai jusqu'à la gare.",
+      "tu": "Tu marcheras moins vite, s'il te plaît.",
+      "il": "Il marchera dans les pas de son père.",
+      "nous": "Nous marcherons vingt kilomètres demain.",
+      "vous": "Vous marcherez jusqu'au sommet.",
+      "ils": "Ils marcheront pour le climat samedi."
+    },
+    "Conditionnel Présent": {
+      "je": "Je marcherais bien un peu après le dîner.",
+      "tu": "Tu marcherais avec moi jusqu'au parc ?",
+      "il": "Il marcherait plus avec de bonnes chaussures.",
+      "nous": "Nous marcherions moins vite avec les enfants.",
+      "vous": "Vous marcheriez jusqu'au port ?",
+      "ils": "Ils marcheraient des heures dans cette forêt."
+    },
+    "Subjonctif": {
+      "je": "Le médecin veut que je marche tous les jours.",
+      "tu": "J'aimerais que tu marches à côté de moi.",
+      "il": "Il faut qu'il marche un peu après l'opération.",
+      "nous": "Il vaut mieux que nous marchions sur le trottoir.",
+      "vous": "Je préfère que vous marchiez lentement.",
+      "ils": "Il faut qu'ils marchent en file indienne."
+    },
+    "Passé Simple": {
+      "je": "Je marchai toute la nuit sous la neige.",
+      "tu": "Tu marchas jusqu'à la mer.",
+      "il": "Il marcha vers la ville sans s'arrêter.",
+      "nous": "Nous marchâmes pendant trois jours.",
+      "vous": "Vous marchâtes à la tête de l'armée.",
+      "ils": "Ils marchèrent jusqu'au village voisin."
+    },
+    "Passé Composé": {
+      "je": "J'ai marché quinze kilomètres aujourd'hui.",
+      "tu": "Tu as marché dans une flaque ?",
+      "il": "Il a marché sur le pied de sa voisine.",
+      "nous": "Nous avons marché jusqu'au sommet.",
+      "vous": "Vous avez marché longtemps ?",
+      "ils": "Ils ont marché toute la journée."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais marché toute la matinée.",
+      "tu": "Tu avais marché sous la pluie ?",
+      "il": "Il avait marché jusqu'au village voisin.",
+      "nous": "Nous avions marché pendant des heures.",
+      "vous": "Vous aviez marché jusqu'à la cascade ?",
+      "ils": "Ils avaient marché dans la boue."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai marché vingt kilomètres avant midi.",
+      "tu": "Tu auras marché toute la journée.",
+      "il": "Il aura marché le long de toute la côte.",
+      "nous": "Nous aurons marché mille kilomètres cette année.",
+      "vous": "Vous aurez marché beaucoup.",
+      "ils": "Ils auront marché jusqu'à Compostelle."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais marché, mais il pleuvait trop.",
+      "tu": "Tu aurais marché jusque là-bas ?",
+      "il": "Il aurait marché plus loin avec de meilleures chaussures.",
+      "nous": "Nous aurions marché jusqu'au lac sans l'orage.",
+      "vous": "Vous auriez marché sous la neige ?",
+      "ils": "Ils auraient marché toute la nuit."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon médecin est content que j'aie marché tous les jours.",
+      "tu": "C'est bien que tu aies marché un peu.",
+      "il": "Je doute qu'il ait marché si loin.",
+      "nous": "Bien que nous ayons marché longtemps, nous ne sommes pas fatigués.",
+      "vous": "Je suis impressionné que vous ayez marché jusqu'ici.",
+      "ils": "C'est incroyable qu'ils aient marché trente kilomètres."
+    },
+    "Futur Proche": {
+      "je": "Je vais marcher un peu.",
+      "tu": "Tu vas marcher jusqu'à l'école ?",
+      "il": "Il va marcher avec nous.",
+      "nous": "Nous allons marcher le long du canal.",
+      "vous": "Vous allez marcher jusqu'à la plage ?",
+      "ils": "Ils vont marcher en montagne."
+    },
+    "Impératif": {
+      "tu": "Marche plus lentement, s'il te plaît.",
+      "nous": "Marchons jusqu'au parc.",
+      "vous": "Marchez sur le trottoir."
+    }
+  }
+}

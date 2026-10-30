@@ -1,0 +1,106 @@
+{
+  "verb": "raconter",
+  "tenses": {
+    "Présent": {
+      "je": "Je raconte une histoire à ma fille chaque soir.",
+      "tu": "Tu racontes toujours les mêmes blagues !",
+      "il": "Il raconte ses voyages avec passion.",
+      "nous": "Nous racontons nos souvenirs d'enfance.",
+      "vous": "Vous racontez votre week-end ?",
+      "ils": "Ils racontent des histoires de fantômes."
+    },
+    "Imparfait": {
+      "je": "Je racontais des histoires à mon petit frère.",
+      "tu": "Tu racontais toujours n'importe quoi.",
+      "il": "Il racontait la guerre à ses petits-enfants.",
+      "nous": "Nous racontions des blagues autour du feu.",
+      "vous": "Vous racontiez quoi à la pause ?",
+      "ils": "Ils racontaient leur journée pendant le dîner."
+    },
+    "Futur Simple": {
+      "je": "Je raconterai tout à ton retour.",
+      "tu": "Tu raconteras ton voyage à tes amis.",
+      "il": "Il racontera son aventure dans un livre.",
+      "nous": "Nous raconterons cette histoire à nos enfants.",
+      "vous": "Vous raconterez la suite demain.",
+      "ils": "Ils raconteront la vérité au juge."
+    },
+    "Conditionnel Présent": {
+      "je": "Je raconterais bien cette histoire à mes amis.",
+      "tu": "Tu raconterais ton secret à ta mère ?",
+      "il": "Il raconterait des blagues toute la nuit.",
+      "nous": "Nous raconterions notre voyage avec plaisir.",
+      "vous": "Vous raconteriez ce qui s'est passé ?",
+      "ils": "Ils raconteraient tout à la police."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je raconte la fin ?",
+      "tu": "J'aimerais que tu racontes ton voyage.",
+      "il": "Il faut qu'il raconte la vérité.",
+      "nous": "Il est temps que nous racontions ce qui s'est passé.",
+      "vous": "Je souhaite que vous racontiez votre histoire.",
+      "ils": "Il faut qu'ils racontent tout au directeur."
+    },
+    "Passé Simple": {
+      "je": "Je racontai mon aventure au roi.",
+      "tu": "Tu racontas la légende du dragon.",
+      "il": "Il raconta ses voyages en Orient.",
+      "nous": "Nous racontâmes notre histoire au juge.",
+      "vous": "Vous racontâtes la bataille aux villageois.",
+      "ils": "Ils racontèrent leur périple jusqu'à l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai raconté mes vacances à mes collègues.",
+      "tu": "Tu as raconté la nouvelle à ta sœur ?",
+      "il": "Il a raconté une blague très drôle.",
+      "nous": "Nous avons raconté notre voyage à nos parents.",
+      "vous": "Vous avez raconté la vérité ?",
+      "ils": "Ils ont raconté leur rencontre au mariage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais raconté cette histoire cent fois.",
+      "tu": "Tu avais raconté ce secret à quelqu'un ?",
+      "il": "Il avait raconté sa vie dans un livre.",
+      "nous": "Nous avions raconté la blague à tout le monde.",
+      "vous": "Vous aviez raconté la fin du film ?",
+      "ils": "Ils avaient raconté leur voyage en détail."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai raconté cette histoire à tout le monde.",
+      "tu": "Tu auras raconté ton aventure dix fois.",
+      "il": "Il aura raconté la même blague toute la soirée.",
+      "nous": "Nous aurons raconté nos souvenirs.",
+      "vous": "Vous aurez raconté tout votre voyage.",
+      "ils": "Ils auront raconté la vérité."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais raconté la vérité à ta place.",
+      "tu": "Tu aurais raconté ça à ta mère ?",
+      "il": "Il aurait raconté une autre histoire.",
+      "nous": "Nous aurions raconté notre aventure avec plaisir.",
+      "vous": "Vous auriez raconté ce secret ?",
+      "ils": "Ils auraient raconté tout à la police."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est fâché que j'aie raconté son secret.",
+      "tu": "C'est drôle que tu aies raconté cette histoire.",
+      "il": "Je doute qu'il ait raconté la vérité.",
+      "nous": "Bien que nous ayons raconté l'histoire, personne ne nous croit.",
+      "vous": "Je suis content que vous ayez raconté votre voyage.",
+      "ils": "C'est dommage qu'ils aient raconté la fin du film."
+    },
+    "Futur Proche": {
+      "je": "Je vais raconter une histoire.",
+      "tu": "Tu vas raconter ton voyage ?",
+      "il": "Il va raconter une blague.",
+      "nous": "Nous allons raconter la vérité.",
+      "vous": "Vous allez raconter ce qui s'est passé ?",
+      "ils": "Ils vont raconter leur aventure."
+    },
+    "Impératif": {
+      "tu": "Raconte-moi ta journée.",
+      "nous": "Racontons-lui toute l'histoire.",
+      "vous": "Racontez-nous votre voyage."
+    }
+  }
+}

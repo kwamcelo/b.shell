@@ -16136,14 +16136,14 @@
      "2e personne du singulier": "tu t'es rappelé",
      "3e personne du singulier": {
       "m": "il s'est rappelé",
-      "f": "elle s'est rappelée",
+      "f": "elle s'est rappelé",
       "neutral": "on s'est rappelé"
      },
-     "1e personne du pluriel": "nous nous sommes rappelés",
-     "2e personne du pluriel": "vous vous êtes rappelés",
+     "1e personne du pluriel": "nous nous sommes rappelé",
+     "2e personne du pluriel": "vous vous êtes rappelé",
      "3e personne du pluriel": {
-      "m": "ils se sont rappelés",
-      "f": "elles se sont rappelées"
+      "m": "ils se sont rappelé",
+      "f": "elles se sont rappelé"
      }
     },
     "Plus-que-parfait": {
@@ -16151,14 +16151,14 @@
      "2e personne du singulier": "tu t'étais rappelé",
      "3e personne du singulier": {
       "m": "il s'était rappelé",
-      "f": "elle s'était rappelée",
+      "f": "elle s'était rappelé",
       "neutral": "on s'était rappelé"
      },
-     "1e personne du pluriel": "nous nous étions rappelés",
-     "2e personne du pluriel": "vous vous étiez rappelés",
+     "1e personne du pluriel": "nous nous étions rappelé",
+     "2e personne du pluriel": "vous vous étiez rappelé",
      "3e personne du pluriel": {
-      "m": "ils s'étaient rappelés",
-      "f": "elles s'étaient rappelées"
+      "m": "ils s'étaient rappelé",
+      "f": "elles s'étaient rappelé"
      }
     },
     "Futur Antérieur": {
@@ -16166,14 +16166,14 @@
      "2e personne du singulier": "tu te seras rappelé",
      "3e personne du singulier": {
       "m": "il se sera rappelé",
-      "f": "elle se sera rappelée",
+      "f": "elle se sera rappelé",
       "neutral": "on se sera rappelé"
      },
-     "1e personne du pluriel": "nous nous serons rappelés",
-     "2e personne du pluriel": "vous vous serez rappelés",
+     "1e personne du pluriel": "nous nous serons rappelé",
+     "2e personne du pluriel": "vous vous serez rappelé",
      "3e personne du pluriel": {
-      "m": "ils se seront rappelés",
-      "f": "elles se seront rappelées"
+      "m": "ils se seront rappelé",
+      "f": "elles se seront rappelé"
      }
     },
     "Conditionnel Passé": {
@@ -16181,14 +16181,14 @@
      "2e personne du singulier": "tu te serais rappelé",
      "3e personne du singulier": {
       "m": "il se serait rappelé",
-      "f": "elle se serait rappelée",
+      "f": "elle se serait rappelé",
       "neutral": "on se serait rappelé"
      },
-     "1e personne du pluriel": "nous nous serions rappelés",
-     "2e personne du pluriel": "vous vous seriez rappelés",
+     "1e personne du pluriel": "nous nous serions rappelé",
+     "2e personne du pluriel": "vous vous seriez rappelé",
      "3e personne du pluriel": {
-      "m": "ils se seraient rappelés",
-      "f": "elles se seraient rappelées"
+      "m": "ils se seraient rappelé",
+      "f": "elles se seraient rappelé"
      }
     },
     "Subjonctif Passé": {
@@ -16196,14 +16196,14 @@
      "2e personne du singulier": "tu te sois rappelé",
      "3e personne du singulier": {
       "m": "il se soit rappelé",
-      "f": "elle se soit rappelée",
+      "f": "elle se soit rappelé",
       "neutral": "on se soit rappelé"
      },
-     "1e personne du pluriel": "nous nous soyons rappelés",
-     "2e personne du pluriel": "vous vous soyez rappelés",
+     "1e personne du pluriel": "nous nous soyons rappelé",
+     "2e personne du pluriel": "vous vous soyez rappelé",
      "3e personne du pluriel": {
-      "m": "ils se soient rappelés",
-      "f": "elles se soient rappelées"
+      "m": "ils se soient rappelé",
+      "f": "elles se soient rappelé"
      }
     },
     "Futur Proche": {
@@ -19115,11 +19115,6 @@
       "m": "ils vont valoir",
       "f": "elles vont valoir"
      }
-    },
-    "Impératif": {
-     "2e personne du singulier": "vaux",
-     "1e personne du pluriel": "valons",
-     "2e personne du pluriel": "valez"
     }
    }
   },

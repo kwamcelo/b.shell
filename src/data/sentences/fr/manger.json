@@ -1,0 +1,106 @@
+{
+  "verb": "manger",
+  "tenses": {
+    "Présent": {
+      "je": "Je mange une pomme tous les matins.",
+      "tu": "Tu manges avec nous ce soir ?",
+      "il": "Il mange toujours trop vite.",
+      "nous": "Nous mangeons au restaurant le vendredi.",
+      "vous": "Vous mangez de la viande ?",
+      "ils": "Ils mangent souvent des pâtes."
+    },
+    "Imparfait": {
+      "je": "Je mangeais chez ma grand-mère le dimanche.",
+      "tu": "Tu mangeais à la cantine ?",
+      "il": "Il mangeait des céréales tous les matins.",
+      "nous": "Nous mangions dehors en été.",
+      "vous": "Vous mangiez quoi au petit-déjeuner ?",
+      "ils": "Ils mangeaient toujours en regardant la télé."
+    },
+    "Futur Simple": {
+      "je": "Je mangerai plus de légumes.",
+      "tu": "Tu mangeras ta soupe avant le dessert.",
+      "il": "Il mangera au bureau demain.",
+      "nous": "Nous mangerons sur la terrasse.",
+      "vous": "Vous mangerez avec nous ?",
+      "ils": "Ils mangeront à la maison ce soir."
+    },
+    "Conditionnel Présent": {
+      "je": "Je mangerais bien une crêpe.",
+      "tu": "Tu mangerais des escargots ?",
+      "il": "Il mangerait des frites tous les jours.",
+      "nous": "Nous mangerions dehors avec un peu de soleil.",
+      "vous": "Vous mangeriez quelque chose ?",
+      "ils": "Ils mangeraient mieux avec une cantine bio."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je mange plus de légumes.",
+      "tu": "Il faut que tu manges quelque chose.",
+      "il": "Le médecin veut qu'il mange moins de sel.",
+      "nous": "Il faut que nous mangions avant de partir.",
+      "vous": "J'aimerais que vous mangiez avec nous.",
+      "ils": "Il faut qu'ils mangent plus de fruits."
+    },
+    "Passé Simple": {
+      "je": "Je mangeai un morceau de pain et repartis.",
+      "tu": "Tu mangeas le dernier fruit de l'arbre.",
+      "il": "Il mangea en silence.",
+      "nous": "Nous mangeâmes près du feu.",
+      "vous": "Vous mangeâtes à la table du roi.",
+      "ils": "Ils mangèrent tout le gâteau."
+    },
+    "Passé Composé": {
+      "je": "J'ai mangé une délicieuse pizza hier.",
+      "tu": "Tu as mangé ?",
+      "il": "Il a mangé tout le chocolat !",
+      "nous": "Nous avons mangé au restaurant japonais.",
+      "vous": "Vous avez mangé des huîtres ?",
+      "ils": "Ils ont mangé avant de venir."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais mangé avant de partir.",
+      "tu": "Tu avais mangé trop de bonbons.",
+      "il": "Il avait mangé un sandwich dans le train.",
+      "nous": "Nous avions mangé dans ce restaurant l'année dernière.",
+      "vous": "Vous aviez mangé avant le spectacle ?",
+      "ils": "Ils avaient mangé tous les gâteaux."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai mangé avant ton arrivée.",
+      "tu": "Tu auras mangé avant le film ?",
+      "il": "Il aura mangé tout le fromage, comme d'habitude.",
+      "nous": "Nous aurons mangé avant de partir.",
+      "vous": "Vous aurez mangé dans le train.",
+      "ils": "Ils auront mangé à notre retour."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais mangé plus avec plus de faim.",
+      "tu": "Tu aurais mangé ça, toi ?",
+      "il": "Il aurait mangé avec nous sans ce rendez-vous.",
+      "nous": "Nous aurions mangé dehors sans la pluie.",
+      "vous": "Vous auriez mangé des grenouilles ?",
+      "ils": "Ils auraient mangé tout le gâteau sans moi."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie mangé sa soupe.",
+      "tu": "Je suis surpris que tu aies mangé des insectes.",
+      "il": "Je doute qu'il ait mangé ce matin.",
+      "nous": "Bien que nous ayons mangé tard, nous avons encore faim.",
+      "vous": "Je suis ravi que vous ayez mangé chez nous.",
+      "ils": "C'est bien qu'ils aient mangé des légumes."
+    },
+    "Futur Proche": {
+      "je": "Je vais manger un sandwich.",
+      "tu": "Tu vas manger quoi ce midi ?",
+      "il": "Il va manger chez ses parents.",
+      "nous": "Nous allons manger au parc.",
+      "vous": "Vous allez manger avec nous ?",
+      "ils": "Ils vont manger une raclette."
+    },
+    "Impératif": {
+      "tu": "Mange ta soupe !",
+      "nous": "Mangeons ensemble ce soir.",
+      "vous": "Mangez, ça va refroidir."
+    }
+  }
+}

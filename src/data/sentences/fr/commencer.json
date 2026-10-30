@@ -1,0 +1,106 @@
+{
+  "verb": "commencer",
+  "tenses": {
+    "Présent": {
+      "je": "Je commence un nouveau travail lundi.",
+      "tu": "Tu commences à quelle heure ?",
+      "il": "Il commence ses cours en septembre.",
+      "nous": "Nous commençons la réunion dans cinq minutes.",
+      "vous": "Vous commencez par l'entrée ou le plat ?",
+      "ils": "Ils commencent les travaux demain."
+    },
+    "Imparfait": {
+      "je": "Je commençais à comprendre la situation.",
+      "tu": "Tu commençais à t'endormir pendant le film.",
+      "il": "Il commençait toujours sa journée par un café.",
+      "nous": "Nous commencions les cours à huit heures.",
+      "vous": "Vous commenciez à vous inquiéter ?",
+      "ils": "Ils commençaient à perdre patience."
+    },
+    "Futur Simple": {
+      "je": "Je commencerai le régime lundi.",
+      "tu": "Tu commenceras par les exercices faciles.",
+      "il": "Il commencera son stage en janvier.",
+      "nous": "Nous commencerons sans eux.",
+      "vous": "Vous commencerez à huit heures précises.",
+      "ils": "Ils commenceront la construction au printemps."
+    },
+    "Conditionnel Présent": {
+      "je": "Je commencerais par une bonne nuit de sommeil.",
+      "tu": "Tu commencerais par quoi, toi ?",
+      "il": "Il commencerait plus tôt avec un réveil.",
+      "nous": "Nous commencerions le projet avec plus de budget.",
+      "vous": "Vous commenceriez par le début, s'il vous plaît ?",
+      "ils": "Ils commenceraient les travaux avec le permis."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je commence mes révisions.",
+      "tu": "Je veux que tu commences tes devoirs maintenant.",
+      "il": "Il est temps qu'il commence à travailler.",
+      "nous": "Il vaut mieux que nous commencions tôt.",
+      "vous": "J'aimerais que vous commenciez la réunion.",
+      "ils": "Il faut qu'ils commencent l'entraînement."
+    },
+    "Passé Simple": {
+      "je": "Je commençai à écrire ce roman en hiver.",
+      "tu": "Tu commenças ton voyage à l'aube.",
+      "il": "Il commença son discours par une blague.",
+      "nous": "Nous commençâmes la traversée sous la pluie.",
+      "vous": "Vous commençâtes la bataille au lever du jour.",
+      "ils": "Ils commencèrent à creuser le tunnel."
+    },
+    "Passé Composé": {
+      "je": "J'ai commencé le piano à six ans.",
+      "tu": "Tu as commencé ton nouveau livre ?",
+      "il": "Il a commencé à pleuvoir.",
+      "nous": "Nous avons commencé le repas sans toi.",
+      "vous": "Vous avez commencé vos études quand ?",
+      "ils": "Ils ont commencé la journée par un footing."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais commencé à cuisiner avant ton arrivée.",
+      "tu": "Tu avais commencé ce projet l'année dernière.",
+      "il": "Il avait commencé sa carrière à Londres.",
+      "nous": "Nous avions commencé les travaux en mai.",
+      "vous": "Vous aviez commencé sans nous ?",
+      "ils": "Ils avaient commencé à chanter."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai commencé mon stage avant l'été.",
+      "tu": "Tu auras commencé l'école à cette date.",
+      "il": "Il aura commencé son nouveau travail.",
+      "nous": "Nous aurons commencé les répétitions en mars.",
+      "vous": "Vous aurez commencé sans attendre.",
+      "ils": "Ils auront commencé les travaux avant l'hiver."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais commencé plus tôt avec ton aide.",
+      "tu": "Tu aurais commencé par quoi ?",
+      "il": "Il aurait commencé sa carrière en France.",
+      "nous": "Nous aurions commencé le match sans la pluie.",
+      "vous": "Vous auriez commencé sans nous ?",
+      "ils": "Ils auraient commencé à l'heure sans la panne."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie commencé mes révisions.",
+      "tu": "C'est bien que tu aies commencé le sport.",
+      "il": "Je doute qu'il ait commencé son rapport.",
+      "nous": "Bien que nous ayons commencé tôt, nous avons fini tard.",
+      "vous": "Je suis content que vous ayez commencé sans moi.",
+      "ils": "Il est possible qu'ils aient commencé sans nous."
+    },
+    "Futur Proche": {
+      "je": "Je vais commencer un cours de yoga.",
+      "tu": "Tu vas commencer quand ?",
+      "il": "Il va commencer à pleuvoir.",
+      "nous": "Nous allons commencer la visite.",
+      "vous": "Vous allez commencer par la cuisine.",
+      "ils": "Ils vont commencer les travaux."
+    },
+    "Impératif": {
+      "tu": "Commence par le début.",
+      "nous": "Commençons la réunion.",
+      "vous": "Commencez quand vous voulez."
+    }
+  }
+}

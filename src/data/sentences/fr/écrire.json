@@ -1,0 +1,106 @@
+{
+  "verb": "écrire",
+  "tenses": {
+    "Présent": {
+      "je": "J'écris une lettre à ma grand-mère.",
+      "tu": "Tu écris un roman ?",
+      "il": "Il écrit des chansons pour son groupe.",
+      "nous": "Nous écrivons un article pour le journal de l'école.",
+      "vous": "Vous écrivez avec un stylo ou un crayon ?",
+      "ils": "Ils écrivent des poèmes en classe."
+    },
+    "Imparfait": {
+      "je": "J'écrivais un journal intime au lycée.",
+      "tu": "Tu écrivais à ta correspondante anglaise ?",
+      "il": "Il écrivait la nuit à la lumière d'une bougie.",
+      "nous": "Nous écrivions des lettres à nos parents.",
+      "vous": "Vous écriviez souvent à vos amis ?",
+      "ils": "Ils écrivaient des chansons dans le garage."
+    },
+    "Futur Simple": {
+      "je": "J'écrirai un mail au directeur.",
+      "tu": "Tu écriras ton nom en haut de la feuille.",
+      "il": "Il écrira un livre sur son voyage.",
+      "nous": "Nous écrirons une carte à nos amis.",
+      "vous": "Vous écrirez votre adresse ici.",
+      "ils": "Ils écriront la suite de l'histoire."
+    },
+    "Conditionnel Présent": {
+      "je": "J'écrirais un roman avec plus de temps.",
+      "tu": "Tu écrirais un discours pour le mariage ?",
+      "il": "Il écrirait mieux avec un bon dictionnaire.",
+      "nous": "Nous écririons plus souvent avec moins de travail.",
+      "vous": "Vous écririez votre numéro ici ?",
+      "ils": "Ils écriraient un article sur ce sujet."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'écrive ce rapport ce soir.",
+      "tu": "J'aimerais que tu écrives une carte à mamie.",
+      "il": "Je veux qu'il écrive une lettre d'excuses.",
+      "nous": "Il est temps que nous écrivions nos vœux.",
+      "vous": "Je préfère que vous écriviez au crayon.",
+      "ils": "Il faut qu'ils écrivent leur nom sur la copie."
+    },
+    "Passé Simple": {
+      "je": "J'écrivis une longue lettre à mon frère.",
+      "tu": "Tu écrivis ton premier poème à dix ans.",
+      "il": "Il écrivit ses mémoires en exil.",
+      "nous": "Nous écrivîmes au roi pour demander justice.",
+      "vous": "Vous écrivîtes un roman célèbre.",
+      "ils": "Ils écrivirent l'histoire de leur village."
+    },
+    "Passé Composé": {
+      "je": "J'ai écrit un poème pour ton anniversaire.",
+      "tu": "Tu as écrit à tes parents ?",
+      "il": "Il a écrit trois livres.",
+      "nous": "Nous avons écrit une chanson ensemble.",
+      "vous": "Vous avez écrit votre CV ?",
+      "ils": "Ils ont écrit un message sur le mur."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais écrit mon numéro sur un papier.",
+      "tu": "Tu avais écrit cette lettre avant de partir ?",
+      "il": "Il avait écrit un article sur la guerre.",
+      "nous": "Nous avions écrit une pièce de théâtre.",
+      "vous": "Vous aviez écrit à la mairie ?",
+      "ils": "Ils avaient écrit leurs noms sur l'arbre."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai écrit cent pages avant l'été.",
+      "tu": "Tu auras écrit ton mémoire avant juin.",
+      "il": "Il aura écrit dix romans dans sa vie.",
+      "nous": "Nous aurons écrit toutes les invitations.",
+      "vous": "Vous aurez écrit une belle histoire.",
+      "ils": "Ils auront écrit leur premier album."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais écrit plus tôt avec ton adresse.",
+      "tu": "Tu aurais écrit cette lettre à ma place ?",
+      "il": "Il aurait écrit un livre avec plus de patience.",
+      "nous": "Nous aurions écrit une carte avec un timbre.",
+      "vous": "Vous auriez écrit au journal ?",
+      "ils": "Ils auraient écrit une meilleure fin."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie écrit.",
+      "tu": "C'est gentil que tu aies écrit cette lettre.",
+      "il": "Je doute qu'il ait écrit ce livre.",
+      "nous": "Bien que nous ayons écrit trois fois, personne n'a répondu.",
+      "vous": "Je suis touché que vous ayez écrit ce poème.",
+      "ils": "C'est super qu'ils aient écrit une chanson."
+    },
+    "Futur Proche": {
+      "je": "Je vais écrire un mail.",
+      "tu": "Tu vas écrire à ton oncle ?",
+      "il": "Il va écrire un roman.",
+      "nous": "Nous allons écrire une lettre au maire.",
+      "vous": "Vous allez écrire votre nom ?",
+      "ils": "Ils vont écrire une chanson."
+    },
+    "Impératif": {
+      "tu": "Écris-moi bientôt !",
+      "nous": "Écrivons une carte à mamie.",
+      "vous": "Écrivez lisiblement, s'il vous plaît."
+    }
+  }
+}

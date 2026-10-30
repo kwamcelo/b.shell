@@ -1,0 +1,106 @@
+{
+  "verb": "devenir",
+  "tenses": {
+    "Présent": {
+      "je": "Je deviens membre du club de tennis.",
+      "tu": "Tu deviens célèbre avec cette vidéo !",
+      "il": "Il devient médecin cette année.",
+      "nous": "Nous devenons de plus en plus efficaces.",
+      "vous": "Vous devenez parents cette année ?",
+      "ils": "Ils deviennent propriétaires d'une maison."
+    },
+    "Imparfait": {
+      "je": "Je devenais calme en écoutant cette musique.",
+      "tu": "Tu devenais rouge quand on te regardait.",
+      "il": "Il devenait célèbre peu à peu.",
+      "nous": "Nous devenions plus rapides chaque jour.",
+      "vous": "Vous deveniez célèbres à cette époque ?",
+      "ils": "Ils devenaient populaires grâce à leur chaîne."
+    },
+    "Futur Simple": {
+      "je": "Je deviendrai pilote un jour.",
+      "tu": "Tu deviendras une star !",
+      "il": "Il deviendra maire de la ville.",
+      "nous": "Nous deviendrons propriétaires l'année prochaine.",
+      "vous": "Vous deviendrez membres du club en mars.",
+      "ils": "Ils deviendront célèbres avec cette chanson."
+    },
+    "Conditionnel Présent": {
+      "je": "Je deviendrais insupportable sans café.",
+      "tu": "Tu deviendrais végane, toi ?",
+      "il": "Il deviendrait prof sans problème.",
+      "nous": "Nous deviendrions riches avec cette idée.",
+      "vous": "Vous deviendriez membres de notre association ?",
+      "ils": "Ils deviendraient membres avec une invitation."
+    },
+    "Subjonctif": {
+      "je": "Mes parents veulent que je devienne médecin.",
+      "tu": "J'aimerais que tu deviennes membre de notre équipe.",
+      "il": "Il est possible qu'il devienne capitaine de l'équipe.",
+      "nous": "Il faut que nous devenions plus autonomes.",
+      "vous": "Je souhaite que vous deveniez membres du club.",
+      "ils": "J'ai peur qu'ils deviennent accros aux écrans."
+    },
+    "Passé Simple": {
+      "je": "Je devins capitaine à dix-huit ans.",
+      "tu": "Tu devins célèbre dans tout le royaume.",
+      "il": "Il devint chef du village à la mort de son père.",
+      "nous": "Nous devînmes inséparables.",
+      "vous": "Vous devîntes membres de l'Académie.",
+      "ils": "Ils devinrent célèbres dans tout le pays."
+    },
+    "Passé Composé": {
+      "je": "Je suis devenu prof il y a cinq ans.",
+      "tu": "Tu es devenu fan de ce groupe ?",
+      "il": "Il est devenu célèbre grâce à Internet.",
+      "nous": "Nous sommes devenus membres de cette association.",
+      "vous": "Vous êtes devenus propriétaires quand ?",
+      "ils": "Ils sont devenus célèbres avec leur premier film."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais devenu membre du club l'année précédente.",
+      "tu": "Tu étais devenu adulte trop vite.",
+      "il": "Il était devenu célèbre avant ses vingt ans.",
+      "nous": "Nous étions devenus inséparables.",
+      "vous": "Vous étiez devenus propriétaires avant la crise ?",
+      "ils": "Ils étaient devenus célèbres du jour au lendemain."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai devenu ingénieur dans deux ans.",
+      "tu": "Tu seras devenu adulte avant de t'en rendre compte.",
+      "il": "Il sera devenu capitaine de l'équipe.",
+      "nous": "Nous serons devenus membres du conseil.",
+      "vous": "Vous serez devenus parents d'ici là.",
+      "ils": "Ils seront devenus célèbres avant la fin de l'année."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais devenu pilote avec de meilleurs yeux.",
+      "tu": "Tu serais devenu quoi sans tes études ?",
+      "il": "Il serait devenu célèbre sans sa blessure.",
+      "nous": "Nous serions devenus proches dans d'autres circonstances.",
+      "vous": "Vous seriez devenus propriétaires avec un prêt.",
+      "ils": "Ils seraient devenus célèbres avec un meilleur agent."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fiers que je sois devenu médecin.",
+      "tu": "Je suis heureux que tu sois devenu membre de l'équipe.",
+      "il": "C'est incroyable qu'il soit devenu maire.",
+      "nous": "Bien que nous soyons devenus proches, nous nous voyons peu.",
+      "vous": "Je suis content que vous soyez devenus parents.",
+      "ils": "C'est fou qu'ils soient devenus si célèbres."
+    },
+    "Futur Proche": {
+      "je": "Je vais devenir prof de français.",
+      "tu": "Tu vas devenir célèbre !",
+      "il": "Il va devenir capitaine de l'équipe.",
+      "nous": "Nous allons devenir voisins.",
+      "vous": "Vous allez devenir parents ?",
+      "ils": "Ils vont devenir membres du club."
+    },
+    "Impératif": {
+      "tu": "Deviens la meilleure version de toi-même.",
+      "nous": "Devenons des citoyens responsables.",
+      "vous": "Devenez membre de notre club !"
+    }
+  }
+}

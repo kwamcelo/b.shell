@@ -1,0 +1,106 @@
+{
+  "verb": "acheter",
+  "tenses": {
+    "Présent": {
+      "je": "J'achète le pain tous les matins.",
+      "tu": "Tu achètes quoi pour son anniversaire ?",
+      "il": "Il achète le journal au kiosque.",
+      "nous": "Nous achetons nos légumes au marché.",
+      "vous": "Vous achetez vos billets en ligne ?",
+      "ils": "Ils achètent une nouvelle voiture."
+    },
+    "Imparfait": {
+      "je": "J'achetais des bonbons avec mon argent de poche.",
+      "tu": "Tu achetais toujours le même parfum.",
+      "il": "Il achetait des fleurs chaque vendredi.",
+      "nous": "Nous achetions nos vêtements en solde.",
+      "vous": "Vous achetiez souvent des livres ?",
+      "ils": "Ils achetaient du fromage à la ferme."
+    },
+    "Futur Simple": {
+      "je": "J'achèterai un vélo cet été.",
+      "tu": "Tu achèteras du lait en rentrant ?",
+      "il": "Il achètera les billets demain.",
+      "nous": "Nous achèterons une maison à la campagne.",
+      "vous": "Vous achèterez un souvenir pour vos amis ?",
+      "ils": "Ils achèteront un nouveau canapé."
+    },
+    "Conditionnel Présent": {
+      "je": "J'achèterais cette maison avec plus d'argent.",
+      "tu": "Tu achèterais une voiture électrique ?",
+      "il": "Il achèterait un bateau avec cet argent.",
+      "nous": "Nous achèterions un chien avec un jardin.",
+      "vous": "Vous achèteriez ce tableau ?",
+      "ils": "Ils achèteraient un appartement à Paris."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'achète un cadeau pour Paul.",
+      "tu": "Je veux que tu achètes du pain.",
+      "il": "Il faut qu'il achète un nouveau téléphone.",
+      "nous": "Il est temps que nous achetions une voiture.",
+      "vous": "J'aimerais que vous achetiez les billets.",
+      "ils": "Il vaut mieux qu'ils achètent un billet aller-retour."
+    },
+    "Passé Simple": {
+      "je": "J'achetai un cheval au marché.",
+      "tu": "Tu achetas une épée chez le forgeron.",
+      "il": "Il acheta le vieux moulin.",
+      "nous": "Nous achetâmes des vivres pour le voyage.",
+      "vous": "Vous achetâtes une maison au bord de la mer.",
+      "ils": "Ils achetèrent une ferme dans la vallée."
+    },
+    "Passé Composé": {
+      "je": "J'ai acheté une robe pour le mariage.",
+      "tu": "Tu as acheté les billets ?",
+      "il": "Il a acheté une nouvelle guitare.",
+      "nous": "Nous avons acheté un appartement.",
+      "vous": "Vous avez acheté du vin pour ce soir ?",
+      "ils": "Ils ont acheté une maison en Bretagne."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais acheté les billets à l'avance.",
+      "tu": "Tu avais acheté du pain ?",
+      "il": "Il avait acheté un cadeau pour sa mère.",
+      "nous": "Nous avions acheté trop de nourriture.",
+      "vous": "Vous aviez acheté ce tableau en Italie ?",
+      "ils": "Ils avaient acheté une tente pour le camping."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai acheté tous les cadeaux avant Noël.",
+      "tu": "Tu auras acheté ta maison avant trente ans.",
+      "il": "Il aura acheté les billets avant ce soir.",
+      "nous": "Nous aurons acheté tout le nécessaire.",
+      "vous": "Vous aurez acheté une voiture d'ici là.",
+      "ils": "Ils auront acheté les fournitures avant la rentrée."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais acheté cette veste avec une réduction.",
+      "tu": "Tu aurais acheté ça, toi ?",
+      "il": "Il aurait acheté la maison avec un prêt.",
+      "nous": "Nous aurions acheté plus de pain.",
+      "vous": "Vous auriez acheté ce tableau ?",
+      "ils": "Ils auraient acheté une plus grande voiture."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie acheté des fleurs.",
+      "tu": "C'est gentil que tu aies acheté ce cadeau.",
+      "il": "Je doute qu'il ait acheté les billets.",
+      "nous": "Bien que nous ayons acheté une carte, nous nous sommes perdus.",
+      "vous": "Je suis content que vous ayez acheté cette maison.",
+      "ils": "C'est étonnant qu'ils aient acheté une voiture si chère."
+    },
+    "Futur Proche": {
+      "je": "Je vais acheter du pain.",
+      "tu": "Tu vas acheter quoi ?",
+      "il": "Il va acheter une moto.",
+      "nous": "Nous allons acheter un sapin de Noël.",
+      "vous": "Vous allez acheter les billets ?",
+      "ils": "Ils vont acheter une maison."
+    },
+    "Impératif": {
+      "tu": "Achète du lait en rentrant.",
+      "nous": "Achetons des fleurs pour maman.",
+      "vous": "Achetez vos billets en ligne."
+    }
+  }
+}

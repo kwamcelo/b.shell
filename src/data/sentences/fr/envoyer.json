@@ -1,0 +1,106 @@
+{
+  "verb": "envoyer",
+  "tenses": {
+    "Présent": {
+      "je": "J'envoie un message à ma mère.",
+      "tu": "Tu envoies la lettre aujourd'hui ?",
+      "il": "Il envoie des cartes postales à toute sa famille.",
+      "nous": "Nous envoyons les invitations demain.",
+      "vous": "Vous envoyez ce colis en express ?",
+      "ils": "Ils envoient leurs enfants en colonie de vacances."
+    },
+    "Imparfait": {
+      "je": "J'envoyais des lettres à ma correspondante.",
+      "tu": "Tu envoyais des cartes postales de chaque ville.",
+      "il": "Il envoyait un mail à chaque client.",
+      "nous": "Nous envoyions des photos à nos grands-parents.",
+      "vous": "Vous envoyiez vos devoirs par mail ?",
+      "ils": "Ils envoyaient de l'argent à leur famille."
+    },
+    "Futur Simple": {
+      "je": "J'enverrai le document ce soir.",
+      "tu": "Tu enverras une carte à mamie ?",
+      "il": "Il enverra le colis lundi.",
+      "nous": "Nous enverrons les résultats par mail.",
+      "vous": "Vous enverrez votre CV avant vendredi.",
+      "ils": "Ils enverront les billets par la poste."
+    },
+    "Conditionnel Présent": {
+      "je": "J'enverrais bien un message à Paul.",
+      "tu": "Tu enverrais cette lettre pour moi ?",
+      "il": "Il enverrait des fleurs avec un peu plus d'argent.",
+      "nous": "Nous enverrions le colis demain, si possible.",
+      "vous": "Vous enverriez le dossier aujourd'hui ?",
+      "ils": "Ils enverraient leurs enfants dans cette école."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'envoie ce dossier ce soir.",
+      "tu": "Je veux que tu envoies une carte à ta grand-mère.",
+      "il": "Il faut qu'il envoie sa candidature.",
+      "nous": "Il est temps que nous envoyions les invitations.",
+      "vous": "J'aimerais que vous envoyiez la facture.",
+      "ils": "Il faut qu'ils envoient le contrat signé."
+    },
+    "Passé Simple": {
+      "je": "J'envoyai un messager au château.",
+      "tu": "Tu envoyas une lettre au roi.",
+      "il": "Il envoya ses soldats au combat.",
+      "nous": "Nous envoyâmes un pigeon voyageur.",
+      "vous": "Vous envoyâtes des vivres au village.",
+      "ils": "Ils envoyèrent des éclaireurs dans la forêt."
+    },
+    "Passé Composé": {
+      "je": "J'ai envoyé le dossier hier.",
+      "tu": "Tu as envoyé le message ?",
+      "il": "Il a envoyé des fleurs à sa mère.",
+      "nous": "Nous avons envoyé une carte de vœux à tout le monde.",
+      "vous": "Vous avez envoyé votre CV ?",
+      "ils": "Ils ont envoyé les photos du mariage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais envoyé la lettre avant ton appel.",
+      "tu": "Tu avais envoyé le colis à la mauvaise adresse.",
+      "il": "Il avait envoyé sa candidature en mars.",
+      "nous": "Nous avions envoyé les invitations trop tard.",
+      "vous": "Vous aviez envoyé le formulaire ?",
+      "ils": "Ils avaient envoyé un cadeau pour le bébé."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai envoyé tous les colis avant Noël.",
+      "tu": "Tu auras envoyé ta candidature à temps.",
+      "il": "Il aura envoyé cent CV cette année.",
+      "nous": "Nous aurons envoyé toutes les invitations.",
+      "vous": "Vous aurez envoyé le dossier avant la date limite.",
+      "ils": "Ils auront envoyé les résultats."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais envoyé une carte avec ton adresse.",
+      "tu": "Tu aurais envoyé ce message à ma place ?",
+      "il": "Il aurait envoyé des fleurs avec plus de temps.",
+      "nous": "Nous aurions envoyé le colis plus tôt.",
+      "vous": "Vous auriez envoyé une lettre de réclamation ?",
+      "ils": "Ils auraient envoyé un cadeau."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie envoyé une carte.",
+      "tu": "C'est gentil que tu aies envoyé des fleurs.",
+      "il": "Je doute qu'il ait envoyé le dossier.",
+      "nous": "Bien que nous ayons envoyé le colis lundi, il n'est pas arrivé.",
+      "vous": "Je suis content que vous ayez envoyé ces photos.",
+      "ils": "C'est bien qu'ils aient envoyé un message."
+    },
+    "Futur Proche": {
+      "je": "Je vais envoyer un mail à mon prof.",
+      "tu": "Tu vas envoyer le colis ?",
+      "il": "Il va envoyer sa candidature.",
+      "nous": "Nous allons envoyer les invitations.",
+      "vous": "Vous allez envoyer une carte postale ?",
+      "ils": "Ils vont envoyer les billets."
+    },
+    "Impératif": {
+      "tu": "Envoie-moi un message en arrivant.",
+      "nous": "Envoyons une carte à mamie.",
+      "vous": "Envoyez votre dossier avant vendredi."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "changer",
+  "tenses": {
+    "Présent": {
+      "je": "Je change de travail le mois prochain.",
+      "tu": "Tu changes d'avis tout le temps !",
+      "il": "Il change de voiture tous les cinq ans.",
+      "nous": "Nous changeons les draps chaque semaine.",
+      "vous": "Vous changez de train à Lyon.",
+      "ils": "Ils changent de quartier cet été."
+    },
+    "Imparfait": {
+      "je": "Je changeais de coiffure chaque été.",
+      "tu": "Tu changeais de chaîne pendant les pubs.",
+      "il": "Il changeait souvent d'humeur.",
+      "nous": "Nous changions d'école tous les deux ans.",
+      "vous": "Vous changiez de place à chaque cours ?",
+      "ils": "Ils changeaient les règles du jeu en permanence."
+    },
+    "Futur Simple": {
+      "je": "Je changerai les ampoules ce week-end.",
+      "tu": "Tu changeras de vêtements avant de sortir.",
+      "il": "Il changera de poste en janvier.",
+      "nous": "Nous changerons de fournisseur.",
+      "vous": "Vous changerez de bus à la gare.",
+      "ils": "Ils changeront le canapé du salon."
+    },
+    "Conditionnel Présent": {
+      "je": "Je changerais de métier avec plus de courage.",
+      "tu": "Tu changerais quoi dans ta vie ?",
+      "il": "Il changerait de banque pour de meilleurs tarifs.",
+      "nous": "Nous changerions de maison avec plus d'argent.",
+      "vous": "Vous changeriez de place avec moi ?",
+      "ils": "Ils changeraient le monde avec plus de pouvoir."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je change de téléphone.",
+      "tu": "J'aimerais que tu changes d'avis.",
+      "il": "Il faut qu'il change ses habitudes.",
+      "nous": "Il est temps que nous changions de stratégie.",
+      "vous": "Je souhaite que vous changiez le code.",
+      "ils": "Il faut qu'ils changent les pneus avant l'hiver."
+    },
+    "Passé Simple": {
+      "je": "Je changeai de nom pour échapper aux soldats.",
+      "tu": "Tu changeas de route au dernier moment.",
+      "il": "Il changea de vie du jour au lendemain.",
+      "nous": "Nous changeâmes de chevaux au relais.",
+      "vous": "Vous changeâtes le cours de l'histoire.",
+      "ils": "Ils changèrent de camp pendant la guerre."
+    },
+    "Passé Composé": {
+      "je": "J'ai changé de coiffure.",
+      "tu": "Tu as changé les piles de la télécommande ?",
+      "il": "Il a changé de travail l'année dernière.",
+      "nous": "Nous avons changé nos plans à cause de la pluie.",
+      "vous": "Vous avez changé de numéro ?",
+      "ils": "Ils ont changé la décoration du salon."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais changé d'avis à la dernière minute.",
+      "tu": "Tu avais changé de lunettes ?",
+      "il": "Il avait changé de nom après son mariage.",
+      "nous": "Nous avions changé de route pour éviter les bouchons.",
+      "vous": "Vous aviez changé de voiture ?",
+      "ils": "Ils avaient changé la serrure."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai changé de travail avant la fin de l'année.",
+      "tu": "Tu auras changé d'avis demain.",
+      "il": "Il aura changé trois fois de coiffure cette année.",
+      "nous": "Nous aurons changé de maison d'ici là.",
+      "vous": "Vous aurez changé beaucoup de choses.",
+      "ils": "Ils auront changé de téléphone avant Noël."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais changé de route avec un GPS.",
+      "tu": "Tu aurais changé quoi à ma place ?",
+      "il": "Il aurait changé d'équipe avec une meilleure offre.",
+      "nous": "Nous aurions changé nos billets sans les frais.",
+      "vous": "Vous auriez changé d'avis ?",
+      "ils": "Ils auraient changé de stratégie avec un autre entraîneur."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont surpris que j'aie changé de look.",
+      "tu": "C'est bien que tu aies changé d'avis.",
+      "il": "Je doute qu'il ait changé ses habitudes.",
+      "nous": "Bien que nous ayons changé de plan, tout s'est bien passé.",
+      "vous": "Je suis content que vous ayez changé d'avis.",
+      "ils": "C'est dommage qu'ils aient changé la recette."
+    },
+    "Futur Proche": {
+      "je": "Je vais changer de vêtements.",
+      "tu": "Tu vas changer de coiffure ?",
+      "il": "Il va changer de travail.",
+      "nous": "Nous allons changer les meubles de place.",
+      "vous": "Vous allez changer de train à Paris.",
+      "ils": "Ils vont changer de voiture."
+    },
+    "Impératif": {
+      "tu": "Change de chemise avant de partir.",
+      "nous": "Changeons de sujet.",
+      "vous": "Changez de file, celle-ci est plus rapide."
+    }
+  }
+}

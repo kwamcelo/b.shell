@@ -1,0 +1,106 @@
+{
+  "verb": "manquer",
+  "tenses": {
+    "Présent": {
+      "je": "Je manque de temps cette semaine.",
+      "tu": "Tu manques le début du film !",
+      "il": "Il manque souvent l'école à cause de ses allergies.",
+      "nous": "Nous manquons de sel, tu peux en acheter ?",
+      "vous": "Vous manquez de sommeil, ça se voit.",
+      "ils": "Ils manquent toujours le dernier bus."
+    },
+    "Imparfait": {
+      "je": "Je manquais rarement un match de mon équipe.",
+      "tu": "Tu manquais souvent les cours le lundi.",
+      "il": "Il manquait d'expérience à l'époque.",
+      "nous": "Nous manquions de tout pendant la guerre.",
+      "vous": "Vous manquiez de place dans l'ancien appartement ?",
+      "ils": "Ils manquaient de patience avec les enfants."
+    },
+    "Futur Simple": {
+      "je": "Je manquerai la réunion de lundi.",
+      "tu": "Tu manqueras ton train si tu ne te dépêches pas.",
+      "il": "Il manquera le début du concert.",
+      "nous": "Nous manquerons de temps pour tout visiter.",
+      "vous": "Vous manquerez le début si vous arrivez tard.",
+      "ils": "Ils manqueront l'avion avec ces bouchons."
+    },
+    "Conditionnel Présent": {
+      "je": "Je manquerais ce rendez-vous pour rien au monde.",
+      "tu": "Tu manquerais le mariage de ton frère ?",
+      "il": "Il manquerait de temps sans ton aide.",
+      "nous": "Nous manquerions de chaises pour tout le monde.",
+      "vous": "Vous manqueriez le spectacle ?",
+      "ils": "Ils manqueraient de place dans cette voiture."
+    },
+    "Subjonctif": {
+      "je": "Ma mère refuse que je manque l'école.",
+      "tu": "Je ne veux pas que tu manques ce film.",
+      "il": "J'ai peur qu'il manque son vol.",
+      "nous": "Il ne faut pas que nous manquions le dernier train.",
+      "vous": "Je ne veux pas que vous manquiez de rien.",
+      "ils": "Il ne faut pas qu'ils manquent la cérémonie."
+    },
+    "Passé Simple": {
+      "je": "Je manquai de peu le dernier carrosse.",
+      "tu": "Tu manquas ta cible.",
+      "il": "Il manqua de tomber dans le précipice.",
+      "nous": "Nous manquâmes de vivres pendant le siège.",
+      "vous": "Vous manquâtes le rendez-vous avec le roi.",
+      "ils": "Ils manquèrent le bateau pour l'Amérique."
+    },
+    "Passé Composé": {
+      "je": "J'ai manqué mon bus ce matin.",
+      "tu": "Tu as manqué le début du match ?",
+      "il": "Il a manqué son examen de conduite.",
+      "nous": "Nous avons manqué le feu d'artifice.",
+      "vous": "Vous avez manqué une belle soirée.",
+      "ils": "Ils ont manqué leur correspondance à Paris."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais manqué le train de peu.",
+      "tu": "Tu avais manqué l'école ce jour-là ?",
+      "il": "Il avait manqué trois semaines de cours.",
+      "nous": "Nous avions manqué la fin du spectacle.",
+      "vous": "Vous aviez manqué le rendez-vous ?",
+      "ils": "Ils avaient manqué l'avion."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai manqué une semaine de cours.",
+      "tu": "Tu auras manqué le meilleur moment.",
+      "il": "Il aura manqué toute la saison à cause de sa blessure.",
+      "nous": "Nous aurons manqué la moitié du film.",
+      "vous": "Vous aurez manqué une belle occasion.",
+      "ils": "Ils auront manqué le début de la cérémonie."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais manqué le train sans ton réveil.",
+      "tu": "Tu aurais manqué ça pour rien au monde.",
+      "il": "Il aurait manqué le vol sans ce taxi.",
+      "nous": "Nous aurions manqué de pain sans ta boulangerie.",
+      "vous": "Vous auriez manqué le meilleur moment.",
+      "ils": "Ils auraient manqué le bus sans ce raccourci."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est déçue que j'aie manqué son anniversaire.",
+      "tu": "C'est dommage que tu aies manqué le concert.",
+      "il": "Je suis surpris qu'il ait manqué la réunion.",
+      "nous": "Bien que nous ayons manqué le début, le film était génial.",
+      "vous": "Je suis désolé que vous ayez manqué le train.",
+      "ils": "C'est bizarre qu'ils aient manqué la fête."
+    },
+    "Futur Proche": {
+      "je": "Je vais manquer mon train !",
+      "tu": "Tu vas manquer le début du film.",
+      "il": "Il va manquer la réunion.",
+      "nous": "Nous allons manquer de temps.",
+      "vous": "Vous allez manquer le bus.",
+      "ils": "Ils vont manquer le spectacle."
+    },
+    "Impératif": {
+      "tu": "Ne manque pas ce film, il est génial.",
+      "nous": "Ne manquons pas le dernier métro.",
+      "vous": "Ne manquez pas notre grande vente samedi."
+    }
+  }
+}

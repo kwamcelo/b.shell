@@ -1,0 +1,106 @@
+{
+  "verb": "sauver",
+  "tenses": {
+    "Présent": {
+      "je": "Je sauve mes fichiers toutes les heures.",
+      "tu": "Tu sauves la soirée avec ton gâteau !",
+      "il": "Il sauve des vies tous les jours à l'hôpital.",
+      "nous": "Nous sauvons les animaux abandonnés.",
+      "vous": "Vous sauvez la situation, merci !",
+      "ils": "Ils sauvent des tortues sur la plage."
+    },
+    "Imparfait": {
+      "je": "Je sauvais les escargots de la route après la pluie.",
+      "tu": "Tu sauvais toujours les oiseaux tombés du nid.",
+      "il": "Il sauvait des nageurs chaque été comme sauveteur.",
+      "nous": "Nous sauvions les meubles de l'inondation.",
+      "vous": "Vous sauviez des animaux dans ce refuge ?",
+      "ils": "Ils sauvaient les vieux livres de la bibliothèque."
+    },
+    "Futur Simple": {
+      "je": "Je sauverai ce projet, c'est promis.",
+      "tu": "Tu sauveras le monde un jour !",
+      "il": "Il sauvera l'équipe avec ce but.",
+      "nous": "Nous sauverons cette vieille maison.",
+      "vous": "Vous sauverez des vies avec ce don.",
+      "ils": "Ils sauveront la forêt grâce à cette loi."
+    },
+    "Conditionnel Présent": {
+      "je": "Je sauverais ce chat sans hésiter.",
+      "tu": "Tu sauverais qui en premier ?",
+      "il": "Il sauverait l'entreprise avec un bon plan.",
+      "nous": "Nous sauverions le match avec un dernier but.",
+      "vous": "Vous sauveriez cet arbre ?",
+      "ils": "Ils sauveraient la situation avec plus de temps."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je sauve ce document avant de fermer.",
+      "tu": "J'aimerais que tu sauves cette plante.",
+      "il": "Il faut qu'il sauve la face.",
+      "nous": "Il est urgent que nous sauvions la planète.",
+      "vous": "Je compte sur vous pour que vous sauviez le projet.",
+      "ils": "Il faut qu'ils sauvent les animaux du refuge."
+    },
+    "Passé Simple": {
+      "je": "Je sauvai l'enfant des flammes.",
+      "tu": "Tu sauvas le royaume de la ruine.",
+      "il": "Il sauva la princesse du dragon.",
+      "nous": "Nous sauvâmes les naufragés.",
+      "vous": "Vous sauvâtes la ville de l'invasion.",
+      "ils": "Ils sauvèrent le trésor de l'incendie."
+    },
+    "Passé Composé": {
+      "je": "J'ai sauvé un chien perdu sur l'autoroute.",
+      "tu": "Tu as sauvé ton travail avant la panne ?",
+      "il": "Il a sauvé un enfant de la noyade.",
+      "nous": "Nous avons sauvé la fête avec de la musique.",
+      "vous": "Vous avez sauvé ma journée !",
+      "ils": "Ils ont sauvé l'équipe de la relégation."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais sauvé le fichier juste avant la panne.",
+      "tu": "Tu avais sauvé ce chat de la rue.",
+      "il": "Il avait sauvé trois personnes pendant l'incendie.",
+      "nous": "Nous avions sauvé les photos de famille.",
+      "vous": "Vous aviez sauvé le projet de justesse.",
+      "ils": "Ils avaient sauvé le vieux cinéma du quartier."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai sauvé mon année scolaire.",
+      "tu": "Tu auras sauvé la soirée.",
+      "il": "Il aura sauvé des centaines de vies.",
+      "nous": "Nous aurons sauvé l'essentiel.",
+      "vous": "Vous aurez sauvé l'honneur.",
+      "ils": "Ils auront sauvé leur entreprise."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais sauvé le fichier avec une sauvegarde automatique.",
+      "tu": "Tu aurais sauvé ce chien à ma place ?",
+      "il": "Il aurait sauvé le match avec un peu plus de chance.",
+      "nous": "Nous aurions sauvé la maison avec plus d'argent.",
+      "vous": "Vous auriez sauvé ce vieil arbre ?",
+      "ils": "Ils auraient sauvé le navire sans la tempête."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon équipe est contente que j'aie sauvé le projet.",
+      "tu": "C'est génial que tu aies sauvé ce chat.",
+      "il": "Je suis fier qu'il ait sauvé cet enfant.",
+      "nous": "Bien que nous ayons sauvé les meubles, la maison est détruite.",
+      "vous": "Merci ! Je suis touché que vous ayez sauvé mon chien.",
+      "ils": "C'est incroyable qu'ils aient sauvé tout le monde."
+    },
+    "Futur Proche": {
+      "je": "Je vais sauver ce document.",
+      "tu": "Tu vas sauver la soirée !",
+      "il": "Il va sauver l'équipe.",
+      "nous": "Nous allons sauver cette plante.",
+      "vous": "Vous allez sauver des vies.",
+      "ils": "Ils vont sauver le vieux théâtre."
+    },
+    "Impératif": {
+      "tu": "Sauve ton travail avant d'éteindre.",
+      "nous": "Sauvons la planète !",
+      "vous": "Sauvez les baleines !"
+    }
+  }
+}

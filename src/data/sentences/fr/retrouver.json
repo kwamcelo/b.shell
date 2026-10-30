@@ -1,0 +1,106 @@
+{
+  "verb": "retrouver",
+  "tenses": {
+    "Présent": {
+      "je": "Je retrouve mes amis au café à midi.",
+      "tu": "Tu retrouves tes clés ?",
+      "il": "Il retrouve sa famille chaque été.",
+      "nous": "Nous retrouvons nos collègues après les vacances.",
+      "vous": "Vous retrouvez le chemin facilement ?",
+      "ils": "Ils retrouvent leur chien grâce aux voisins."
+    },
+    "Imparfait": {
+      "je": "Je retrouvais mes cousins chaque été.",
+      "tu": "Tu retrouvais toujours tes affaires sous le lit.",
+      "il": "Il retrouvait ses amis au stade le samedi.",
+      "nous": "Nous retrouvions nos grands-parents à Noël.",
+      "vous": "Vous retrouviez vos amis après les cours ?",
+      "ils": "Ils retrouvaient leur village avec joie."
+    },
+    "Futur Simple": {
+      "je": "Je retrouverai mes clés, ne t'inquiète pas.",
+      "tu": "Tu retrouveras le moral après les vacances.",
+      "il": "Il retrouvera son équipe lundi.",
+      "nous": "Nous retrouverons nos amis à Paris.",
+      "vous": "Vous retrouverez le guide devant l'hôtel.",
+      "ils": "Ils retrouveront leur maison après les travaux."
+    },
+    "Conditionnel Présent": {
+      "je": "Je retrouverais mon chemin avec une carte.",
+      "tu": "Tu retrouverais ce livre pour moi ?",
+      "il": "Il retrouverait la forme avec du repos.",
+      "nous": "Nous retrouverions nos amis plus souvent avec une voiture.",
+      "vous": "Vous retrouveriez cette adresse ?",
+      "ils": "Ils retrouveraient leur chat avec une puce."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je retrouve mon passeport.",
+      "tu": "J'aimerais que tu retrouves le sourire.",
+      "il": "Je souhaite qu'il retrouve vite la santé.",
+      "nous": "Il faut que nous retrouvions le chemin avant la nuit.",
+      "vous": "Je souhaite que vous retrouviez votre portefeuille.",
+      "ils": "Il faut qu'ils retrouvent confiance."
+    },
+    "Passé Simple": {
+      "je": "Je retrouvai la lettre dans un vieux coffre.",
+      "tu": "Tu retrouvas ton frère après dix ans.",
+      "il": "Il retrouva son chemin grâce aux étoiles.",
+      "nous": "Nous retrouvâmes le trésor au fond de la grotte.",
+      "vous": "Vous retrouvâtes la paix dans ce village.",
+      "ils": "Ils retrouvèrent leur famille après la guerre."
+    },
+    "Passé Composé": {
+      "je": "J'ai retrouvé mon téléphone sous le canapé.",
+      "tu": "Tu as retrouvé ton portefeuille ?",
+      "il": "Il a retrouvé un vieil ami dans le métro.",
+      "nous": "Nous avons retrouvé nos photos d'enfance.",
+      "vous": "Vous avez retrouvé vos clés ?",
+      "ils": "Ils ont retrouvé leur chien dans le parc."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais retrouvé mes lunettes dans la voiture.",
+      "tu": "Tu avais retrouvé ce livre chez ta grand-mère ?",
+      "il": "Il avait retrouvé du travail en quelques jours.",
+      "nous": "Nous avions retrouvé la bague dans le jardin.",
+      "vous": "Vous aviez retrouvé votre sac ?",
+      "ils": "Ils avaient retrouvé le chemin avant la nuit."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai retrouvé du travail avant l'été.",
+      "tu": "Tu auras retrouvé tes forces après ce séjour.",
+      "il": "Il aura retrouvé la forme avant le match.",
+      "nous": "Nous aurons retrouvé nos amis à cette date.",
+      "vous": "Vous aurez retrouvé votre maison.",
+      "ils": "Ils auront retrouvé leur chat, j'espère."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais retrouvé mes clés avec une lampe.",
+      "tu": "Tu aurais retrouvé le chemin sans GPS ?",
+      "il": "Il aurait retrouvé son portefeuille avec un peu de chance.",
+      "nous": "Nous aurions retrouvé l'hôtel avec une carte.",
+      "vous": "Vous auriez retrouvé la bague ?",
+      "ils": "Ils auraient retrouvé le chien plus tôt avec des affiches."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est soulagée que j'aie retrouvé mon passeport.",
+      "tu": "C'est super que tu aies retrouvé du travail.",
+      "il": "Je suis content qu'il ait retrouvé la santé.",
+      "nous": "Bien que nous ayons retrouvé la clé, la porte reste bloquée.",
+      "vous": "Je suis ravi que vous ayez retrouvé votre chat.",
+      "ils": "C'est incroyable qu'ils aient retrouvé leur bague."
+    },
+    "Futur Proche": {
+      "je": "Je vais retrouver mes amis au parc.",
+      "tu": "Tu vas retrouver ta famille à Noël ?",
+      "il": "Il va retrouver son équipe.",
+      "nous": "Nous allons retrouver nos cousins.",
+      "vous": "Vous allez retrouver le guide à l'entrée.",
+      "ils": "Ils vont retrouver leur village natal."
+    },
+    "Impératif": {
+      "tu": "Retrouve-moi devant le cinéma.",
+      "nous": "Retrouvons le chemin du parking.",
+      "vous": "Retrouvez-moi à l'accueil."
+    }
+  }
+}

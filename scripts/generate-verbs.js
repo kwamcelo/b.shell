@@ -29,7 +29,10 @@ const FORM_OVERRIDES = {
 }
 
 // Imperatives Lefff lists but nobody uses.
-const NO_IMPERATIVE = new Set(['devoir', 'plaire', 'mourir', "s'appeler", 'se sentir'])
+const NO_IMPERATIVE = new Set(['devoir', 'plaire', 'mourir', "s'appeler", 'se sentir', 'valoir'])
+
+// Pronominal verbs whose "se" is an indirect object, so the participle never agrees: "elle s'est rappelé".
+const INVARIABLE_PARTICIPLE = new Set(['se rappeler'])
 
 const ETRE_VERBS = new Set([
   'aller', 'venir', 'arriver', 'partir', 'revenir', 'devenir', 'entrer', 'rentrer', 'sortir', 'monter',
@@ -117,7 +120,7 @@ function buildVerb(base, pronominal) {
   const personsFor = list => (impersonal ? list.map(p => ({ ...p, subjects: { m: 'il' } })) : list)
   const reflexive = person => (pronominal ? person.reflexive : null)
   const auxiliary = ETRE_VERBS.has(base) || pronominal ? etre : avoir
-  const agrees = auxiliary === etre
+  const agrees = auxiliary === etre && !INVARIABLE_PARTICIPLE.has(infinitive)
 
   const tenses = {}
   const addTense = (name, build) => {

@@ -1,0 +1,106 @@
+{
+  "verb": "monter",
+  "tenses": {
+    "Présent": {
+      "je": "Je monte au grenier chercher les décorations.",
+      "tu": "Tu montes dans le bus avec moi ?",
+      "il": "Il monte à cheval tous les week-ends.",
+      "nous": "Nous montons au sommet de la tour.",
+      "vous": "Vous montez à pied ou en ascenseur ?",
+      "ils": "Ils montent dans le train de huit heures."
+    },
+    "Imparfait": {
+      "je": "Je montais à vélo jusqu'au village.",
+      "tu": "Tu montais toujours sur le toit de la cabane.",
+      "il": "Il montait à cheval chaque matin.",
+      "nous": "Nous montions dans les arbres du jardin.",
+      "vous": "Vous montiez souvent à la tour Eiffel ?",
+      "ils": "Ils montaient au chalet chaque hiver."
+    },
+    "Futur Simple": {
+      "je": "Je monterai te voir après le dîner.",
+      "tu": "Tu monteras dans le deuxième wagon.",
+      "il": "Il montera sur scène à vingt et une heures.",
+      "nous": "Nous monterons au sommet à pied.",
+      "vous": "Vous monterez au troisième étage.",
+      "ils": "Ils monteront à bord du bateau à midi."
+    },
+    "Conditionnel Présent": {
+      "je": "Je monterais bien sur cette grande roue.",
+      "tu": "Tu monterais à cheval avec moi ?",
+      "il": "Il monterait au sommet sans problème.",
+      "nous": "Nous monterions plus vite par l'ascenseur.",
+      "vous": "Vous monteriez avec nous en voiture ?",
+      "ils": "Ils monteraient dans le train sans billet ?"
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je monte me coucher.",
+      "tu": "Il faut que tu montes dans la voiture.",
+      "il": "J'attends qu'il monte dans le taxi.",
+      "nous": "Il faut que nous montions avant la fermeture.",
+      "vous": "Je préfère que vous montiez par l'escalier.",
+      "ils": "Il est temps qu'ils montent à bord."
+    },
+    "Passé Simple": {
+      "je": "Je montai au sommet de la tour.",
+      "tu": "Tu montas à cheval et partis au galop.",
+      "il": "Il monta sur le trône à seize ans.",
+      "nous": "Nous montâmes à bord du navire.",
+      "vous": "Vous montâtes dans le carrosse.",
+      "ils": "Ils montèrent jusqu'au château."
+    },
+    "Passé Composé": {
+      "je": "Je suis monté au sommet de la montagne.",
+      "tu": "Tu es monté dans le bon bus ?",
+      "il": "Il est monté sur la table pour danser.",
+      "nous": "Nous sommes montés en haut de la tour Eiffel.",
+      "vous": "Vous êtes montés à pied ?",
+      "ils": "Ils sont montés dans le train à Lyon."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais monté au grenier pour chercher la valise.",
+      "tu": "Tu étais monté sur le toit ?",
+      "il": "Il était monté dans le mauvais train.",
+      "nous": "Nous étions montés à pied jusqu'au refuge.",
+      "vous": "Vous étiez montés en téléphérique ?",
+      "ils": "Ils étaient montés sur scène pour chanter."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai monté au sommet avant midi.",
+      "tu": "Tu seras monté dans le train avant moi.",
+      "il": "Il sera monté sur scène avant nous.",
+      "nous": "Nous serons montés à bord à cette heure-là.",
+      "vous": "Vous serez montés jusqu'au refuge.",
+      "ils": "Ils seront montés dans l'avion avant le retard."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais monté avec toi sans ce mal de dos.",
+      "tu": "Tu serais monté sur ce manège ?",
+      "il": "Il serait monté sur le podium sans sa chute.",
+      "nous": "Nous serions montés au sommet sans le brouillard.",
+      "vous": "Vous seriez montés à pied ?",
+      "ils": "Ils seraient montés dans le train sans la grève."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont impressionnés que je sois monté si haut.",
+      "tu": "C'est bien que tu sois monté dans le bon train.",
+      "il": "Je suis surpris qu'il soit monté sur scène.",
+      "nous": "Bien que nous soyons montés tôt, il y avait déjà du monde.",
+      "vous": "Je suis content que vous soyez montés nous voir.",
+      "ils": "C'est dangereux qu'ils soient montés sur le toit."
+    },
+    "Futur Proche": {
+      "je": "Je vais monter me coucher.",
+      "tu": "Tu vas monter à cheval ?",
+      "il": "Il va monter sur scène.",
+      "nous": "Nous allons monter au sommet.",
+      "vous": "Vous allez monter dans le bus ?",
+      "ils": "Ils vont monter à bord."
+    },
+    "Impératif": {
+      "tu": "Monte dans la voiture, on est en retard !",
+      "nous": "Montons au sommet pour voir la vue.",
+      "vous": "Montez au deuxième étage, c'est à gauche."
+    }
+  }
+}

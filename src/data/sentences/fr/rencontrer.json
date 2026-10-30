@@ -1,0 +1,106 @@
+{
+  "verb": "rencontrer",
+  "tenses": {
+    "Présent": {
+      "je": "Je rencontre mon nouveau chef demain.",
+      "tu": "Tu rencontres des gens intéressants au travail ?",
+      "il": "Il rencontre souvent des célébrités.",
+      "nous": "Nous rencontrons nos voisins au marché.",
+      "vous": "Vous rencontrez des difficultés ?",
+      "ils": "Ils rencontrent leurs clients le lundi."
+    },
+    "Imparfait": {
+      "je": "Je rencontrais toujours ce monsieur à l'arrêt de bus.",
+      "tu": "Tu rencontrais tes amis au café ?",
+      "il": "Il rencontrait des gens du monde entier.",
+      "nous": "Nous rencontrions nos cousins à chaque mariage.",
+      "vous": "Vous rencontriez des problèmes avec ce logiciel ?",
+      "ils": "Ils rencontraient des touristes chaque été."
+    },
+    "Futur Simple": {
+      "je": "Je rencontrerai tes parents samedi.",
+      "tu": "Tu rencontreras beaucoup de monde à cette soirée.",
+      "il": "Il rencontrera le ministre la semaine prochaine.",
+      "nous": "Nous rencontrerons l'équipe adverse en finale.",
+      "vous": "Vous rencontrerez le directeur à dix heures.",
+      "ils": "Ils rencontreront des difficultés au début."
+    },
+    "Conditionnel Présent": {
+      "je": "Je rencontrerais bien cet écrivain.",
+      "tu": "Tu rencontrerais quelle célébrité ?",
+      "il": "Il rencontrerait plus de gens dans une grande ville.",
+      "nous": "Nous rencontrerions vos amis avec plaisir.",
+      "vous": "Vous rencontreriez ce candidat ?",
+      "ils": "Ils rencontreraient moins de problèmes avec un plan."
+    },
+    "Subjonctif": {
+      "je": "Mes amis veulent que je rencontre quelqu'un.",
+      "tu": "J'aimerais que tu rencontres ma famille.",
+      "il": "Il faut qu'il rencontre le médecin.",
+      "nous": "Il est important que nous rencontrions les voisins.",
+      "vous": "Je souhaite que vous rencontriez notre équipe.",
+      "ils": "Il faut qu'ils rencontrent le directeur."
+    },
+    "Passé Simple": {
+      "je": "Je rencontrai un vieil homme sur la route.",
+      "tu": "Tu rencontras l'amour à Venise.",
+      "il": "Il rencontra un loup dans la forêt.",
+      "nous": "Nous rencontrâmes une caravane dans le désert.",
+      "vous": "Vous rencontrâtes le roi en personne.",
+      "ils": "Ils rencontrèrent de nombreux obstacles."
+    },
+    "Passé Composé": {
+      "je": "J'ai rencontré ma meilleure amie à l'université.",
+      "tu": "Tu as rencontré son copain ?",
+      "il": "Il a rencontré un acteur célèbre à l'aéroport.",
+      "nous": "Nous avons rencontré nos voisins hier.",
+      "vous": "Vous avez rencontré des problèmes ?",
+      "ils": "Ils ont rencontré beaucoup de gens en voyage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais rencontré ton frère à une fête.",
+      "tu": "Tu avais rencontré ce problème avant ?",
+      "il": "Il avait rencontré son meilleur ami en Espagne.",
+      "nous": "Nous avions rencontré le maire au marché.",
+      "vous": "Vous aviez rencontré ce client ?",
+      "ils": "Ils avaient rencontré des difficultés au départ."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai rencontré tous mes collègues avant la fin de la semaine.",
+      "tu": "Tu auras rencontré des gens formidables.",
+      "il": "Il aura rencontré tous les candidats.",
+      "nous": "Nous aurons rencontré toutes les familles.",
+      "vous": "Vous aurez rencontré beaucoup de monde.",
+      "ils": "Ils auront rencontré leurs nouveaux voisins."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais rencontré cet auteur avec plaisir.",
+      "tu": "Tu aurais rencontré ma sœur, tu l'aurais adorée.",
+      "il": "Il aurait rencontré le président sans cette grève.",
+      "nous": "Nous aurions rencontré vos parents avec plus de temps.",
+      "vous": "Vous auriez rencontré ce chanteur ?",
+      "ils": "Ils auraient rencontré moins de problèmes avec un guide."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont contents que j'aie rencontré quelqu'un.",
+      "tu": "C'est super que tu aies rencontré ton idole.",
+      "il": "C'est une chance qu'il ait rencontré ce médecin.",
+      "nous": "Bien que nous ayons rencontré des obstacles, le projet avance.",
+      "vous": "Je suis ravi que vous ayez rencontré mon frère.",
+      "ils": "C'est drôle qu'ils aient rencontré nos voisins en vacances."
+    },
+    "Futur Proche": {
+      "je": "Je vais rencontrer mon nouveau collègue.",
+      "tu": "Tu vas rencontrer ses parents ?",
+      "il": "Il va rencontrer le directeur.",
+      "nous": "Nous allons rencontrer l'équipe.",
+      "vous": "Vous allez rencontrer des gens sympas.",
+      "ils": "Ils vont rencontrer leurs fans."
+    },
+    "Impératif": {
+      "tu": "Rencontre mes amis, tu vas les adorer.",
+      "nous": "Rencontrons le nouveau voisin ce soir.",
+      "vous": "Rencontrez nos experts au salon."
+    }
+  }
+}

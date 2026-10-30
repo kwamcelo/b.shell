@@ -1,0 +1,106 @@
+{
+  "verb": "oublier",
+  "tenses": {
+    "Présent": {
+      "je": "J'oublie toujours le nom de ce chanteur.",
+      "tu": "Tu oublies ton parapluie !",
+      "il": "Il oublie souvent ses clés au bureau.",
+      "nous": "Nous oublions parfois l'anniversaire de nos amis.",
+      "vous": "Vous oubliez quelque chose ?",
+      "ils": "Ils oublient toujours de fermer la porte."
+    },
+    "Imparfait": {
+      "je": "J'oubliais toujours mes devoirs à la maison.",
+      "tu": "Tu oubliais tes gants partout.",
+      "il": "Il oubliait le prénom de tout le monde.",
+      "nous": "Nous oubliions l'heure en jouant.",
+      "vous": "Vous oubliiez souvent vos rendez-vous ?",
+      "ils": "Ils oubliaient tout le temps de nous appeler."
+    },
+    "Futur Simple": {
+      "je": "J'oublierai vite cette mauvaise note.",
+      "tu": "Tu oublieras vite cette mauvaise journée.",
+      "il": "Il oubliera sûrement notre rendez-vous.",
+      "nous": "Nous oublierons ce petit incident.",
+      "vous": "Vous oublierez tous vos soucis à la plage.",
+      "ils": "Ils oublieront cette histoire avec le temps."
+    },
+    "Conditionnel Présent": {
+      "je": "J'oublierais ma tête sans mon agenda.",
+      "tu": "Tu oublierais ton téléphone sans moi !",
+      "il": "Il oublierait ses rendez-vous sans son assistante.",
+      "nous": "Nous oublierions tout sans nos notes.",
+      "vous": "Vous oublieriez cette dispute pour moi ?",
+      "ils": "Ils oublieraient l'heure sans réveil."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'oublie cette histoire.",
+      "tu": "Il faut que tu oublies cette histoire.",
+      "il": "J'ai peur qu'il oublie le rendez-vous.",
+      "nous": "Il vaut mieux que nous oubliions cette dispute.",
+      "vous": "Je ne veux pas que vous oubliiez votre passeport.",
+      "ils": "Il ne faut pas qu'ils oublient leurs racines."
+    },
+    "Passé Simple": {
+      "je": "J'oubliai mes soucis pour un soir.",
+      "tu": "Tu oublias ta promesse.",
+      "il": "Il oublia son chapeau sur le banc.",
+      "nous": "Nous oubliâmes la lettre dans le carrosse.",
+      "vous": "Vous oubliâtes l'heure du rendez-vous.",
+      "ils": "Ils oublièrent leur querelle."
+    },
+    "Passé Composé": {
+      "je": "J'ai oublié mon portefeuille à la maison.",
+      "tu": "Tu as oublié ton rendez-vous chez le dentiste ?",
+      "il": "Il a oublié l'anniversaire de sa mère.",
+      "nous": "Nous avons oublié les billets !",
+      "vous": "Vous avez oublié votre sac.",
+      "ils": "Ils ont oublié de fermer la fenêtre."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais oublié mon mot de passe.",
+      "tu": "Tu avais oublié tes clés dans la voiture.",
+      "il": "Il avait oublié notre conversation.",
+      "nous": "Nous avions oublié la date du concert.",
+      "vous": "Vous aviez oublié votre parapluie ?",
+      "ils": "Ils avaient oublié le gâteau dans le four."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai oublié cette histoire dans un mois.",
+      "tu": "Tu auras oublié ce problème demain.",
+      "il": "Il aura oublié son rendez-vous, comme d'habitude.",
+      "nous": "Nous aurons oublié la moitié du vocabulaire.",
+      "vous": "Vous aurez oublié cet incident.",
+      "ils": "Ils auront oublié leur dispute avant Noël."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais oublié ton anniversaire sans ce rappel.",
+      "tu": "Tu aurais oublié tes clés sans moi.",
+      "il": "Il aurait oublié son passeport sans sa liste.",
+      "nous": "Nous aurions oublié le rendez-vous sans ton message.",
+      "vous": "Vous auriez oublié quelque chose ?",
+      "ils": "Ils auraient oublié la réunion sans l'alarme."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est fâchée que j'aie oublié son anniversaire.",
+      "tu": "C'est dommage que tu aies oublié ton appareil photo.",
+      "il": "Je suis surpris qu'il ait oublié notre rendez-vous.",
+      "nous": "Bien que nous ayons oublié la carte, nous avons trouvé le chemin.",
+      "vous": "Je suis désolé que vous ayez oublié votre parapluie.",
+      "ils": "Il est possible qu'ils aient oublié la date."
+    },
+    "Futur Proche": {
+      "je": "Je vais oublier cette histoire.",
+      "tu": "Tu vas oublier ton sac !",
+      "il": "Il va oublier notre rendez-vous.",
+      "nous": "Nous allons oublier ce petit problème.",
+      "vous": "Vous allez oublier vos soucis ici.",
+      "ils": "Ils vont oublier l'heure."
+    },
+    "Impératif": {
+      "tu": "Oublie cette histoire, ce n'est pas grave.",
+      "nous": "Oublions le passé.",
+      "vous": "Oubliez vos soucis le temps d'un week-end."
+    }
+  }
+}

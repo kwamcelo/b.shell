@@ -1,0 +1,106 @@
+{
+  "verb": "entrer",
+  "tenses": {
+    "Présent": {
+      "je": "J'entre dans le magasin pour acheter du pain.",
+      "tu": "Tu entres par la porte de derrière ?",
+      "il": "Il entre au lycée en septembre.",
+      "nous": "Nous entrons dans la salle en silence.",
+      "vous": "Vous entrez sans frapper ?",
+      "ils": "Ils entrent à l'université cette année."
+    },
+    "Imparfait": {
+      "je": "J'entrais toujours par la fenêtre de la cuisine.",
+      "tu": "Tu entrais à peine dans la pièce quand le téléphone a sonné.",
+      "il": "Il entrait dans chaque magasin de la rue.",
+      "nous": "Nous entrions au musée gratuitement le dimanche.",
+      "vous": "Vous entriez par quelle porte ?",
+      "ils": "Ils entraient sans dire bonjour."
+    },
+    "Futur Simple": {
+      "je": "J'entrerai par l'entrée principale.",
+      "tu": "Tu entreras à l'école primaire l'année prochaine.",
+      "il": "Il entrera au conservatoire à l'automne.",
+      "nous": "Nous entrerons dans la salle à vingt heures.",
+      "vous": "Vous entrerez par la porte de gauche.",
+      "ils": "Ils entreront en scène après l'entracte."
+    },
+    "Conditionnel Présent": {
+      "je": "J'entrerais bien dans ce café.",
+      "tu": "Tu entrerais dans cette vieille maison ?",
+      "il": "Il entrerait dans l'équipe avec plus d'entraînement.",
+      "nous": "Nous entrerions avec un billet.",
+      "vous": "Vous entreriez une minute ?",
+      "ils": "Ils entreraient au club avec une invitation."
+    },
+    "Subjonctif": {
+      "je": "Le gardien refuse que j'entre sans badge.",
+      "tu": "Je veux que tu entres dans cette école.",
+      "il": "Il faut qu'il entre par la porte de service.",
+      "nous": "Il faut que nous entrions avant la fermeture.",
+      "vous": "J'aimerais que vous entriez un instant.",
+      "ils": "Il est temps qu'ils entrent en scène."
+    },
+    "Passé Simple": {
+      "je": "J'entrai dans la grotte avec une torche.",
+      "tu": "Tu entras dans la salle du trône.",
+      "il": "Il entra sans frapper.",
+      "nous": "Nous entrâmes dans la ville en vainqueurs.",
+      "vous": "Vous entrâtes dans l'église au son des cloches.",
+      "ils": "Ils entrèrent dans la forêt à la tombée de la nuit."
+    },
+    "Passé Composé": {
+      "je": "Je suis entré dans le bureau du directeur.",
+      "tu": "Tu es entré par où ?",
+      "il": "Il est entré à l'université à dix-huit ans.",
+      "nous": "Nous sommes entrés dans le musée sans payer.",
+      "vous": "Vous êtes entrés par la fenêtre ?",
+      "ils": "Ils sont entrés dans la maison en silence."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais entré juste avant la pluie.",
+      "tu": "Tu étais entré sans frapper.",
+      "il": "Il était entré dans l'armée à vingt ans.",
+      "nous": "Nous étions entrés dans le château par une porte secrète.",
+      "vous": "Vous étiez entrés avant le début du film ?",
+      "ils": "Ils étaient entrés dans le magasin juste avant la fermeture."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai entré dans la vie active à cette date.",
+      "tu": "Tu seras entré au lycée en septembre.",
+      "il": "Il sera entré dans l'histoire.",
+      "nous": "Nous serons entrés avant le début du spectacle.",
+      "vous": "Vous serez entrés dans la salle avant le discours.",
+      "ils": "Ils seront entrés en scène à vingt et une heures."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais entré avec un billet.",
+      "tu": "Tu serais entré dans cette grotte ?",
+      "il": "Il serait entré dans l'équipe sans sa blessure.",
+      "nous": "Nous serions entrés plus tôt sans la file d'attente.",
+      "vous": "Vous seriez entrés à ma place ?",
+      "ils": "Ils seraient entrés avec une meilleure tenue."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fiers que je sois entré à l'université.",
+      "tu": "Je suis content que tu sois entré dans l'équipe.",
+      "il": "C'est bizarre qu'il soit entré sans frapper.",
+      "nous": "Bien que nous soyons entrés tôt, la salle était pleine.",
+      "vous": "Je suis surpris que vous soyez entrés sans billet.",
+      "ils": "Il est possible qu'ils soient entrés par le garage."
+    },
+    "Futur Proche": {
+      "je": "Je vais entrer dans ce magasin.",
+      "tu": "Tu vas entrer à l'école de musique ?",
+      "il": "Il va entrer au lycée.",
+      "nous": "Nous allons entrer dans la cathédrale.",
+      "vous": "Vous allez entrer par la porte principale.",
+      "ils": "Ils vont entrer en scène dans cinq minutes."
+    },
+    "Impératif": {
+      "tu": "Entre, la porte est ouverte !",
+      "nous": "Entrons, il fait froid dehors.",
+      "vous": "Entrez, je vous en prie."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "servir",
+  "tenses": {
+    "Présent": {
+      "je": "Je sers le dîner à dix-neuf heures.",
+      "tu": "Tu sers le café, s'il te plaît ?",
+      "il": "Il sert les clients avec le sourire.",
+      "nous": "Nous servons le petit-déjeuner jusqu'à dix heures.",
+      "vous": "Vous servez des plats végétariens ?",
+      "ils": "Ils servent une excellente soupe dans ce café."
+    },
+    "Imparfait": {
+      "je": "Je servais des glaces sur la plage l'été.",
+      "tu": "Tu servais toujours le dessert en premier.",
+      "il": "Il servait dans l'armée à cette époque.",
+      "nous": "Nous servions le repas aux personnes âgées.",
+      "vous": "Vous serviez quoi dans votre restaurant ?",
+      "ils": "Ils servaient des crêpes à la fête du village."
+    },
+    "Futur Simple": {
+      "je": "Je servirai l'apéritif dans le jardin.",
+      "tu": "Tu serviras les enfants en premier.",
+      "il": "Il servira le champagne à minuit.",
+      "nous": "Nous servirons le gâteau après les discours.",
+      "vous": "Vous servirez le café au salon.",
+      "ils": "Ils serviront le repas à vingt heures."
+    },
+    "Conditionnel Présent": {
+      "je": "Je servirais bien un peu plus de vin.",
+      "tu": "Tu servirais les invités ?",
+      "il": "Il servirait le dessert avec plus d'assiettes.",
+      "nous": "Nous servirions plus de clients avec une terrasse.",
+      "vous": "Vous serviriez une autre tasse de thé ?",
+      "ils": "Ils serviraient des plats plus simples avec moins de personnel."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je serve le dessert ?",
+      "tu": "J'aimerais que tu serves le vin.",
+      "il": "Il faut qu'il serve les clients plus vite.",
+      "nous": "Il est temps que nous servions le repas.",
+      "vous": "Je préfère que vous serviez le café maintenant.",
+      "ils": "Il faut qu'ils servent les plats chauds."
+    },
+    "Passé Simple": {
+      "je": "Je servis le roi pendant trente ans.",
+      "tu": "Tu servis le vin aux convives.",
+      "il": "Il servit dans la marine.",
+      "nous": "Nous servîmes un festin aux voyageurs.",
+      "vous": "Vous servîtes votre pays avec honneur.",
+      "ils": "Ils servirent le repas dans la grande salle."
+    },
+    "Passé Composé": {
+      "je": "J'ai servi le thé à nos invités.",
+      "tu": "Tu as servi le dessert ?",
+      "il": "Il a servi dans l'armée pendant dix ans.",
+      "nous": "Nous avons servi deux cents repas ce soir.",
+      "vous": "Vous avez servi le vin trop froid.",
+      "ils": "Ils ont servi un excellent couscous."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais servi le café avant leur arrivée.",
+      "tu": "Tu avais servi les enfants en premier.",
+      "il": "Il avait servi de guide pendant le voyage.",
+      "nous": "Nous avions servi l'apéritif dans le jardin.",
+      "vous": "Vous aviez servi ce plat à vos invités ?",
+      "ils": "Ils avaient servi le repas en retard."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai servi plus de cent clients aujourd'hui.",
+      "tu": "Tu auras servi tout le monde avant midi.",
+      "il": "Il aura servi son pays toute sa vie.",
+      "nous": "Nous aurons servi le dessert avant les discours.",
+      "vous": "Vous aurez servi un repas inoubliable.",
+      "ils": "Ils auront servi des milliers de repas."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais servi le vin avec de meilleurs verres.",
+      "tu": "Tu aurais servi ce plat à tes invités ?",
+      "il": "Il aurait servi le repas plus tôt sans ce retard.",
+      "nous": "Nous aurions servi plus de clients avec une plus grande salle.",
+      "vous": "Vous auriez servi du champagne ?",
+      "ils": "Ils auraient servi le dessert plus tard."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie servi tous les clients.",
+      "tu": "C'est gentil que tu aies servi le café.",
+      "il": "Je doute qu'il ait servi dans l'armée.",
+      "nous": "Bien que nous ayons servi le repas à l'heure, les invités étaient en retard.",
+      "vous": "Je suis content que vous ayez servi ce vin.",
+      "ils": "C'est bien qu'ils aient servi des plats végétariens."
+    },
+    "Futur Proche": {
+      "je": "Je vais servir l'entrée.",
+      "tu": "Tu vas servir le gâteau ?",
+      "il": "Il va servir le champagne.",
+      "nous": "Nous allons servir le repas.",
+      "vous": "Vous allez servir le café ?",
+      "ils": "Ils vont servir le dessert."
+    },
+    "Impératif": {
+      "tu": "Sers le gâteau, s'il te plaît.",
+      "nous": "Servons le repas avant qu'il refroidisse.",
+      "vous": "Servez les invités en premier."
+    }
+  }
+}

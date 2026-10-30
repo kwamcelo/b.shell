@@ -1,0 +1,106 @@
+{
+  "verb": "garder",
+  "tenses": {
+    "Présent": {
+      "je": "Je garde les enfants de ma voisine ce soir.",
+      "tu": "Tu gardes la monnaie ?",
+      "il": "Il garde toutes ses vieilles lettres.",
+      "nous": "Nous gardons le chien de nos amis pendant les vacances.",
+      "vous": "Vous gardez le reçu ?",
+      "ils": "Ils gardent leur calme dans toutes les situations."
+    },
+    "Imparfait": {
+      "je": "Je gardais mon petit frère après l'école.",
+      "tu": "Tu gardais toujours une photo dans ton portefeuille.",
+      "il": "Il gardait les chèvres dans la montagne.",
+      "nous": "Nous gardions nos jouets dans une grande boîte.",
+      "vous": "Vous gardiez le secret ?",
+      "ils": "Ils gardaient la maison pendant notre absence."
+    },
+    "Futur Simple": {
+      "je": "Je garderai ton secret.",
+      "tu": "Tu garderas une place pour moi ?",
+      "il": "Il gardera le chat pendant nos vacances.",
+      "nous": "Nous garderons le contact.",
+      "vous": "Vous garderez votre ticket jusqu'à la sortie.",
+      "ils": "Ils garderont ce souvenir toute leur vie."
+    },
+    "Conditionnel Présent": {
+      "je": "Je garderais bien ce pull.",
+      "tu": "Tu garderais mon sac une minute ?",
+      "il": "Il garderait le secret, j'en suis sûr.",
+      "nous": "Nous garderions la vieille voiture avec moins de pannes.",
+      "vous": "Vous garderiez mon chien ce week-end ?",
+      "ils": "Ils garderaient la maison avec plus d'argent."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je garde le bébé ce soir ?",
+      "tu": "Il faut que tu gardes ton calme.",
+      "il": "Je préfère qu'il garde les clés.",
+      "nous": "Il faut que nous gardions espoir.",
+      "vous": "J'aimerais que vous gardiez ce secret.",
+      "ils": "Il faut qu'ils gardent le reçu."
+    },
+    "Passé Simple": {
+      "je": "Je gardai le secret toute ma vie.",
+      "tu": "Tu gardas l'entrée du château.",
+      "il": "Il garda la lettre sous son oreiller.",
+      "nous": "Nous gardâmes les moutons tout l'été.",
+      "vous": "Vous gardâtes votre sang-froid.",
+      "ils": "Ils gardèrent le trésor caché."
+    },
+    "Passé Composé": {
+      "je": "J'ai gardé toutes tes lettres.",
+      "tu": "Tu as gardé le ticket de caisse ?",
+      "il": "Il a gardé son calme pendant la dispute.",
+      "nous": "Nous avons gardé le chat de nos voisins.",
+      "vous": "Vous avez gardé le contact avec vos anciens collègues ?",
+      "ils": "Ils ont gardé le meilleur pour la fin."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais gardé une place pour toi.",
+      "tu": "Tu avais gardé ce secret pendant des années.",
+      "il": "Il avait gardé son vieux vélo.",
+      "nous": "Nous avions gardé les enfants tout le week-end.",
+      "vous": "Vous aviez gardé la facture ?",
+      "ils": "Ils avaient gardé de bons souvenirs de ce voyage."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai gardé ce secret pendant dix ans.",
+      "tu": "Tu auras gardé ton calme jusqu'au bout.",
+      "il": "Il aura gardé son poste malgré la crise.",
+      "nous": "Nous aurons gardé le contact pendant toutes ces années.",
+      "vous": "Vous aurez gardé le meilleur pour la fin.",
+      "ils": "Ils auront gardé la maison de leurs parents."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais gardé cette robe, elle était parfaite.",
+      "tu": "Tu aurais gardé l'argent trouvé dans la rue ?",
+      "il": "Il aurait gardé son calme avec un peu plus de sommeil.",
+      "nous": "Nous aurions gardé le chien avec un jardin.",
+      "vous": "Vous auriez gardé le secret ?",
+      "ils": "Ils auraient gardé la voiture sans cet accident."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est content que j'aie gardé son secret.",
+      "tu": "C'est bien que tu aies gardé ton calme.",
+      "il": "Je suis surpris qu'il ait gardé toutes ces lettres.",
+      "nous": "Bien que nous ayons gardé le reçu, le magasin refuse le remboursement.",
+      "vous": "Je suis touché que vous ayez gardé ce souvenir.",
+      "ils": "C'est gentil qu'ils aient gardé nos enfants."
+    },
+    "Futur Proche": {
+      "je": "Je vais garder ce secret.",
+      "tu": "Tu vas garder la monnaie ?",
+      "il": "Il va garder les enfants samedi.",
+      "nous": "Nous allons garder le contact.",
+      "vous": "Vous allez garder le chien ?",
+      "ils": "Ils vont garder la maison."
+    },
+    "Impératif": {
+      "tu": "Garde la monnaie.",
+      "nous": "Gardons notre calme.",
+      "vous": "Gardez votre ticket, s'il vous plaît."
+    }
+  }
+}

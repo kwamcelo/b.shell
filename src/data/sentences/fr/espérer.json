@@ -1,0 +1,106 @@
+{
+  "verb": "espérer",
+  "tenses": {
+    "Présent": {
+      "je": "J'espère que tu vas bien.",
+      "tu": "Tu espères gagner ?",
+      "il": "Il espère trouver un travail bientôt.",
+      "nous": "Nous espérons vous revoir bientôt.",
+      "vous": "Vous espérez partir en vacances cet été ?",
+      "ils": "Ils espèrent avoir un deuxième enfant."
+    },
+    "Imparfait": {
+      "je": "J'espérais te voir à la fête.",
+      "tu": "Tu espérais un meilleur résultat ?",
+      "il": "Il espérait devenir pilote.",
+      "nous": "Nous espérions du beau temps pour le mariage.",
+      "vous": "Vous espériez une réponse plus rapide ?",
+      "ils": "Ils espéraient gagner le match."
+    },
+    "Futur Simple": {
+      "je": "J'espérerai jusqu'au bout.",
+      "tu": "Tu espéreras toujours un miracle.",
+      "il": "Il espérera une réponse rapide.",
+      "nous": "Nous espérerons le meilleur.",
+      "vous": "Vous espérerez des nouvelles.",
+      "ils": "Ils espéreront une victoire."
+    },
+    "Conditionnel Présent": {
+      "je": "J'espérerais une réponse avant vendredi.",
+      "tu": "Tu espérerais vraiment gagner ?",
+      "il": "Il espérerait une augmentation après ce projet.",
+      "nous": "Nous espérerions un peu plus de soleil.",
+      "vous": "Vous espéreriez quoi de ce voyage ?",
+      "ils": "Ils espéreraient un meilleur score."
+    },
+    "Subjonctif": {
+      "je": "Il est normal que j'espère une augmentation.",
+      "tu": "Je comprends que tu espères un miracle.",
+      "il": "C'est normal qu'il espère gagner.",
+      "nous": "Il faut que nous espérions encore.",
+      "vous": "Je comprends que vous espériez une réponse rapide.",
+      "ils": "C'est logique qu'ils espèrent une victoire."
+    },
+    "Passé Simple": {
+      "je": "J'espérai longtemps son retour.",
+      "tu": "Tu espéras en vain une lettre.",
+      "il": "Il espéra un miracle jusqu'à la fin.",
+      "nous": "Nous espérâmes la fin de la guerre.",
+      "vous": "Vous espérâtes la clémence du roi.",
+      "ils": "Ils espérèrent des jours meilleurs."
+    },
+    "Passé Composé": {
+      "je": "J'ai espéré une réponse toute la semaine.",
+      "tu": "Tu as espéré son appel ?",
+      "il": "Il a espéré une seconde chance.",
+      "nous": "Nous avons espéré du soleil toute la semaine.",
+      "vous": "Vous avez espéré un miracle ?",
+      "ils": "Ils ont espéré la victoire jusqu'à la dernière minute."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais espéré mieux.",
+      "tu": "Tu avais espéré une autre fin ?",
+      "il": "Il avait espéré une promotion.",
+      "nous": "Nous avions espéré un temps plus clément.",
+      "vous": "Vous aviez espéré un meilleur accueil ?",
+      "ils": "Ils avaient espéré une victoire facile."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai espéré pour rien.",
+      "tu": "Tu auras espéré ce moment pendant des années.",
+      "il": "Il aura espéré ce poste toute sa carrière.",
+      "nous": "Nous aurons espéré jusqu'au bout.",
+      "vous": "Vous aurez espéré un miracle.",
+      "ils": "Ils auront espéré ce jour longtemps."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais espéré une meilleure note.",
+      "tu": "Tu aurais espéré plus de reconnaissance ?",
+      "il": "Il aurait espéré un autre résultat.",
+      "nous": "Nous aurions espéré plus de monde.",
+      "vous": "Vous auriez espéré mieux ?",
+      "ils": "Ils auraient espéré une meilleure saison."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents comprennent que j'aie espéré mieux.",
+      "tu": "C'est normal que tu aies espéré une réponse.",
+      "il": "Je comprends qu'il ait espéré une promotion.",
+      "nous": "Bien que nous ayons espéré du soleil, il a plu.",
+      "vous": "Je comprends que vous ayez espéré mieux.",
+      "ils": "C'est triste qu'ils aient espéré pour rien."
+    },
+    "Futur Proche": {
+      "je": "Je vais espérer jusqu'au bout.",
+      "tu": "Tu vas espérer un miracle ?",
+      "il": "Il va espérer une réponse rapide.",
+      "nous": "Nous allons espérer du beau temps.",
+      "vous": "Vous allez espérer une victoire.",
+      "ils": "Ils vont espérer le meilleur."
+    },
+    "Impératif": {
+      "tu": "Espère, tout est encore possible.",
+      "nous": "Espérons qu'il fera beau demain.",
+      "vous": "Espérez le meilleur, préparez-vous au pire."
+    }
+  }
+}

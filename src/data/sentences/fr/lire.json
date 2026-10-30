@@ -1,0 +1,106 @@
+{
+  "verb": "lire",
+  "tenses": {
+    "Présent": {
+      "je": "Je lis un roman policier en ce moment.",
+      "tu": "Tu lis le journal tous les matins ?",
+      "il": "Il lit des bandes dessinées dans le métro.",
+      "nous": "Nous lisons une histoire aux enfants chaque soir.",
+      "vous": "Vous lisez en français ?",
+      "ils": "Ils lisent beaucoup pendant les vacances."
+    },
+    "Imparfait": {
+      "je": "Je lisais sous la couverture avec une lampe.",
+      "tu": "Tu lisais quoi quand tu étais ado ?",
+      "il": "Il lisait le journal en buvant son café.",
+      "nous": "Nous lisions des contes avant de dormir.",
+      "vous": "Vous lisiez beaucoup à l'école ?",
+      "ils": "Ils lisaient à voix haute."
+    },
+    "Futur Simple": {
+      "je": "Je lirai ton rapport ce soir.",
+      "tu": "Tu liras ce livre pendant les vacances.",
+      "il": "Il lira son discours au mariage.",
+      "nous": "Nous lirons la suite demain.",
+      "vous": "Vous lirez le chapitre trois pour lundi.",
+      "ils": "Ils liront les résultats en ligne."
+    },
+    "Conditionnel Présent": {
+      "je": "Je lirais plus avec moins d'écrans.",
+      "tu": "Tu lirais mon texte avant que je l'envoie ?",
+      "il": "Il lirait toute la nuit sans s'arrêter.",
+      "nous": "Nous lirions plus avec une bibliothèque près d'ici.",
+      "vous": "Vous liriez ce contrat pour moi ?",
+      "ils": "Ils liraient plus avec des livres plus courts."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je lise ce livre avant le cours.",
+      "tu": "J'aimerais que tu lises ma lettre.",
+      "il": "Je veux qu'il lise le contrat avant de signer.",
+      "nous": "Il est important que nous lisions les consignes.",
+      "vous": "Je préfère que vous lisiez à voix haute.",
+      "ils": "Il faut qu'ils lisent au moins un livre par mois."
+    },
+    "Passé Simple": {
+      "je": "Je lus la lettre trois fois.",
+      "tu": "Tu lus le message à la lueur de la bougie.",
+      "il": "Il lut le testament devant toute la famille.",
+      "nous": "Nous lûmes les vieux manuscrits.",
+      "vous": "Vous lûtes la proclamation au peuple.",
+      "ils": "Ils lurent la nouvelle dans le journal."
+    },
+    "Passé Composé": {
+      "je": "J'ai lu tous les livres de cette série.",
+      "tu": "Tu as lu mon message ?",
+      "il": "Il a lu la notice avant de monter le meuble.",
+      "nous": "Nous avons lu le même roman.",
+      "vous": "Vous avez lu les conditions du contrat ?",
+      "ils": "Ils ont lu l'article dans le journal."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais lu ce livre au lycée.",
+      "tu": "Tu avais lu la critique avant de voir le film ?",
+      "il": "Il avait lu tous les romans de Zola.",
+      "nous": "Nous avions lu les avis sur Internet.",
+      "vous": "Vous aviez lu le règlement ?",
+      "ils": "Ils avaient lu la carte avant de commander."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai lu cinquante livres cette année.",
+      "tu": "Tu auras lu tout le dossier avant la réunion.",
+      "il": "Il aura lu toutes les lettres.",
+      "nous": "Nous aurons lu le livre avant de voir le film.",
+      "vous": "Vous aurez lu le chapitre avant le cours.",
+      "ils": "Ils auront lu le texte plusieurs fois."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais lu ce livre avec plus de temps.",
+      "tu": "Tu aurais lu ça jusqu'au bout ?",
+      "il": "Il aurait lu le contrat avec plus d'attention.",
+      "nous": "Nous aurions lu la notice avec de meilleures lunettes.",
+      "vous": "Vous auriez lu ce roman ?",
+      "ils": "Ils auraient lu les consignes avec plus de temps."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie lu ce roman.",
+      "tu": "C'est bien que tu aies lu le contrat.",
+      "il": "Je doute qu'il ait lu mon message.",
+      "nous": "Bien que nous ayons lu le livre, nous n'avons rien compris.",
+      "vous": "Je suis ravi que vous ayez lu mon article.",
+      "ils": "C'est super qu'ils aient lu tous ces livres."
+    },
+    "Futur Proche": {
+      "je": "Je vais lire un peu avant de dormir.",
+      "tu": "Tu vas lire quoi pendant les vacances ?",
+      "il": "Il va lire son discours.",
+      "nous": "Nous allons lire une histoire.",
+      "vous": "Vous allez lire le contrat ?",
+      "ils": "Ils vont lire le nouveau roman de cet auteur."
+    },
+    "Impératif": {
+      "tu": "Lis ce livre, il est génial.",
+      "nous": "Lisons ensemble le premier chapitre.",
+      "vous": "Lisez attentivement les questions."
+    }
+  }
+}

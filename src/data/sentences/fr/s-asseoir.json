@@ -1,0 +1,106 @@
+{
+  "verb": "s'asseoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je m'assois toujours près de la fenêtre.",
+      "tu": "Tu t'assois à côté de moi ?",
+      "il": "Il s'assoit au premier rang.",
+      "nous": "Nous nous assoyons sur un banc du parc.",
+      "vous": "Vous vous assoyez où vous voulez.",
+      "ils": "Ils s'assoient à la terrasse du café."
+    },
+    "Imparfait": {
+      "je": "Je m'assoyais au fond de la classe.",
+      "tu": "Tu t'assoyais toujours sur cette chaise.",
+      "il": "Il s'assoyait sous le grand chêne pour lire.",
+      "nous": "Nous nous assoyions autour du feu.",
+      "vous": "Vous vous assoyiez à la même table chaque midi ?",
+      "ils": "Ils s'assoyaient sur les marches de l'église."
+    },
+    "Futur Simple": {
+      "je": "Je m'assoirai au bord de la scène.",
+      "tu": "Tu t'assoiras à côté de ta tante.",
+      "il": "Il s'assoira en bout de table.",
+      "nous": "Nous nous assoirons à l'ombre.",
+      "vous": "Vous vous assoirez au troisième rang.",
+      "ils": "Ils s'assoiront près de la sortie."
+    },
+    "Conditionnel Présent": {
+      "je": "Je m'assoirais bien cinq minutes.",
+      "tu": "Tu t'assoirais avec nous ?",
+      "il": "Il s'assoirait volontiers près du feu.",
+      "nous": "Nous nous assoirions dehors avec un peu de soleil.",
+      "vous": "Vous vous assoiriez ici, s'il vous plaît ?",
+      "ils": "Ils s'assoiraient par terre sans problème."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je m'assoie ici ?",
+      "tu": "J'aimerais que tu t'assoies près de moi.",
+      "il": "Je préfère qu'il s'assoie devant.",
+      "nous": "Il vaut mieux que nous nous assoyions au fond.",
+      "vous": "Je souhaite que vous vous assoyiez au premier rang.",
+      "ils": "Il faut qu'ils s'assoient avant le début du spectacle."
+    },
+    "Passé Simple": {
+      "je": "Je m'assis au bord du lit.",
+      "tu": "Tu t'assis sur le trône.",
+      "il": "Il s'assit près de la cheminée.",
+      "nous": "Nous nous assîmes à l'ombre d'un arbre.",
+      "vous": "Vous vous assîtes à la table du roi.",
+      "ils": "Ils s'assirent en cercle autour du feu."
+    },
+    "Passé Composé": {
+      "je": "Je me suis assis à côté d'un inconnu dans le train.",
+      "tu": "Tu t'es assis sur mes lunettes !",
+      "il": "Il s'est assis au fond de la salle.",
+      "nous": "Nous nous sommes assis sur l'herbe.",
+      "vous": "Vous vous êtes assis au premier rang ?",
+      "ils": "Ils se sont assis à la terrasse."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais assis près de la porte.",
+      "tu": "Tu t'étais assis à la mauvaise place.",
+      "il": "Il s'était assis sur un banc pour se reposer.",
+      "nous": "Nous nous étions assis au bord du lac.",
+      "vous": "Vous vous étiez assis où pendant le concert ?",
+      "ils": "Ils s'étaient assis par terre."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai assis avant le début du film.",
+      "tu": "Tu te seras assis à la bonne place.",
+      "il": "Il se sera assis au premier rang, comme d'habitude.",
+      "nous": "Nous nous serons assis avant l'arrivée des mariés.",
+      "vous": "Vous vous serez assis avant le discours.",
+      "ils": "Ils se seront assis à leur place."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais assis avec une chaise libre.",
+      "tu": "Tu te serais assis par terre ?",
+      "il": "Il se serait assis à côté de nous sans ce sac.",
+      "nous": "Nous nous serions assis dehors sans la pluie.",
+      "vous": "Vous vous seriez assis au premier rang ?",
+      "ils": "Ils se seraient assis plus près avec des billets plus chers."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon voisin est gêné que je me sois assis à sa place.",
+      "tu": "C'est drôle que tu te sois assis sur le gâteau.",
+      "il": "Je suis surpris qu'il se soit assis là.",
+      "nous": "Bien que nous nous soyons assis au fond, nous entendions bien.",
+      "vous": "Je suis content que vous vous soyez assis avec nous.",
+      "ils": "Il est possible qu'ils se soient assis à la mauvaise table."
+    },
+    "Futur Proche": {
+      "je": "Je vais m'asseoir un peu.",
+      "tu": "Tu vas t'asseoir où ?",
+      "il": "Il va s'asseoir à côté de sa sœur.",
+      "nous": "Nous allons nous asseoir à l'ombre.",
+      "vous": "Vous allez vous asseoir au premier rang ?",
+      "ils": "Ils vont s'asseoir près de la fenêtre."
+    },
+    "Impératif": {
+      "tu": "Assois-toi, je t'apporte un café.",
+      "nous": "Assoyons-nous ici, il y a de l'ombre.",
+      "vous": "Assoyez-vous, je vous en prie."
+    }
+  }
+}

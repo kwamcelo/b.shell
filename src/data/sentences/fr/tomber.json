@@ -1,0 +1,106 @@
+{
+  "verb": "tomber",
+  "tenses": {
+    "Présent": {
+      "je": "Je tombe de sommeil.",
+      "tu": "Tu tombes bien, j'avais besoin de toi.",
+      "il": "Il tombe toujours malade en hiver.",
+      "nous": "Nous tombons d'accord sur tout.",
+      "vous": "Vous tombez au bon moment.",
+      "ils": "Ils tombent souvent en panne avec cette voiture."
+    },
+    "Imparfait": {
+      "je": "Je tombais souvent de vélo dans mon enfance.",
+      "tu": "Tu tombais toujours sur les mêmes questions.",
+      "il": "Il tombait de fatigue après le travail.",
+      "nous": "Nous tombions souvent sur nos voisins au marché.",
+      "vous": "Vous tombiez souvent malades à l'école ?",
+      "ils": "Ils tombaient de sommeil pendant les cours du soir."
+    },
+    "Futur Simple": {
+      "je": "Je tomberai sûrement sur un embouteillage.",
+      "tu": "Tu tomberas sur la boulangerie au coin de la rue.",
+      "il": "Il tombera de haut en apprenant la vérité.",
+      "nous": "Nous tomberons d'accord, c'est certain.",
+      "vous": "Vous tomberez sur une place à droite.",
+      "ils": "Ils tomberont sur nous au marché, c'est sûr."
+    },
+    "Conditionnel Présent": {
+      "je": "Je tomberais de fatigue sans ce café.",
+      "tu": "Tu tomberais de ton vélo sans casque.",
+      "il": "Il tomberait malade sans manteau.",
+      "nous": "Nous tomberions d'accord avec un peu de patience.",
+      "vous": "Vous tomberiez sur la gare en continuant tout droit.",
+      "ils": "Ils tomberaient en panne sans essence."
+    },
+    "Subjonctif": {
+      "je": "Ma mère a peur que je tombe malade.",
+      "tu": "J'ai peur que tu tombes dans l'escalier.",
+      "il": "Il est possible qu'il tombe en panne.",
+      "nous": "Il faut que nous tombions d'accord.",
+      "vous": "Je crains que vous tombiez sur un mauvais vendeur.",
+      "ils": "Je souhaite qu'ils tombent sur un bon prof."
+    },
+    "Passé Simple": {
+      "je": "Je tombai de cheval dans la forêt.",
+      "tu": "Tu tombas dans le piège de l'ennemi.",
+      "il": "Il tomba au champ d'honneur.",
+      "nous": "Nous tombâmes sur une vieille cabane.",
+      "vous": "Vous tombâtes sous le charme du village.",
+      "ils": "Ils tombèrent dans une embuscade."
+    },
+    "Passé Composé": {
+      "je": "Je suis tombé dans l'escalier ce matin.",
+      "tu": "Tu es tombé de ton vélo ?",
+      "il": "Il est tombé malade pendant les vacances.",
+      "nous": "Nous sommes tombés en panne sur l'autoroute.",
+      "vous": "Vous êtes tombés sur le prof au supermarché ?",
+      "ils": "Ils sont tombés d'accord sur le prix."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais tombé sur une vieille photo de nous.",
+      "tu": "Tu étais tombé malade juste avant l'examen.",
+      "il": "Il était tombé de l'arbre en cueillant des cerises.",
+      "nous": "Nous étions tombés sur un restaurant génial.",
+      "vous": "Vous étiez tombés en panne près de Lyon ?",
+      "ils": "Ils étaient tombés d'accord très vite."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai tombé de sommeil avant la fin du film.",
+      "tu": "Tu seras tombé sur la bonne personne.",
+      "il": "Il sera tombé dans le piège, comme toujours.",
+      "nous": "Nous serons tombés d'accord avant midi.",
+      "vous": "Vous serez tombés sous le charme de Lisbonne.",
+      "ils": "Ils seront tombés en panne d'essence."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais tombé sans ton aide.",
+      "tu": "Tu serais tombé dans le piège à ma place ?",
+      "il": "Il serait tombé de l'échelle sans ce voisin.",
+      "nous": "Nous serions tombés en panne sans ce garage.",
+      "vous": "Vous seriez tombés d'accord avec plus de temps.",
+      "ils": "Ils seraient tombés dans la rivière sans la barrière."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents ont peur que je sois tombé malade.",
+      "tu": "C'est une chance que tu sois tombé sur ce médecin.",
+      "il": "Je suis désolé qu'il soit tombé malade.",
+      "nous": "Bien que nous soyons tombés en panne, nous sommes arrivés à temps.",
+      "vous": "C'est drôle que vous soyez tombés sur mon frère.",
+      "ils": "Il est possible qu'ils soient tombés dans le panneau."
+    },
+    "Futur Proche": {
+      "je": "Je vais tomber de sommeil.",
+      "tu": "Tu vas tomber, fais attention !",
+      "il": "Il va tomber dans le piège.",
+      "nous": "Nous allons tomber d'accord.",
+      "vous": "Vous allez tomber sous le charme de cette ville.",
+      "ils": "Ils vont tomber en panne d'essence."
+    },
+    "Impératif": {
+      "tu": "Ne tombe pas dans le piège !",
+      "nous": "Tombons d'accord sur une date.",
+      "vous": "Ne tombez pas dans le panneau."
+    }
+  }
+}

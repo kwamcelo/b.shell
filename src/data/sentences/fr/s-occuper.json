@@ -1,0 +1,106 @@
+{
+  "verb": "s'occuper",
+  "tenses": {
+    "Présent": {
+      "je": "Je m'occupe des réservations.",
+      "tu": "Tu t'occupes du dessert ?",
+      "il": "Il s'occupe de son jardin tous les week-ends.",
+      "nous": "Nous nous occupons de tout.",
+      "vous": "Vous vous occupez de quel dossier ?",
+      "ils": "Ils s'occupent de leurs petits-enfants le mercredi."
+    },
+    "Imparfait": {
+      "je": "Je m'occupais du chien de mes voisins.",
+      "tu": "Tu t'occupais de ta petite sœur après l'école.",
+      "il": "Il s'occupait de la comptabilité.",
+      "nous": "Nous nous occupions du jardin ensemble.",
+      "vous": "Vous vous occupiez de quoi dans cette entreprise ?",
+      "ils": "Ils s'occupaient d'une association de quartier."
+    },
+    "Futur Simple": {
+      "je": "Je m'occuperai de la décoration.",
+      "tu": "Tu t'occuperas des boissons.",
+      "il": "Il s'occupera de la musique pour la fête.",
+      "nous": "Nous nous occuperons du reste.",
+      "vous": "Vous vous occuperez des inscriptions.",
+      "ils": "Ils s'occuperont des enfants ce week-end."
+    },
+    "Conditionnel Présent": {
+      "je": "Je m'occuperais volontiers de ton chat.",
+      "tu": "Tu t'occuperais de mes plantes pendant les vacances ?",
+      "il": "Il s'occuperait du dîner avec plaisir.",
+      "nous": "Nous nous occuperions de tout avec plus de temps.",
+      "vous": "Vous vous occuperiez de ce client ?",
+      "ils": "Ils s'occuperaient des invités sans problème."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je m'occupe de la vaisselle ?",
+      "tu": "J'aimerais que tu t'occupes du chien.",
+      "il": "Il faut qu'il s'occupe de ses affaires.",
+      "nous": "Il est temps que nous nous occupions de ce problème.",
+      "vous": "Je préfère que vous vous occupiez des billets.",
+      "ils": "Il faut qu'ils s'occupent de leur grand-mère."
+    },
+    "Passé Simple": {
+      "je": "Je m'occupai des blessés toute la nuit.",
+      "tu": "Tu t'occupas des chevaux.",
+      "il": "Il s'occupa du domaine après la mort de son père.",
+      "nous": "Nous nous occupâmes des préparatifs du mariage.",
+      "vous": "Vous vous occupâtes des orphelins du village.",
+      "ils": "Ils s'occupèrent de la récolte."
+    },
+    "Passé Composé": {
+      "je": "Je me suis occupé de tout.",
+      "tu": "Tu t'es occupé des billets ?",
+      "il": "Il s'est occupé de son père pendant sa maladie.",
+      "nous": "Nous nous sommes occupés de la décoration.",
+      "vous": "Vous vous êtes occupés du repas ?",
+      "ils": "Ils se sont occupés de nos chats pendant les vacances."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais occupé des réservations.",
+      "tu": "Tu t'étais occupé du jardin pendant notre absence.",
+      "il": "Il s'était occupé de la maison de ses parents.",
+      "nous": "Nous nous étions occupés de tout à l'avance.",
+      "vous": "Vous vous étiez occupés des invitations ?",
+      "ils": "Ils s'étaient occupés du bébé toute la nuit."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai occupé de tout avant ton retour.",
+      "tu": "Tu te seras occupé de la valise ?",
+      "il": "Il se sera occupé des billets.",
+      "nous": "Nous nous serons occupés de la décoration.",
+      "vous": "Vous vous serez occupés des enfants toute la journée.",
+      "ils": "Ils se seront occupés de tout."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais occupé de ton chat avec plaisir.",
+      "tu": "Tu te serais occupé du repas ?",
+      "il": "Il se serait occupé de tout avec plus de temps.",
+      "nous": "Nous nous serions occupés des enfants.",
+      "vous": "Vous vous seriez occupés de ce dossier ?",
+      "ils": "Ils se seraient occupés de la fête."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est contente que je me sois occupé de son chat.",
+      "tu": "C'est gentil que tu te sois occupé de tout.",
+      "il": "Je doute qu'il se soit occupé du dossier.",
+      "nous": "Bien que nous nous soyons occupés de tout, il manque des chaises.",
+      "vous": "Merci ! Je suis touché que vous vous soyez occupés de moi.",
+      "ils": "C'est bien qu'ils se soient occupés de leur mère."
+    },
+    "Futur Proche": {
+      "je": "Je vais m'occuper du dîner.",
+      "tu": "Tu vas t'occuper des enfants ?",
+      "il": "Il va s'occuper de la musique.",
+      "nous": "Nous allons nous occuper de tout.",
+      "vous": "Vous allez vous occuper de ce client ?",
+      "ils": "Ils vont s'occuper du jardin."
+    },
+    "Impératif": {
+      "tu": "Occupe-toi de tes affaires !",
+      "nous": "Occupons-nous de ce problème.",
+      "vous": "Occupez-vous bien de mon chat."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "travailler",
+  "tenses": {
+    "Présent": {
+      "je": "Je travaille dans une banque.",
+      "tu": "Tu travailles demain ?",
+      "il": "Il travaille de nuit à l'hôpital.",
+      "nous": "Nous travaillons ensemble sur ce projet.",
+      "vous": "Vous travaillez où ?",
+      "ils": "Ils travaillent dans le même bureau."
+    },
+    "Imparfait": {
+      "je": "Je travaillais dans un café pendant mes études.",
+      "tu": "Tu travaillais encore à vingt heures ?",
+      "il": "Il travaillait comme serveur l'été.",
+      "nous": "Nous travaillions tard tous les soirs.",
+      "vous": "Vous travailliez déjà ici l'année dernière ?",
+      "ils": "Ils travaillaient à la ferme de leurs parents."
+    },
+    "Futur Simple": {
+      "je": "Je travaillerai de la maison vendredi.",
+      "tu": "Tu travailleras avec Julie sur ce dossier.",
+      "il": "Il travaillera à Montréal à partir de mai.",
+      "nous": "Nous travaillerons ce samedi.",
+      "vous": "Vous travaillerez en équipe.",
+      "ils": "Ils travailleront pendant les vacances."
+    },
+    "Conditionnel Présent": {
+      "je": "Je travaillerais moins avec un meilleur salaire.",
+      "tu": "Tu travaillerais à l'étranger ?",
+      "il": "Il travaillerait mieux dans un bureau calme.",
+      "nous": "Nous travaillerions plus vite avec de meilleurs outils.",
+      "vous": "Vous travailleriez le dimanche ?",
+      "ils": "Ils travailleraient volontiers à temps partiel."
+    },
+    "Subjonctif": {
+      "je": "Mon prof veut que je travaille plus.",
+      "tu": "Il faut que tu travailles ton accent.",
+      "il": "Je préfère qu'il travaille dans le salon.",
+      "nous": "Il est temps que nous travaillions sérieusement.",
+      "vous": "J'aimerais que vous travailliez ensemble.",
+      "ils": "Il faut qu'ils travaillent leur service au tennis."
+    },
+    "Passé Simple": {
+      "je": "Je travaillai toute la nuit sur ce manuscrit.",
+      "tu": "Tu travaillas dur pour réussir.",
+      "il": "Il travailla à la mine pendant vingt ans.",
+      "nous": "Nous travaillâmes du lever au coucher du soleil.",
+      "vous": "Vous travaillâtes pour le roi.",
+      "ils": "Ils travaillèrent dans les champs tout l'été."
+    },
+    "Passé Composé": {
+      "je": "J'ai travaillé tout le week-end.",
+      "tu": "Tu as travaillé tard hier ?",
+      "il": "Il a travaillé dix ans dans cette entreprise.",
+      "nous": "Nous avons travaillé sur ce projet pendant un an.",
+      "vous": "Vous avez travaillé à l'étranger ?",
+      "ils": "Ils ont travaillé sans pause."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais travaillé toute la nuit.",
+      "tu": "Tu avais travaillé dans un restaurant avant ?",
+      "il": "Il avait travaillé comme guide au Pérou.",
+      "nous": "Nous avions travaillé dur pour ce concours.",
+      "vous": "Vous aviez travaillé avec elle ?",
+      "ils": "Ils avaient travaillé ensemble au lycée."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai travaillé quarante heures cette semaine.",
+      "tu": "Tu auras travaillé dur pour ce diplôme.",
+      "il": "Il aura travaillé toute sa vie dans cette usine.",
+      "nous": "Nous aurons travaillé six mois sur ce projet.",
+      "vous": "Vous aurez travaillé pour rien.",
+      "ils": "Ils auront travaillé tout l'été."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais travaillé plus avec un meilleur prof.",
+      "tu": "Tu aurais travaillé pour cette entreprise ?",
+      "il": "Il aurait travaillé plus tard sans ce rendez-vous.",
+      "nous": "Nous aurions travaillé ensemble avec plaisir.",
+      "vous": "Vous auriez travaillé le dimanche ?",
+      "ils": "Ils auraient travaillé plus vite avec une machine."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie travaillé dur.",
+      "tu": "C'est bien que tu aies travaillé ton piano.",
+      "il": "Je doute qu'il ait travaillé tout le week-end.",
+      "nous": "Bien que nous ayons travaillé dur, le projet a échoué.",
+      "vous": "Je suis content que vous ayez travaillé ensemble.",
+      "ils": "C'est normal qu'ils aient travaillé tard."
+    },
+    "Futur Proche": {
+      "je": "Je vais travailler à la bibliothèque.",
+      "tu": "Tu vas travailler ce week-end ?",
+      "il": "Il va travailler dans un hôtel cet été.",
+      "nous": "Nous allons travailler sur la présentation.",
+      "vous": "Vous allez travailler de la maison ?",
+      "ils": "Ils vont travailler à Paris."
+    },
+    "Impératif": {
+      "tu": "Travaille bien à l'école !",
+      "nous": "Travaillons ensemble.",
+      "vous": "Travaillez en silence, s'il vous plaît."
+    }
+  }
+}

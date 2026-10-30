@@ -1,0 +1,106 @@
+{
+  "verb": "tirer",
+  "tenses": {
+    "Présent": {
+      "je": "Je tire la porte, mais elle est bloquée.",
+      "tu": "Tu tires une carte ?",
+      "il": "Il tire le rideau pour dormir.",
+      "nous": "Nous tirons au sort le gagnant.",
+      "vous": "Vous tirez ou vous poussez ?",
+      "ils": "Ils tirent la langue au photographe."
+    },
+    "Imparfait": {
+      "je": "Je tirais les rideaux chaque soir.",
+      "tu": "Tu tirais toujours la mauvaise carte.",
+      "il": "Il tirait sa valise jusqu'à la gare.",
+      "nous": "Nous tirions la luge en haut de la colline.",
+      "vous": "Vous tiriez au sort les équipes ?",
+      "ils": "Ils tiraient une petite charrette au marché."
+    },
+    "Futur Simple": {
+      "je": "Je tirerai les leçons de cette erreur.",
+      "tu": "Tu tireras le nom du gagnant.",
+      "il": "Il tirera le penalty décisif.",
+      "nous": "Nous tirerons les rideaux pour le film.",
+      "vous": "Vous tirerez une carte chacun.",
+      "ils": "Ils tireront le feu d'artifice à minuit."
+    },
+    "Conditionnel Présent": {
+      "je": "Je tirerais la chasse, mais elle est cassée.",
+      "tu": "Tu tirerais le rideau, s'il te plaît ?",
+      "il": "Il tirerait mieux avec plus d'entraînement.",
+      "nous": "Nous tirerions profit de cette situation.",
+      "vous": "Vous tireriez la porte derrière vous ?",
+      "ils": "Ils tireraient les conclusions qui s'imposent."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je tire les rideaux ?",
+      "tu": "Il faut que tu tires plus fort.",
+      "il": "Je veux qu'il tire le penalty.",
+      "nous": "Il faut que nous tirions les leçons du passé.",
+      "vous": "J'aimerais que vous tiriez une carte.",
+      "ils": "Il faut qu'ils tirent au sort l'ordre de passage."
+    },
+    "Passé Simple": {
+      "je": "Je tirai l'épée de son fourreau.",
+      "tu": "Tu tiras la corde de toutes tes forces.",
+      "il": "Il tira une flèche vers la cible.",
+      "nous": "Nous tirâmes le bateau sur la plage.",
+      "vous": "Vous tirâtes la sonnette du château.",
+      "ils": "Ils tirèrent les filets hors de l'eau."
+    },
+    "Passé Composé": {
+      "je": "J'ai tiré la mauvaise carte.",
+      "tu": "Tu as tiré la chasse ?",
+      "il": "Il a tiré le penalty en pleine lucarne.",
+      "nous": "Nous avons tiré au sort les cadeaux.",
+      "vous": "Vous avez tiré les rideaux ?",
+      "ils": "Ils ont tiré le feu d'artifice depuis le pont."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais tiré les rideaux pour dormir.",
+      "tu": "Tu avais tiré le bon numéro.",
+      "il": "Il avait tiré profit de son expérience.",
+      "nous": "Nous avions tiré au sort les chambres.",
+      "vous": "Vous aviez tiré la porte en sortant ?",
+      "ils": "Ils avaient tiré les leçons de leur échec."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai tiré les leçons de cette aventure.",
+      "tu": "Tu auras tiré le meilleur de cette expérience.",
+      "il": "Il aura tiré trois penaltys ce soir.",
+      "nous": "Nous aurons tiré profit de ce voyage.",
+      "vous": "Vous aurez tiré le gros lot.",
+      "ils": "Ils auront tiré le feu d'artifice avant minuit."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais tiré plus fort sans cette douleur au bras.",
+      "tu": "Tu aurais tiré le penalty à sa place ?",
+      "il": "Il aurait tiré à gauche, pas à droite.",
+      "nous": "Nous aurions tiré le bateau sur le sable.",
+      "vous": "Vous auriez tiré la sonnette d'alarme ?",
+      "ils": "Ils auraient tiré le feu d'artifice sans la pluie."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon équipe est contente que j'aie tiré ce penalty.",
+      "tu": "C'est drôle que tu aies tiré la même carte.",
+      "il": "Je suis surpris qu'il ait tiré à côté.",
+      "nous": "Bien que nous ayons tiré au sort, le résultat semble truqué.",
+      "vous": "C'est bien que vous ayez tiré les leçons de l'échec.",
+      "ils": "Il est possible qu'ils aient tiré la mauvaise conclusion."
+    },
+    "Futur Proche": {
+      "je": "Je vais tirer les rideaux.",
+      "tu": "Tu vas tirer une carte ?",
+      "il": "Il va tirer le penalty.",
+      "nous": "Nous allons tirer au sort.",
+      "vous": "Vous allez tirer la porte en sortant ?",
+      "ils": "Ils vont tirer le feu d'artifice."
+    },
+    "Impératif": {
+      "tu": "Tire la porte, ne pousse pas.",
+      "nous": "Tirons au sort qui commence.",
+      "vous": "Tirez la poignée vers vous."
+    }
+  }
+}

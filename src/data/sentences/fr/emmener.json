@@ -1,0 +1,106 @@
+{
+  "verb": "emmener",
+  "tenses": {
+    "Présent": {
+      "je": "J'emmène les enfants à l'école tous les matins.",
+      "tu": "Tu emmènes ton chien en vacances ?",
+      "il": "Il emmène sa mère chez le médecin.",
+      "nous": "Nous emmenons nos amis au restaurant.",
+      "vous": "Vous emmenez qui au mariage ?",
+      "ils": "Ils emmènent leurs enfants au zoo."
+    },
+    "Imparfait": {
+      "je": "J'emmenais mon petit frère au parc.",
+      "tu": "Tu emmenais toujours ton appareil photo.",
+      "il": "Il emmenait ses élèves au musée chaque mois.",
+      "nous": "Nous emmenions le chien à la plage.",
+      "vous": "Vous emmeniez vos enfants en camping ?",
+      "ils": "Ils emmenaient leurs grands-parents à la messe."
+    },
+    "Futur Simple": {
+      "je": "J'emmènerai les enfants au cinéma.",
+      "tu": "Tu emmèneras ta sœur à la gare ?",
+      "il": "Il emmènera sa fille au parc d'attractions.",
+      "nous": "Nous emmènerons le chat chez le vétérinaire.",
+      "vous": "Vous emmènerez vos invités en bateau.",
+      "ils": "Ils emmèneront leurs amis à la montagne."
+    },
+    "Conditionnel Présent": {
+      "je": "J'emmènerais bien les enfants à la mer.",
+      "tu": "Tu emmènerais mon fils à l'école demain ?",
+      "il": "Il emmènerait sa famille en voyage avec plus d'argent.",
+      "nous": "Nous emmènerions le chien avec un plus grand coffre.",
+      "vous": "Vous emmèneriez votre mère avec vous ?",
+      "ils": "Ils emmèneraient leurs enfants avec plus de temps."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'emmène les enfants au parc ?",
+      "tu": "J'aimerais que tu emmènes ta sœur au cinéma.",
+      "il": "Il faut qu'il emmène le chien chez le vétérinaire.",
+      "nous": "Il faut que nous emmenions grand-mère à l'hôpital.",
+      "vous": "Je préfère que vous emmeniez les enfants avec vous.",
+      "ils": "Il faut qu'ils emmènent leur fils chez le dentiste."
+    },
+    "Passé Simple": {
+      "je": "J'emmenai le prisonnier au château.",
+      "tu": "Tu emmenas l'enfant loin de la guerre.",
+      "il": "Il emmena sa famille en Amérique.",
+      "nous": "Nous emmenâmes les chevaux à la rivière.",
+      "vous": "Vous emmenâtes vos soldats au nord.",
+      "ils": "Ils emmenèrent les blessés au village."
+    },
+    "Passé Composé": {
+      "je": "J'ai emmené ma mère au restaurant.",
+      "tu": "Tu as emmené le chien en promenade ?",
+      "il": "Il a emmené ses enfants à la piscine.",
+      "nous": "Nous avons emmené nos amis à la plage.",
+      "vous": "Vous avez emmené votre fille au zoo ?",
+      "ils": "Ils ont emmené leur grand-mère à Paris."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais emmené mon fils chez le médecin.",
+      "tu": "Tu avais emmené ton appareil photo ?",
+      "il": "Il avait emmené sa classe au musée.",
+      "nous": "Nous avions emmené le chat chez le vétérinaire.",
+      "vous": "Vous aviez emmené les enfants à la fête ?",
+      "ils": "Ils avaient emmené leur chien en vacances."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai emmené les enfants à l'école avant huit heures.",
+      "tu": "Tu auras emmené ta sœur à l'aéroport.",
+      "il": "Il aura emmené sa famille partout en Europe.",
+      "nous": "Nous aurons emmené le chien chez le toiletteur.",
+      "vous": "Vous aurez emmené vos invités à la plage.",
+      "ils": "Ils auront emmené leurs enfants au parc."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais emmené les enfants avec une plus grande voiture.",
+      "tu": "Tu aurais emmené ton chien ?",
+      "il": "Il aurait emmené sa mère au concert.",
+      "nous": "Nous aurions emmené le bébé avec nous.",
+      "vous": "Vous auriez emmené vos amis ?",
+      "ils": "Ils auraient emmené leurs enfants au cirque."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes enfants sont contents que j'aie emmené le chien.",
+      "tu": "C'est gentil que tu aies emmené ta grand-mère au marché.",
+      "il": "Je doute qu'il ait emmené son fils à l'école.",
+      "nous": "Bien que nous ayons emmené les enfants, la soirée était calme.",
+      "vous": "Je suis content que vous ayez emmené vos enfants.",
+      "ils": "C'est super qu'ils aient emmené leur chien."
+    },
+    "Futur Proche": {
+      "je": "Je vais emmener les enfants à la piscine.",
+      "tu": "Tu vas emmener ton frère ?",
+      "il": "Il va emmener sa copine au restaurant.",
+      "nous": "Nous allons emmener le chien au parc.",
+      "vous": "Vous allez emmener vos parents en voyage ?",
+      "ils": "Ils vont emmener leurs enfants à Disneyland."
+    },
+    "Impératif": {
+      "tu": "Emmène ta sœur avec toi.",
+      "nous": "Emmenons les enfants à la plage.",
+      "vous": "Emmenez-moi à l'aéroport, s'il vous plaît."
+    }
+  }
+}

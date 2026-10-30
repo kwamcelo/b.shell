@@ -1,0 +1,106 @@
+{
+  "verb": "prier",
+  "tenses": {
+    "Présent": {
+      "je": "Je prie pour que tout se passe bien.",
+      "tu": "Tu pries avant chaque repas ?",
+      "il": "Il prie à l'église tous les dimanches.",
+      "nous": "Nous prions pour la paix.",
+      "vous": "Vous priez souvent ?",
+      "ils": "Ils prient en silence."
+    },
+    "Imparfait": {
+      "je": "Je priais chaque soir avant de dormir.",
+      "tu": "Tu priais pour avoir de la neige à Noël.",
+      "il": "Il priait à genoux dans la chapelle.",
+      "nous": "Nous priions ensemble le dimanche.",
+      "vous": "Vous priiez à la mosquée le vendredi ?",
+      "ils": "Ils priaient pour le retour des pêcheurs."
+    },
+    "Futur Simple": {
+      "je": "Je prierai pour ta guérison.",
+      "tu": "Tu prieras pour nous ?",
+      "il": "Il priera à la synagogue samedi.",
+      "nous": "Nous prierons pour les victimes.",
+      "vous": "Vous prierez pour la paix.",
+      "ils": "Ils prieront toute la nuit."
+    },
+    "Conditionnel Présent": {
+      "je": "Je prierais pour toi, si tu crois en Dieu.",
+      "tu": "Tu prierais avec moi ?",
+      "il": "Il prierait plus souvent avec plus de temps.",
+      "nous": "Nous prierions ensemble avec plaisir.",
+      "vous": "Vous prieriez pour ma famille ?",
+      "ils": "Ils prieraient pour un miracle."
+    },
+    "Subjonctif": {
+      "je": "Ma grand-mère veut que je prie avec elle.",
+      "tu": "J'aimerais que tu pries pour nous.",
+      "il": "Il faut qu'il prie pour son âme.",
+      "nous": "Il est temps que nous priions ensemble.",
+      "vous": "Je souhaite que vous priiez pour la paix.",
+      "ils": "Il faut qu'ils prient avant le repas."
+    },
+    "Passé Simple": {
+      "je": "Je priai pour le salut de mon peuple.",
+      "tu": "Tu prias toute la nuit.",
+      "il": "Il pria pour la pluie.",
+      "nous": "Nous priâmes devant l'autel.",
+      "vous": "Vous priâtes le ciel de nous aider.",
+      "ils": "Ils prièrent pour le retour du roi."
+    },
+    "Passé Composé": {
+      "je": "J'ai prié pour ta réussite.",
+      "tu": "Tu as prié avant l'examen ?",
+      "il": "Il a prié pour sa mère malade.",
+      "nous": "Nous avons prié à la cathédrale.",
+      "vous": "Vous avez prié pour la paix ?",
+      "ils": "Ils ont prié toute la nuit."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais prié pour un miracle.",
+      "tu": "Tu avais prié pour du soleil.",
+      "il": "Il avait prié avant le départ.",
+      "nous": "Nous avions prié pour leur retour.",
+      "vous": "Vous aviez prié pour lui ?",
+      "ils": "Ils avaient prié dans la petite chapelle."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai prié pour toi chaque jour.",
+      "tu": "Tu auras prié pour rien.",
+      "il": "Il aura prié toute sa vie.",
+      "nous": "Nous aurons prié pour la paix.",
+      "vous": "Vous aurez prié pour nous.",
+      "ils": "Ils auront prié jusqu'à l'aube."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais prié pour toi avec plaisir.",
+      "tu": "Tu aurais prié à ma place ?",
+      "il": "Il aurait prié dans cette église sans les travaux.",
+      "nous": "Nous aurions prié ensemble.",
+      "vous": "Vous auriez prié pour un miracle ?",
+      "ils": "Ils auraient prié pour la pluie."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie prié avec elle.",
+      "tu": "C'est touchant que tu aies prié pour moi.",
+      "il": "Je doute qu'il ait prié.",
+      "nous": "Bien que nous ayons prié, la pluie n'est pas venue.",
+      "vous": "Je suis touché que vous ayez prié pour ma famille.",
+      "ils": "C'est beau qu'ils aient prié ensemble."
+    },
+    "Futur Proche": {
+      "je": "Je vais prier pour toi.",
+      "tu": "Tu vas prier à la mosquée ?",
+      "il": "Il va prier à l'église.",
+      "nous": "Nous allons prier pour la paix.",
+      "vous": "Vous allez prier ensemble ?",
+      "ils": "Ils vont prier pour un miracle."
+    },
+    "Impératif": {
+      "tu": "Prie pour nous.",
+      "nous": "Prions pour la paix.",
+      "vous": "Priez en silence, s'il vous plaît."
+    }
+  }
+}

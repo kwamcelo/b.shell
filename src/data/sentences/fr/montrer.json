@@ -1,0 +1,106 @@
+{
+  "verb": "montrer",
+  "tenses": {
+    "Présent": {
+      "je": "Je montre mes photos de vacances à mes collègues.",
+      "tu": "Tu montres ton dessin à la maîtresse ?",
+      "il": "Il montre le chemin aux touristes.",
+      "nous": "Nous montrons l'appartement aux visiteurs.",
+      "vous": "Vous montrez votre billet au contrôleur ?",
+      "ils": "Ils montrent beaucoup de courage."
+    },
+    "Imparfait": {
+      "je": "Je montrais toujours mes notes à mon père.",
+      "tu": "Tu montrais tes dessins à tout le monde.",
+      "il": "Il montrait la ville aux nouveaux arrivants.",
+      "nous": "Nous montrions nos photos à nos grands-parents.",
+      "vous": "Vous montriez votre passeport à chaque frontière ?",
+      "ils": "Ils montraient leurs tours de magie aux enfants."
+    },
+    "Futur Simple": {
+      "je": "Je montrerai le jardin à nos invités.",
+      "tu": "Tu montreras le chemin à ton cousin.",
+      "il": "Il montrera son projet au directeur.",
+      "nous": "Nous montrerons le film à la classe.",
+      "vous": "Vous montrerez vos papiers à l'entrée.",
+      "ils": "Ils montreront leurs photos de mariage."
+    },
+    "Conditionnel Présent": {
+      "je": "Je montrerais bien ce film à mes élèves.",
+      "tu": "Tu montrerais la ville à mon frère ?",
+      "il": "Il montrerait son talent avec une bonne occasion.",
+      "nous": "Nous montrerions la maison à des acheteurs.",
+      "vous": "Vous montreriez le chemin à cette dame ?",
+      "ils": "Ils montreraient plus de respect avec un autre prof."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je montre la photo à maman ?",
+      "tu": "J'aimerais que tu montres tes dessins.",
+      "il": "Il faut qu'il montre son badge à l'entrée.",
+      "nous": "Il est important que nous montrions l'exemple.",
+      "vous": "Je souhaite que vous montriez votre travail.",
+      "ils": "Il faut qu'ils montrent leurs billets."
+    },
+    "Passé Simple": {
+      "je": "Je montrai la lettre au juge.",
+      "tu": "Tu montras le chemin aux voyageurs.",
+      "il": "Il montra la carte du trésor.",
+      "nous": "Nous montrâmes nos blessures au médecin.",
+      "vous": "Vous montrâtes un grand courage.",
+      "ils": "Ils montrèrent le château aux étrangers."
+    },
+    "Passé Composé": {
+      "je": "J'ai montré mon passeport à la douane.",
+      "tu": "Tu as montré ton bulletin à tes parents ?",
+      "il": "Il a montré beaucoup de talent sur scène.",
+      "nous": "Nous avons montré la ville à nos amis.",
+      "vous": "Vous avez montré la maison aux acheteurs ?",
+      "ils": "Ils ont montré leurs photos de voyage."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais montré ce film à toute la famille.",
+      "tu": "Tu avais montré tes notes à ton père ?",
+      "il": "Il avait montré le chemin aux pompiers.",
+      "nous": "Nous avions montré nos billets à l'entrée.",
+      "vous": "Vous aviez montré votre projet au jury ?",
+      "ils": "Ils avaient montré beaucoup de patience."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai montré toute la ville à mes cousins.",
+      "tu": "Tu auras montré l'exemple.",
+      "il": "Il aura montré tout son talent.",
+      "nous": "Nous aurons montré nos photos à tout le monde.",
+      "vous": "Vous aurez montré votre courage.",
+      "ils": "Ils auront montré le chemin aux autres."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais montré la lettre à la police.",
+      "tu": "Tu aurais montré cette photo à ta mère ?",
+      "il": "Il aurait montré plus de patience avec moins de stress.",
+      "nous": "Nous aurions montré la maison avec plus de temps.",
+      "vous": "Vous auriez montré votre dessin au concours ?",
+      "ils": "Ils auraient montré leur meilleur niveau sans la pluie."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie montré mes progrès.",
+      "tu": "C'est gentil que tu aies montré le chemin à ce touriste.",
+      "il": "Je doute qu'il ait montré son passeport.",
+      "nous": "Bien que nous ayons montré nos billets, on nous a refusé l'entrée.",
+      "vous": "Je suis content que vous ayez montré votre travail.",
+      "ils": "C'est bien qu'ils aient montré l'exemple."
+    },
+    "Futur Proche": {
+      "je": "Je vais montrer mes photos.",
+      "tu": "Tu vas montrer la maison à tes amis ?",
+      "il": "Il va montrer son nouveau vélo.",
+      "nous": "Nous allons montrer le film.",
+      "vous": "Vous allez montrer vos papiers ?",
+      "ils": "Ils vont montrer leur spectacle."
+    },
+    "Impératif": {
+      "tu": "Montre-moi tes mains.",
+      "nous": "Montrons l'exemple.",
+      "vous": "Montrez votre billet, s'il vous plaît."
+    }
+  }
+}

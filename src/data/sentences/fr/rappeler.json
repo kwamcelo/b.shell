@@ -1,0 +1,106 @@
+{
+  "verb": "rappeler",
+  "tenses": {
+    "Présent": {
+      "je": "Je rappelle le médecin cet après-midi.",
+      "tu": "Tu rappelles ta mère ? Elle a appelé deux fois.",
+      "il": "Il rappelle toujours ses clients le jour même.",
+      "nous": "Nous rappelons les règles avant chaque match.",
+      "vous": "Vous rappelez le numéro qui s'affiche ?",
+      "ils": "Ils rappellent les consignes de sécurité."
+    },
+    "Imparfait": {
+      "je": "Je rappelais toujours mes amis le soir.",
+      "tu": "Tu rappelais les dates importantes à tout le monde.",
+      "il": "Il rappelait ses élèves à l'ordre.",
+      "nous": "Nous rappelions les clients mécontents.",
+      "vous": "Vous rappeliez le service client chaque jour ?",
+      "ils": "Ils rappelaient leurs enfants pour le dîner."
+    },
+    "Futur Simple": {
+      "je": "Je rappellerai le garage demain.",
+      "tu": "Tu rappelleras Julie après le dîner ?",
+      "il": "Il rappellera le client lundi.",
+      "nous": "Nous rappellerons les règles au début du cours.",
+      "vous": "Vous rappellerez ce numéro plus tard.",
+      "ils": "Ils rappelleront l'importance du projet."
+    },
+    "Conditionnel Présent": {
+      "je": "Je rappellerais le vendeur, à ta place.",
+      "tu": "Tu rappellerais la banque pour moi ?",
+      "il": "Il rappellerait le client avec plus de temps.",
+      "nous": "Nous rappellerions les consignes avec plaisir.",
+      "vous": "Vous rappelleriez le numéro de votre dossier ?",
+      "ils": "Ils rappelleraient le plombier sans hésiter."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je rappelle l'agence immobilière.",
+      "tu": "J'aimerais que tu rappelles ta sœur.",
+      "il": "Il faut qu'il rappelle le médecin.",
+      "nous": "Il est temps que nous rappelions les règles.",
+      "vous": "Je souhaite que vous rappeliez le client.",
+      "ils": "Il faut qu'ils rappellent l'assurance."
+    },
+    "Passé Simple": {
+      "je": "Je rappelai les soldats au château.",
+      "tu": "Tu rappelas ton chien d'un sifflement.",
+      "il": "Il rappela ses troupes avant la nuit.",
+      "nous": "Nous rappelâmes nos éclaireurs.",
+      "vous": "Vous rappelâtes l'ambassadeur.",
+      "ils": "Ils rappelèrent leurs navires au port."
+    },
+    "Passé Composé": {
+      "je": "J'ai rappelé le dentiste pour changer le rendez-vous.",
+      "tu": "Tu as rappelé ta grand-mère ?",
+      "il": "Il a rappelé le client ce matin.",
+      "nous": "Nous avons rappelé le plombier.",
+      "vous": "Vous avez rappelé la banque ?",
+      "ils": "Ils ont rappelé le chien pour le dîner."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais rappelé trois fois, sans réponse.",
+      "tu": "Tu avais rappelé le médecin ?",
+      "il": "Il avait rappelé ses clients avant de partir.",
+      "nous": "Nous avions rappelé l'hôtel pour confirmer.",
+      "vous": "Vous aviez rappelé ce numéro ?",
+      "ils": "Ils avaient rappelé les règles aux joueurs."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai rappelé tous les clients avant midi.",
+      "tu": "Tu auras rappelé ta mère, j'espère.",
+      "il": "Il aura rappelé le garage avant ce soir.",
+      "nous": "Nous aurons rappelé tout le monde.",
+      "vous": "Vous aurez rappelé l'agence.",
+      "ils": "Ils auront rappelé les consignes."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais rappelé avec ton numéro.",
+      "tu": "Tu aurais rappelé à ma place ?",
+      "il": "Il aurait rappelé avec plus de temps.",
+      "nous": "Nous aurions rappelé le vendeur plus tôt.",
+      "vous": "Vous auriez rappelé ce client ?",
+      "ils": "Ils auraient rappelé avec un message."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie rappelé ce client.",
+      "tu": "C'est gentil que tu aies rappelé ta grand-mère.",
+      "il": "Je doute qu'il ait rappelé le médecin.",
+      "nous": "Bien que nous ayons rappelé deux fois, personne n'a répondu.",
+      "vous": "Je suis content que vous ayez rappelé.",
+      "ils": "C'est bien qu'ils aient rappelé les règles."
+    },
+    "Futur Proche": {
+      "je": "Je vais rappeler le plombier.",
+      "tu": "Tu vas rappeler ton frère ?",
+      "il": "Il va rappeler le client.",
+      "nous": "Nous allons rappeler l'hôtel.",
+      "vous": "Vous allez rappeler la banque ?",
+      "ils": "Ils vont rappeler le médecin."
+    },
+    "Impératif": {
+      "tu": "Rappelle ta mère, elle s'inquiète.",
+      "nous": "Rappelons les règles du jeu.",
+      "vous": "Rappelez ce numéro après dix-huit heures."
+    }
+  }
+}

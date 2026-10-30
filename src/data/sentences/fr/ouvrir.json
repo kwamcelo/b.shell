@@ -1,0 +1,106 @@
+{
+  "verb": "ouvrir",
+  "tenses": {
+    "Présent": {
+      "je": "J'ouvre la fenêtre, il fait chaud.",
+      "tu": "Tu ouvres la porte au livreur ?",
+      "il": "Il ouvre son magasin à neuf heures.",
+      "nous": "Nous ouvrons les cadeaux le soir de Noël.",
+      "vous": "Vous ouvrez le dimanche ?",
+      "ils": "Ils ouvrent un restaurant en ville."
+    },
+    "Imparfait": {
+      "je": "J'ouvrais toujours mes cadeaux trop vite.",
+      "tu": "Tu ouvrais la fenêtre même en hiver.",
+      "il": "Il ouvrait le courrier chaque matin.",
+      "nous": "Nous ouvrions la boutique à sept heures.",
+      "vous": "Vous ouvriez le samedi à cette époque ?",
+      "ils": "Ils ouvraient les volets au lever du soleil."
+    },
+    "Futur Simple": {
+      "je": "J'ouvrirai un compte en banque demain.",
+      "tu": "Tu ouvriras la porte aux invités.",
+      "il": "Il ouvrira sa propre entreprise.",
+      "nous": "Nous ouvrirons une bouteille de champagne.",
+      "vous": "Vous ouvrirez l'enveloppe à la fin.",
+      "ils": "Ils ouvriront le nouveau musée en mai."
+    },
+    "Conditionnel Présent": {
+      "je": "J'ouvrirais bien un petit café.",
+      "tu": "Tu ouvrirais la fenêtre, s'il te plaît ?",
+      "il": "Il ouvrirait une librairie avec assez d'argent.",
+      "nous": "Nous ouvririons plus tard en été.",
+      "vous": "Vous ouvririez ce colis pour moi ?",
+      "ils": "Ils ouvriraient le dimanche avec plus de clients."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'ouvre la fenêtre ?",
+      "tu": "Il faut que tu ouvres ce cadeau !",
+      "il": "J'attends qu'il ouvre la porte.",
+      "nous": "Il faut que nous ouvrions les volets.",
+      "vous": "J'aimerais que vous ouvriez votre livre page dix.",
+      "ils": "Il est temps qu'ils ouvrent les yeux."
+    },
+    "Passé Simple": {
+      "je": "J'ouvris la lettre d'une main tremblante.",
+      "tu": "Tu ouvris le coffre au trésor.",
+      "il": "Il ouvrit la porte et entra.",
+      "nous": "Nous ouvrîmes les fenêtres de la vieille maison.",
+      "vous": "Vous ouvrîtes une école dans le village.",
+      "ils": "Ils ouvrirent les portes de la ville."
+    },
+    "Passé Composé": {
+      "je": "J'ai ouvert un compte en ligne.",
+      "tu": "Tu as ouvert la fenêtre ?",
+      "il": "Il a ouvert une boulangerie dans le quartier.",
+      "nous": "Nous avons ouvert le cadeau ensemble.",
+      "vous": "Vous avez ouvert le colis ?",
+      "ils": "Ils ont ouvert une nouvelle école."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais ouvert la fenêtre pour aérer.",
+      "tu": "Tu avais ouvert la lettre avant moi.",
+      "il": "Il avait ouvert son restaurant en 2010.",
+      "nous": "Nous avions ouvert toutes les portes.",
+      "vous": "Vous aviez ouvert le dossier ?",
+      "ils": "Ils avaient ouvert les cadeaux avant minuit."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai ouvert ma boutique avant l'été.",
+      "tu": "Tu auras ouvert tous tes cadeaux avant le dîner.",
+      "il": "Il aura ouvert trois restaurants en cinq ans.",
+      "nous": "Nous aurons ouvert le magasin avant ton arrivée.",
+      "vous": "Vous aurez ouvert un nouveau chapitre.",
+      "ils": "Ils auront ouvert le musée au public."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais ouvert la fenêtre, mais il pleuvait.",
+      "tu": "Tu aurais ouvert ce colis suspect ?",
+      "il": "Il aurait ouvert un café avec un associé.",
+      "nous": "Nous aurions ouvert le dimanche avec plus d'employés.",
+      "vous": "Vous auriez ouvert la porte à un inconnu ?",
+      "ils": "Ils auraient ouvert plus tôt sans les travaux."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma sœur est fâchée que j'aie ouvert son courrier.",
+      "tu": "C'est super que tu aies ouvert ta boutique.",
+      "il": "Je doute qu'il ait ouvert la lettre.",
+      "nous": "Bien que nous ayons ouvert la fenêtre, il fait chaud.",
+      "vous": "Je suis content que vous ayez ouvert ce restaurant.",
+      "ils": "C'est étonnant qu'ils aient ouvert si tard."
+    },
+    "Futur Proche": {
+      "je": "Je vais ouvrir la porte.",
+      "tu": "Tu vas ouvrir tes cadeaux ?",
+      "il": "Il va ouvrir une pizzeria.",
+      "nous": "Nous allons ouvrir une bouteille de vin.",
+      "vous": "Vous allez ouvrir le magasin à quelle heure ?",
+      "ils": "Ils vont ouvrir un nouveau parc."
+    },
+    "Impératif": {
+      "tu": "Ouvre la fenêtre, s'il te plaît.",
+      "nous": "Ouvrons les cadeaux !",
+      "vous": "Ouvrez vos livres à la page vingt."
+    }
+  }
+}

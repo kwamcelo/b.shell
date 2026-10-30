@@ -1,0 +1,106 @@
+{
+  "verb": "excuser",
+  "tenses": {
+    "Présent": {
+      "je": "J'excuse ton retard pour cette fois.",
+      "tu": "Tu excuses toujours son comportement.",
+      "il": "Il excuse ses fautes par la fatigue.",
+      "nous": "Nous excusons votre absence.",
+      "vous": "Vous excusez mon français, j'espère ?",
+      "ils": "Ils excusent tout à leurs enfants."
+    },
+    "Imparfait": {
+      "je": "J'excusais toujours ses retards.",
+      "tu": "Tu excusais tout à ton petit frère.",
+      "il": "Il excusait ses erreurs avec humour.",
+      "nous": "Nous excusions ses absences sans poser de questions.",
+      "vous": "Vous excusiez toujours ce genre de comportement ?",
+      "ils": "Ils excusaient leur fils devant les voisins."
+    },
+    "Futur Simple": {
+      "je": "J'excuserai ton absence auprès du prof.",
+      "tu": "Tu excuseras mon retard, j'espère.",
+      "il": "Il excusera ce petit oubli.",
+      "nous": "Nous excuserons votre retard pour cette fois.",
+      "vous": "Vous excuserez le désordre.",
+      "ils": "Ils excuseront cette erreur."
+    },
+    "Conditionnel Présent": {
+      "je": "J'excuserais ce retard avec une bonne raison.",
+      "tu": "Tu excuserais un tel comportement ?",
+      "il": "Il excuserait n'importe quoi chez sa fille.",
+      "nous": "Nous excuserions volontiers cette petite erreur.",
+      "vous": "Vous excuseriez mon retard ?",
+      "ils": "Ils excuseraient cette faute avec une explication."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'excuse ton absence auprès du chef ?",
+      "tu": "J'aimerais que tu excuses ma maladresse.",
+      "il": "Il faut qu'il excuse son frère.",
+      "nous": "Il est normal que nous excusions une première erreur.",
+      "vous": "Je souhaite que vous excusiez mon retard.",
+      "ils": "Il faut qu'ils excusent cette petite faute."
+    },
+    "Passé Simple": {
+      "je": "J'excusai son insolence.",
+      "tu": "Tu excusas la faute du jeune page.",
+      "il": "Il excusa le paysan et le laissa partir.",
+      "nous": "Nous excusâmes leur retard.",
+      "vous": "Vous excusâtes l'erreur du messager.",
+      "ils": "Ils excusèrent l'enfant sans le punir."
+    },
+    "Passé Composé": {
+      "je": "J'ai excusé son retard.",
+      "tu": "Tu as excusé son impolitesse ?",
+      "il": "Il a excusé l'absence de son collègue.",
+      "nous": "Nous avons excusé leur erreur.",
+      "vous": "Vous avez excusé mon retard, merci.",
+      "ils": "Ils ont excusé ce petit oubli."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais excusé son retard une première fois.",
+      "tu": "Tu avais excusé son comportement trop vite.",
+      "il": "Il avait excusé ses enfants devant le directeur.",
+      "nous": "Nous avions excusé son absence.",
+      "vous": "Vous aviez excusé cette faute ?",
+      "ils": "Ils avaient excusé l'erreur de leur fils."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai excusé ses retards toute l'année.",
+      "tu": "Tu auras excusé tout son comportement.",
+      "il": "Il aura excusé chacune de ses erreurs.",
+      "nous": "Nous aurons excusé trop de choses.",
+      "vous": "Vous aurez excusé mon retard, j'espère.",
+      "ils": "Ils auront excusé toutes ses bêtises."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais excusé son retard avec un message.",
+      "tu": "Tu aurais excusé ça, toi ?",
+      "il": "Il aurait excusé l'erreur avec une explication.",
+      "nous": "Nous aurions excusé son absence.",
+      "vous": "Vous auriez excusé une telle erreur ?",
+      "ils": "Ils auraient excusé leur fils, comme toujours."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma collègue est contente que j'aie excusé son oubli.",
+      "tu": "C'est gentil que tu aies excusé mon retard.",
+      "il": "Je doute qu'il ait excusé cette faute.",
+      "nous": "Bien que nous ayons excusé son retard, il recommence.",
+      "vous": "Merci ! Je suis content que vous ayez excusé mon absence.",
+      "ils": "C'est surprenant qu'ils aient excusé ce comportement."
+    },
+    "Futur Proche": {
+      "je": "Je vais excuser ton absence pour cette fois.",
+      "tu": "Tu vas excuser mon retard ?",
+      "il": "Il va excuser son ami.",
+      "nous": "Nous allons excuser cette erreur.",
+      "vous": "Vous allez excuser le désordre.",
+      "ils": "Ils vont excuser leur enfant."
+    },
+    "Impératif": {
+      "tu": "Excuse-moi, je suis en retard.",
+      "nous": "Excusons-le, il est nouveau.",
+      "vous": "Excusez-moi, où est la gare ?"
+    }
+  }
+}

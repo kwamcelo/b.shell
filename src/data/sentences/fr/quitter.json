@@ -1,0 +1,106 @@
+{
+  "verb": "quitter",
+  "tenses": {
+    "Présent": {
+      "je": "Je quitte le bureau à dix-huit heures.",
+      "tu": "Tu quittes déjà la fête ?",
+      "il": "Il quitte Paris pour s'installer à Nice.",
+      "nous": "Nous quittons la maison à sept heures.",
+      "vous": "Vous quittez votre travail ?",
+      "ils": "Ils quittent le pays la semaine prochaine."
+    },
+    "Imparfait": {
+      "je": "Je quittais la maison très tôt le matin.",
+      "tu": "Tu quittais toujours les fêtes avant minuit.",
+      "il": "Il quittait le travail vers dix-sept heures.",
+      "nous": "Nous quittions la ville chaque été.",
+      "vous": "Vous quittiez le bureau à quelle heure ?",
+      "ils": "Ils quittaient l'école à seize heures."
+    },
+    "Futur Simple": {
+      "je": "Je quitterai l'appartement fin juin.",
+      "tu": "Tu quitteras la maison après le petit-déjeuner.",
+      "il": "Il quittera son poste en décembre.",
+      "nous": "Nous quitterons l'hôtel avant midi.",
+      "vous": "Vous quitterez la salle en silence.",
+      "ils": "Ils quitteront la région après la retraite."
+    },
+    "Conditionnel Présent": {
+      "je": "Je quitterais tout pour vivre au soleil.",
+      "tu": "Tu quitterais ton travail pour voyager ?",
+      "il": "Il quitterait la ville avec un poste à la campagne.",
+      "nous": "Nous quitterions l'appartement avec une meilleure offre.",
+      "vous": "Vous quitteriez votre pays pour l'amour ?",
+      "ils": "Ils quitteraient le club sans ce nouvel entraîneur."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je quitte le bureau avant dix-huit heures.",
+      "tu": "Je ne veux pas que tu quittes la ville.",
+      "il": "Il est possible qu'il quitte son travail.",
+      "nous": "Il faut que nous quittions la chambre avant midi.",
+      "vous": "Je préfère que vous quittiez la salle maintenant.",
+      "ils": "Il est temps qu'ils quittent le nid familial."
+    },
+    "Passé Simple": {
+      "je": "Je quittai le village à l'aube.",
+      "tu": "Tu quittas ta famille pour partir à la guerre.",
+      "il": "Il quitta le château sans un mot.",
+      "nous": "Nous quittâmes le port au lever du jour.",
+      "vous": "Vous quittâtes la cour du roi.",
+      "ils": "Ils quittèrent la ville en secret."
+    },
+    "Passé Composé": {
+      "je": "J'ai quitté mon travail le mois dernier.",
+      "tu": "Tu as quitté la réunion avant la fin ?",
+      "il": "Il a quitté la maison de ses parents à dix-huit ans.",
+      "nous": "Nous avons quitté Montréal en 2020.",
+      "vous": "Vous avez quitté l'hôtel ?",
+      "ils": "Ils ont quitté la fête vers deux heures."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais quitté la maison avant ton appel.",
+      "tu": "Tu avais quitté ton travail à ce moment-là ?",
+      "il": "Il avait quitté son pays très jeune.",
+      "nous": "Nous avions quitté l'appartement en mars.",
+      "vous": "Vous aviez quitté la ville avant la tempête ?",
+      "ils": "Ils avaient quitté le restaurant sans payer."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai quitté la ville avant la fin du mois.",
+      "tu": "Tu auras quitté le bureau à cette heure-là.",
+      "il": "Il aura quitté son poste avant l'été.",
+      "nous": "Nous aurons quitté la maison avant ton arrivée.",
+      "vous": "Vous aurez quitté l'hôtel avant midi.",
+      "ils": "Ils auront quitté le pays d'ici là."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais quitté ce travail plus tôt avec une autre offre.",
+      "tu": "Tu aurais quitté la fête à ma place ?",
+      "il": "Il aurait quitté la ville sans ce nouveau poste.",
+      "nous": "Nous aurions quitté l'hôtel plus tôt sans la pluie.",
+      "vous": "Vous auriez quitté votre pays ?",
+      "ils": "Ils auraient quitté le match avant la fin."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont tristes que j'aie quitté la maison.",
+      "tu": "C'est courageux que tu aies quitté ce travail.",
+      "il": "Je suis surpris qu'il ait quitté la ville.",
+      "nous": "Bien que nous ayons quitté la maison tôt, nous sommes arrivés en retard.",
+      "vous": "Je suis triste que vous ayez quitté l'équipe.",
+      "ils": "C'est dommage qu'ils aient quitté le quartier."
+    },
+    "Futur Proche": {
+      "je": "Je vais quitter mon appartement.",
+      "tu": "Tu vas quitter ton travail ?",
+      "il": "Il va quitter la ville.",
+      "nous": "Nous allons quitter la maison à huit heures.",
+      "vous": "Vous allez quitter l'hôtel demain ?",
+      "ils": "Ils vont quitter le pays."
+    },
+    "Impératif": {
+      "tu": "Quitte cette pièce immédiatement !",
+      "nous": "Quittons la ville pour le week-end.",
+      "vous": "Quittez la salle dans le calme."
+    }
+  }
+}

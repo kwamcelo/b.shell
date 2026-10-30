@@ -1,0 +1,106 @@
+{
+  "verb": "occuper",
+  "tenses": {
+    "Présent": {
+      "je": "J'occupe le bureau du fond.",
+      "tu": "Tu occupes toute la place sur le canapé !",
+      "il": "Il occupe un poste important dans cette entreprise.",
+      "nous": "Nous occupons le deuxième étage.",
+      "vous": "Vous occupez cette chambre depuis quand ?",
+      "ils": "Ils occupent la maison depuis vingt ans."
+    },
+    "Imparfait": {
+      "je": "J'occupais ce poste avant toi.",
+      "tu": "Tu occupais la chambre bleue dans ton enfance.",
+      "il": "Il occupait ses journées à lire.",
+      "nous": "Nous occupions un petit appartement à Paris.",
+      "vous": "Vous occupiez ce bureau l'année dernière ?",
+      "ils": "Ils occupaient la première place du classement."
+    },
+    "Futur Simple": {
+      "je": "J'occuperai la chambre d'amis.",
+      "tu": "Tu occuperas le poste de trésorier.",
+      "il": "Il occupera la fonction de directeur en mai.",
+      "nous": "Nous occuperons le rez-de-chaussée.",
+      "vous": "Vous occuperez le bureau numéro trois.",
+      "ils": "Ils occuperont la salle tout l'après-midi."
+    },
+    "Conditionnel Présent": {
+      "je": "J'occuperais bien ce poste.",
+      "tu": "Tu occuperais les enfants une heure ?",
+      "il": "Il occuperait cette fonction avec plaisir.",
+      "nous": "Nous occuperions moins de place sans ce piano.",
+      "vous": "Vous occuperiez la salle combien de temps ?",
+      "ils": "Ils occuperaient la première place sans ce penalty."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'occupe les enfants cet après-midi.",
+      "tu": "Je veux que tu occupes la place de gardien.",
+      "il": "Il est normal qu'il occupe ce poste.",
+      "nous": "Il faut que nous occupions le terrain.",
+      "vous": "J'aimerais que vous occupiez la salle B.",
+      "ils": "Il est temps qu'ils occupent leur nouveau bureau."
+    },
+    "Passé Simple": {
+      "je": "J'occupai ce poste pendant dix ans.",
+      "tu": "Tu occupas le trône après ton père.",
+      "il": "Il occupa la ville pendant tout l'hiver.",
+      "nous": "Nous occupâmes le château abandonné.",
+      "vous": "Vous occupâtes une place d'honneur au banquet.",
+      "ils": "Ils occupèrent la colline à l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai occupé ce poste pendant cinq ans.",
+      "tu": "Tu as occupé la salle de bain une heure !",
+      "il": "Il a occupé la première place pendant tout le tournoi.",
+      "nous": "Nous avons occupé les enfants avec des jeux.",
+      "vous": "Vous avez occupé ce bureau avant moi ?",
+      "ils": "Ils ont occupé l'appartement tout l'été."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais occupé cette chambre l'année précédente.",
+      "tu": "Tu avais occupé ce poste avant ?",
+      "il": "Il avait occupé la maison pendant notre absence.",
+      "nous": "Nous avions occupé les meilleures places.",
+      "vous": "Vous aviez occupé ce bureau ?",
+      "ils": "Ils avaient occupé le terrain toute la journée."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai occupé ce poste dix ans en mai.",
+      "tu": "Tu auras occupé tous les postes de l'entreprise.",
+      "il": "Il aura occupé cette fonction toute sa carrière.",
+      "nous": "Nous aurons occupé cet appartement cinq ans.",
+      "vous": "Vous aurez occupé la salle tout le week-end.",
+      "ils": "Ils auront occupé la tête du classement toute la saison."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais occupé ce poste avec plaisir.",
+      "tu": "Tu aurais occupé les enfants pendant mon absence ?",
+      "il": "Il aurait occupé la première place sans cette erreur.",
+      "nous": "Nous aurions occupé le jardin avec un meilleur temps.",
+      "vous": "Vous auriez occupé cette chambre ?",
+      "ils": "Ils auraient occupé la salle plus longtemps."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon chef est content que j'aie occupé ce poste.",
+      "tu": "C'est gentil que tu aies occupé les enfants.",
+      "il": "Je doute qu'il ait occupé ce poste longtemps.",
+      "nous": "Bien que nous ayons occupé la salle, nous n'avons rien organisé.",
+      "vous": "Je suis surpris que vous ayez occupé ce bureau.",
+      "ils": "C'est normal qu'ils aient occupé la première place."
+    },
+    "Futur Proche": {
+      "je": "Je vais occuper le bureau de Marc.",
+      "tu": "Tu vas occuper les enfants ?",
+      "il": "Il va occuper un nouveau poste.",
+      "nous": "Nous allons occuper la salle de réunion.",
+      "vous": "Vous allez occuper la chambre du haut.",
+      "ils": "Ils vont occuper le terrain cet après-midi."
+    },
+    "Impératif": {
+      "tu": "Occupe le petit, je reviens.",
+      "nous": "Occupons le terrain.",
+      "vous": "Occupez les places du fond."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "dormir",
+  "tenses": {
+    "Présent": {
+      "je": "Je dors mal quand il fait chaud.",
+      "tu": "Tu dors déjà ?",
+      "il": "Il dort huit heures par nuit.",
+      "nous": "Nous dormons sous la tente cette nuit.",
+      "vous": "Vous dormez bien dans ce lit ?",
+      "ils": "Ils dorment dans la chambre du fond."
+    },
+    "Imparfait": {
+      "je": "Je dormais quand tu as appelé.",
+      "tu": "Tu dormais pendant le film !",
+      "il": "Il dormait toujours dans le train.",
+      "nous": "Nous dormions à la belle étoile.",
+      "vous": "Vous dormiez déjà à minuit ?",
+      "ils": "Ils dormaient comme des bébés."
+    },
+    "Futur Simple": {
+      "je": "Je dormirai chez ma tante ce soir.",
+      "tu": "Tu dormiras dans la chambre d'amis.",
+      "il": "Il dormira mieux avec ce matelas.",
+      "nous": "Nous dormirons à l'hôtel.",
+      "vous": "Vous dormirez dans le canapé-lit.",
+      "ils": "Ils dormiront dans le train de nuit."
+    },
+    "Conditionnel Présent": {
+      "je": "Je dormirais bien encore une heure.",
+      "tu": "Tu dormirais mieux sans ton téléphone.",
+      "il": "Il dormirait toute la journée sans réveil.",
+      "nous": "Nous dormirions mieux avec des rideaux.",
+      "vous": "Vous dormiriez ici ce soir ?",
+      "ils": "Ils dormiraient mieux sans ce bruit."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je dorme un peu.",
+      "tu": "Je veux que tu dormes avant le voyage.",
+      "il": "J'attends qu'il dorme pour sortir.",
+      "nous": "Il vaut mieux que nous dormions ici.",
+      "vous": "Je préfère que vous dormiez à l'hôtel.",
+      "ils": "Il faut qu'ils dorment au moins huit heures."
+    },
+    "Passé Simple": {
+      "je": "Je dormis d'un sommeil profond.",
+      "tu": "Tu dormis toute la journée.",
+      "il": "Il dormit cent ans dans le château.",
+      "nous": "Nous dormîmes dans une vieille grange.",
+      "vous": "Vous dormîtes sous les étoiles.",
+      "ils": "Ils dormirent à l'auberge du village."
+    },
+    "Passé Composé": {
+      "je": "J'ai dormi dix heures cette nuit.",
+      "tu": "Tu as dormi pendant tout le vol ?",
+      "il": "Il a dormi chez un ami.",
+      "nous": "Nous avons dormi dans une cabane.",
+      "vous": "Vous avez dormi un peu ?",
+      "ils": "Ils ont dormi jusqu'à midi."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais dormi pendant tout le trajet.",
+      "tu": "Tu avais dormi seulement trois heures.",
+      "il": "Il avait dormi dans sa voiture.",
+      "nous": "Nous avions dormi chez nos cousins.",
+      "vous": "Vous aviez dormi à l'hôtel ?",
+      "ils": "Ils avaient dormi sous la tente."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai dormi toute la matinée.",
+      "tu": "Tu auras dormi pendant tout le film.",
+      "il": "Il aura dormi douze heures.",
+      "nous": "Nous aurons dormi dans cinq hôtels différents.",
+      "vous": "Vous aurez dormi dans le train.",
+      "ils": "Ils auront dormi pendant tout le voyage."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais dormi plus longtemps sans le bruit.",
+      "tu": "Tu aurais dormi dehors ?",
+      "il": "Il aurait dormi chez nous sans son train.",
+      "nous": "Nous aurions dormi à l'hôtel avec plus d'argent.",
+      "vous": "Vous auriez dormi dans cette maison hantée ?",
+      "ils": "Ils auraient dormi plus tôt sans la fête."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie dormi un peu.",
+      "tu": "C'est bien que tu aies dormi.",
+      "il": "Je doute qu'il ait dormi cette nuit.",
+      "nous": "Bien que nous ayons dormi dix heures, nous sommes fatigués.",
+      "vous": "Je suis content que vous ayez dormi chez nous.",
+      "ils": "Il est possible qu'ils aient dormi dans la voiture."
+    },
+    "Futur Proche": {
+      "je": "Je vais dormir chez Julie.",
+      "tu": "Tu vas dormir où ?",
+      "il": "Il va dormir chez ses grands-parents.",
+      "nous": "Nous allons dormir sous la tente.",
+      "vous": "Vous allez dormir à l'hôtel ?",
+      "ils": "Ils vont dormir tôt ce soir."
+    },
+    "Impératif": {
+      "tu": "Dors bien, à demain !",
+      "nous": "Dormons un peu avant de repartir.",
+      "vous": "Dormez bien !"
+    }
+  }
+}

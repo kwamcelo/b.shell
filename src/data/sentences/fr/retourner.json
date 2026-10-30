@@ -1,0 +1,106 @@
+{
+  "verb": "retourner",
+  "tenses": {
+    "Présent": {
+      "je": "Je retourne à Paris la semaine prochaine.",
+      "tu": "Tu retournes au travail lundi ?",
+      "il": "Il retourne dans son pays natal chaque été.",
+      "nous": "Nous retournons à l'hôtel pour nous changer.",
+      "vous": "Vous retournez en Italie cette année ?",
+      "ils": "Ils retournent à l'école après les vacances."
+    },
+    "Imparfait": {
+      "je": "Je retournais chez mes grands-parents chaque été.",
+      "tu": "Tu retournais souvent dans ce restaurant.",
+      "il": "Il retournait au bureau après le déjeuner.",
+      "nous": "Nous retournions à la plage tous les après-midis.",
+      "vous": "Vous retourniez souvent en Bretagne ?",
+      "ils": "Ils retournaient au village pour Noël."
+    },
+    "Futur Simple": {
+      "je": "Je retournerai dans ce café, c'est sûr.",
+      "tu": "Tu retourneras à l'école en septembre.",
+      "il": "Il retournera au Japon l'année prochaine.",
+      "nous": "Nous retournerons sur nos pas.",
+      "vous": "Vous retournerez à l'hôtel en taxi.",
+      "ils": "Ils retourneront au bureau après la pause."
+    },
+    "Conditionnel Présent": {
+      "je": "Je retournerais bien en Grèce.",
+      "tu": "Tu retournerais vivre dans ta ville natale ?",
+      "il": "Il retournerait à l'université avec une bourse.",
+      "nous": "Nous retournerions dans ce restaurant sans hésiter.",
+      "vous": "Vous retourneriez à Venise ?",
+      "ils": "Ils retourneraient au pays avec un bon travail."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je retourne à la banque.",
+      "tu": "J'aimerais que tu retournes chez le médecin.",
+      "il": "Il est temps qu'il retourne au travail.",
+      "nous": "Il faut que nous retournions à la voiture.",
+      "vous": "Je préfère que vous retourniez à l'hôtel.",
+      "ils": "Il faut qu'ils retournent en classe."
+    },
+    "Passé Simple": {
+      "je": "Je retournai au village après la guerre.",
+      "tu": "Tu retournas dans ta patrie.",
+      "il": "Il retourna au château à la nuit tombée.",
+      "nous": "Nous retournâmes à la grotte le lendemain.",
+      "vous": "Vous retournâtes à Paris au printemps.",
+      "ils": "Ils retournèrent dans leur pays."
+    },
+    "Passé Composé": {
+      "je": "Je suis retourné dans mon ancienne école.",
+      "tu": "Tu es retourné voir ce film ?",
+      "il": "Il est retourné à Rome pour les vacances.",
+      "nous": "Nous sommes retournés au même camping.",
+      "vous": "Vous êtes retournés à la plage ?",
+      "ils": "Ils sont retournés chercher leurs clés."
+    },
+    "Plus-que-parfait": {
+      "je": "J'étais retourné à la maison chercher mon sac.",
+      "tu": "Tu étais retourné dans ce magasin ?",
+      "il": "Il était retourné au travail après une semaine.",
+      "nous": "Nous étions retournés au restaurant de nos fiançailles.",
+      "vous": "Vous étiez retournés en Espagne cette année-là ?",
+      "ils": "Ils étaient retournés vivre au Maroc."
+    },
+    "Futur Antérieur": {
+      "je": "Je serai retourné au bureau avant midi.",
+      "tu": "Tu seras retourné à l'école en septembre.",
+      "il": "Il sera retourné dans son pays d'ici là.",
+      "nous": "Nous serons retournés à Lyon avant Noël.",
+      "vous": "Vous serez retournés à l'hôtel avant la nuit.",
+      "ils": "Ils seront retournés au travail lundi."
+    },
+    "Conditionnel Passé": {
+      "je": "Je serais retourné à Paris avec plus d'argent.",
+      "tu": "Tu serais retourné là-bas à ma place ?",
+      "il": "Il serait retourné au travail sans cette blessure.",
+      "nous": "Nous serions retournés à la plage sans la pluie.",
+      "vous": "Vous seriez retournés dans ce restaurant ?",
+      "ils": "Ils seraient retournés au village pour l'été."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma famille est contente que je sois retourné au pays.",
+      "tu": "C'est bien que tu sois retourné chez le médecin.",
+      "il": "Je suis surpris qu'il soit retourné à l'école.",
+      "nous": "Bien que nous soyons retournés à l'hôtel, la clé était introuvable.",
+      "vous": "Je suis content que vous soyez retournés là-bas.",
+      "ils": "C'est étonnant qu'ils soient retournés travailler."
+    },
+    "Futur Proche": {
+      "je": "Je vais retourner à la bibliothèque.",
+      "tu": "Tu vas retourner au Mexique ?",
+      "il": "Il va retourner à l'école.",
+      "nous": "Nous allons retourner à la plage.",
+      "vous": "Vous allez retourner à l'hôtel ?",
+      "ils": "Ils vont retourner au travail."
+    },
+    "Impératif": {
+      "tu": "Retourne dans ta chambre !",
+      "nous": "Retournons à la voiture, il pleut.",
+      "vous": "Retournez à vos places, s'il vous plaît."
+    }
+  }
+}

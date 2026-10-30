@@ -1,0 +1,106 @@
+{
+  "verb": "apprendre",
+  "tenses": {
+    "Présent": {
+      "je": "J'apprends le français depuis deux ans.",
+      "tu": "Tu apprends à conduire ?",
+      "il": "Il apprend la guitare avec un prof.",
+      "nous": "Nous apprenons beaucoup de choses en voyage.",
+      "vous": "Vous apprenez l'espagnol ?",
+      "ils": "Ils apprennent à nager cet été."
+    },
+    "Imparfait": {
+      "je": "J'apprenais mes leçons dans le bus.",
+      "tu": "Tu apprenais le piano à l'époque ?",
+      "il": "Il apprenait vite à l'école.",
+      "nous": "Nous apprenions des poèmes par cœur.",
+      "vous": "Vous appreniez l'allemand au lycée ?",
+      "ils": "Ils apprenaient à lire avec leur grand-mère."
+    },
+    "Futur Simple": {
+      "je": "J'apprendrai le japonais un jour.",
+      "tu": "Tu apprendras de tes erreurs.",
+      "il": "Il apprendra la nouvelle demain.",
+      "nous": "Nous apprendrons à faire du ski cet hiver.",
+      "vous": "Vous apprendrez beaucoup pendant ce stage.",
+      "ils": "Ils apprendront à nager à la piscine."
+    },
+    "Conditionnel Présent": {
+      "je": "J'apprendrais l'italien avec plus de temps.",
+      "tu": "Tu apprendrais à cuisiner avec moi ?",
+      "il": "Il apprendrait plus vite avec un bon prof.",
+      "nous": "Nous apprendrions la langue en vivant là-bas.",
+      "vous": "Vous apprendriez le chinois ?",
+      "ils": "Ils apprendraient mieux avec des jeux."
+    },
+    "Subjonctif": {
+      "je": "Il faut que j'apprenne ce texte pour demain.",
+      "tu": "Je veux que tu apprennes à nager.",
+      "il": "Il est temps qu'il apprenne la vérité.",
+      "nous": "Il faut que nous apprenions à travailler ensemble.",
+      "vous": "J'aimerais que vous appreniez ce poème.",
+      "ils": "Il est important qu'ils apprennent une deuxième langue."
+    },
+    "Passé Simple": {
+      "je": "J'appris la nouvelle par une lettre.",
+      "tu": "Tu appris à lire à quatre ans.",
+      "il": "Il apprit le latin chez les moines.",
+      "nous": "Nous apprîmes la vérité trop tard.",
+      "vous": "Vous apprîtes l'art de l'épée.",
+      "ils": "Ils apprirent la mort du roi le lendemain."
+    },
+    "Passé Composé": {
+      "je": "J'ai appris à faire du vélo à cinq ans.",
+      "tu": "Tu as appris la nouvelle ?",
+      "il": "Il a appris l'anglais en Australie.",
+      "nous": "Nous avons appris beaucoup de choses.",
+      "vous": "Vous avez appris votre texte ?",
+      "ils": "Ils ont appris à jouer aux échecs."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais appris l'arabe dans ma jeunesse.",
+      "tu": "Tu avais appris ta leçon ?",
+      "il": "Il avait appris la nouvelle à la radio.",
+      "nous": "Nous avions appris à skier en Suisse.",
+      "vous": "Vous aviez appris le russe avant ce voyage ?",
+      "ils": "Ils avaient appris leur rôle par cœur."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai appris tout le vocabulaire avant l'examen.",
+      "tu": "Tu auras appris beaucoup de choses cette année.",
+      "il": "Il aura appris à conduire avant l'été.",
+      "nous": "Nous aurons appris trois langues.",
+      "vous": "Vous aurez appris de vos erreurs.",
+      "ils": "Ils auront appris à nager avant les vacances."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais appris le piano avec plus de patience.",
+      "tu": "Tu aurais appris plus vite avec un prof.",
+      "il": "Il aurait appris la vérité tôt ou tard.",
+      "nous": "Nous aurions appris l'espagnol en vivant à Madrid.",
+      "vous": "Vous auriez appris quelle langue ?",
+      "ils": "Ils auraient appris la nouvelle par la presse."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes parents sont fiers que j'aie appris le chinois.",
+      "tu": "C'est super que tu aies appris à nager.",
+      "il": "Je doute qu'il ait appris son texte.",
+      "nous": "Bien que nous ayons appris la règle, nous faisons des fautes.",
+      "vous": "Je suis impressionné que vous ayez appris si vite.",
+      "ils": "C'est bien qu'ils aient appris de leurs erreurs."
+    },
+    "Futur Proche": {
+      "je": "Je vais apprendre à jouer de la batterie.",
+      "tu": "Tu vas apprendre à conduire cet été ?",
+      "il": "Il va apprendre la nouvelle ce soir.",
+      "nous": "Nous allons apprendre à faire du pain.",
+      "vous": "Vous allez apprendre beaucoup.",
+      "ils": "Ils vont apprendre à skier."
+    },
+    "Impératif": {
+      "tu": "Apprends tes leçons avant de jouer.",
+      "nous": "Apprenons de nos erreurs.",
+      "vous": "Apprenez ce texte pour lundi."
+    }
+  }
+}

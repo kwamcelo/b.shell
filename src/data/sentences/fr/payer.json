@@ -1,0 +1,106 @@
+{
+  "verb": "payer",
+  "tenses": {
+    "Présent": {
+      "je": "Je paye toujours par carte.",
+      "tu": "Tu payes l'addition ce soir ?",
+      "il": "Il paye son loyer le premier du mois.",
+      "nous": "Nous payons nos impôts en ligne.",
+      "vous": "Vous payez en espèces ?",
+      "ils": "Ils payent trop cher pour leur appartement."
+    },
+    "Imparfait": {
+      "je": "Je payais mes études en travaillant le soir.",
+      "tu": "Tu payais combien pour ton ancien appartement ?",
+      "il": "Il payait toujours le café à tout le monde.",
+      "nous": "Nous payions la facture à la fin du mois.",
+      "vous": "Vous payiez moins avec l'ancien forfait ?",
+      "ils": "Ils payaient leurs employés en retard."
+    },
+    "Futur Simple": {
+      "je": "Je payerai la prochaine fois.",
+      "tu": "Tu payeras ta part demain.",
+      "il": "Il payera la facture à la fin du mois.",
+      "nous": "Nous payerons l'hôtel à l'arrivée.",
+      "vous": "Vous payerez à la caisse.",
+      "ils": "Ils payeront le voyage en trois fois."
+    },
+    "Conditionnel Présent": {
+      "je": "Je payerais cher pour voir ce concert.",
+      "tu": "Tu payerais pour moi ? J'ai oublié mon portefeuille.",
+      "il": "Il payerait volontiers un supplément.",
+      "nous": "Nous payerions moins avec une carte d'abonnement.",
+      "vous": "Vous payeriez par chèque ?",
+      "ils": "Ils payeraient le prix fort pour cette maison."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je paye le loyer avant vendredi.",
+      "tu": "Je refuse que tu payes pour moi.",
+      "il": "Il faut qu'il paye son amende.",
+      "nous": "Il est juste que nous payions notre part.",
+      "vous": "J'aimerais que vous payiez à l'avance.",
+      "ils": "Il faut qu'ils payent leurs dettes."
+    },
+    "Passé Simple": {
+      "je": "Je payai le passeur avec ma dernière pièce.",
+      "tu": "Tu payas cher ton erreur.",
+      "il": "Il paya la rançon sans discuter.",
+      "nous": "Nous payâmes l'aubergiste en or.",
+      "vous": "Vous payâtes vos dettes au roi.",
+      "ils": "Ils payèrent un lourd tribut."
+    },
+    "Passé Composé": {
+      "je": "J'ai payé l'addition.",
+      "tu": "Tu as payé combien pour ces chaussures ?",
+      "il": "Il a payé ses billets en ligne.",
+      "nous": "Nous avons payé le loyer ce matin.",
+      "vous": "Vous avez payé le parking ?",
+      "ils": "Ils ont payé la maison en dix ans."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais payé d'avance.",
+      "tu": "Tu avais payé trop cher.",
+      "il": "Il avait payé l'hôtel pour toute la semaine.",
+      "nous": "Nous avions payé les billets avant l'annulation.",
+      "vous": "Vous aviez payé l'électricien ?",
+      "ils": "Ils avaient payé leur dette."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai payé mon prêt avant mes quarante ans.",
+      "tu": "Tu auras payé ta voiture d'ici là.",
+      "il": "Il aura payé toutes ses factures.",
+      "nous": "Nous aurons payé la maison dans vingt ans.",
+      "vous": "Vous aurez payé le double.",
+      "ils": "Ils auront payé leurs dettes avant l'été."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais payé, mais j'avais oublié ma carte.",
+      "tu": "Tu aurais payé ce prix-là ?",
+      "il": "Il aurait payé moins avec une réduction.",
+      "nous": "Nous aurions payé plus cher en été.",
+      "vous": "Vous auriez payé en espèces ?",
+      "ils": "Ils auraient payé l'amende sans discuter."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est gêné que j'aie payé pour lui.",
+      "tu": "C'est gentil que tu aies payé le café.",
+      "il": "Je doute qu'il ait payé ses impôts.",
+      "nous": "Bien que nous ayons payé, nous n'avons rien reçu.",
+      "vous": "Je suis surpris que vous ayez payé si cher.",
+      "ils": "C'est injuste qu'ils aient payé deux fois."
+    },
+    "Futur Proche": {
+      "je": "Je vais payer par carte.",
+      "tu": "Tu vas payer combien ?",
+      "il": "Il va payer le dîner.",
+      "nous": "Nous allons payer le reste demain.",
+      "vous": "Vous allez payer à la sortie.",
+      "ils": "Ils vont payer en plusieurs fois."
+    },
+    "Impératif": {
+      "tu": "Paye ta part, s'il te plaît.",
+      "nous": "Payons l'addition et partons.",
+      "vous": "Payez à la caisse numéro trois."
+    }
+  }
+}

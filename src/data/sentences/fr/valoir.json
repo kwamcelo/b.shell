@@ -1,0 +1,101 @@
+{
+  "verb": "valoir",
+  "tenses": {
+    "Présent": {
+      "je": "Je vaux mieux que ça.",
+      "tu": "Tu vaux bien plus que tu ne le penses.",
+      "il": "Il vaut mieux que son frère au tennis.",
+      "nous": "Nous valons autant que les autres équipes.",
+      "vous": "Vous valez beaucoup pour cette entreprise.",
+      "ils": "Ils valent une fortune sur le marché."
+    },
+    "Imparfait": {
+      "je": "Je valais mieux que ce poste mal payé.",
+      "tu": "Tu valais beaucoup plus que ton salaire.",
+      "il": "Il valait des millions sur le marché des transferts.",
+      "nous": "Nous valions autant qu'eux, à l'époque.",
+      "vous": "Vous valiez mieux que cette équipe.",
+      "ils": "Ils valaient très cher à l'époque."
+    },
+    "Futur Simple": {
+      "je": "Je vaudrai plus avec ce diplôme.",
+      "tu": "Tu vaudras mieux que ton concurrent.",
+      "il": "Il vaudra bientôt des millions.",
+      "nous": "Nous vaudrons plus cher sur le marché.",
+      "vous": "Vous vaudrez autant que les meilleurs.",
+      "ils": "Ils vaudront une fortune dans dix ans."
+    },
+    "Conditionnel Présent": {
+      "je": "Je vaudrais plus avec plus d'expérience.",
+      "tu": "Tu vaudrais une fortune dans une grande entreprise.",
+      "il": "Il vaudrait cher sur le marché des transferts.",
+      "nous": "Nous vaudrions plus avec un meilleur entraîneur.",
+      "vous": "Vous vaudriez beaucoup dans notre équipe.",
+      "ils": "Ils vaudraient plus en bon état."
+    },
+    "Subjonctif": {
+      "je": "Bien que je vaille mieux, je reste à ce poste.",
+      "tu": "Bien que tu vailles mieux, tu acceptes ce salaire.",
+      "il": "Bien qu'il vaille cher, personne ne veut l'acheter.",
+      "nous": "Bien que nous valions moins, nous avons gagné.",
+      "vous": "Bien que vous valiez autant, ils vous paient moins.",
+      "ils": "Bien qu'ils vaillent une fortune, personne ne les achète."
+    },
+    "Passé Simple": {
+      "je": "Je valus à mon maître une grande victoire.",
+      "tu": "Tu valus à ta famille l'estime du roi.",
+      "il": "Il valut à son pays une gloire immense.",
+      "nous": "Nous valûmes à notre village une récompense.",
+      "vous": "Vous valûtes à l'armée une victoire décisive.",
+      "ils": "Ils valurent à leur équipe un titre historique."
+    },
+    "Passé Composé": {
+      "je": "J'ai valu à mon équipe sa première victoire.",
+      "tu": "Tu as valu à ton club un trophée.",
+      "il": "Il a valu cent millions lors de son transfert.",
+      "nous": "Nous avons valu à notre école une médaille d'or.",
+      "vous": "Vous avez valu à la ville une belle réputation.",
+      "ils": "Ils ont valu à leur pays une médaille d'argent."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais valu à mon équipe une place en finale.",
+      "tu": "Tu avais valu à ta classe un prix d'excellence.",
+      "il": "Il avait valu une fortune au début de sa carrière.",
+      "nous": "Nous avions valu à notre club une belle saison.",
+      "vous": "Vous aviez valu à l'entreprise un gros contrat.",
+      "ils": "Ils avaient valu cher à l'époque."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai valu à mon équipe ce titre.",
+      "tu": "Tu auras valu à ton école une belle victoire.",
+      "il": "Il aura valu des millions au club.",
+      "nous": "Nous aurons valu à la ville une médaille.",
+      "vous": "Vous aurez valu à l'équipe sa qualification.",
+      "ils": "Ils auront valu une fortune aux collectionneurs."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais valu plus avec un meilleur CV.",
+      "tu": "Tu aurais valu une fortune dans cette équipe.",
+      "il": "Il aurait valu plus cher sans sa blessure.",
+      "nous": "Nous aurions valu plus avec un meilleur entraîneur.",
+      "vous": "Vous auriez valu beaucoup dans notre entreprise.",
+      "ils": "Ils auraient valu plus en bon état."
+    },
+    "Subjonctif Passé": {
+      "je": "Bien que j'aie valu plus, j'ai accepté ce salaire.",
+      "tu": "Bien que tu aies valu mieux, tu as perdu.",
+      "il": "Bien qu'il ait valu des millions, son salaire était modeste.",
+      "nous": "Bien que nous ayons valu autant, nous avons perdu.",
+      "vous": "Bien que vous ayez valu plus, vous êtes restés au club.",
+      "ils": "Bien qu'ils aient valu une fortune, personne ne les a achetés."
+    },
+    "Futur Proche": {
+      "je": "Je vais valoir plus après cette formation.",
+      "tu": "Tu vas valoir une fortune avec ce talent !",
+      "il": "Il va valoir des millions.",
+      "nous": "Nous allons valoir plus cher.",
+      "vous": "Vous allez valoir de l'or pour l'équipe.",
+      "ils": "Ils vont valoir une fortune."
+    }
+  }
+}

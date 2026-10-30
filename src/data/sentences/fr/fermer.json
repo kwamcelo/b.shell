@@ -1,0 +1,106 @@
+{
+  "verb": "fermer",
+  "tenses": {
+    "Présent": {
+      "je": "Je ferme la porte à clé chaque soir.",
+      "tu": "Tu fermes la fenêtre, s'il te plaît ?",
+      "il": "Il ferme son magasin à dix-neuf heures.",
+      "nous": "Nous fermons les volets en été.",
+      "vous": "Vous fermez à quelle heure ?",
+      "ils": "Ils ferment le restaurant en août."
+    },
+    "Imparfait": {
+      "je": "Je fermais toujours les yeux pendant les films d'horreur.",
+      "tu": "Tu fermais la porte à double tour.",
+      "il": "Il fermait la boutique à midi.",
+      "nous": "Nous fermions les volets avant de partir.",
+      "vous": "Vous fermiez le dimanche ?",
+      "ils": "Ils fermaient l'usine chaque été."
+    },
+    "Futur Simple": {
+      "je": "Je fermerai la maison avant de partir.",
+      "tu": "Tu fermeras la porte derrière toi.",
+      "il": "Il fermera le bureau ce soir.",
+      "nous": "Nous fermerons pendant les vacances.",
+      "vous": "Vous fermerez votre ordinateur à la fin.",
+      "ils": "Ils fermeront la route pour les travaux."
+    },
+    "Conditionnel Présent": {
+      "je": "Je fermerais la fenêtre, il fait froid.",
+      "tu": "Tu fermerais la porte, s'il te plaît ?",
+      "il": "Il fermerait le magasin plus tôt avec moins de clients.",
+      "nous": "Nous fermerions le dimanche avec moins de travail.",
+      "vous": "Vous fermeriez les rideaux ?",
+      "ils": "Ils fermeraient l'usine sans ce contrat."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que je ferme la fenêtre ?",
+      "tu": "Il faut que tu fermes la porte à clé.",
+      "il": "Je préfère qu'il ferme la boutique plus tôt.",
+      "nous": "Il faut que nous fermions les volets.",
+      "vous": "J'aimerais que vous fermiez la porte.",
+      "ils": "Il est possible qu'ils ferment l'école."
+    },
+    "Passé Simple": {
+      "je": "Je fermai les yeux et m'endormis.",
+      "tu": "Tu fermas la porte du donjon.",
+      "il": "Il ferma le livre d'un geste sec.",
+      "nous": "Nous fermâmes les portes de la ville.",
+      "vous": "Vous fermâtes la marche du cortège.",
+      "ils": "Ils fermèrent les volets de la vieille maison."
+    },
+    "Passé Composé": {
+      "je": "J'ai fermé la porte à clé ?",
+      "tu": "Tu as fermé le gaz ?",
+      "il": "Il a fermé son restaurant l'année dernière.",
+      "nous": "Nous avons fermé toutes les fenêtres.",
+      "vous": "Vous avez fermé la voiture ?",
+      "ils": "Ils ont fermé l'usine en 2019."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais fermé la porte, j'en suis certain.",
+      "tu": "Tu avais fermé la fenêtre avant de partir ?",
+      "il": "Il avait fermé son compte en banque.",
+      "nous": "Nous avions fermé la maison pour l'hiver.",
+      "vous": "Vous aviez fermé le robinet ?",
+      "ils": "Ils avaient fermé le magasin plus tôt."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai fermé la boutique avant ton arrivée.",
+      "tu": "Tu auras fermé tous les dossiers.",
+      "il": "Il aura fermé son entreprise avant la retraite.",
+      "nous": "Nous aurons fermé la maison à cette heure-là.",
+      "vous": "Vous aurez fermé votre compte.",
+      "ils": "Ils auront fermé la route avant l'orage."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais fermé la fenêtre avec cette pluie.",
+      "tu": "Tu aurais fermé le magasin à ma place ?",
+      "il": "Il aurait fermé son café sans cette aide.",
+      "nous": "Nous aurions fermé plus tôt sans ce client.",
+      "vous": "Vous auriez fermé la porte à clé ?",
+      "ils": "Ils auraient fermé l'usine sans les subventions."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est soulagée que j'aie fermé le gaz.",
+      "tu": "C'est bien que tu aies fermé la porte à clé.",
+      "il": "Je doute qu'il ait fermé la fenêtre.",
+      "nous": "Bien que nous ayons fermé les volets, la chaleur est entrée.",
+      "vous": "Je suis content que vous ayez fermé la boutique.",
+      "ils": "C'est triste qu'ils aient fermé ce vieux cinéma."
+    },
+    "Futur Proche": {
+      "je": "Je vais fermer la fenêtre.",
+      "tu": "Tu vas fermer la porte ?",
+      "il": "Il va fermer le magasin.",
+      "nous": "Nous allons fermer les volets.",
+      "vous": "Vous allez fermer à quelle heure ?",
+      "ils": "Ils vont fermer la piscine."
+    },
+    "Impératif": {
+      "tu": "Ferme la porte, il fait froid !",
+      "nous": "Fermons les volets avant de partir.",
+      "vous": "Fermez les yeux et respirez."
+    }
+  }
+}

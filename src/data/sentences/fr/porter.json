@@ -1,0 +1,106 @@
+{
+  "verb": "porter",
+  "tenses": {
+    "Présent": {
+      "je": "Je porte des lunettes depuis l'enfance.",
+      "tu": "Tu portes ce sac pour moi ?",
+      "il": "Il porte toujours une casquette.",
+      "nous": "Nous portons les courses jusqu'à la voiture.",
+      "vous": "Vous portez une montre ?",
+      "ils": "Ils portent un uniforme à l'école."
+    },
+    "Imparfait": {
+      "je": "Je portais un appareil dentaire au collège.",
+      "tu": "Tu portais toujours ce pull rouge.",
+      "il": "Il portait son fils sur ses épaules.",
+      "nous": "Nous portions des bottes en hiver.",
+      "vous": "Vous portiez un costume pour le travail ?",
+      "ils": "Ils portaient des valises très lourdes."
+    },
+    "Futur Simple": {
+      "je": "Je porterai ma robe verte à la soirée.",
+      "tu": "Tu porteras les cartons au grenier.",
+      "il": "Il portera un costume pour le mariage.",
+      "nous": "Nous porterons un toast aux mariés.",
+      "vous": "Vous porterez un casque sur le chantier.",
+      "ils": "Ils porteront des masques pour le carnaval."
+    },
+    "Conditionnel Présent": {
+      "je": "Je porterais bien ce manteau.",
+      "tu": "Tu porterais ce carton, s'il te plaît ?",
+      "il": "Il porterait une cravate pour l'occasion.",
+      "nous": "Nous porterions plainte sans hésiter.",
+      "vous": "Vous porteriez mes bagages ?",
+      "ils": "Ils porteraient le piano à quatre."
+    },
+    "Subjonctif": {
+      "je": "Ma mère veut que je porte un manteau.",
+      "tu": "Il faut que tu portes ton casque.",
+      "il": "J'aimerais qu'il porte une chemise propre.",
+      "nous": "Il faut que nous portions des lunettes de soleil.",
+      "vous": "Je préfère que vous portiez des chaussures confortables.",
+      "ils": "Il faut qu'ils portent un gilet de sécurité."
+    },
+    "Passé Simple": {
+      "je": "Je portai le message jusqu'au château.",
+      "tu": "Tu portas la couronne pendant vingt ans.",
+      "il": "Il porta l'enfant jusqu'au village.",
+      "nous": "Nous portâmes les blessés à l'abri.",
+      "vous": "Vous portâtes la bannière du roi.",
+      "ils": "Ils portèrent le cercueil jusqu'à l'église."
+    },
+    "Passé Composé": {
+      "je": "J'ai porté ce t-shirt toute la semaine.",
+      "tu": "Tu as porté plainte ?",
+      "il": "Il a porté les courses de sa voisine.",
+      "nous": "Nous avons porté le canapé au troisième étage.",
+      "vous": "Vous avez porté un costume au mariage ?",
+      "ils": "Ils ont porté le même pull pour la photo."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais porté ces chaussures toute la journée.",
+      "tu": "Tu avais porté cette robe au bal.",
+      "il": "Il avait porté des lunettes pendant des années.",
+      "nous": "Nous avions porté les valises jusqu'à la gare.",
+      "vous": "Vous aviez porté plainte contre lui ?",
+      "ils": "Ils avaient porté des costumes de pirate."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai porté ce manteau tout l'hiver.",
+      "tu": "Tu auras porté ces cartons pour rien.",
+      "il": "Il aura porté le maillot numéro dix pendant dix ans.",
+      "nous": "Nous aurons porté chance à l'équipe.",
+      "vous": "Vous aurez porté vos fruits.",
+      "ils": "Ils auront porté le drapeau à la cérémonie."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais porté un parapluie avec la météo.",
+      "tu": "Tu aurais porté cette chemise, toi ?",
+      "il": "Il aurait porté plainte sans les excuses du voisin.",
+      "nous": "Nous aurions porté des bottes avec ce temps.",
+      "vous": "Vous auriez porté ce chapeau ?",
+      "ils": "Ils auraient porté le canapé sans l'ascenseur."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma grand-mère est contente que j'aie porté son pull.",
+      "tu": "C'est bien que tu aies porté ton casque.",
+      "il": "Je doute qu'il ait porté plainte.",
+      "nous": "Bien que nous ayons porté des manteaux, nous avions froid.",
+      "vous": "Je suis ravi que vous ayez porté mon cadeau.",
+      "ils": "C'est drôle qu'ils aient porté la même robe."
+    },
+    "Futur Proche": {
+      "je": "Je vais porter ma veste en cuir.",
+      "tu": "Tu vas porter quoi ce soir ?",
+      "il": "Il va porter un smoking.",
+      "nous": "Nous allons porter un toast.",
+      "vous": "Vous allez porter les sacs ?",
+      "ils": "Ils vont porter des déguisements."
+    },
+    "Impératif": {
+      "tu": "Porte ce carton dans la cuisine.",
+      "nous": "Portons un toast aux jeunes mariés !",
+      "vous": "Portez un casque à vélo."
+    }
+  }
+}

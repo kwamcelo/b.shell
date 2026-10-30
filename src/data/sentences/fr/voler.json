@@ -1,0 +1,106 @@
+{
+  "verb": "voler",
+  "tenses": {
+    "Présent": {
+      "je": "Je vole pour la première fois demain.",
+      "tu": "Tu voles avec quelle compagnie ?",
+      "il": "Il vole au-dessus des nuages en parapente.",
+      "nous": "Nous volons vers Montréal ce soir.",
+      "vous": "Vous volez souvent pour le travail ?",
+      "ils": "Ils volent des voitures, d'après la police."
+    },
+    "Imparfait": {
+      "je": "Je volais en rêve presque toutes les nuits.",
+      "tu": "Tu volais des bonbons dans le placard.",
+      "il": "Il volait comme un oiseau sur son deltaplane.",
+      "nous": "Nous volions au-dessus de l'océan.",
+      "vous": "Vous voliez souvent avec cette compagnie ?",
+      "ils": "Ils volaient des pommes dans le verger du voisin."
+    },
+    "Futur Simple": {
+      "je": "Je volerai jusqu'à Tokyo en novembre.",
+      "tu": "Tu voleras en classe affaires ?",
+      "il": "Il volera de ses propres ailes bientôt.",
+      "nous": "Nous volerons de nuit pour gagner du temps.",
+      "vous": "Vous volerez au-dessus des Alpes.",
+      "ils": "Ils voleront vers l'Afrique cet hiver."
+    },
+    "Conditionnel Présent": {
+      "je": "Je volerais bien en montgolfière.",
+      "tu": "Tu volerais en hélicoptère ?",
+      "il": "Il volerait en première classe avec plus d'argent.",
+      "nous": "Nous volerions directement avec un vol sans escale.",
+      "vous": "Vous voleriez de nuit ?",
+      "ils": "Ils voleraient vers le sud comme les oiseaux."
+    },
+    "Subjonctif": {
+      "je": "Ma mère a peur que je vole en avion.",
+      "tu": "Je veux que tu voles de tes propres ailes.",
+      "il": "Il faut qu'il vole au moins cent heures pour sa licence.",
+      "nous": "Il vaut mieux que nous volions de jour.",
+      "vous": "J'aimerais que vous voliez avec notre compagnie.",
+      "ils": "J'ai peur qu'ils volent mon vélo."
+    },
+    "Passé Simple": {
+      "je": "Je volai jusqu'à la tour la plus haute.",
+      "tu": "Tu volas au secours de ton ami.",
+      "il": "Il vola le collier de la reine.",
+      "nous": "Nous volâmes au-dessus des montagnes.",
+      "vous": "Vous volâtes la couronne du roi.",
+      "ils": "Ils volèrent vers le sud avant l'hiver."
+    },
+    "Passé Composé": {
+      "je": "J'ai volé en hydravion au Canada.",
+      "tu": "Tu as volé avec Air France ?",
+      "il": "Il a volé un baiser à sa voisine.",
+      "nous": "Nous avons volé au-dessus du Grand Canyon.",
+      "vous": "Vous avez volé de nuit ?",
+      "ils": "Ils ont volé mon portefeuille dans le métro."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais volé en avion pour la première fois à cinq ans.",
+      "tu": "Tu avais volé jusqu'à Rome ?",
+      "il": "Il avait volé une pomme au marché.",
+      "nous": "Nous avions volé au-dessus de la mer.",
+      "vous": "Vous aviez volé en planeur ?",
+      "ils": "Ils avaient volé la voiture la nuit précédente."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai volé dans dix pays cette année.",
+      "tu": "Tu auras volé de tes propres ailes.",
+      "il": "Il aura volé mille heures avant sa retraite.",
+      "nous": "Nous aurons volé plus de vingt heures.",
+      "vous": "Vous aurez volé au-dessus de trois continents.",
+      "ils": "Ils auront volé tous les bijoux avant l'arrivée de la police."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais volé en première classe avec plus d'argent.",
+      "tu": "Tu aurais volé en parapente ?",
+      "il": "Il aurait volé plus haut avec un meilleur vent.",
+      "nous": "Nous aurions volé directement sans cette escale.",
+      "vous": "Vous auriez volé dans cet avion ?",
+      "ils": "Ils auraient volé la voiture sans l'alarme."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont impressionnés que j'aie volé en deltaplane.",
+      "tu": "C'est génial que tu aies volé en montgolfière !",
+      "il": "Je doute qu'il ait volé cet argent.",
+      "nous": "Bien que nous ayons volé de nuit, nous avons bien dormi.",
+      "vous": "Je suis content que vous ayez volé avec nous.",
+      "ils": "Il est possible qu'ils aient volé ce tableau."
+    },
+    "Futur Proche": {
+      "je": "Je vais voler en parapente.",
+      "tu": "Tu vas voler jusqu'à Londres ?",
+      "il": "Il va voler pour la première fois.",
+      "nous": "Nous allons voler au-dessus des volcans.",
+      "vous": "Vous allez voler de nuit ?",
+      "ils": "Ils vont voler vers le sud."
+    },
+    "Impératif": {
+      "tu": "Vole de tes propres ailes.",
+      "nous": "Volons vers de nouveaux horizons.",
+      "vous": "Volez avec nous cet été !"
+    }
+  }
+}

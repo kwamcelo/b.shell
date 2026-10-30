@@ -1,0 +1,106 @@
+{
+  "verb": "répondre",
+  "tenses": {
+    "Présent": {
+      "je": "Je réponds à mes mails le matin.",
+      "tu": "Tu réponds au téléphone ?",
+      "il": "Il répond toujours avec humour.",
+      "nous": "Nous répondons à toutes vos questions.",
+      "vous": "Vous répondez au questionnaire ?",
+      "ils": "Ils répondent vite aux messages."
+    },
+    "Imparfait": {
+      "je": "Je répondais toujours en retard aux lettres.",
+      "tu": "Tu répondais à toutes les questions du prof.",
+      "il": "Il répondait poliment à tout le monde.",
+      "nous": "Nous répondions aux clients par téléphone.",
+      "vous": "Vous répondiez souvent à vos parents ?",
+      "ils": "Ils répondaient en chœur."
+    },
+    "Futur Simple": {
+      "je": "Je répondrai à ton message ce soir.",
+      "tu": "Tu répondras à la question numéro deux.",
+      "il": "Il répondra aux journalistes demain.",
+      "nous": "Nous répondrons dans les plus brefs délais.",
+      "vous": "Vous répondrez par oui ou par non.",
+      "ils": "Ils répondront à l'invitation."
+    },
+    "Conditionnel Présent": {
+      "je": "Je répondrais oui sans hésiter.",
+      "tu": "Tu répondrais à ce mail pour moi ?",
+      "il": "Il répondrait mieux avec plus de préparation.",
+      "nous": "Nous répondrions volontiers à vos questions.",
+      "vous": "Vous répondriez quoi à ma place ?",
+      "ils": "Ils répondraient plus vite avec un meilleur réseau."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je réponde à cette lettre.",
+      "tu": "J'aimerais que tu répondes à ma question.",
+      "il": "J'attends qu'il réponde à mon message.",
+      "nous": "Il faut que nous répondions avant vendredi.",
+      "vous": "Je souhaite que vous répondiez honnêtement.",
+      "ils": "Il faut qu'ils répondent à l'appel."
+    },
+    "Passé Simple": {
+      "je": "Je répondis sans réfléchir.",
+      "tu": "Tu répondis à l'appel du roi.",
+      "il": "Il répondit d'une voix calme.",
+      "nous": "Nous répondîmes à la lettre le jour même.",
+      "vous": "Vous répondîtes avec courage.",
+      "ils": "Ils répondirent à l'attaque."
+    },
+    "Passé Composé": {
+      "je": "J'ai répondu à toutes les questions.",
+      "tu": "Tu as répondu à son message ?",
+      "il": "Il a répondu au téléphone en plein dîner.",
+      "nous": "Nous avons répondu à l'invitation.",
+      "vous": "Vous avez répondu au sondage ?",
+      "ils": "Ils ont répondu à l'appel tout de suite."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais répondu à sa lettre la veille.",
+      "tu": "Tu avais répondu à l'annonce ?",
+      "il": "Il avait répondu à toutes les questions de l'examen.",
+      "nous": "Nous avions répondu trop tard.",
+      "vous": "Vous aviez répondu au mail du directeur ?",
+      "ils": "Ils avaient répondu à l'appel au secours."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai répondu à tous mes mails avant midi.",
+      "tu": "Tu auras répondu à toutes les questions.",
+      "il": "Il aura répondu à cette lettre, j'espère.",
+      "nous": "Nous aurons répondu à toutes les demandes.",
+      "vous": "Vous aurez répondu au questionnaire.",
+      "ils": "Ils auront répondu à l'invitation."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais répondu avec ton numéro.",
+      "tu": "Tu aurais répondu quoi ?",
+      "il": "Il aurait répondu à la question avec plus de temps.",
+      "nous": "Nous aurions répondu plus tôt.",
+      "vous": "Vous auriez répondu à cette annonce ?",
+      "ils": "Ils auraient répondu oui."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie répondu juste.",
+      "tu": "C'est bien que tu aies répondu à sa lettre.",
+      "il": "Je doute qu'il ait répondu à ton mail.",
+      "nous": "Bien que nous ayons répondu vite, l'offre était déjà prise.",
+      "vous": "Je suis content que vous ayez répondu.",
+      "ils": "C'est poli qu'ils aient répondu à l'invitation."
+    },
+    "Futur Proche": {
+      "je": "Je vais répondre à ton message.",
+      "tu": "Tu vas répondre au téléphone ?",
+      "il": "Il va répondre aux questions.",
+      "nous": "Nous allons répondre demain.",
+      "vous": "Vous allez répondre à l'invitation ?",
+      "ils": "Ils vont répondre par écrit."
+    },
+    "Impératif": {
+      "tu": "Réponds au téléphone, s'il te plaît !",
+      "nous": "Répondons à cette lettre ensemble.",
+      "vous": "Répondez aux questions suivantes."
+    }
+  }
+}

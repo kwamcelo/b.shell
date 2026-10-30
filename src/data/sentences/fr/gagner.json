@@ -1,0 +1,106 @@
+{
+  "verb": "gagner",
+  "tenses": {
+    "Présent": {
+      "je": "Je gagne toujours aux cartes contre mon frère.",
+      "tu": "Tu gagnes combien par mois ?",
+      "il": "Il gagne sa vie comme photographe.",
+      "nous": "Nous gagnons du temps en prenant le métro.",
+      "vous": "Vous gagnez à tous les coups !",
+      "ils": "Ils gagnent chaque match à domicile."
+    },
+    "Imparfait": {
+      "je": "Je gagnais un peu d'argent en gardant des enfants.",
+      "tu": "Tu gagnais toujours à ce jeu.",
+      "il": "Il gagnait bien sa vie à l'époque.",
+      "nous": "Nous gagnions tous nos matchs cette saison-là.",
+      "vous": "Vous gagniez plus dans votre ancien travail ?",
+      "ils": "Ils gagnaient des concours de danse."
+    },
+    "Futur Simple": {
+      "je": "Je gagnerai la prochaine fois.",
+      "tu": "Tu gagneras ce concours, j'en suis sûr.",
+      "il": "Il gagnera la course facilement.",
+      "nous": "Nous gagnerons du temps avec ce raccourci.",
+      "vous": "Vous gagnerez un voyage à Rome.",
+      "ils": "Ils gagneront le championnat cette année."
+    },
+    "Conditionnel Présent": {
+      "je": "Je gagnerais plus dans une grande ville.",
+      "tu": "Tu gagnerais à le connaître.",
+      "il": "Il gagnerait la course avec de meilleures chaussures.",
+      "nous": "Nous gagnerions du temps en partant tôt.",
+      "vous": "Vous gagneriez plus avec un autre contrat.",
+      "ils": "Ils gagneraient le match avec un meilleur gardien."
+    },
+    "Subjonctif": {
+      "je": "Mes parents veulent que je gagne ma vie.",
+      "tu": "J'aimerais que tu gagnes ce tournoi.",
+      "il": "Il faut qu'il gagne ce dernier match.",
+      "nous": "Il faut que nous gagnions du temps.",
+      "vous": "Je souhaite que vous gagniez le premier prix.",
+      "ils": "Il est possible qu'ils gagnent la finale."
+    },
+    "Passé Simple": {
+      "je": "Je gagnai la bataille au prix de grands sacrifices.",
+      "tu": "Tu gagnas le cœur de la princesse.",
+      "il": "Il gagna la course de chevaux.",
+      "nous": "Nous gagnâmes la confiance du roi.",
+      "vous": "Vous gagnâtes une fortune en Orient.",
+      "ils": "Ils gagnèrent la guerre en trois ans."
+    },
+    "Passé Composé": {
+      "je": "J'ai gagné vingt euros au loto.",
+      "tu": "Tu as gagné le match ?",
+      "il": "Il a gagné un prix pour son film.",
+      "nous": "Nous avons gagné le tournoi de pétanque.",
+      "vous": "Vous avez gagné beaucoup de temps.",
+      "ils": "Ils ont gagné la Coupe du monde."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais gagné ce concours l'année précédente.",
+      "tu": "Tu avais gagné tous les matchs de la saison.",
+      "il": "Il avait gagné une voiture à la loterie.",
+      "nous": "Nous avions gagné le premier prix.",
+      "vous": "Vous aviez gagné le pari ?",
+      "ils": "Ils avaient gagné trois médailles."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai gagné assez d'argent pour le voyage.",
+      "tu": "Tu auras gagné ta place dans l'équipe.",
+      "il": "Il aura gagné tous les tournois cette année.",
+      "nous": "Nous aurons gagné beaucoup de temps.",
+      "vous": "Vous aurez gagné le respect de tous.",
+      "ils": "Ils auront gagné le championnat avant mai."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais gagné avec un peu plus de chance.",
+      "tu": "Tu aurais gagné à ma place ?",
+      "il": "Il aurait gagné la course sans sa chute.",
+      "nous": "Nous aurions gagné le match sans cette erreur.",
+      "vous": "Vous auriez gagné du temps en train.",
+      "ils": "Ils auraient gagné avec un autre arbitre."
+    },
+    "Subjonctif Passé": {
+      "je": "Mes amis sont surpris que j'aie gagné.",
+      "tu": "C'est génial que tu aies gagné ce concours !",
+      "il": "Je doute qu'il ait gagné honnêtement.",
+      "nous": "Bien que nous ayons gagné, le match était difficile.",
+      "vous": "Je suis ravi que vous ayez gagné le premier prix.",
+      "ils": "C'est incroyable qu'ils aient gagné contre cette équipe."
+    },
+    "Futur Proche": {
+      "je": "Je vais gagner cette partie.",
+      "tu": "Tu vas gagner, tu verras.",
+      "il": "Il va gagner la course.",
+      "nous": "Nous allons gagner du temps.",
+      "vous": "Vous allez gagner un cadeau.",
+      "ils": "Ils vont gagner le match."
+    },
+    "Impératif": {
+      "tu": "Gagne ce match pour nous !",
+      "nous": "Gagnons du temps, prenons un taxi.",
+      "vous": "Gagnez un voyage en participant au concours."
+    }
+  }
+}

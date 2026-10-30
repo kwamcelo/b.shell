@@ -1,0 +1,106 @@
+{
+  "verb": "boire",
+  "tenses": {
+    "Présent": {
+      "je": "Je bois un café chaque matin.",
+      "tu": "Tu bois quelque chose ?",
+      "il": "Il boit beaucoup d'eau en été.",
+      "nous": "Nous buvons un verre en terrasse.",
+      "vous": "Vous buvez du thé ou du café ?",
+      "ils": "Ils boivent du jus d'orange au petit-déjeuner."
+    },
+    "Imparfait": {
+      "je": "Je buvais du chocolat chaud tous les matins.",
+      "tu": "Tu buvais du lait à chaque repas.",
+      "il": "Il buvait son café sans sucre.",
+      "nous": "Nous buvions de la limonade en été.",
+      "vous": "Vous buviez du vin à table ?",
+      "ils": "Ils buvaient du thé à la menthe."
+    },
+    "Futur Simple": {
+      "je": "Je boirai un thé avant de dormir.",
+      "tu": "Tu boiras ton lait avant l'école.",
+      "il": "Il boira un café au bar.",
+      "nous": "Nous boirons à ta santé !",
+      "vous": "Vous boirez quelque chose ?",
+      "ils": "Ils boiront du champagne pour fêter ça."
+    },
+    "Conditionnel Présent": {
+      "je": "Je boirais bien un verre d'eau.",
+      "tu": "Tu boirais un café avec moi ?",
+      "il": "Il boirait plus d'eau avec une gourde.",
+      "nous": "Nous boirions volontiers un apéritif.",
+      "vous": "Vous boiriez un petit café ?",
+      "ils": "Ils boiraient un verre de vin avec le fromage."
+    },
+    "Subjonctif": {
+      "je": "Le médecin veut que je boive plus d'eau.",
+      "tu": "Il faut que tu boives quelque chose.",
+      "il": "Il vaut mieux qu'il boive moins de café.",
+      "nous": "Il faut que nous buvions à leur santé.",
+      "vous": "Je préfère que vous buviez de l'eau.",
+      "ils": "Il faut qu'ils boivent beaucoup pendant le match."
+    },
+    "Passé Simple": {
+      "je": "Je bus l'eau fraîche de la source.",
+      "tu": "Tu bus le vin du seigneur.",
+      "il": "Il but la potion d'un seul coup.",
+      "nous": "Nous bûmes à la victoire.",
+      "vous": "Vous bûtes à la santé du roi.",
+      "ils": "Ils burent jusqu'à l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai bu trop de café aujourd'hui.",
+      "tu": "Tu as bu ton médicament ?",
+      "il": "Il a bu un grand verre de jus de pomme.",
+      "nous": "Nous avons bu un excellent vin.",
+      "vous": "Vous avez bu quelque chose ?",
+      "ils": "Ils ont bu un chocolat chaud après le ski."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais bu un café juste avant.",
+      "tu": "Tu avais bu trop de soda.",
+      "il": "Il avait bu toute la bouteille d'eau.",
+      "nous": "Nous avions bu un thé à l'hôtel.",
+      "vous": "Vous aviez bu du champagne au mariage ?",
+      "ils": "Ils avaient bu un verre avant le dîner."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai bu trois litres d'eau aujourd'hui.",
+      "tu": "Tu auras bu ton café avant la réunion.",
+      "il": "Il aura bu tout le jus d'orange.",
+      "nous": "Nous aurons bu à la santé des mariés.",
+      "vous": "Vous aurez bu un bon vin ce soir.",
+      "ils": "Ils auront bu toute la limonade."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais bu un thé, mais il n'y en avait plus.",
+      "tu": "Tu aurais bu ce mélange bizarre ?",
+      "il": "Il aurait bu plus d'eau avec cette chaleur.",
+      "nous": "Nous aurions bu un verre avec vous avec plaisir.",
+      "vous": "Vous auriez bu un café ?",
+      "ils": "Ils auraient bu du champagne pour fêter la victoire."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est contente que j'aie bu ma soupe.",
+      "tu": "C'est bien que tu aies bu beaucoup d'eau.",
+      "il": "Je doute qu'il ait bu son médicament.",
+      "nous": "Bien que nous ayons bu un café, nous sommes fatigués.",
+      "vous": "Je suis content que vous ayez bu ce thé.",
+      "ils": "Il est possible qu'ils aient bu tout le jus."
+    },
+    "Futur Proche": {
+      "je": "Je vais boire un verre d'eau.",
+      "tu": "Tu vas boire quoi ?",
+      "il": "Il va boire un café.",
+      "nous": "Nous allons boire un thé.",
+      "vous": "Vous allez boire quelque chose ?",
+      "ils": "Ils vont boire un chocolat chaud."
+    },
+    "Impératif": {
+      "tu": "Bois ton jus d'orange.",
+      "nous": "Buvons à notre amitié !",
+      "vous": "Buvez beaucoup d'eau pendant la canicule."
+    }
+  }
+}

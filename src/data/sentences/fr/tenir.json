@@ -1,0 +1,106 @@
+{
+  "verb": "tenir",
+  "tenses": {
+    "Présent": {
+      "je": "Je tiens la porte pour la dame.",
+      "tu": "Tu tiens le bébé une minute ?",
+      "il": "Il tient un petit café près du port.",
+      "nous": "Nous tenons beaucoup à cette tradition.",
+      "vous": "Vous tenez la rampe dans l'escalier ?",
+      "ils": "Ils tiennent la main de leur fille."
+    },
+    "Imparfait": {
+      "je": "Je tenais un journal intime au collège.",
+      "tu": "Tu tenais ton vélo d'une seule main.",
+      "il": "Il tenait une boulangerie dans le centre.",
+      "nous": "Nous tenions la boutique à tour de rôle.",
+      "vous": "Vous teniez beaucoup à cette maison ?",
+      "ils": "Ils tenaient leurs promesses."
+    },
+    "Futur Simple": {
+      "je": "Je tiendrai ma promesse.",
+      "tu": "Tu tiendras le parapluie pendant que je cherche les clés.",
+      "il": "Il tiendra une conférence de presse demain.",
+      "nous": "Nous tiendrons la réunion dans la grande salle.",
+      "vous": "Vous tiendrez le stand pendant la pause.",
+      "ils": "Ils tiendront jusqu'à la fin du match."
+    },
+    "Conditionnel Présent": {
+      "je": "Je tiendrais plus longtemps avec un café.",
+      "tu": "Tu tiendrais mon sac une seconde ?",
+      "il": "Il tiendrait sa langue avec un peu de sagesse.",
+      "nous": "Nous tiendrions à vous remercier.",
+      "vous": "Vous tiendriez la porte, s'il vous plaît ?",
+      "ils": "Ils tiendraient le coup avec un peu d'aide."
+    },
+    "Subjonctif": {
+      "je": "Il faut que je tienne ma promesse.",
+      "tu": "Je veux que tu tiennes la main de ta sœur.",
+      "il": "Il faut qu'il tienne compte de nos remarques.",
+      "nous": "Il est important que nous tenions nos engagements.",
+      "vous": "J'aimerais que vous teniez la porte.",
+      "ils": "Il faut qu'ils tiennent jusqu'à l'arrivée des secours."
+    },
+    "Passé Simple": {
+      "je": "Je tins parole jusqu'au bout.",
+      "tu": "Tu tins la lettre entre tes mains tremblantes.",
+      "il": "Il tint son épée à deux mains.",
+      "nous": "Nous tînmes conseil toute la nuit.",
+      "vous": "Vous tîntes tête au roi.",
+      "ils": "Ils tinrent le château pendant six mois."
+    },
+    "Passé Composé": {
+      "je": "J'ai tenu ma promesse.",
+      "tu": "Tu as tenu le coup jusqu'au bout ?",
+      "il": "Il a tenu un discours très émouvant.",
+      "nous": "Nous avons tenu la boutique tout l'été.",
+      "vous": "Vous avez tenu compte de mes conseils ?",
+      "ils": "Ils ont tenu le score jusqu'à la dernière minute."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais tenu le bébé toute la nuit.",
+      "tu": "Tu avais tenu parole, comme toujours.",
+      "il": "Il avait tenu ce restaurant pendant vingt ans.",
+      "nous": "Nous avions tenu la réunion dans le jardin.",
+      "vous": "Vous aviez tenu un blog de voyage ?",
+      "ils": "Ils avaient tenu leur promesse."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai tenu ma promesse jusqu'au bout.",
+      "tu": "Tu auras tenu le coup pendant toute la semaine.",
+      "il": "Il aura tenu ce magasin pendant trente ans.",
+      "nous": "Nous aurons tenu nos engagements.",
+      "vous": "Vous aurez tenu parole.",
+      "ils": "Ils auront tenu bon jusqu'à la fin."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais tenu le coup avec plus de sommeil.",
+      "tu": "Tu aurais tenu ta langue à ma place ?",
+      "il": "Il aurait tenu sa promesse avec plus de temps.",
+      "nous": "Nous aurions tenu jusqu'au bout avec plus d'eau.",
+      "vous": "Vous auriez tenu compte de son avis ?",
+      "ils": "Ils auraient tenu le choc avec un meilleur entraînement."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon ami est content que j'aie tenu parole.",
+      "tu": "Je suis fier que tu aies tenu le coup.",
+      "il": "C'est bien qu'il ait tenu sa promesse.",
+      "nous": "Bien que nous ayons tenu bon, nous avons perdu.",
+      "vous": "Je suis touché que vous ayez tenu à venir.",
+      "ils": "C'est incroyable qu'ils aient tenu si longtemps."
+    },
+    "Futur Proche": {
+      "je": "Je vais tenir ma promesse.",
+      "tu": "Tu vas tenir le coup, j'en suis sûr.",
+      "il": "Il va tenir un discours au mariage.",
+      "nous": "Nous allons tenir une réunion lundi.",
+      "vous": "Vous allez tenir la caisse ce soir ?",
+      "ils": "Ils vont tenir le stand au festival."
+    },
+    "Impératif": {
+      "tu": "Tiens, voilà ton café.",
+      "nous": "Tenons bon, on y est presque.",
+      "vous": "Tenez la rampe, l'escalier est raide."
+    }
+  }
+}

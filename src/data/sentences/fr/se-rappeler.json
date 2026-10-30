@@ -1,0 +1,106 @@
+{
+  "verb": "se rappeler",
+  "tenses": {
+    "Présent": {
+      "je": "Je me rappelle très bien ce jour-là.",
+      "tu": "Tu te rappelles le nom de ce film ?",
+      "il": "Il se rappelle chaque détail de l'accident.",
+      "nous": "Nous nous rappelons notre premier rendez-vous.",
+      "vous": "Vous vous rappelez l'adresse de l'hôtel ?",
+      "ils": "Ils se rappellent leurs vacances en Grèce."
+    },
+    "Imparfait": {
+      "je": "Je me rappelais à peine son visage.",
+      "tu": "Tu te rappelais tous les numéros de téléphone.",
+      "il": "Il se rappelait toutes les dates historiques.",
+      "nous": "Nous nous rappelions encore les paroles de la chanson.",
+      "vous": "Vous vous rappeliez le chemin ?",
+      "ils": "Ils se rappelaient chaque été passé au village."
+    },
+    "Futur Simple": {
+      "je": "Je me rappellerai toujours ce moment.",
+      "tu": "Tu te rappelleras ce conseil.",
+      "il": "Il se rappellera ce voyage toute sa vie.",
+      "nous": "Nous nous rappellerons cette soirée.",
+      "vous": "Vous vous rappellerez le code ?",
+      "ils": "Ils se rappelleront ce jour avec émotion."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me rappellerais son nom avec une photo.",
+      "tu": "Tu te rappellerais le chemin ?",
+      "il": "Il se rappellerait la date avec un indice.",
+      "nous": "Nous nous rappellerions mieux avec des notes.",
+      "vous": "Vous vous rappelleriez son visage ?",
+      "ils": "Ils se rappelleraient la chanson avec la musique."
+    },
+    "Subjonctif": {
+      "je": "Mon prof est surpris que je me rappelle tout.",
+      "tu": "J'aimerais que tu te rappelles ce moment.",
+      "il": "Je doute qu'il se rappelle mon nom.",
+      "nous": "Il faut que nous nous rappelions l'essentiel.",
+      "vous": "Je veux que vous vous rappeliez cette leçon.",
+      "ils": "C'est étonnant qu'ils se rappellent cette histoire."
+    },
+    "Passé Simple": {
+      "je": "Je me rappelai soudain sa promesse.",
+      "tu": "Tu te rappelas la vieille légende.",
+      "il": "Il se rappela les paroles de son père.",
+      "nous": "Nous nous rappelâmes le chemin du retour.",
+      "vous": "Vous vous rappelâtes votre serment.",
+      "ils": "Ils se rappelèrent leur enfance."
+    },
+    "Passé Composé": {
+      "je": "Je me suis rappelé ton anniversaire au dernier moment.",
+      "tu": "Tu t'es rappelé le code ?",
+      "il": "Il s'est rappelé la date juste à temps.",
+      "nous": "Nous nous sommes rappelé cette histoire en riant.",
+      "vous": "Vous vous êtes rappelé son nom ?",
+      "ils": "Ils se sont rappelé leurs vacances."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais rappelé son nom juste à temps.",
+      "tu": "Tu t'étais rappelé le code de la porte ?",
+      "il": "Il s'était rappelé la date au dernier moment.",
+      "nous": "Nous nous étions rappelé le chemin.",
+      "vous": "Vous vous étiez rappelé l'heure du rendez-vous ?",
+      "ils": "Ils s'étaient rappelé cette vieille chanson."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai rappelé tout le vocabulaire avant l'examen.",
+      "tu": "Tu te seras rappelé son anniversaire, j'espère.",
+      "il": "Il se sera rappelé notre conversation.",
+      "nous": "Nous nous serons rappelé l'essentiel.",
+      "vous": "Vous vous serez rappelé la date.",
+      "ils": "Ils se seront rappelé cette promesse."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais rappelé ton anniversaire avec un rappel.",
+      "tu": "Tu te serais rappelé ça, toi ?",
+      "il": "Il se serait rappelé le chemin avec une carte.",
+      "nous": "Nous nous serions rappelé son nom avec une photo.",
+      "vous": "Vous vous seriez rappelé cette date ?",
+      "ils": "Ils se seraient rappelé l'adresse avec un peu d'aide."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est touchée que je me sois rappelé son anniversaire.",
+      "tu": "C'est gentil que tu te sois rappelé cette date.",
+      "il": "Je suis surpris qu'il se soit rappelé mon nom.",
+      "nous": "Bien que nous nous soyons rappelé le code, la porte est restée fermée.",
+      "vous": "Je suis content que vous vous soyez rappelé ce détail.",
+      "ils": "C'est incroyable qu'ils se soient rappelé tous ces noms."
+    },
+    "Futur Proche": {
+      "je": "Je vais me rappeler ce moment.",
+      "tu": "Tu vas te rappeler son nom ?",
+      "il": "Il va se rappeler la date.",
+      "nous": "Nous allons nous rappeler ce voyage.",
+      "vous": "Vous allez vous rappeler le code ?",
+      "ils": "Ils vont se rappeler cette leçon."
+    },
+    "Impératif": {
+      "tu": "Rappelle-toi ce que je t'ai dit.",
+      "nous": "Rappelons-nous les règles du jeu.",
+      "vous": "Rappelez-vous ce numéro."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "verb": "se souvenir",
+  "tenses": {
+    "Présent": {
+      "je": "Je me souviens de notre premier voyage.",
+      "tu": "Tu te souviens de son nom ?",
+      "il": "Il se souvient de chaque détail.",
+      "nous": "Nous nous souvenons de cette soirée.",
+      "vous": "Vous vous souvenez de moi ?",
+      "ils": "Ils se souviennent de leur enfance à la campagne."
+    },
+    "Imparfait": {
+      "je": "Je me souvenais à peine de son visage.",
+      "tu": "Tu te souvenais de tous les numéros de téléphone.",
+      "il": "Il se souvenait de tous les anniversaires.",
+      "nous": "Nous nous souvenions encore de cette chanson.",
+      "vous": "Vous vous souveniez de l'adresse ?",
+      "ils": "Ils se souvenaient de chaque été passé ici."
+    },
+    "Futur Simple": {
+      "je": "Je me souviendrai toujours de ce jour.",
+      "tu": "Tu te souviendras de cette leçon.",
+      "il": "Il se souviendra de ton aide.",
+      "nous": "Nous nous souviendrons de ce voyage longtemps.",
+      "vous": "Vous vous souviendrez de cette soirée.",
+      "ils": "Ils se souviendront de ce match toute leur vie."
+    },
+    "Conditionnel Présent": {
+      "je": "Je me souviendrais mieux avec une photo.",
+      "tu": "Tu te souviendrais de son adresse ?",
+      "il": "Il se souviendrait du code avec un indice.",
+      "nous": "Nous nous souviendrions du chemin avec une carte.",
+      "vous": "Vous vous souviendriez de son nom ?",
+      "ils": "Ils se souviendraient de la date avec un calendrier."
+    },
+    "Subjonctif": {
+      "je": "Mes amis sont surpris que je me souvienne de tout.",
+      "tu": "J'aimerais que tu te souviennes de ce moment.",
+      "il": "Je doute qu'il se souvienne de moi.",
+      "nous": "Il faut que nous nous souvenions de nos racines.",
+      "vous": "Je veux que vous vous souveniez de cette leçon.",
+      "ils": "C'est étonnant qu'ils se souviennent de cette histoire."
+    },
+    "Passé Simple": {
+      "je": "Je me souvins soudain de sa promesse.",
+      "tu": "Tu te souvins de la prophétie.",
+      "il": "Il se souvint de la lettre cachée.",
+      "nous": "Nous nous souvînmes du chemin de la grotte.",
+      "vous": "Vous vous souvîntes de votre serment.",
+      "ils": "Ils se souvinrent de leur enfance au château."
+    },
+    "Passé Composé": {
+      "je": "Je me suis souvenu de ton anniversaire au dernier moment.",
+      "tu": "Tu t'es souvenu de prendre le pain ?",
+      "il": "Il s'est souvenu du code juste à temps.",
+      "nous": "Nous nous sommes souvenus de cette chanson.",
+      "vous": "Vous vous êtes souvenus du chemin ?",
+      "ils": "Ils se sont souvenus de notre rencontre."
+    },
+    "Plus-que-parfait": {
+      "je": "Je m'étais souvenu de fermer la porte.",
+      "tu": "Tu t'étais souvenu de son anniversaire ?",
+      "il": "Il s'était souvenu de la date du rendez-vous.",
+      "nous": "Nous nous étions souvenus du code de l'immeuble.",
+      "vous": "Vous vous étiez souvenus de prendre les billets ?",
+      "ils": "Ils s'étaient souvenus de cette vieille histoire."
+    },
+    "Futur Antérieur": {
+      "je": "Je me serai souvenu de tout avant l'examen.",
+      "tu": "Tu te seras souvenu de son prénom, j'espère.",
+      "il": "Il se sera souvenu de notre conversation.",
+      "nous": "Nous nous serons souvenus de l'essentiel.",
+      "vous": "Vous vous serez souvenus de la date.",
+      "ils": "Ils se seront souvenus de nous."
+    },
+    "Conditionnel Passé": {
+      "je": "Je me serais souvenu de ton anniversaire avec un rappel.",
+      "tu": "Tu te serais souvenu de ça, toi ?",
+      "il": "Il se serait souvenu du chemin avec un GPS.",
+      "nous": "Nous nous serions souvenus de son nom avec une photo.",
+      "vous": "Vous vous seriez souvenus de cette date ?",
+      "ils": "Ils se seraient souvenus de nous avec un peu d'aide."
+    },
+    "Subjonctif Passé": {
+      "je": "Ma mère est touchée que je me sois souvenu de son anniversaire.",
+      "tu": "C'est gentil que tu te sois souvenu de moi.",
+      "il": "Je suis surpris qu'il se soit souvenu de la date.",
+      "nous": "Bien que nous nous soyons souvenus du code, la porte est restée fermée.",
+      "vous": "Je suis content que vous vous soyez souvenus de nous.",
+      "ils": "C'est incroyable qu'ils se soient souvenus de tout."
+    },
+    "Futur Proche": {
+      "je": "Je vais me souvenir de ce moment.",
+      "tu": "Tu vas te souvenir de cette leçon.",
+      "il": "Il va se souvenir de toi.",
+      "nous": "Nous allons nous souvenir de ce voyage.",
+      "vous": "Vous allez vous souvenir de cette soirée.",
+      "ils": "Ils vont se souvenir de ce match."
+    },
+    "Impératif": {
+      "tu": "Souviens-toi de ce que je t'ai dit.",
+      "nous": "Souvenons-nous de ceux qui nous ont aidés.",
+      "vous": "Souvenez-vous de fermer la porte à clé."
+    }
+  }
+}

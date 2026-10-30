@@ -1,0 +1,106 @@
+{
+  "verb": "continuer",
+  "tenses": {
+    "Présent": {
+      "je": "Je continue mes études à Montréal.",
+      "tu": "Tu continues le piano cette année ?",
+      "il": "Il continue de travailler malgré la fatigue.",
+      "nous": "Nous continuons la visite après le déjeuner.",
+      "vous": "Vous continuez tout droit jusqu'au feu.",
+      "ils": "Ils continuent à se voir chaque semaine."
+    },
+    "Imparfait": {
+      "je": "Je continuais à lire malgré l'heure.",
+      "tu": "Tu continuais de parler pendant le film.",
+      "il": "Il continuait à pleuvoir.",
+      "nous": "Nous continuions la route malgré la neige.",
+      "vous": "Vous continuiez le sport à cette époque ?",
+      "ils": "Ils continuaient de jouer sous la pluie."
+    },
+    "Futur Simple": {
+      "je": "Je continuerai demain.",
+      "tu": "Tu continueras tes efforts.",
+      "il": "Il continuera ses études à l'étranger.",
+      "nous": "Nous continuerons la discussion après la pause.",
+      "vous": "Vous continuerez jusqu'au deuxième feu.",
+      "ils": "Ils continueront le voyage en train."
+    },
+    "Conditionnel Présent": {
+      "je": "Je continuerais avec plus d'énergie.",
+      "tu": "Tu continuerais à ma place ?",
+      "il": "Il continuerait le projet avec plus de budget.",
+      "nous": "Nous continuerions la randonnée sans la pluie.",
+      "vous": "Vous continueriez la lecture, s'il vous plaît ?",
+      "ils": "Ils continueraient à jouer toute la nuit."
+    },
+    "Subjonctif": {
+      "je": "Mon coach veut que je continue l'entraînement.",
+      "tu": "J'aimerais que tu continues le dessin.",
+      "il": "Il faut qu'il continue ses efforts.",
+      "nous": "Il est important que nous continuions ce projet.",
+      "vous": "Je souhaite que vous continuiez à nous soutenir.",
+      "ils": "Il faut qu'ils continuent à travailler."
+    },
+    "Passé Simple": {
+      "je": "Je continuai ma route vers le nord.",
+      "tu": "Tu continuas le combat jusqu'à l'aube.",
+      "il": "Il continua son chemin sans se retourner.",
+      "nous": "Nous continuâmes la marche toute la nuit.",
+      "vous": "Vous continuâtes l'œuvre de votre père.",
+      "ils": "Ils continuèrent à creuser."
+    },
+    "Passé Composé": {
+      "je": "J'ai continué mes cours d'espagnol.",
+      "tu": "Tu as continué la série ?",
+      "il": "Il a continué à travailler après sa retraite.",
+      "nous": "Nous avons continué la soirée chez Marc.",
+      "vous": "Vous avez continué le yoga ?",
+      "ils": "Ils ont continué le voyage sans nous."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais continué à courir malgré la douleur.",
+      "tu": "Tu avais continué tes études après le bac ?",
+      "il": "Il avait continué de chanter jusqu'à quatre-vingts ans.",
+      "nous": "Nous avions continué la route jusqu'à Rome.",
+      "vous": "Vous aviez continué la danse ?",
+      "ils": "Ils avaient continué à jouer après la pluie."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai continué ce projet pendant trois ans.",
+      "tu": "Tu auras continué jusqu'au bout.",
+      "il": "Il aura continué de travailler toute sa vie.",
+      "nous": "Nous aurons continué la tradition familiale.",
+      "vous": "Vous aurez continué malgré les difficultés.",
+      "ils": "Ils auront continué à se battre."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais continué avec plus de temps.",
+      "tu": "Tu aurais continué à ma place ?",
+      "il": "Il aurait continué ses études avec une bourse.",
+      "nous": "Nous aurions continué la balade sans l'orage.",
+      "vous": "Vous auriez continué le match ?",
+      "ils": "Ils auraient continué sans cette blessure."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon prof est content que j'aie continué le latin.",
+      "tu": "C'est bien que tu aies continué le sport.",
+      "il": "Je suis surpris qu'il ait continué malgré tout.",
+      "nous": "Bien que nous ayons continué tout droit, nous nous sommes perdus.",
+      "vous": "Je suis ravi que vous ayez continué ce projet.",
+      "ils": "C'est courageux qu'ils aient continué la course."
+    },
+    "Futur Proche": {
+      "je": "Je vais continuer mes études.",
+      "tu": "Tu vas continuer le piano ?",
+      "il": "Il va continuer à travailler.",
+      "nous": "Nous allons continuer demain.",
+      "vous": "Vous allez continuer tout droit.",
+      "ils": "Ils vont continuer la tradition."
+    },
+    "Impératif": {
+      "tu": "Continue comme ça, c'est très bien !",
+      "nous": "Continuons la discussion demain.",
+      "vous": "Continuez tout droit jusqu'à la gare."
+    }
+  }
+}

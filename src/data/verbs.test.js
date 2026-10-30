@@ -41,6 +41,11 @@ describe('verbs.fr.json', () => {
     expect(verb('appeler').tenses['Impératif']).toBeDefined()
   })
 
+  it('keeps the participle of se rappeler invariable', () => {
+    expect(verb('se rappeler').tenses['Passé Composé'][IL]).toEqual({ m: "il s'est rappelé", f: "elle s'est rappelé", neutral: "on s'est rappelé" })
+    expect(verb('se rappeler').tenses['Passé Composé']['1e personne du pluriel']).toBe('nous nous sommes rappelé')
+  })
+
   it('only conjugates impersonal verbs with il', () => {
     const tenses = verb('falloir').tenses
     expect(tenses['Passé Composé']).toEqual({ [IL]: 'il a fallu' })

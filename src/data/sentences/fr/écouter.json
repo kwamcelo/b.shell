@@ -1,0 +1,106 @@
+{
+  "verb": "écouter",
+  "tenses": {
+    "Présent": {
+      "je": "J'écoute la radio en conduisant.",
+      "tu": "Tu écoutes quoi comme musique ?",
+      "il": "Il écoute des podcasts dans le métro.",
+      "nous": "Nous écoutons le prof avec attention.",
+      "vous": "Vous écoutez du jazz ?",
+      "ils": "Ils écoutent les infos tous les matins."
+    },
+    "Imparfait": {
+      "je": "J'écoutais des disques de mon père.",
+      "tu": "Tu écoutais quoi quand tu étais ado ?",
+      "il": "Il écoutait la pluie tomber.",
+      "nous": "Nous écoutions les histoires de notre grand-père.",
+      "vous": "Vous écoutiez la radio pendant le dîner ?",
+      "ils": "Ils écoutaient de la musique très fort."
+    },
+    "Futur Simple": {
+      "je": "J'écouterai ton album ce soir.",
+      "tu": "Tu écouteras les conseils de ton père.",
+      "il": "Il écoutera le match à la radio.",
+      "nous": "Nous écouterons le concert depuis le jardin.",
+      "vous": "Vous écouterez le message en rentrant.",
+      "ils": "Ils écouteront la conférence en ligne."
+    },
+    "Conditionnel Présent": {
+      "je": "J'écouterais bien un peu de musique.",
+      "tu": "Tu écouterais mon nouveau morceau ?",
+      "il": "Il écouterait plus en classe avec moins de bruit.",
+      "nous": "Nous écouterions volontiers votre avis.",
+      "vous": "Vous écouteriez ce message, s'il vous plaît ?",
+      "ils": "Ils écouteraient le prof avec un sujet plus intéressant."
+    },
+    "Subjonctif": {
+      "je": "Tu veux que j'écoute ta chanson ?",
+      "tu": "Il faut que tu écoutes ce podcast.",
+      "il": "J'aimerais qu'il écoute plus en classe.",
+      "nous": "Il est important que nous écoutions les autres.",
+      "vous": "Je veux que vous écoutiez attentivement.",
+      "ils": "Il faut qu'ils écoutent les consignes."
+    },
+    "Passé Simple": {
+      "je": "J'écoutai le vent dans les arbres.",
+      "tu": "Tu écoutas son histoire sans un mot.",
+      "il": "Il écouta la confession du prisonnier.",
+      "nous": "Nous écoutâmes le récit du voyageur.",
+      "vous": "Vous écoutâtes le conseil du sage.",
+      "ils": "Ils écoutèrent la musique jusqu'à l'aube."
+    },
+    "Passé Composé": {
+      "je": "J'ai écouté ce podcast deux fois.",
+      "tu": "Tu as écouté mon message ?",
+      "il": "Il a écouté le discours à la radio.",
+      "nous": "Nous avons écouté un concert magnifique.",
+      "vous": "Vous avez écouté le dernier album de ce groupe ?",
+      "ils": "Ils ont écouté les conseils du médecin."
+    },
+    "Plus-que-parfait": {
+      "je": "J'avais écouté cette chanson en boucle.",
+      "tu": "Tu avais écouté la météo ?",
+      "il": "Il avait écouté tous les témoins.",
+      "nous": "Nous avions écouté ses conseils.",
+      "vous": "Vous aviez écouté la conférence ?",
+      "ils": "Ils avaient écouté le match dans la voiture."
+    },
+    "Futur Antérieur": {
+      "je": "J'aurai écouté tous ses albums avant le concert.",
+      "tu": "Tu auras écouté tout le monde avant de décider.",
+      "il": "Il aura écouté nos remarques.",
+      "nous": "Nous aurons écouté toutes les opinions.",
+      "vous": "Vous aurez écouté le discours en entier.",
+      "ils": "Ils auront écouté la radio toute la nuit."
+    },
+    "Conditionnel Passé": {
+      "je": "J'aurais écouté tes conseils avec plus de sagesse.",
+      "tu": "Tu aurais écouté ce chanteur, quelle voix !",
+      "il": "Il aurait écouté le prof avec moins de fatigue.",
+      "nous": "Nous aurions écouté le concert avec de meilleures places.",
+      "vous": "Vous auriez écouté à ma place ?",
+      "ils": "Ils auraient écouté le guide avec plus d'attention."
+    },
+    "Subjonctif Passé": {
+      "je": "Mon père est content que j'aie écouté ses conseils.",
+      "tu": "C'est bien que tu aies écouté le médecin.",
+      "il": "Je doute qu'il ait écouté la consigne.",
+      "nous": "Bien que nous ayons écouté le guide, nous nous sommes perdus.",
+      "vous": "Je suis content que vous ayez écouté mon album.",
+      "ils": "C'est dommage qu'ils aient écouté cette rumeur."
+    },
+    "Futur Proche": {
+      "je": "Je vais écouter ce nouveau podcast.",
+      "tu": "Tu vas écouter le concert à la radio ?",
+      "il": "Il va écouter l'avis du médecin.",
+      "nous": "Nous allons écouter le discours.",
+      "vous": "Vous allez écouter attentivement.",
+      "ils": "Ils vont écouter la conférence."
+    },
+    "Impératif": {
+      "tu": "Écoute bien, c'est important.",
+      "nous": "Écoutons ce qu'elle a à dire.",
+      "vous": "Écoutez la question avant de répondre."
+    }
+  }
+}
